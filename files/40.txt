@@ -1,0 +1,2458 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ LaMGnfVMSVyOjWfH6NpTo5/2qV2Lm2vQ5154DmlB03XohuDknInsxgQ/XoEaaYIg
+ 8JwyKALZ4qCN8g5Kc/SdMg==
+
+<IMS-DOCUMENT>0000004911-94-000016.txt : 19940523
+<IMS-HEADER>0000004911-94-000016.hdr.sgml : 19940523
+ACCESSION NUMBER:		0000004911-94-000016
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940225
+FILED AS OF DATE:		19940518
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000004911
+		STANDARD INDUSTRIAL CLASSIFICATION:	3812
+		IRS NUMBER:				231353403
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0226
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00230
+		FILM NUMBER:		94529234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		305 RICHARDSON RD
+		CITY:			LANSDALE
+		STATE:			PA
+		ZIP:			19446
+		BUSINESS PHONE:		2158222929
+
+	MAIL ADDRESS:	
+		STREET 1:		305 RICHARDSON ROAD
+		CITY:			LANSDALE
+		STATE:			PA
+		ZIP:			19446
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN ELECTRONIC LABORATORIES INC
+		DATE OF NAME CHANGE:	19761019
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>BASIC DOCUMENT
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                   FORM 10-K
+
+                 Annual Report Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+For the Fiscal Year Ended February 25, 1994  Commission file number 0-230
+
+
+                              AEL INDUSTRIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+Pennsylvania                                      23-1353403
+(State or other jurisdiction of                   (IRS Employer
+                                                  Identification No.)
+incorporation or organization)
+
+                    305 Richardson Road, Lansdale, PA  19446
+               (Address of principal executive offices/Zip Code)
+
+       (Registrant's telephone number, including area code) (215) 822-2929
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                      NONE
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                Class A common stock Par Value $1.00 (nonvoting)
+
+                 Class B common stock Par Value $1.00 (voting)
+
+     Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the Registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+YES  /X/  NO /   /
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.   /X/<PAGE>
+
+State the aggregate market value of the voting stock held by non-affiliates
+of the registrant.  $769,451
+
+
+     Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date. (May 2, 1994)
+
+                    Class A common stock, par value $1.00 - 3,336,292 
+
+                    Class B common stock, par value $1.00 -   434,717
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+       The following documents are incorporated by reference into the Part
+of the Form 10-K specified herein:  (1) Annual Report to Shareholders for
+fiscal year 1994 furnished to the Commission pursuant to Rule 14a-3(b)
+under the Securities Exchange Act of 1934 (but only to the extent set forth
+in Parts I and II of this Annual Report); (2) Proxy Statement dated May 18,
+1994 for the 1994 Annual Meeting of Shareholders filed with the Securities
+and Exchange Commission pursuant to Regulation 14A under the Securities
+Exchange Act of 1934 (but only to the extent set forth in Part III of this
+Annual Report).<PAGE>
+
+                                     PART I
+ITEM 1.  BUSINESS
+
+     AEL Industries, Inc. (the "Company" or "AEL") is principally engaged
+in the Electronic Defense Products and Services business.  This business
+consists primarily of the design and manufacture of electronic
+countermeasures systems, simulation systems, radar receivers, microwave
+integrated circuits and other electronic equipment, and avionics installa-
+tion and integration services for the United States and foreign governments
+and their suppliers.  The Company also provides other services such as
+calibration, product testing and technical publication.  
+
+     Incorporated in 1950 under the name American Electronic Laboratories,
+Inc., the Company became a holding company and adopted its present name in
+1976.  During fiscal year 1992 the Company consolidated all of its domestic
+operations into AEL Defense Corp., a wholly-owned subsidiary.  On February
+26, 1994 AEL Defense Corp. was merged into the Company.  The Company's
+registered office and principal administrative and executive offices are
+located at 305 Richardson Road, Lansdale, Pennsylvania 19446, approximately
+28 miles north of Philadelphia, and the telephone number is 215-822-2929.  
+
+                    Electronic Defense Products and Services
+
+Products and Services
+
+     The Electronic Defense Products and Services business consists
+primarily of the design, manufacture and servicing of products sold to U.S.
+Government agencies and their suppliers.  The Company also sells products
+to foreign governments and their suppliers.  Please refer to Note 10 of the
+Notes to Consolidated Financial Statements for fiscal year 1994 for
+industry segment information.
+
+     Revenues from aircraft avionics installation and integration programs
+(including the ANVIS/HUD and QF-106 programs) were approximately 33%, 29%
+and 34% of the Company's consolidated sales and service revenues in fiscal
+years 1994, 1993 and 1992, respectively.  Avionics installation and
+integration programs for fixed and rotary wing aircraft are of continued
+significance to the Company.  Through these programs the Company has
+installed electronic systems in a wide variety of aircraft.
+
+     Another significant product group is electronic countermeasures
+systems, which accounted for 22%, 24% and 16% of the Company's consolidated
+sales and service revenues in fiscal years 1994, 1993 and 1992,
+respectively.  These systems include the Army's TACJAM-A program which
+accounted for 5% of consolidated revenues in fiscal year 1994, 11% in
+fiscal year 1993 and 4% in fiscal year 1992, and a naval electronics
+warfare system ordered by a foreign customer which accounted for 6% of
+consolidated revenues in fiscal year 1994, 5% in fiscal year 1993 and 11%
+in fiscal year 1992.
+
+     Sales of radar warning receivers (including the AN/ALR-67, AN/APR-39A
+and SANTA) accounted for 10%, 8% and 7% of the Company's consolidated sales
+and service revenues in fiscal years 1994, 1993 and 1992, respectively.
+
+     Jamming simulator programs (including the AN/MLQ-T4, AN/FSQ-T22 and
+Embedded Radar Environment Simulators), accounted for 11%, 10% and 18% of
+the Company's consolidated sales and service revenues in fiscal years 1994,
+1993 and 1992, respectively.
+
+     In the manufacture of its products, the Company uses raw materials
+which generally are readily available from several sources.  The Company
+owns various registered trademarks.  The Company relies principally upon
+engineering and marketing skills to maintain and enhance its competitive
+position in the electronic defense markets.  Although most of the Company's
+business is not dependent upon patent or similar protection, the Company's
+research and development efforts have yielded patents in certain areas of
+technology.
+
+     The U.S. Government is a customer of particular significance to the
+Electronic Defense Products and Services business.  Sales directly to the
+U.S. Government comprised approximately 47%, 47% and 53% of the Company's
+consolidated sales and service revenues in fiscal years 1994, 1993 and
+1992, respectively.  The majority of additional domestic revenues are
+attributable to contracts with suppliers to the U.S. Government.  Contracts
+awarded to the Company by the U.S. Government and its suppliers are
+generally complex and occasionally require significant technological
+advances.  The loss of direct U.S. Government business would have a
+material adverse effect on the operations of this business and the Company. 
+Any major curtailment in Government spending or appropriations for
+electronic defense products and services could also materially and
+adversely affect the Company's operations by reducing the Company's
+opportunities to contract with other U.S. Government suppliers.
+
+     Approximately three-quarters of the Company's domestic revenues in
+fiscal year 1994 were derived from contracts awarded on a fixed-price
+basis, which obligate the Company to deliver equipment or perform services
+at a fixed price without regard to the cost incurred.  Fixed-price
+contracts with the U.S. Government and suppliers to the U.S. Government
+frequently include a progress payment or milestone payment clause, which
+provides for payment to the Company of a significant portion of the costs
+of performing a contract as they are incurred.  The remaining one-quarter
+of domestic revenues arose from contracts awarded on a cost-plus or time-
+and-material basis, under which the Company is reimbursed for the cost of
+performance (plus a fee or profit) up to a negotiated ceiling amount. 
+Contracts with the U.S. Government and suppliers to the U.S. Government
+generally provide for termination at any time for the convenience of the
+Government, and upon such termination a contractor is entitled to receive
+payment for the work performed plus a pro rata portion of the profit it
+would have earned but for the termination.
+
+Competition
+
+     A considerable number of companies are engaged in the sale of
+electronic defense products and services.  Competition has significantly
+increased over the last few years as a result of decreased Government
+spending and appropriations.  Overall, there are fewer programs (especially
+start-ups) on which to bid and, therefore, the Company faces greater
+competition in its traditional product areas.  In response to competitive
+pressures, the Company sometimes agrees to invest its own funds in the
+performance of a program to enhance the likelihood of receiving a contract
+award.  Competitors of the Company include large diversified corporations
+and smaller, highly specialized firms.  The Company's competitive position
+ultimately depends on its technical expertise and the price and quality of
+its products and services.  Because of the variety of its activities, it is
+impossible to state precisely the competitive position of the Company with
+respect to each of its product groups.  The Company does not have dominance
+in the markets for its products.
+
+Marketing
+
+     The products and services of this business are marketed primarily in
+the United States to the U.S. Government and its suppliers.  The Company
+also markets its products overseas through its AEL Systems International
+Division.  Sales are made on the basis of competitive bids or negotiated
+contracts, primarily through direct contact between the Company's technical
+and marketing employees and the technical and purchasing representatives of
+its customers.  The Company also generates sales through the use of trade
+and catalog advertising.
+
+Backlog
+
+     The backlog of firm orders was $121,478,000 at February 25, 1994 and
+$156,306,000 at February 26, 1993.  Approximately 12% of the backlog at
+February 25, 1994 was firm but unfunded.  Approximately 50% of the total
+backlog consisted of orders from the U.S. Government and 22% from foreign
+customers.  As of February 25, 1994, approximately 29% of the backlog
+consisted of orders for electronic countermeasures systems including 12%
+for TACJAM-A and 11% for an order from a foreign government; 7%, orders for
+jamming simulators; 35%, orders for avionics installation/integration
+programs, including 17% for ANVIS/HUD; and 19%, orders for radar warning
+receivers, including 18% for AN/APR-39A.  Approximately 70% of the total
+backlog is expected to be completed in fiscal year 1995.  
+<PAGE>
+                           Other Business Information
+
+Research and Development
+
+     During fiscal years 1994, 1993 and 1992 the Company expended
+approximately $2,162,000, $2,501,000 and $1,742,000, respectively, on
+Company-sponsored research and development.  In addition, there were
+expenditures for customer-sponsored research and development which are not
+readily identifiable since many contracts awarded to the Company have R&D
+effort commingled with production effort.  In customer-sponsored research
+and development contracts, the proprietary rights to the development belong
+to the customer; however, the Company generally obtains technical know-how
+which it may be able to apply in other fields.  
+
+     Fluctuations in company-sponsored R&D result from changes in the
+allocation of available cash and technical resources, including personnel. 
+Company-sponsored R&D may lead to innovations which are attractive to
+potential customers and which may then be adapted to the customer's needs
+and incorporated into systems.  The Company's R&D focus is to create
+technological and bidding advantages in major new system programs.
+     
+     As a result of its research and development efforts, the Company may
+become one of a small number of suppliers of the items developed, which may
+result in the award of production contracts to the Company.  The Company is
+significantly involved in the field of advanced electronics which entails a
+high degree of technological obsolescence resulting from the rapid
+advancements made both by the Company and others within the industry.  It
+is therefore extremely difficult to measure the useful life of any specific
+product or service at the time of development.
+
+Employees
+
+     At April 29, 1994 the Company had 1162 employees, 332 of whom are
+engineers.  The Company believes its relations with employees are generally
+satisfactory.  The Company's employees are not covered by collective
+bargaining agreements.
+
+Foreign Sales
+
+     The Company has no foreign operations.  However, foreign sales
+accounted for approximately 13%, 10% and 15% of consolidated sales and
+service revenues in fiscal years 1994, 1993 and 1992, respectively.  All
+sales of military products to foreign customers must be approved by the
+U.S. Government; such approvals are subject to revocation and may be
+adversely affected by changes in U.S. Government export policy.  There
+exist certain risks inherent in foreign transactions which may not be
+present in domestic transactions, including currency fluctuations, changes
+in foreign government policies, differences in international laws and
+difficulties in negotiating and litigating with foreign entities.  The
+Company has taken reasonable measures to reduce such risks by requiring in
+appropriate cases payment in U.S. currency, letters of credit, advanced
+deposits, and by retaining title to goods delivered until payment.
+
+Environmental Matters - See Item 3 of this report.
+
+ITEM 2.  PROPERTIES
+
+     As of May 6, 1994, the Company owned or leased a total of
+approximately 750,000 square feet of office and plant space with main
+facilities in Pennsylvania, Illinois, Georgia, Virginia, New Jersey and
+Ohio.  The Company owns most of these facilities.  The operations of the
+Electronic Defense Products and Services business are carried on at all of
+the Company's main facilities.  In order to consolidate its Pennsylvania
+operations, approximately 50,000 square feet were added to the Company's
+headquarters facility in fiscal year 1994.  No discussion of productive
+capacity and extent of utilization is provided because the Company is not
+involved in a traditional manufacturing business.  Its products are
+principally custom designed and sold in small quantities.  The present
+facilities are considered to be suitable, adequate, and well-equipped for
+the Company's operations.  
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company has provided documents relating to the AN/MLQ-T4 Ground
+Jammer program to the Department of Defense pursuant to a subpoena issued
+by its Inspector General in September 1992.   At this time the Company
+cannot determine when the Government will complete its investigation or
+whether it will seek remedies in connection with this investigation.  
+
+     In March 1989 the United States Environmental Protection Agency
+("EPA") placed a site that includes the Company's Richardson Road property
+on the National Priorities List for detailed study and cleanup of alleged
+environmental contamination.  A revised Remedial Investigation/Feasibility
+Study Work Plan, written under the direction of the Company and other
+potentially responsible parties and under the overall guidance of the EPA,
+was submitted to the EPA in September 1993.  The Company continues to
+cooperate with the EPA in the study of this site.  The cost of performing
+the Study defined in the Plan and the eventual remediation, if required, is
+not expected to have a material adverse impact on the Company's financial
+position.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There were no matters submitted to a vote of security holders during
+the fourth quarter ended February 25, 1994.<PAGE>
+
+                     EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+     The following table sets forth information concerning the executive
+officers of the Company.  Officers serve at the discretion of the Board of
+Directors.
+
+
+Name                Age                 Position
+
+Dr. Leon Riebman    74             Chairman of the Board, President
+                                        and Chief Executive Officer 
+
+George King         56             Executive Vice President and Chief
+                                        Financial Officer
+
+
+  Dr. Riebman is a founder of the Company and has served as a director and
+Chief Executive Officer since the Company's organization in 1950, and as
+Chairman of the Board of Directors since 1987.  In 1993 he reassumed the
+role of President, a position he had held from 1950 to 1983.  Dr. Riebman
+is also a director of Ampal Corp. (New York, NY) and Bank & Trust Co. of
+Old York Road (Willow Grove, PA).
+
+  Mr. King joined the Company as Vice President in 1975 and was named
+Senior Vice President in 1985 and Executive Vice President in 1992.<PAGE>
+
+                                    PART II
+
+ITEM 5.          MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+                              STOCKHOLDER MATTERS
+
+  The Class A common stock of the Company is traded in the over-the-counter
+market and is listed in the National Market System maintained by the
+National Association of Securities Dealers under the symbol AELNA.  The
+Class B common stock trades only sporadically in the over-the-counter
+market, which does not constitute an established public trading market.  On
+May 2, 1994 there were 1546 record holders of Class A common stock and 85
+record holders of Class B common stock.  The following table sets forth for
+the periods shown the high and low closing prices for the Company's Class A
+common stock as furnished by NASDAQ.
+
+Fiscal Year                                    High           Low
+
+1993
+
+  First Quarter..................              8-1/4          7                 
+  Second Quarter.................              8-1/2          5-3/8
+  Third Quarter..................              7-1/2          5-1/2
+  Fourth Quarter.................              7              5-3/4
+
+1994
+
+  First Quarter..................              7-1/4          5-3/4
+  Second Quarter.................              7-1/4          5         
+  Third Quarter..................              8-1/4          6-1/2
+  Fourth Quarter.................              10-1/4         7-1/4
+
+
+  The Company has never paid, and there are no present plans to pay, a cash
+dividend on its common stock.  Future dividend policy will be determined by
+the Board of Directors in light of the prevailing financial needs and
+earnings of the Company and other relevant factors.  
+
+ITEM 6.   SELECTED FINANCIAL DATA
+  
+  The information appearing under the caption "Selected Financial Data"
+contained in the Company's Annual Report to Shareholders for fiscal year
+1994 is incorporated herein by reference.
+  
+
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                      CONDITION AND RESULTS OF OPERATIONS
+
+  The information appearing under the caption "Management's Discussion and
+Analysis of Results of Operations and Financial Condition" contained in the
+Company's Annual Report to Shareholders for fiscal year 1994 is incorpor-
+ated herein by reference.
+
+<PAGE>
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+  The information listed below appears in the Company's Annual Report to
+Shareholders for fiscal year 1994 and is incorporated herein by reference.
+
+  Report of Independent Auditors
+
+  Consolidated Balance Sheets at February 25, 1994 and February 26, 1993
+
+  Consolidated Statements of Operations for the three years ended February
+  25, 1994
+
+  Consolidated Statements of Cash Flows for the three years ended February
+  25, 1994
+
+  Consolidated Statements of Shareholders' Equity for the three years ended
+  February 25, 1994
+
+  Notes to Consolidated Financial Statements
+
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                      ACCOUNTING AND FINANCIAL DISCLOSURE
+
+           None.<PAGE>
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+  The information under the caption "Election of Directors" contained in
+the Company's Proxy Statement for the 1994 Annual Meeting of Shareholders
+is incorporated herein by reference.  
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+  The information under the caption "Executive Compensation" contained in
+the Company's Proxy Statement for the 1994 Annual Meeting of Shareholders
+is incorporated herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+            MANAGEMENT.
+
+  The information under the caption "Security Ownership of Certain
+Beneficial Owners and Management" contained in the Company's Proxy
+Statement for the 1994 Annual Meeting of Shareholders is incorporated
+herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+  No reportable transactions.<PAGE>
+
+                                    PART IV
+
+ITEM 14.         EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND                 
+                      REPORTS ON FORM 8-K.
+
+  (a)  List of documents filed as part of this report.
+
+       1.  Financial statements
+
+            a.   The financial statements of the Company
+                 set forth under Item 8 of this report.
+
+            b.   The financial statement schedules listed in the
+                 accompanying index to financial statement schedules.
+
+       2.   Exhibits
+
+            The exhibits listed in the accompanying index to exhibits are
+            filed as part of this annual report.  EXHIBITS 10A THROUGH 10K
+            IN THE ACCOMPANYING INDEX TO EXHIBITS, LISTING THE COMPANY'S
+            EXECUTIVE COMPENSATION PLANS AND ARRANGEMENTS ARE FILED
+            PURSUANT TO ITEM 14(C) OF THIS REPORT.
+
+  (b)  Reports on Form 8-K
+
+            No reports on Form 8-K were filed during the fourth quarter of
+fiscal year 1994. <PAGE>
+ 
+                                AEL INDUSTRIES, INC.
+                      INDEX TO FINANCIAL STATEMENT SCHEDULES    
+                                    (Item 14)
+
+
+Schedule V - Property, plant and equipment for the
+     three years ended February 25, 1994
+
+Schedule VI - Accumulated depreciation, depletion and
+     amortization of property, plant and equipment for
+     the three years ended February 25, 1994
+
+Schedule VIII - Valuation and qualifying accounts for
+     the three years ended February 25, 1994
+
+Schedule IX - Short-term borrowings for the three years
+     ended February 25, 1994
+
+
+
+All other schedules are omitted since the required information is not present
+or is not present in amounts sufficient to require submission of the 
+schedule, or because the information required is included in the financial
+statements and notes thereto.
+
+
+
+
+
+
+
+
+
+
+                                           AEL INDUSTRIES, INC.
+                            SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                            FOR THE THREE YEARS ENDED FEBRUARY 25, 1994
+                                           (Dollars in Thousands)
+<TABLE>
+<CAPTION>
+                                              Balance    Additions
+                                                at          and        Sales      Balance
+                                             beginning   transfers      and       at end
+Description                                  of period    at cost    Retirements of period
+- - ------------------                           ---------   ---------   ---------   ---------
+<S>                                          <C>         <C>         <C>         <C>
+February 28, 1992:
+  Land. . . . . . . . . . . . . . . . . . . .  $1,875                              $1,875
+  Buildings and improvements . . .             33,157        $672                  33,829
+  Machinery, equipment and tools               32,790       2,812        $547      35,055
+  Office furniture and equipment. .             9,983       2,508         461      12,030
+  Construction in progress. . . . . . .           526        (394)                    132
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $78,331      $5,598      $1,008     $82,921
+                                             =========   =========   =========   =========
+
+February 26, 1993:
+  Land. . . . . . . . . . . . . . . . . . . .  $1,875         $11                  $1,886
+  Buildings and improvements . . .             33,829       1,492                  35,321
+  Machinery, equipment and tools               35,055       2,656        $959      36,752
+  Office furniture and equipment. .            12,030       2,115          91      14,054
+  Construction in progress. . . . . . .           132       2,420                   2,552
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $82,921      $8,694      $1,050     $90,565
+                                             =========   =========   =========   =========
+
+
+February 25, 1994:
+  Land. . . . . . . . . . . . . . . . . . . .  $1,886         $11                  $1,897
+  Buildings and improvements . . .             35,321       4,935                  40,256
+  Machinery, equipment and tools               36,752       2,628         $53      39,327
+  Office furniture and equipment. .            14,054       1,364         200      15,218
+  Construction in progress. . . . . . .         2,552      (2,552)               
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $90,565      $6,386        $253     $96,698
+                                             =========   =========   =========   =========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+                                              AEL INDUSTRIES, INC.
+                             SCHEDULE VI - ACCUMULATED DEPRECIATION, DEPLETION
+                               AND AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                                FOR THE THREE YEARS ENDED FEBRUARY 25, 1994
+                                            (Dollars in Thousands)
+<TABLE>
+<CAPTION>
+                                              Balance    Additions
+                                                at       charged to    Sales     Balance at
+                                             beginning   costs and      and       end of
+Description                                  of period   expenses    Retirements  period
+- - -----------------                            ---------   ---------   ---------   ---------
+<S>                                          <C>         <C>         <C>         <C>
+February 28, 1992:
+  Buildings and improvements . . .             $8,431      $1,495                  $9,926
+  Machinery, equipment and tools               20,636       3,177        $561      23,252
+  Office furniture and equipment . .            5,779       1,620         321       7,078
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $34,846      $6,292        $882     $40,256
+                                             =========   =========   =========   =========
+
+February 26, 1993:
+  Buildings and improvements . . .             $9,926      $1,597                 $11,523
+  Machinery, equipment and tools               23,252       3,289        $818      25,723
+  Office furniture and equipment . .            7,078       1,848          84       8,842
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $40,256      $6,734        $902     $46,088
+                                             =========   =========   =========   =========
+
+February 25, 1994:
+  Buildings and improvements . . .            $11,523      $1,590                 $13,113
+  Machinery, equipment and tools               25,723       3,098         $39      28,782
+  Office furniture and equipment . .            8,842       1,831         193      10,480
+                                             ---------   ---------   ---------   ---------
+            Total. . . . . . . . . . . . . .  $46,088      $6,519        $232     $52,375
+                                             =========   =========   =========   =========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           AEL INDUSTRIES, INC.
+                             SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                             FOR THE THREE YEARS ENDED FEBRUARY 25, 1994
+                                           (Dollars in Thousands)
+<TABLE>
+<CAPTION>
+                                                    Balance at   Charged                Balance at
+                                                    beginning   to costs &               end of
+Description                                         of period   expenses    Deductions   period
+- - -----------------                                   ---------   ---------   ---------   ---------
+<S>                                                 <C>         <C>         <C>         <C>
+February 28, 1992:
+
+   Allowance for contract losses                     $13,333      $6,425     $12,187 (a)  $7,571
+                                                    =========   =========   =========   =========
+   Inventory allowance . . . . . . . .                $1,022        $400        $149 (b)  $1,273
+                                                    =========   =========   =========   =========
+   Allowance for bad debts . . . .                      $200         $20         $19 (c)    $201
+                                                    =========   =========   =========   =========
+
+
+February 26, 1993:
+
+   Allowance for contract losses                      $7,571      $6,494      $9,656 (a)  $4,409
+                                                    =========   =========   =========   =========
+   Inventory allowance . . . . . . . .                $1,273        $465        $714 (b)  $1,024
+                                                    =========   =========   =========   =========
+   Allowance for bad debts . . . .                      $201          $7          $7 (c)    $201
+                                                    =========   =========   =========   =========
+
+
+February 25, 1994:
+
+   Allowance for contract losses                      $4,409      $6,650      $7,195 (a)  $3,864
+                                                    =========   =========   =========   =========
+   Inventory allowance . . . . . . . .                $1,024        $245        $311 (b)    $958
+                                                    =========   =========   =========   =========
+   Allowance for bad debts . . . .                      $201          $9         $26 (c)    $184
+                                                    =========   =========   =========   =========
+</TABLE>
+
+
+___________________________________________
+
+(a) Deductions are a result of allowance usage over the 
+    terms of the related contracts.
+(b) Deductions are a result of physical disposal of inventory 
+    for which allowances were previously provided.
+(c) Deductions are a result of write-offs of uncollectible 
+    accounts receivable for which allowances were 
+    previously provided.
+
+
+                                 AEL INDUSTRIES, INC.
+                    SCHEDULE  IX  -  SHORT-TERM  BORROWINGS
+                   FOR THE THREE YEARS ENDED FEBRUARY 25, 1994
+                                (Dollars in Thousands)
+<TABLE>
+<CAPTION>
+
+                                                                                                 Weighted
+                                    Balance     Interest   Maximum amount    Average amount      average
+                                   at the end   Rate at end outstanding       outstanding      interest rate
+Category of Borrowing              of period    of period  during period     during period(2)  during period (3)
+- - --------------------------------   ---------    ---------  --------------    --------------    ------------
+<S>                                <C>          <C>        <C>               <C>               <C>
+February 28, 1992:
+Note payable to bank (1)                 $0          6.5%         $3,875              $912             8.6%
+
+
+
+February 26, 1993:
+Note payable to bank (1)                 $0          6.0%           $900                $7             6.2%
+
+
+
+February 25, 1994
+Note payable to bank (1)                 $0          6.0%             $0                $0             0.0%       
+</TABLE>
+
+
+
+
+________________________________________________
+
+(1)   Note payable to bank represents borrowings under a line of credit
+      agreement The agreement existing at February 25, 1994 expires
+      June 30, 1994 at which time it will be reviewed for renewal.
+(2)   The average amount outstanding during the period is computed by 
+      dividing the total daily outstanding principal balances by the total 
+      days in the fiscal year.
+(3)   The weighted average interest rate during the period was computed
+      by dividing the actual interest expense by the average short-term 
+      borrowings outstanding.
+
+
+
+
+
+
+
+
+
+   
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                              AEL INDUSTRIES, INC.
+Attest:
+
+                                   
+/s/John R. Cox                        By: /s/George King    
+John R. Cox                               George King, Executive Vice
+Secretary                                 President and Chief Financial
+                                          Officer
+          
+
+Date: May 18, 1994
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+     
+Signature                     Title                       Date
+
+(i)  Principal Executive 
+     Officer   
+
+/s/Leon Riebman               Chairman of the Board       May 18, 1994
+Leon Riebman
+
+(ii)  Principal Financial
+      Officer
+
+/s/George King                Executive Vice President    May 18, 1994
+George King                   and Chief Financial Officer 
+
+(iii)  Principal Accounting
+       Officer
+
+/s/John F. Sharkey            Vice President, Finance     May 18, 1994
+John F. Sharkey               
+
+
+
+
+
+Signature                          Title               Date
+
+(iv)  A Majority of the Board
+      of Directors
+
+
+/s/Francis J. Dunleavy             Director            May 18, 1994 
+Francis J. Dunleavy
+
+
+/s/Frederick R. Einsidler          Director            May 18, 1994  
+Frederick R. Einsidler
+
+
+/s/Conrad J. Fowler                Director            May 18, 1994  
+Conrad J. Fowler
+
+
+/s/Leeam Lowin                     Director            May 18, 1994  
+Leeam Lowin
+
+
+/s/Lloyd W. Moffit                 Director            May 18, 1994
+Lloyd W. Moffit
+
+/s/Claire E. Riebman               Director            May 18, 1994   
+Claire E. Riebman                
+
+
+/s/Leon Riebman                    Director            May 18, 1994  
+Leon Riebman
+
+                             <PAGE>
+INDEX TO EXHIBITS
+                  
+
+
+3A   Articles of Incorporation as amended and restated through April
+     2, 1993.  (Incorporated by reference to Exhibit 3A in the
+     Company's Form 10K Report for the fiscal year ended February 26,
+     1993)
+
+3B   Bylaws as amended through April 22, 1993.  (Incorporated by
+     reference to Exhibit 3B in the Company's Form 10-K Report for the
+     fiscal year ended February 26, 1993)                   
+     
+10A  Incentive Stock Option Plan effective January 1, 1992
+     (Incorporated by reference to Exhibit 10A in the Company's Form
+     10-K Report for the fiscal year ended February 28, 1992)
+ 
+10B  Nonqualified Stock Option Plan as amended through April 10, 1991 
+     (Incorporated by reference to Exhibit 10B in the Company's Form
+     10-K Report for the fiscal year ended February 22, 1991)     
+
+10C  AEL Bonus Plan for Senior Employees amended and restated as of
+     February 28, 1992 (Incorporated by reference to Exhibit 10C in
+     the Company's Form 10-K Report for the fiscal year ended February
+     28, 1992)
+
+10D  Stock Repurchase Agreement dated April 16, 1986 between AEL
+     Industries, Inc. and Leon Riebman (Incorporated by reference to
+     Exhibit 10G in the Company's Form 10-K Report for the fiscal year
+     ended February 28, 1986)
+
+10E  Employment and Retirement Agreement dated January 9, 1982 between
+     AEL Industries, Inc. and Leon Riebman (Incorporated by reference
+     to Exhibit 10A in the Company's Form 10-K Report for the fiscal
+     year ended February 26, 1982)
+
+10F  Amendment No. 1 dated November 14, 1991 to Employment and Retirement
+     Agreement dated January 9, 1982 between AEL Industries, Inc. and Leon
+     Riebman (Incorporated by reference to Exhibit 10F in the Company's
+     Form 10-K Report for the fiscal year ended February 28, 1992)
+
+10G  Employment and Retirement Agreement dated October 15, 1980
+     between AEL Industries, Inc. and Conrad J. Fowler (Incorporated
+     by reference to Company's S-1 Registration Statement No. 2-71264,
+     Amendment No. 2, dated May 15, 1981)
+                                                                      
+10H  Supplemental Benefits Agreement dated April 25, 1988, Between AEL
+     Industries, Inc. and Mark H. Ronald (Incorporated by reference to
+     Exhibit 10I in the Company's Form 10-K Report for the fiscal year
+     ended February 24, 1989)
+       
+10I  Change of Control, Nonqualified Stock Option and Supplemental Benefits
+     Agreements dated May 16, 1988, between AEL Industries, Inc. and George
+     King (Incorporated by reference to Exhibit 10I in the Company's Form
+     10-K Report for the fiscal year ended February 24, 1989)
+
+10J  Agreements between AEL Industries, Inc. and Senior Executives
+     dated as of August 1, 1993. 
+
+10K  Agreement between AEL Industries, Inc. and Teachers Insurance and
+     Annuity Association of America dated March 30, 1988 (Incorporated
+     by reference to Exhibit 10M in the Company's Form 10-K Report for
+     the fiscal year ended February 24, 1989)
+
+11   Statement re computation of per share earnings (or loss)            
+
+13   Portions of 1994 Annual Report to Shareholders specifically
+     incorporated by reference elsewhere in this report.
+
+22   List of Subsidiaries     
+          
+23   Consent of Ernst & Young
+
+
+
+
+
+
+
+
+
+ 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+                                                             EXHIBIT 11
+                               AEL INDUSTRIES, INC.
+                     COMPUTATION OF NET INCOME PER SHARE
+<TABLE>
+<CAPTION>
+                                                               Fiscal Year Ended
+                                                       1994           1993            1992
+                                                    ------------------------------------------
+<S>                                                 <C>            <C>            <C>
+Computation of number of shares for computation
+  of net income (loss) per share:
+
+Primary:
+
+  Average number of class A shares outstanding
+    during the year                                  3,314,000      3,435,000       3,446,000
+  Average number of class B shares outstanding
+    during the year                                    435,000        436,000         436,000
+  Incremental shares issuable on exercise of
+    stock options                                       31,000         30,000          10,000
+                                                    -----------    -----------    ------------
+  Total shares for computation of net income
+    per share                                        3,780,000      3,901,000       3,892,000
+                                                    ===========    ===========  
+ ============
+  Net income                                        $1,617,000       $484,000     $12,302,000
+                                                    ===========    ===========  
+ ============
+  Net income per share                                   $0.43          $0.12           $3.16
+                                                    ===========    ===========  
+ ============
+Fully diluted:
+
+  Average number of class A shares outstanding
+    during the year                                  3,314,000      3,435,000       3,446,000
+  Average number of class B shares outstanding
+    during the year                                    435,000        436,000         436,000
+  Incremental shares issuable on exercise of
+    stock options                                       63,000         31,000          44,000
+                                                    -----------    -----------    ------------
+  Total shares for computation of net income
+    per share assuming full dilution                 3,812,000      3,902,000       3,926,000
+                                                    ===========    ===========  
+ ============
+  Net income                                        $1,617,000       $484,000     $12,302,000
+                                                    ===========    ===========  
+ ============
+  Net income per share assuming full
+    dilution                                             $0.42          $0.12           $3.13
+                                                    ===========    ===========  
+ ============
+</TABLE>
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>ANNUAL RPT EXCERPTS
+<TEXT>
+
+
+
+AEL INDUSTRIES, INC.
+Selected Financial Data
+(Dollars in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+                                                                                 Fiscal Year Ended
+                                                            _________________________________________________________
+                                                            Feb. 25,    Feb. 26,    Feb. 28,    Feb. 22,    Feb. 23,
+                                                              1994        1993        1992        1991        1990
+                                                            _________   _________   _________   _________   _________
+<S>                                                         <C>         <C>         <C>         <C>         <C>
+Sales and service revenues                                  $123,632    $113,132    $140,112    $144,258    $121,159
+
+Operating income (loss)                                        3,742       2,143       5,323       6,621      (4,752)
+Interest expense                                              (1,719)     (2,418)     (3,272)     (3,809)     (4,503)
+Investment income                                                455         843         322         321         552
+Other expense, net of other income                              (167)       (318)       (644)       (425)       (689)
+Provision for claims settlement                                           (2,200)
+Gain on redemption of shares in foreign company                                       14,368
+                                                            _________   _________   _________   _________   _________
+                                                               2,311      (1,950)     16,097       2,708      (9,392)
+
+Income tax provision (benefit)                                   694         106       5,641         986        (405)
+                                                            _________   _________   _________   _________   _________
+Income (loss) before extraordinary credit and 
+  cumulative effect of change in accounting principle          1,617      (2,056)     10,456       1,722      (8,987)
+
+Extraordinary credit-benefit of net operating loss 
+  carryforward                                                                         1,846         852
+
+Cumulative effect of change in accounting for income 
+  taxes                                                                    2,540
+                                                            _________   _________   _________   _________   _________
+Net income (loss)                                             $1,617        $484     $12,302      $2,574     ($8,987)
+                                                            =========   =========   =========   =========   =========
+
+Earnings per share:
+   Income (loss) before extraordinary credit and 
+      cumulative effect of change in accounting principle      $0.43      ($0.52)      $2.69       $0.44      ($2.31)
+   Extraordinary credit-benefit of net operating loss 
+     carryforward                                                                       0.47        0.22
+   Cumulative effect of change in accounting for income 
+     taxes                                                                  0.64
+                                                            _________   _________   _________   _________   _________
+   Net income (loss)                                           $0.43       $0.12       $3.16       $0.66      ($2.31)
+                                                            =========   =========   =========   =========   =========
+
+Working capital                                              $29,241     $33,678     $42,517     $22,425     $18,607
+Total assets                                                 109,156     114,646     114,384     118,120     129,514
+Long-term debt                                                19,599      25,141      32,119      37,603      33,674
+Shareholders' equity                                          58,065      56,320      56,701      44,393      41,861
+Backlog                                                      121,478     156,306     127,417     187,265     211,238
+</TABLE>
+
+All fiscal years contain fifty-two weeks, except fiscal year 1992 which 
+contains fifty-three weeks.
+
+Note 8 of the consolidated financial statements describes legal matters and 
+   related uncertainties.  
+
+Fiscal year end backlogs included unfunded amounts as follows:
+   1994 - $14,747,000; 1993 - $16,039,000; 1992 - $4,370,000; 1991 - $23,915,000
+   ;and 1990 - $26,253,000.
+
+Operating results for the year ended February 23, 1990 include a contract 
+   investment provision of $8,000,000 associated with the AN/ALR-67 ASR
+   radar warning receiver program.
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Balance Sheets
+February 25, 1994 and February 26, 1993
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+Assets                                                                              1994        1993
+_____________________________________________________________________________________________________
+<S>                                                                             <C>         <C>
+Current assets:
+   Cash and equivalents                                                          $10,414      $4,168
+   Marketable securities                                                           1,428      12,123
+   Receivables, including unbilled amounts of $26,985 at February 25, 1994 and
+      $22,423 at February 26, 1993:
+         U.S. Government                                                          35,717      37,360
+         Other                                                                     4,202       2,277
+                                                                                _________   _________
+                                                                                  39,919      39,637
+
+   Inventories                                                                     4,375       3,634
+   Deferred income taxes                                                           2,646       3,646
+   Other current assets                                                              238       1,172
+                                                                                _________   _________
+         Total current assets                                                     59,020      64,380
+
+Property, plant and equipment, at cost:
+   Land                                                                            1,897       1,886
+   Buildings and improvements                                                     40,256      35,321
+   Machinery and equipment                                                        39,327      36,752
+   Office furniture and equipment                                                 15,218      14,054
+   Construction in progress                                                                    2,552
+                                                                                _________   _________
+                                                                                  96,698      90,565
+Less accumulated depreciation                                                     52,375      46,088
+                                                                                _________   _________
+          Net property, plant and equipment                                       44,323      44,477
+
+
+Other assets                                                                       5,813       5,789
+                                                                                _________   _________
+                                                                                $109,156    $114,646
+                                                                                =========   =========
+</TABLE>
+
+
+See accompanying notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+Liabilities and Shareholders' Equity                                                1994        1993
+_____________________________________________________________________________________________________
+<S>                                                                             <C>         <C>
+Current liabilities:
+   Accounts payable                                                               $4,795      $4,460
+   Accrued salaries, wages and employee benefits                                   5,811       5,995
+   Other current liabilities                                                      13,631      13,269
+   Current portion of long-term debt                                               5,542       6,978
+                                                                                _________   _________
+      Total current liabilties                                                    29,779      30,702
+
+Long-term debt, net of current portion                                            19,599      25,141
+
+Other liabilities                                                                  1,713       2,483
+
+Commitments and contingent liabilities-Note 8
+
+Shareholders' equity:
+   Class A common stock (non-voting), $1 par value; 20,000,000 shares authorized;
+      shares issued and outstanding, 1994- 3,333,000; 1993- 3,305,000              3,333       3,305
+   Class B common stock (voting), $1 par value; 600,000 shares authorized;
+      shares issued and outstanding, 1994- 435,000 ; 1993- 436,000                   435         436
+   Capital in excess of par value                                                  2,557       2,257
+   Retained earnings                                                              51,740      50,322
+                                                                                _________   _________
+      Total shareholders' equity                                                  58,065      56,320
+                                                                                _________   _________
+                                                                                $109,156    $114,646
+                                                                                =========   =========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Operations
+Three years ended February 25, 1994
+(Dollars in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+                                                                    1994         1993         1992
+                                                                 __________   __________   __________
+<S>                                                              <C>          <C>          <C>
+Sales and service revenues                                        $123,632     $113,132     $140,112
+
+Operating costs and expenses:
+   Cost of products and services                                    94,164       84,696      106,759
+   Administrative and selling expenses                              17,674       18,824       19,105
+   Bid and proposal costs                                            5,890        4,968        7,183
+   Research and development costs                                    2,162        2,501        1,742
+                                                                 __________   __________   __________
+                                                                   119,890      110,989      134,789
+                                                                 __________   __________   __________
+Operating income                                                     3,742        2,143        5,323
+                                                                 __________   __________   __________
+
+Interest expense                                                    (1,719)      (2,418)      (3,272)
+Investment income                                                      455          843          322
+Other expense, net of other income                                    (167)        (318)        (644)
+Provision for claims settlement                                                  (2,200)
+Gain on redemption of shares in foreign company                                               14,368
+                                                                 __________   __________   __________
+
+                                                                    (1,431)      (4,093)      10,774
+                                                                 __________   __________   __________
+Income (loss) before income taxes, extraordinary credit
+  and cumulative effect of change in accounting principle            2,311       (1,950)      16,097
+
+Income tax provision                                                   694          106        5,641
+                                                                 __________   __________   __________
+
+Income (loss) before extraordinary credit and cumulative
+  effect of change in accounting principle                           1,617       (2,056)      10,456
+
+Extraordinary credit-benefit of net operating loss carryforward                                1,846
+
+Cumulative effect of change in accounting for income taxes                        2,540
+                                                                 __________   __________   __________
+Net income                                                          $1,617         $484      $12,302
+                                                                 ==========   ==========   ==========
+
+Earnings per share:
+    Income (loss) before extraordinary credit and cumulative
+      effect of change in accounting principle                       $0.43       ($0.52)       $2.69
+   Extraordinary credit-benefit of net operating loss carryforward                              0.47
+   Cumulative effect of change in accounting for income taxes                      0.64
+                                                                 __________   __________   __________
+   Net income                                                        $0.43        $0.12        $3.16
+                                                                 ==========   ==========   ==========
+
+Weighted average shares outstanding                              3,780,000    3,901,000    3,892,000
+                                                                 ==========   ==========   ==========
+</TABLE>
+See accompanying notes.
+
+
+
+
+
+
+
+
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Cash Flows
+Three years ended February 25, 1994
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+                                                                          1994        1993        1992
+_______________________________________________________________________________________________________
+<S>                                                                   <C>         <C>         <C>
+Cash flows from operating activities:
+   Net income                                                           $1,617        $484     $12,302
+   Adjustments to reconcile net income to net cash provided by
+      operating activities:
+         Depreciation                                                    6,519       6,734       6,292
+         Amortization of other assets                                      407         407         410
+         Cumulative effect of change in accounting for income taxes                 (2,540)
+         Deferred income taxes                                             274         610       2,209
+         Accrued retirement benefits                                      (294)         45          86
+         Gain on redemption of shares in foreign company                                       (14,368)
+         Other                                                            (131)
+   (Increase) decrease in receivables                                     (282)     (4,856)     12,585
+   (Increase) decrease in inventories and other current assets             193         725        (989)
+   Increase (decrease) in accounts payable, accrued liabilities
+      and other current liabilities                                        513       1,446      (6,279)
+                                                                      _________   _________   _________
+      Net cash provided by operating activities                          8,816       3,055      12,248
+
+Cash flows from investing activities:
+   Additions to property, plant and equipment                           (6,386)     (8,694)     (5,598)
+   Purchases of marketable securities                                              (31,369)
+   Sales of marketable securities                                       10,687      22,016          54
+   Proceeds from redemption of shares in foreign company                                        25,000
+   Other                                                                    29         237        (211)
+                                                                      _________   _________   _________
+      Net cash provided (absorbed) by investing activities               4,330     (17,810)     19,245
+
+Cash flows from financing activities:
+   Reductions of short-term debt                                                                (3,875)
+   Long-term borrowings                                                                          1,298
+   Reductions in long-term debt                                         (6,978)       (728)     (8,625)
+   Stock option exercises                                                  302          27           6
+   Repurchases of common stock                                            (224)       (892)
+                                                                      _________   _________   _________
+      Net cash absorbed by financing activities                         (6,900)     (1,593)    (11,196)
+                                                                      _________   _________   _________
+Increase (decrease) in cash and equivalents                              6,246     (16,348)     20,297
+Cash and equivalents at beginning of period                              4,168      20,516         219
+                                                                      _________   _________   _________
+Cash and equivalents at end of period                                  $10,414      $4,168     $20,516
+                                                                      =========   =========   =========
+</TABLE>
+See accompanying notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Shareholders' Equity
+Three years ended February 25, 1994
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+
+                                                                                                                    Total
+                                                           Common Stock        Capital in               Class A     Share-
+                                                       _____________________   Excess of   Retained    Treasury    holders'
+                                                        Class A     Class B    Par Value   Earnings     Shares      Equity
+____________________________________________________________________________________________________________________________
+<S>                                                    <C>         <C>         <C>         <C>         <C>         <C>
+Balance at February 22, 1991                             $4,442        $436      $2,230     $46,630     ($9,345)    $44,393
+   Stock option exercises                                     1                       5                                   6
+   Net income for the year                                                                   12,302                  12,302
+                                                       _________   _________   _________   _________   _________   _________
+Balance at February 28, 1992                              4,443         436       2,235      58,932      (9,345)     56,701
+   Stock option exercises                                     5                      22                                  27
+   Purchases of common stock for treasury                                                                  (892)       (892)
+   Retirement of treasury stock                          (1,143)                             (9,094)     10,237        -
+   Net income for the year                                                                      484                     484
+                                                       _________   _________   _________   _________   _________   _________
+Balance at February 26, 1993                              3,305         436       2,257      50,322        -         56,320
+   Conversion of Class B to Class A                           1          (1)                                           -
+   Stock option exercises                                    52                     250                                 302
+   Tax benefit from stock option exercises                                           50                                  50
+   Purchases of common stock for treasury                                                                  (224)       (224)
+   Retirement of treasury stock                             (25)                               (199)        224        -
+   Net income for the year                                                                    1,617                   1,617
+                                                       _________   _________   _________   _________   _________   _________
+Balance at February 25, 1994                             $3,333        $435      $2,557     $51,740        -        $58,065
+                                                       =========   =========   =========   =========   =========   =========
+</TABLE>
+See accompanying notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+1.  Summary of Significant Accounting Policies:
+
+    Fiscal Year.  The Company's fiscal year ends on the last Friday in
+    February.  Fiscal years ended February 25, 1994 and February 26, 1993
+    each contain fifty-two weeks while the fiscal year ended February 28,
+    1992 contains fifty-three weeks.  
+
+    Principles of Consolidation.  The consolidated financial statements
+    include the accounts of the Company and its wholly-owned subsidiaries. 
+    Intercompany accounts and transactions have been eliminated in consol-
+    idation.  
+
+    Revenue Recognition.  Contract revenue is recognized principally on
+    the percentage-of-completion method in the ratio that cost incurred
+    bears to estimated cost at completion.  Other revenue is recorded on
+    the basis of shipment of products or performance of services.  
+
+    Contract Provisions.  Under certain fixed price contracts, the Company
+    from time to time has encountered cost overruns caused by increased
+    material, labor, or overhead costs, design or production difficulties
+    and various other factors such as technical and manufacturing complex-
+    ity, which must be, and in such cases have been, borne by the Company. 
+    Adjustments to contract cost estimates are made in the periods in
+    which the facts requiring such revisions become known.  When the re-
+    vised estimate indicates a loss, such loss is provided for currently
+    in its entirety.  In addition, the Company from time to time commits
+    to invest its own funds, particularly in the case of high-technology
+    seed programs.  The estimated costs of such investments in excess of
+    the related contract values are provided for currently in their en-
+    tirety upon receipt of such contracts by the Company.  
+
+    Cash and Equivalents.  Cash and equivalents include all highly liquid
+    investments with original maturities of three months or less.  
+
+    Marketable Securities.  Marketable securities are carried at cost. 
+    Aggregate market value of securities was $1,697,000 and $12,429,000 at
+    February 25, 1994 and February 26, 1993, respectively.  
+
+    Receivables.  Unbilled receivables represent costs and profits in ex-
+    cess of billed amounts on contracts accounted for on the percentage-
+    of-completion method and are billable upon shipment of the product or
+    performance of the service, achievement of milestones or completion of
+    the contract.  Such amounts are generally billed and collected within
+    one year, however, approximately $2,400,000 of unbilled receivables at
+    February 25, 1994 are expected to be billed and collected after one
+    year.  
+
+    Inventories.  Inventories are stated at the lower of cost or market
+    and consist primarily of work-in-process.  Raw materials are valued
+    generally at an average cost; work-in-process and finished goods are
+    valued generally on a first-in, first-out basis.  
+
+         Inventoried costs relating to long-term contracts are stated
+    principally at actual production cost, including overhead, tooling and
+    other related nonrecurring costs, less costs allocated to delivered
+    items.  Costs attributed to units delivered under long-term contracts
+    are based on the average cost of all units expected to be produced. 
+
+         In accordance with industry practice, inventories include amounts
+    relating to contracts having production cycles longer than one year. 
+    Such amounts are not significant.  
+
+    Plant and Equipment.  Depreciation of plant and equipment is computed
+    on the straight-line method for financial statement purposes based
+    upon the following estimated useful lives:  
+
+         Buildings and improvements              10 to 40 years
+         Machinery and equipment                  3 to 10 years
+         Office furniture and equipment           5 to  8 years
+
+    Other Assets.  Other assets include $7,300,000 representing the excess
+    of the purchase price over the fair value of the assets acquired and
+    liabilities assumed in connection with an acquisition in 1987.  Such
+    amount is being amortized on a straight-line basis over 20 years. 
+    Accumulated amortization was $2,403,000 and $2,038,000 at February 25,
+    1994 and February 26, 1993, respectively.  
+
+    Income Taxes.  In fiscal year 1993, the Company adopted the asset and
+    liability method of accounting for income taxes as provided for by
+    Statement of Financial Accounting Standards No. 109.  Accordingly, for
+    fiscal years 1994 and 1993, deferred tax assets and liabilities are
+    recognized for the tax consequences of temporary differences by apply-
+    ing enacted statutory tax rates applicable to future years to differ-
+    ences between the financial statement carrying amounts and the tax
+    bases of existing assets and liabilities.  In fiscal year 1992, income
+    taxes were provided based on earnings reported for financial statement
+    purposes, and deferred income taxes were provided for timing differ-
+    ences in the recognition of certain income and expense items for
+    financial reporting and tax purposes.  
+
+    Interest.  The Company capitalizes interest costs associated with the
+    cost of constructing major new facilities. Interest of $88,000 and
+    $61,000 incurred in fiscal years 1994 and 1993, respectively, has been
+    capitalized.  
+
+    Earnings Per Share.  Per share data are based on the weighted average
+    number of shares of stock outstanding each year including the dilutive
+    effect of stock options.  Per share computations on a fully diluted
+    basis are the same as those reported.  
+
+    Reclassifications.  Certain financial statement items for fiscal years
+    1993 and 1992 have been reclassified in order to conform with the
+    current year's presentation.  
+
+2.  Investment in Foreign Company
+
+         In December 1986, the Company exchanged its 58.7% interest in
+    Elisra Electronic Systems Ltd. for redeemable shares representing a 6%
+    interest in Tadiran Ltd., an electronics company in Israel.  The
+    Company accounted for the exchange under the cost method of accounting
+    and recognized no gain at that time for financial reporting purposes. 
+    In February 1992, the Company received $25,000,000 in settlement of
+    its rights arising from redemption of the redeemable shares.  For
+    financial reporting purposes, the Company recognized a gain of
+    $14,368,000, net of related expenses, in fiscal year 1992.  
+
+3.  Line of Credit and Letters of Credit
+
+         The Company has a line of credit agreement expiring June 30, 1994
+    which provides for unsecured borrowings of up to $5,000,000 at the
+    prime rate.  The Company did not borrow under the line of credit
+    agreement during the year ended February 25, 1994 and had only nominal
+    temporary borrowings during the year ended February 26, 1993.  The
+    terms of the line of credit agreement contain, among other provisions,
+    requirements for maintaining defined levels of working capital, net
+    worth, annual capital expenditures and debt to equity.  The agreement
+    also requires an annual commitment fee of approximately $31,000.  
+
+         At February 25, 1994, standby letters of credit of approximately
+    $13,600,000 have been issued under an agreement, expiring June 30,
+    1994, which is being maintained as security for performance and
+    advances received on long-term contracts, and as security for debt
+    service payments under industrial revenue bond loan agreements.  The
+    agreement provides a maximum commitment for letters of credit of
+    $17,500,000 and requires an annual commitment fee of approximately
+    $90,000.  
+
+4.  Long-Term Borrowings
+
+    Long-term borrowings consist of:
+                                              (Dollars in thousands)
+                                            February 25,   February 26,
+                                                1994           1993       
+                                            ___________    ___________
+    10.03% senior unsecured note pay-
+    able, principal due annually 
+    through April 1997.                       $13,400        $20,000
+
+    Industrial revenue bonds, interest 
+    is variable (2.8% at February 25, 
+    1994 and 2.4% at February 26, 1993), 
+    principal due September 1994 through 
+    2010.  (Bonds are collateralized by 
+    certain property and equipment at the 
+    Company's St. Louis Regional Airport 
+    facility.)                                  6,500          6,500   
+
+    Industrial revenue bonds, interest 
+    is variable (2.8% at February 25, 1994 
+    and 2.4% at February 26, 1993), princi-
+    pal due April 2009.  (Bonds are colla-
+    teralized by certain property and equip-
+    ment of the Company's Cross Systems 
+    Division.)                                  4,000          4,000   
+
+    Obligation under capital lease, inter-
+    est at prime plus 1%, principal due 
+    quarterly through December 1996. (Lease 
+    is collateralized by data processing 
+    equipment.)                                   779          1,039   
+
+    Other                                         462            580
+                                              _______        _______
+                                               25,141         32,119   
+    Less current portion                        5,542          6,978
+                                              _______        _______
+                                              $19,599        $25,141
+                                              =======        =======
+
+         Aggregate maturities of long-term borrowings over the next five
+    fiscal years are as follows:  1995 - $5,542,000; 1996 - $3,857,000;
+    1997 - $3,872,000; 1998 - $2,127,000 and 1999 - $342,000.  Aggregate
+    maturities reflect the Company's exercised option to accelerate, from
+    the end of the loan term to April 1994, repayment of $1,700,000 of the
+    10.03% senior unsecured note payable.  
+
+         The terms of certain financing agreements contain, among other
+    provisions, requirements for maintaining defined levels of working
+    capital, net worth, capital expenditures and various financial ratios,
+    including debt to equity.  
+
+         The Company paid interest of $1,965,000, $2,507,000 and
+    $3,430,000 on short-term and long-term borrowings during fiscal years
+    1994, 1993 and 1992, respectively.  
+
+5.  Income Taxes:
+
+         Effective for fiscal year 1993, the Company adopted Statement of
+    Financial Accounting Standards (SFAS) No. 109, "Accounting for Income
+    Taxes".  As permitted under SFAS No. 109, the Company has not restated
+    financial statements prior to fiscal year 1993 to apply the provisions
+    of SFAS No. 109.  The cumulative effect of the accounting change as of
+    the beginning of fiscal year 1993 was $2,540,000, or $.64 per share,
+    primarily resulting from recording tax benefits related to contract
+    loss provisions recorded in prior years and adjusting tax rates on
+    previously recorded tax assets and liabilities.  The cumulative effect
+    included the recognition of a valuation allowance of $200,000 to re-
+    flect the potential loss of state tax benefits.  The effect of the
+    adoption of SFAS No. 109 on fiscal year 1993's income tax provision
+    decreased net income by $920,000, or $.24 per share, primarily rela-
+    ting to the establishment of a valuation allowance for the deferred
+    tax assets.  
+
+         The income tax provisions for the three years ended February 25,
+    1994 are comprised of the following: 
+                                              (Dollars in thousands)
+                                             1994      1993      1992
+                                             ____      ____      ____
+      Current:
+        Federal                              $420     $(533)    $  373    
+        State                                            29         60 
+        Foreign                                                  1,153        
+                                             ____     _____     ______
+                                              420      (504)     1,586 
+      Deferred:
+        Federal                               177       669      2,129
+        State                                  97       (59)        80
+                                             ____     _____     ______    
+                                              274       610      2,209
+      Charges equivalent to benefits of 
+        net operating loss carryforwards                         1,846
+                                             ____     ______    ______
+      Total provision                        $694     $  106    $5,641
+                                             ====     ======    ======
+
+
+        The significant components of the deferred tax provisions for the
+    years ended February 26, 1993 and February 28, 1992 are summarized as
+    follows: 
+ 
+                                               (Dollars in thousands)
+                                               1993              1992
+                                               ____              ____     
+
+      Inventory and contract loss allow-
+        ances                                 $ 198             $  583    
+      Employee benefits                        (108)              (385)   
+      Depreciation expense                     (184)              (352)   
+      Valuation allowance                       980
+      Gain on redemption of shares in 
+        foreign company                                          2,694
+      Other                                    (276)              (331)
+                                              _____             ______    
+                                              $ 610             $2,209
+                                              =====             ======
+
+
+         The provisions for income taxes for the three years ended
+    February 25, 1994 differ from the provisions computed by applying the
+    statutory federal income tax rate due to the following:  
+
+                                              (Dollars in thousands)
+                                             1994      1993      1992  
+                                             ____      ____      ____
+
+      Statutory federal income tax           $ 786    $ (663)   $5,473
+      Increase (decrease) resulting from:
+        Tax exempt investment income           (79)     (237)      (64)
+        Amortization of intangible 
+          assets                               124       124       124
+        State income taxes                      97       (42)       96
+        Foreign income                          42        39        32
+        Valuation allowance                              980
+        Tax credits                           (303)     (110)      (32)
+        Other                                   27        15        12 
+                                             _____    ______    ______
+                                             $ 694    $  106    $5,641 
+                                             =====    ======    ======    
+
+
+        The significant components of the deferred tax liabilities and
+    assets are as follows:
+
+                                              (Dollars in thousands)
+                                             February 25,  February 26,
+                                                 1994         1993     
+                                             ___________   ___________
+      Deferred tax liabilities:
+        Depreciation                           $(1,197)      $(1,337)
+        Other                                       (7)          (42)
+                                               _______       _______
+                                                (1,204)       (1,379)
+      Deferred tax assets:
+        Employee benefits                        1,437         1,866 
+        Inventory and contract loss allow-
+          ances                                  2,304         2,660 
+        Provision for claims settlement            440           880 
+        Tax credit carryforwards                   768
+        Other                                      331           323 
+                                               _______       _______
+                                                 5,280         5,729
+
+      Valuation allowance                       (1,180)       (1,180)   
+                                               _______       _______
+                                            
+      Net deferred tax asset                   $ 2,896       $ 3,170
+                                               =======       =======
+
+         At February 25, 1994, the Company has general business credit
+    carryforwards of approximately $254,000 which expire in the years 2008
+    and 2009.  The Company also has alternative minimum tax credits of
+    approximately $514,000 which can be utilized against regular taxes in
+    the future.  
+
+         The Company paid income taxes, net of refunds, of $380,000,
+    $75,000 and $1,349,000 in fiscal years 1994, 1993 and 1992, respec-
+    tively.  
+
+6.  Employee Benefit Plans
+
+         Under the Company's Retirement Savings Plan which covers all
+    eligible employees, the Company makes a matching contribution not
+    exceeding three percent of an employee's annual compensation, but
+    otherwise equivalent to one-half of the employee's contribution.  The
+    Company also made additional contributions to the plan, for all
+    eligible employees, equal to a percentage of their compensation, 2%
+    prior to January 1992 and 1% subsequent to December 1993, until
+    compensation exceeded the Federal Insurance Contributions Act maximum
+    taxable wage base, at which point the Company doubled its additional
+    contribution.  From January 1992 to December 1993, the Company
+    suspended its additional contributions while continuing its matching
+    contribution.  The Company's aggregate contributions to the Retirement
+    Savings Plan for fiscal years 1994, 1993 and 1992 were $1,139,000,
+    $1,017,000 and $2,010,000, respectively.  
+
+         The Company also maintains individual unfunded supplemental
+    retirement benefit plans for two current executive officers and one
+    former executive officer.  Supplemental retirement benefits are based
+    on the officers' final average annual earnings from the Company and
+    are payable in installments over ten years upon retirement, disabil-
+    ity, death, or, if no longer employed by the Company, at age 62. 
+    Expense recognized for the benefits accrued under the plans was
+    $95,000, $61,000 and $101,000 in fiscal years 1994, 1993 and 1992, re-
+    spectively.  In addition, the resignation of an executive resulted in
+    a curtailment gain of $381,000 recognized in fiscal year 1994.  Other
+    liabilities on the consolidated balance sheets as of February 25, 1994
+    and February 26, 1993 include amounts of $1,625,000 and $1,911,000,
+    respectively, for the supplemental retirement benefit plans.  
+
+7.  Other Current Liabilities
+
+         Other current liabilities include allowances for contract losses
+    and other contract allowances aggregating $3,900,000 and $4,400,000 at
+    February 25, 1994 and February 26, 1993, respectively.  In addition,
+    other current liabilities at February 25, 1994 include approximately
+    $4,600,000 representing billings in excess of revenues recognized on
+    uncompleted contracts.  
+
+         In the fourth quarter of fiscal year 1993, the Company
+    established an allowance of $2,200,000 based on an agreement to settle
+    civil claims pertaining to the pricing of a 1985 fixed-price contract
+    modification.  The Company paid $1,100,000 in July 1993 and expects to
+    pay the remaining $1,100,000 in July 1994.  
+
+ 8. Commitments and Contingencies
+
+         Rent expense under operating leases was $735,000, $703,000 and 
+    $646,000 for fiscal years 1994, 1993 and 1992, respectively.  Fiscal
+    year minimum lease payments under noncancellable operating leases are
+    as follows: 1995 - $678,000; 1996 - $410,000; 1997 - $297,000; 1998 -
+    $214,000; 1999 - $144,000; and 2000 and beyond - $410,000.  
+
+         From time to time the Company may be involved in lawsuits,
+    investigations and other legal proceeding arising from the ordinary
+    conduct of its business with the U.S. Government and others.  One such
+    action relates to the U.S. Environmental Protection Agency (EPA)
+    which, in 1989, placed a site that includes the Company's Richardson
+    Road property on the National Priorities List for detailed study and
+    cleanup of alleged environmental contamination.  The Company continues
+    to cooperate with the EPA in the study of this site.  In the opinion
+    of management, except for the matter described below, these legal
+    proceedings will not have a material adverse effect on consolidated
+    financial position.  
+
+         The Company has provided documents, relating to its AN/MLQ-T4
+    Ground Jammer program, to the Department of Defense pursuant to a sub-
+    poena issued by its Inspector General in September 1992.  At this
+    time, management is unable to determine when the Government will
+    complete its investigation or whether it will seek any remedies as a
+    result of its investigation.  
+
+ 9. Common Stock and Stock Option Plans
+
+         At February 25, 1994, shares of class A common stock were re-
+    served as follows:  986,000 shares for the exercise of stock options
+    and 435,000 shares for the conversion of class B common stock.  Class
+    B common shares are convertible into class A common shares on a one-
+    for-one basis.  If, at any time, a majority of class B common share-
+    holders vote in favor of conversion or if less than 50,000 class B
+    common shares remain outstanding, all class B common shares will
+    automatically be deemed converted into class A common shares, which
+    will then assume voting rights.  
+
+         At February 25, 1994, options were exercisable for 103,000 class
+    A shares at prices ranging from $4.56 to $10.00 per share.  Changes in
+    the number of shares of class A common stock subject to outstanding
+    but unexercised options for the two years ended February 25, 1994 are
+    as follows: 
+                                                     (in thousands)
+                                                  1994            1993
+                                                  ____            ____    
+
+      Balance, beginning of period                 298             421
+      Options granted at prices of $6.14 
+        to $8.00 per share                          53              59
+      Options exercised at prices of 
+        $4.75 to $8.81 per share                   (52)             (5)   
+      Options cancelled and terminated             (97)           (177)
+                                                   ___            ____
+      Balance, end of period                       202             298 
+                                                   ===            ====
+
+         Generally, options granted are fully exercisable two years from
+    the date granted and all unexercised options terminate five years
+    after the date granted, upon the resignation of the optionee, or three
+    months after the termination of employment if by other than resig-
+    nation.  No charges to income have been made in accounting for op-
+    tions.  Options are granted at a price equal to the fair market value
+    of class A common stock on the date of grant.  
+
+10. Segment Reporting
+
+         The Company's principal business is electronic defense products
+    and services, which consists primarily of the design and manufacture
+    of electronic countermeasures systems, simulation systems, radars and
+    receivers.  The Company is also engaged in the installation and in-
+    tegration design of avionics and electronic warfare systems.  
+
+         The Company provides other products such as antennas, microwave
+    integrated circuits and hybrid microcircuits, and services such as
+    calibration, product testing and technical publication.  
+
+         Presented below are the sources of revenues for each segment by
+    type of customer for the three years ended February 25, 1994:  
+
+                                               (Dollars in thousands)
+                                              1994      1993      1992
+                                              ____      ____      ____
+      Sales and service revenues:
+        Domestic:
+          U.S. Government:
+            Electronic Defense Products
+              and Services                  $ 98,282  $ 93,913  $111,875
+            Other Products and Services           50        99       104  
+          Commercial:
+            Electronic Defense Products
+              and Services                      1,160    1,568     1,608  
+            Other Products and Services         7,772    5,851     5,517
+                                            _________ ________  ________
+                                              107,264  101,431   119,104  
+        International:
+          Israel (substantially to Govern-
+            ment of Israel):
+            Electronic Defense Products
+               and Services                    7,572     5,393    16,103
+          Other:
+            Electronic Defense Products
+              and Services                     8,796     6,308     4,905
+                                            ________  ________  ________
+                                              16,368    11,701    21,008
+                                            ________  ________  ________
+                                            $123,632  $113,132  $140,112
+                                            ========  ========  ========
+
+              Sales and service revenues from the U.S. Government include
+         sales and service revenues recognized under contracts with sup-
+         pliers to the U.S. Government.  
+
+
+<PAGE>
+11. Quarterly Financial Information (Unaudited)
+<TABLE>
+<CAPTION>
+                                                            (Dollars in thousands, except per share data)
+                                                                        Quarter Ended
+                                                             May 28,    Aug. 27,    Nov. 26,    Feb. 25,
+Fiscal Year 1994                                              1993        1993        1993        1994
+_________________________________________________________________________________________________________
+<S>                                                         <C>         <C>         <C>         <C>
+Revenues                                                     $30,731     $27,754     $27,292     $37,855
+Operating expenses                                            29,682      26,561      26,504      37,143
+                                                            _________   _________   _________   _________
+Operating income                                               1,049       1,193         788         712
+Other expense, net of other income                              (251)       (462)       (362)       (356)
+                                                            _________   _________   _________   _________
+                                                                 798         731         426         356
+
+Income tax provision                                             360         326                       8 (a)
+                                                            _________   _________   _________   _________
+Net income                                                      $438        $405        $426        $348
+                                                            =========   =========   =========   =========
+
+Net income per share                                           $0.12       $0.10       $0.12       $0.09
+                                                            =========   =========   =========   =========
+
+
+                                                                        Quarter Ended
+                                                             May 29,    Aug. 28,    Nov. 27,    Feb. 26,
+Fiscal Year 1993                                              1992        1992        1992        1993
+_________________________________________________________________________________________________________
+
+Revenues                                                     $27,444     $24,551     $28,154     $32,983
+Operating expenses                                            26,903      24,275      28,463      31,348
+                                                            _________   _________   _________   _________
+Operating income (loss)                                          541         276        (309)      1,635
+Other expense, net of other income                              (498)       (601)       (388)     (2,606)(b)
+                                                            _________   _________   _________   _________
+                                                                  43        (325)       (697)       (971)
+
+Income tax provision (benefit)                                    17        (143)                    232
+                                                            _________   _________   _________   _________
+Income (loss) before cumulative effect of change in 
+  accounting principle                                            26        (182)       (697)     (1,203)
+Cumulative effect of change in accounting for 
+  income taxes                                                 2,540
+                                                            _________   _________   _________   _________
+Net income (loss)                                             $2,566       ($182)      ($697)    ($1,203)
+                                                            =========   =========   =========   =========
+
+Earnings per share:
+    Income (loss) before cumulative effect of 
+      change in accounting principle                           $0.01      ($0.04)     ($0.18)     ($0.31)
+   Cumulative effect of change in accounting for income 
+     taxes                                                      0.64
+                                                            _________   _________   _________   _________
+   Net income (loss)                                           $0.65      ($0.04)     ($0.18)     ($0.31)
+                                                            =========   =========   =========   =========
+</TABLE>
+
+(a) Income tax provisions in the third and fourth quarters were reduced by 
+      deferred tax benefits pertaining to the retroactive reenactment of 
+      federal income tax research credits.
+
+(b) Includes a provision of $2,200,000 related to the settlement of civil claims
+     pertaining to the pricing of a 1985 fixed price contract modification.
+<PAGE>
+                MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS
+                     OF OPERATIONS AND FINANCIAL CONDITION
+
+
+
+         The following discussion and analysis provide information which
+management believes is relevant to an assessment and understanding of the
+Company's consolidated results of operations and financial condition.  The
+discussion should be read in conjunction with the consolidated financial
+statements and notes thereto.  
+
+Results of Operations - Fiscal 1994 versus Fiscal 1993
+
+         Sales and service revenues of $123,632,000 reflect an increase of 9%
+from the $113,132,000 in revenues reported for fiscal year 1993.  The
+revenue increase was primarily attributable to the avionics
+installation/integration programs which generated revenues of $41,307,000
+in fiscal year 1994 compared with revenues of $32,732,000 in fiscal year
+1993. The Company's ANVIS/HUD avionics program individually produced
+revenues of $10,285,000 in 1994 versus $4,262,000 in 1993. In addition to
+the avionics programs, revenues from radar warning receiver programs
+increased $3,357,000 in the current year, primarily due to the AN/APR-39A
+program revenues of $10,352,000 which were approximately double the
+revenues reported in fiscal year 1993.  Partially offsetting the revenue
+growths in the avionics and receiver programs was a decline in revenues
+from the electronic countermeasures program group in fiscal year 1994.
+Within the countermeasures group, the TACJAM-A program contributed revenues
+of $6,615,000 in fiscal year 1994, down from $12,996,000 in fiscal year
+1993. However, the Band 9/10 program, another major electronic counter-
+measures program, increased its contribution to revenues by $2,656,000 in
+1994, and revenues from a major electronic countermeasures program with a
+foreign government also increased by $2,012,000 in the current year. 
+
+         Operating income for fiscal year 1994 was $3,742,000 as compared with
+$2,143,000 for fiscal year 1993.  The increase in operating income was
+primarily due to the current year's growth in sales and service revenues, a
+reduction in administrative and selling expenses, and significantly less
+costs in fiscal year 1994 associated with restructuring, corporate
+downsizing, and consolidation of resources. The administrative and selling
+expenses reduction reflects the Company's continuing efforts to contain
+costs in those areas, as well as a one time curtailment gain of $381,000
+related to a supplemental retirement benefit plan for a former executive
+officer.  Partially offsetting these favorable items, operating income in
+fiscal year 1994 was adversely impacted by an increase in bid and proposal
+spending, as well as contract cost estimate and profitability adjustments,
+which in the aggregate had an unfavorable effect of $3,900,000 in fiscal
+year 1994 as compared with $2,500,000 in fiscal year 1993.  Revisions to
+the estimated final costs on several engineering development programs re-
+sulted in contract loss provisions in fiscal year 1994 which were
+$3,100,000 above comparable provisions for those programs in fiscal year
+1993. Conversely, a profitability adjustment to the AN/ MLQ-34 TACJAM
+program, resulting from a prolonged contract modification negotiation,
+produced a favorable impact of $1,800,000 on operating income in fiscal
+year 1994 with no comparable adjustments in fiscal year 1993.  Bid and
+proposal costs increased $922,000 in fiscal year 1994 reflecting the Com-
+pany's increased bidding activity for a major aircraft modification program
+and development programs associated with long-term production contracts. 
+Finally, company-sponsored research and development spending decreased
+$339,000 in fiscal year 1994 due to the Company's re-allocation of
+available technical resources, including personnel, to customer-sponsored
+engineering development efforts, including the development programs refer-
+enced above.  Company-sponsored research and development spending is
+expected to resume its upward trend in fiscal year 1995.  
+
+         Interest expense in fiscal year 1994 decreased $699,000 from fiscal
+year 1993 primarily due to lower average debt levels.  In April 1993, the
+Company repaid $6,600,000 of its $20,000,000, 10.03% unsecured note
+payable.  Investment income for fiscal year 1994 decreased $388,000 from
+fiscal year 1993 primarily due to the sale of marketable securities to meet
+the $6,600,000 debt repayment.  Also, marketable securities were sold to
+fund capital expenditures including a significant building addition at the
+Company's Richardson Road facility which was completed in August 1993. 
+Other income for fiscal years 1994 and 1993 included $498,000 and $368,000,
+respectively, for royalties received under a license agreement with a
+foreign vendor.  Finally, in fiscal year 1993 the Company established an
+allowance of $2,200,000 relating to a settlement of civil claims pertaining
+to the pricing of a 1985 fixed-price contract modification.  
+
+         The income tax provisions for fiscal years 1994 and 1993 were based on
+annual effective tax rates of 30% and 42%, respectively.  Operating results
+for the purpose of calculating the annual effective tax rate in fiscal year
+1993 exclude the provision for claims settlement of $2,200,000.  See Note 5
+to the consolidated financial statements for the reconciliation of the
+statutory federal income tax rate to the Company's effective tax rates in
+fiscal years 1994 and 1993.  
+
+         As of  the beginning of fiscal year 1993, the Company adopted
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" and recorded the cumulative effect of the accounting change of
+$2,540,000, or $.64 per share, primarily resulting from the recording of
+tax benefits related to contract loss provisions recorded in prior years
+and adjusting tax rates on previously recorded tax assets and liabilities. 
+In addition, the Financial Accounting Standards Board issued SFAS No. 106,
+"Employers' Accounting for Postretirement Benefits Other Than Pensions" and
+SFAS No. 112, "Employers' Accounting for Postemployment Benefits".  The
+Company's adoption of these two standards has not impacted current
+operating results and is not expected to have a material impact on future
+operating results.  
+
+Results of Operations - Fiscal 1993 versus Fiscal 1992
+
+         Sales and service revenues of $113,132,000 reflected a decrease of 19%
+from the $140,112,000 in revenues reported for fiscal year 1992.  The
+revenue decline directly reflected the low level of new contract awards
+received during the last six months of fiscal year 1992.  Revenues from
+avionics installation/integration programs reflected the most significant
+decline in fiscal year 1993, contributing $32,732,000 of revenues in that
+year as compared with $47,982,000 in fiscal year 1992.  In addition,
+revenues attributable to simulator programs declined $13,155,000 in fiscal
+year 1993 primarily due to the maturation of individual jamming simulator
+programs such as the AN/ MLQ-T4 Ground Jammer, the AN/FSQ-T22, the HPMAS
+ALT-40 and the Guided Weapons Evaluation Facility.  The decline was
+partially offset by increased revenues from radar environmental simulator
+programs with several foreign customers.  Electronic countermeasures
+programs experienced revenue growth of $4,738,000 in fiscal year 1993 when
+compared with fiscal year 1992.  Revenues from the TACJAM-A program, a
+major electronic countermeasures program, contributed $12,996,000 for fis-
+cal year 1993 as compared to $6,128,000 for fiscal year 1992.  That revenue
+growth combined with a revenue growth of $7,636,000 in the Band 9/10
+program, another electronic countermeasures program, were partially offset
+by a decline in revenues from a major electronic countermeasures program
+with a foreign government which contributed only $5,310,000 to revenues in
+fiscal year 1993, down from $15,746,000 in fiscal year 1992.  
+
+         Operating income was $2,143,000 in fiscal year 1993 as compared with
+$5,323,000 in fiscal year 1992.  The decline in sales and service revenues
+for fiscal year 1993 had a corresponding adverse impact on gross margins. 
+Operating income for fiscal year 1993 was also adversely impacted by
+$2,500,000 resulting from net unfavorable contract performance adjustments
+to final cost estimates.  The fiscal year 1993 adjustments included
+additional contract loss allowances of $1,800,000 and $1,100,000
+established for the AN/ALR-67 ASR program and the AN/FSQ-T22 program, re-
+spectively.  Fiscal year 1992 performance adjustments were essentially
+offsetting.  Administrative and selling expenses for fiscal year 1993 were
+fairly consistent with the amount of expenses reported for fiscal year
+1992.  However, due to the decline in revenues, administrative and selling
+expenses, which are generally fixed, increased significantly as a
+percentage of revenues.  Operating income in fiscal year 1993 was adversely
+impacted by costs associated with restructuring, corporate downsizing, and
+consolidation of resources, which increased by approximately $1,200,000
+from the amount of similar costs recorded in the prior year.  Such costs
+were allocated to the Company's contracts as well as administrative and
+selling expenses, thereby, representing contributing factors to the
+aforementioned comparisons of contracts' gross margins, contracts'
+performance adjustments and administrative and selling expenses.  Finally,
+fiscal year 1993 had reduced bid and proposal activity, decreasing related
+costs by $2,215,000 from fiscal year 1992, and growth in research and
+development activity, increasing related costs by $759,000 from fiscal year
+1992.  
+
+         Interest expense in fiscal year 1993 was $2,418,000 as compared with
+$3,272,000 in fiscal year 1992.  The decrease was due to lower average
+borrowing levels combined with lower average interest rates.  The lower
+borrowing levels in fiscal year 1993 were due to reductions in short-term
+and long-term borrowings which occurred primarily in the fourth quarter of
+fiscal year 1992 and resulted from cash provided by the settlement of a
+claim in February 1992.  The claim settlement, which resulted in a gain of
+$14,368,000 being recognized in fiscal year 1992, related to the redemption
+of the Company's shares in Tadiran, Ltd.  Investment income for fiscal year
+1993 was $843,000 as compared to $322,000 in fiscal year 1992.  The
+increase was due to the investment of funds received from the
+aforementioned claim settlement with Tadiran, Ltd.  Finally, in fiscal year
+1993 the Company established an allowance of $2,200,000 relating to a
+settlement of civil claims pertaining to the pricing of a 1985 fixed-price
+contract modification.  
+
+         The Company adopted Statement of Financial Accounting Standards (SFAS)
+No. 109, "Accounting for Income Taxes" in fiscal year 1993.  As permitted
+under SFAS No. 109, the Company has not restated the prior year's financial
+statements to apply the provisions of SFAS No. 109.  The cumulative effect
+of the accounting change as of the beginning of fiscal year 1993 was
+$2,540,000, or $.64 per share, primarily resulting from the recording of
+tax benefits related to contract loss provisions recorded in prior years
+and adjusting tax rates on previously recorded tax assets and liabilities. 
+The effect of the adoption of SFAS No. 109 on the income tax provision for
+fiscal year 1993 decreased net income by $920,000, or $.24 per share,
+primarily related to the establishment of a valuation allowance for the
+deferred tax assets.  Extraordinary credits were recognized in fiscal year
+1992 based on the carryforward of losses from prior years.  
+
+Results of Operations - Outlook for Fiscal Year 1995
+
+         The Company completed fiscal year 1994 with a firm orders backlog of
+$121,478,000, approximately 22% lower than the backlog amount reported at
+the end of fiscal year 1993.  It is anticipated that approximately 70% of
+the backlog will be completed in fiscal year 1995, thereby contributing to
+sales and service revenues for that year.  Sales and service revenues in
+fiscal year 1995 are expected to approximate the level reported in fiscal
+year 1994, however, revenues recognized will be partially dependent upon
+the timing and amounts of anticipated new orders.  The level of new orders
+in fiscal year 1995 is expected to exceed the level of new orders received
+in fiscal year 1994.  The backlog at February 25, 1994 included an unfunded
+amount of $14,747,000.  
+
+         Fiscal year 1995 operating results will be influenced by various
+internal and external factors.  The Company is presently engaged in several
+programs involving complicated engineering development efforts and, as is
+the case with most development efforts, technical and other complexities
+are often encountered.  These complexities have resulted in increased
+contract cost estimates in the past and could have the same result in the
+future.  The Company could also encounter similar risks on other long-term
+contracts as well as research and development efforts, and such factors
+could impact future operating results.  In addition, the Company continues
+to seek high-technology seed programs which are intended to provide a base
+for the Company's future operations.  Such programs may require contract
+investment provisions or significant Company-sponsored research and
+development expenditures, both reflecting the Company's commitment of its
+own funds.   
+
+         Ongoing changes in many countries around the world have resulted in
+the U.S. Government reassessing its approach to national defense spending. 
+Although it is clear that defense spending will continue to decline, it is
+unclear how that spending will be redirected.  Management is continuing its
+strategic planning efforts in order to enhance the Company's ability to be
+responsive to the Government's requirements and to select products and
+business areas which will enable the Company to effectively compete and
+perform in a very demanding marketplace.  Although the uncertainties of
+future world events and the corresponding changes in national defense
+spending hang over the defense industry, the Company's products, heavily
+concentrated in the field of defense electronics, and management's constant
+thrust to improve its design, manufacturing and quality systems, provide
+the Company with the prerequisites to be competitive.  The U.S. Government
+and its suppliers continue to be the most significant customers to the
+Company and a significant reduction in one or more of the Company's major
+defense programs, existing or anticipated, could adversely effect the
+Company's future operating results.  
+
+           The Company from time to time is subject to claims and
+investigations arising from the conduct of its business with the U.S.
+Government.  Under one such investigation, the Company has supplied the
+Inspector General of the Department of Defense with certain documents
+related to the AN/ MLQ-T4 Ground Jammer program.  At this time, management
+is unable to determine when the Government will complete its investigation
+or whether the Government will seek remedies as a result of its
+investigation.  This matter and other ongoing legal matters which may
+impact future operating results are described in Note 8 to the consolidated
+financial statements.  
+
+         The Company's consolidated balance sheet at February 25, 1994 contains
+a net deferred tax asset of $2,896,000 including a valuation allowance of
+$1,180,000 primarily for the uncertainty relating to the realization of
+future income tax benefits.  The Company believes it is more likely than
+not that the majority of the net deferred tax asset will be realized
+through future reversals of existing taxable temporary differences and
+future taxable income.  The Company's conclusion that it is "more likely
+than not" that the majority of the deferred tax asset will be realized is
+based on a history of earnings, forecasted earnings for fiscal year 1995
+and the prospects for continued earnings after 1995.  However, significant
+subsequent events related to the uncertainties discussed above could have a
+material adverse effect on expected future income and, consequently, the
+realization of the Company's deferred tax asset.  The Company will continue
+to periodically review the tax criteria related to the recognition of the
+deferred tax asset.  
+
+Inflation
+
+         Because the Company's products and services are predominantly custom-
+made, the impact of inflation on operating results is typically not
+significant.  The Company attempts to alleviate inflationary pressures by
+increasing selling prices to help offset rising costs (subject to
+competitive conditions and regulatory requirements), increasing
+productivity and improving design and manufacturing techniques.  
+
+Liquidity and Capital Resources
+
+         The Company's primary source of short-term financing is from cost
+reimbursements under contracts with the U.S. Government and its suppliers. 
+That financing is supplemented, when necessary, through the liquidation of
+short-term investments and borrowings under a line of credit agreement. 
+Cash flows in fiscal year 1994 were provided through operations and
+liquidation of marketable securities, and were absorbed to repay long-term
+debt and fund capital expenditures.  At February 25, 1994, the Company has
+available cash and equivalents and liquid marketable securities of
+approximately $11,800,000, and a line of credit agreement providing for
+borrowings up to $5,000,000.  The line of credit agreement expires June 30,
+1994, at which time the Company expects to renew the agreement at
+essentially the same terms and for an amount required to satisfy its needs
+for the foreseeable future.  
+
+         The Company's second installment repayment of $3,300,000 on its 10.03%
+unsecured note obligation is due April 1994.  The Company has exercised an
+option to accelerate the repayment of an additional $1,700,000.  This
+additional payment will reduce the maturity of the unsecured note obli-
+gation from April 1998 to April 1997.  See Note 4 to the consolidated
+financial statements for the aggregate maturities of long-term borrowings
+over the next five fiscal years.  The Company's ratio of current assets to
+current liabilities decreased from 2.1 to 1 at February 26, 1993 to 2 to 1
+at February 25, 1994, and the long-term debt to equity ratio decreased from
+.4 to 1 at February 26, 1993 to .3 to 1 at February 25, 1994.   
+
+         During fiscal year 1994, the Company completed construction of a major
+building addition at its Richardson Road facility.  The total cost,
+including related expenditures, of approximately $4,300,000 was funded
+through the sale of marketable securities.  No major building additions are
+planned in fiscal year 1995 and beyond.  
+
+         In 1993, the Company agreed to pay $2,200,000 in settlement of civil
+claims pertaining to the pricing of a 1985 fixed-price contract
+modification.  The Company paid $1,100,000 in July 1993 and will pay the
+balance in July 1994.  
+
+         With a substantial amount of highly liquid assets and a strong working
+capital position at February 25, 1994, capital resources should be
+sufficient to meet the Company's operating needs for the foreseeable
+future, as well as long-term debt maturities and other anticipated cash
+outlays.  
+<PAGE>
+
+Responsibility for Financial Statements
+
+
+         The Company's management is responsible for the fair presentation of
+the financial statements and other financial information contained in this
+Annual Report.  The financial statements, which include amounts based on
+estimates and judgements, are prepared in accordance with generally accep-
+ted accounting principles.  
+
+
+         Management fulfills its responsibility primarily by establishing and
+maintaining accounting systems and practices which are adequately supported
+by internal accounting controls.  Controls are designed to provide
+reasonable assurance that assets are safeguarded, transactions are executed
+in accordance with management's authorization and the financial records are
+reliable for the purpose of preparing financial statements.  Controls
+include the selection and training of management and supervisory personnel;
+maintenance of an organizational structure providing for the delegation of
+authority and the establishment of responsibilities; communication of
+requirements for compliance with approved accounting, control and business
+practices throughout the organization; business planning and review; and a
+program of internal audit.  
+
+
+         The Board of Directors pursues its responsibility for the Company's
+financial statements through its Audit Committee comprised solely of
+outside directors, who meet periodically with the internal auditors,
+independent auditors, and representatives of management to discuss auditing
+and financial reporting matters.  The independent auditors have access to
+the Audit Committee, without management representatives present, to discuss
+the adequacy of internal accounting controls, as well as the scope and
+results of their examination and their opinion on the quality of financial
+reporting and other matters.  
+
+
+
+
+
+
+
+_______________________
+Chief Financial Officer
+
+
+<PAGE>
+                         Report of Independent Auditors
+
+
+
+To the Board of Directors and Shareholders of AEL Industries, Inc.
+
+         We have audited the accompanying consolidated balance sheets of AEL
+Industries, Inc. as of February 25, 1994 and February 26, 1993, and the
+related consolidated statements of operations, shareholders' equity and
+cash flows for each of the three years in the period ended February 25,
+1994.  These financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these financial
+statements based on our audits.  
+
+         We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.  
+
+         In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+AEL Industries, Inc. at February 25, 1994 and February 26, 1993, and the
+consolidated results of its operations and its cash flows for each of the
+three years in the period ended February 25, 1994, in conformity with
+generally accepted accounting principles.  
+
+         As discussed in the last paragraph of Note 8 to the consolidated
+financial statements, the outcome of a U.S. Government investigation
+associated with a fixed-price contract is presently not determinable.  No
+provision for any liability that may result from this matter has been made
+in the accompanying financial statements.  
+
+         As discussed in Note 5 to the consolidated financial statements, the
+Company changed its method of accounting for income taxes in fiscal year
+1993.  
+
+
+
+
+
+
+
+Philadelphia, Pennsylvania
+March 29, 1994
+<PAGE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+
+Exhibit 22
+
+                        SUBSIDIARIES OF THE REGISTRANT
+                                       
+                                       
+NAME                          STATE OR JURISDICTION OF INCORPORATION
+
+
+AEL Foreign Sales Corp.       U.S. Virgin Islands
+
+AEL Microwave/Hybrid-1983,
+Inc.                          Pennsylvania
+
+AEL International Marketing
+Services, Inc.                Delaware
+
+UltraVest Corp.               Delaware
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>ERNST & YOUNG CONSENT
+<TEXT>
+
+
+
+
+                       Consent of Independent Auditors
+
+
+We consent to the incorporation by reference in this Annual Report (Form
+10-K) of AEL Industries, Inc. of our report dated March 29, 1994, included
+in the 1994 Annual Report to Shareholders of AEL Industries, Inc.
+
+Our audits also included the financial statement schedules of AEL
+Industries, Inc. listed in Item 14(a).  These schedules are the
+responsibility of the Company's management.  Our responsibility is to
+express an opinion based on our audits.  In our opinion, the financial
+statement schedules referred to above, when considered in relation to the
+basic financial statements taken as a whole, present fairly in all material
+respects the information set forth therein.
+
+We also consent to the incorporation by reference in the Registration
+Statements pertaining to the Incentive Stock Option Plans (Form S-8 No. 2-
+87030 and No. 33-64512) and the Non-Qualified Stock Option Plans (Forms S-8
+No. 2-18195, No. 33-41025, and No. 33-64510) of AEL Industries, Inc. of our
+report dated March 29, 1994, with respect to the financial statements
+incorporated herein by reference and our report included in the preceding
+paragraph with respect to the financial statement schedules included in the
+1994 Annual Report (Form 10-K) of AEL Industries, Inc.
+
+
+
+/s/ Ernst & Young
+
+
+Philadelphia, Pennsylvania
+May 17, 1994
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

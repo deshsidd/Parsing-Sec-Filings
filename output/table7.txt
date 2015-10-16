@@ -1,0 +1,52 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+<TABLE>
+<CAPTION>
+                                                                                FOR THE YEAR ENDED MAY 31,
+                                                                               ----------------------------
+                                                                                 1997      1996      1995
+                                                                               --------  --------  --------
+                                                                                      (000S OMITTED)
+<S>                                                                            <C>       <C>       <C>
+Cash flows from operating activities:
+  Net income.................................................................  $ 23,025  $ 16,012  $ 10,463
+  Adjustments to reconcile net income to net cash provided from operating
+    activities:
+      Depreciation and amortization..........................................    12,287    10,115    10,328
+      Change in certain assets and liabilities:
+        Accounts receivable..................................................   (16,333)    2,584   (23,375)
+        Inventories..........................................................   (35,930)     (124)    2,717
+        Equipment on or available for short-term lease.......................    (3,808)   (6,247)    4,410
+        Deferred tax assets, deposits and other..............................     1,734    (4,818)    9,790
+        Accounts payable and other liabilities...............................    25,637     7,901     1,208
+        Accrued liabilities and taxes on income..............................     5,935     1,859     2,375
+        Deferred tax liabilities and other deferred credits..................    (3,016)   (2,522)   (2,661)
+                                                                               --------  --------  --------
+    Net cash provided from operating activities..............................     9,531    24,760    15,255
+                                                                               --------  --------  --------
+Cash flows from investing activities:
+  Property, plant and equipment expenditures, net............................   (30,292)   (7,547)   (9,073)
+  Investment in leveraged leases.............................................     3,299     1,047       666
+  Notes receivable and other.................................................    (4,975)    1,872      (939)
+                                                                               --------  --------  --------
+    Net cash used in investing activities....................................   (31,968)   (4,628)   (9,346)
+                                                                               --------  --------  --------
+Cash flows from financing activities:
+  Gross proceeds from issuance of long-term notes payable....................     --        --        6,186
+  Change in borrowings.......................................................    (1,474)   (1,632)   (1,085)
+  Cash dividends.............................................................    (7,976)   (7,676)   (7,650)
+  Purchases of treasury stock................................................    (8,080)   (1,552)     (177)
+  Proceeds from exercise of stock options and other..........................     8,106     1,963       905
+  Proceeds from common stock offering........................................    50,075     --        --
+                                                                               --------  --------  --------
+    Net cash provided from (used in) financing activities....................    40,651    (8,897)   (1,821)
+                                                                               --------  --------  --------
+Effect of exchange rate changes on cash......................................      (115)     (116)      325
+                                                                               --------  --------  --------
+Increase in cash and cash equivalents........................................    18,099    11,119     4,413
+Cash and cash equivalents, beginning of year.................................    33,606    22,487    18,074
+                                                                               --------  --------  --------
+Cash and cash equivalents, end of year.......................................  $ 51,705  $ 33,606  $ 22,487
+                                                                               --------  --------  --------
+                                                                               --------  --------  --------
+</TABLE>

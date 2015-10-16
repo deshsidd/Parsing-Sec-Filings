@@ -1,0 +1,813 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS    <BR>    </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=5 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH WIDTH="2%" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=8 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>For the Year Ended May&nbsp;31,</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TH>
+</TR>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=5 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>2008</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>2007</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>2006</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TH>
+</TR>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=5 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH WIDTH="2%" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=8 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>(In thousands)<BR> </B></FONT><BR></TH>
+<TH WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Cash flows provided from (used in) operating activities:</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Net income</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>75,144</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>58,660</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>35,163</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Adjustments to reconcile net income to net cash provided from (used in) operating activities:</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Depreciation and amortization</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>39,952</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>32,199</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>29,222</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Deferred tax provision&#151;continuing operations</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>13,243</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>20,411</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>8,433</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Tax benefits from exercise of stock options</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,657</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,345</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Gain on sale of product line</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,358</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Impairment charges</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>7,652</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Loss (gain) on extinguishment of debt</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>205</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(2,927</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>3,893</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Earnings from joint ventures</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,948</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(10,952</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Gain on sale of investment</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(532</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(915</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><FONT SIZE=2>Changes in certain assets and liabilities, net of acquisitions:</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Accounts and trade notes receivable</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,428</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(25,160</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(9,324</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Inventories</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(42,339</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(8,567</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(58,297</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Equipment on or available for short-term lease</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(44,689</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,259</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(12,892</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Equipment on long-term lease</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,413</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(62,491</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(76,156</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Accounts payable</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26,078</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>6,473</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>19,735</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Accrued liabilities and taxes on income</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>19,131</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,903</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,282</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Other liabilities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(6,152</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,696</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>10,493</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="50%" style="font-family:times;"><FONT SIZE=2>Other, primarily program development costs</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(17,195</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(17,867</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(3,034</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=3 style="font-family:times;"><FONT SIZE=2>Net cash provided from (used in) operating activities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>16,926</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(21,239</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(40,482</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Cash flows used in investing activities:</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Property, plant and equipment expenditures</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(30,334</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(29,891</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(16,296</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from disposal of assets</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>10</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>51</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>205</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from sale of product line</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>6,567</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from sale of available for sale securities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>23,767</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>11,612</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Investment in available for sale securities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26,179</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(10,697</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Companies acquired, net of cash</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(85,210</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(38,478</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from aircraft joint ventures</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>877</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>32,108</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>6,439</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Investment in aircraft joint ventures</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(23,609</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(9,556</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(23,245</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Other</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,287</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(845</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>272</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=3 style="font-family:times;"><FONT SIZE=2>Net cash used in investing activities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(141,965</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(39,129</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(32,625</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Cash flows provided from financing activities:</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from borrowings, net</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>267,003</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>29,491</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>155,629</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Reduction in borrowings</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(99,541</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(20,439</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(20,376</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from capital lease obligations</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,880</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Reduction in capital lease obligations</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,058</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Proceeds from sale of warrants</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>40,114</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Purchase of convertible note hedges</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(69,676</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Purchase of treasury stock</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(9,527</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Stock option exercises</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>6,169</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>8,576</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>9,402</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=4 style="font-family:times;"><FONT SIZE=2>Tax benefits from exercise of stock options</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,657</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,345</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=3 style="font-family:times;"><FONT SIZE=2>Net cash provided from financing activities</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>151,021</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>21,973</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>144,655</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Effect of exchange rate changes on cash</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>92</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(148</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Increase (decrease) in cash and cash equivalents</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>26,074</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(38,421</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>71,400</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Cash and cash equivalents, beginning of year</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>83,317</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>121,738</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>50,338</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>Cash and cash equivalents, end of year</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="10%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>109,391</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>83,317</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>121,738</FONT></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=5 style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT" style="font-family:times;"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+</TABLE>

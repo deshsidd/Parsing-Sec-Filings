@@ -1,0 +1,299 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DqfOLYVdjf4Prp/mWy2AigqDi3QE6o1O8LEdlLtg3LKtZA/QjArhg3fauQ06FjCX
+ xS/glSpcCNS4gkmOT6gn6Q==
+
+<SEC-DOCUMENT>0000902873-96-000014.txt : 19960131
+<SEC-HEADER>0000902873-96-000014.hdr.sgml : 19960131
+ACCESSION NUMBER:		0000902873-96-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951031
+FILED AS OF DATE:		19960130
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABS INDUSTRIES INC /DE/
+		CENTRAL INDEX KEY:			0000313368
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL FORGING & STAMPINGS [3460]
+		IRS NUMBER:				340074580
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09556
+		FILM NUMBER:		96508681
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 630
+		STREET 2:		4230 INTERSTATE SQ I SUITE 300
+		CITY:			WILLOUGHBY
+		STATE:			OH
+		ZIP:			44094
+		BUSINESS PHONE:		2169462274
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 630
+		STREET 2:		4230 INTERSTATE SQ I SUITE 300
+		CITY:			WILLOUGHBY
+		STATE:			OH
+		ZIP:			44094
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, D.C. 20549
+
+
+                                    FORM 12b-25
+                                                     SEC FILE NUMBER
+                                                          0-9556
+                            NOTIFICATION OF LATE FILING
+
+(Check One): /X/Form 10-K  / / Form 20-F / / Form 11-K / /  
+Form 10-Q / / Form N-SAR
+                                                      CUSIP NUMBER
+                                                      000781-10-4
+
+For Period Ended: OCTOBER 31, 1995
+[  ] Transition Report on Form 10-K
+[  ] Transition Report on Form 20-F
+[  ] Transition Report on Form 11-K
+[  ] Transition Report on Form 10-Q
+[  ] Transition Report on Form N-SAR
+For the Transition Period Ended:                                           
+
+      READ INSTRUCTIONS (ON BACK Page) BEFORE PREPARING FORM.  
+PLEASE PRINT OR TYPE.
+NOTHING IN THIS FORM SHALL BE CONSTRUED TO IMPLY THAT THE 
+COMMISSION HAS VERIFIED ANY INFORMATION CONTAINED HEREIN.
+
+If the notification relates to a portion of the filing checked 
+above, identify the Item(s) to which the notification relates:
+
+PART I - REGISTRATION INFORMATION
+ 
+                               ABS INDUSTRIES, INC.
+Former Name of Registrant
+
+
+Former Name if Applicable
+
+                            SUITE 300, INTERSTATE SQUARE
+Address of Principal Executive Office (STREET AND NUMBER)
+
+                              WILLOUGHBY, OHIO  44904
+City, State and Zip Code
+
+PART II - RULES 12b-25(b) AND (c)
+
+If the subject report could not be filed without unreasonable effort 
+or expense and the registrant seeks relief pursuant to Rule 12-25(b),
+the following should be completed.  (Check box if appropriate)
+
+       (a)  The reasons described in reasonable detail in Part III of 
+            this form could not be eliminated without unreasonable
+            effort or expense;
+       (b)  The subject annual report, semi-annual report, transition 
+            report on Form 10-K, Form 20-F, 11-K or Form N-SAR, 
+/X/         or portion thereof, will be filed on or before the 
+            fifteenth calendar day following the prescribed due date;
+            <BEGIN FOOTNOTE>See Part III<END FOOTNOTE>or the
+            subject quarterly report of transition report on 
+            Form 10-Q, or portion thereof, will be filed on or 
+            before the fifth calendar day following the prescribed 
+            due date; and
+       (c)  The accountant's statement or other exhibit required  
+            by Rule 12b-25(c) has been attached if applicable.
+<PAGE>
+
+PART III - NARRATIVE
+
+State below in reasonable detail the reasons why Forms 10-K, 20-F, 
+11-K, 10-Q, N-SAR, or the Transition report or portion thereof,
+could not be filed within the prescribed time period.
+
+          The Registrant's Form 10-K for the year ended October 31,
+          1995 cannot be timely filed for the following reasons:
+
+          (1)  In early January 1996 the registrant determined that
+               previously reported sales and results of operations 
+               for the first, second and third fiscal quarters of 
+               1995 as well as for the fiscal years ended 
+               October 31, 1994 and 1993 will require restatement 
+               because certain previously reported sales were 
+               recognized prematurely as criteria for revenue 
+               recognition had not been met.  Such restatement has 
+               not been completed as detailed below.
+
+          (2)  At the time the registrant determined to restate its
+               reported sales and results of operations it also 
+               determined to review other accounting related matters 
+               with its independent auditors and to engage an 
+               independent consultant to advise the registrant in 
+               connection with its financial status.  At such time 
+               the registrant's corporate controller was relieved 
+               of his duties and a principal of the independent 
+               consultant was appointed chief executive officer of 
+               the registrant's two operating subsidiaries.
+
+          (3)  At such time the registrant also faced a severe 
+               liquidity crisis and was working with, and 
+               continues to work with, on a daily basis, its 
+               senior lenders and major customers to reach
+               a financial accommodation.  On January 26, 1996, 
+               the registrant announced it had reached an 
+               agreement in principal with its senior lenders 
+               and certain major customers for a 90-day 
+               financing arrangement which is expected to 
+               allow the registrant sufficient time to pursue 
+               the previously announced sale of its businesses.
+
+          (4)  In connection with the foregoing, the registrant 
+               is currently reviewing financial and accounting 
+               matters with its independent consultant and 
+               independent auditors and has neither completed 
+               the restatement of its reported sales and 
+               results of operations referred to in clause (i) 
+               above nor closed its books for fiscal 1995.  
+               The registrant's review of such matters is 
+               ongoing and the registrant will complete the
+               restatement and the audit of its fiscal year 
+               ended October 31, 1995 as soon as reasonably 
+               practical.
+
+          The registrant does not expect to complete such 
+          financial information prior to the time period 
+          contemplated by paragraph (b) of Part II of this 
+          Form 12b-25.
+
+<PAGE>
+
+PART IV - OTHER INFORMATION
+
+(1)  Name and telephone number of persons to contact in regard 
+     to this notification
+
+     WILLIAM J. MCCARTHY         (216)            946-2274
+     (Name)                   (Area Code)    (Telephone Number)
+
+(2)  Have all other periodic reports required under Section 13 
+     or 15(d) of the Securities Exchange Act of 1934 or 
+     Section 30 of the Investment Company Act of 1940 during 
+     the preceding 12 months or for such shorter period that 
+     the registrant was required to file such report(s) been
+     filed?  If answer is no, identify report(s). 
+                                                /X/ Yes  / / No
+
+(3)  Is it anticipated that any significant change in results 
+     of operations from the corresponding period for the 
+     last fiscal year will be reflected by the earnings 
+     statements to be included in the subject report or 
+     portion thereof?                           /X/ Yes / / No
+
+     If so, attach an explanation of the anticipated change, 
+     both narratively and quantitatively, and, if appropriate, 
+     state the reasons why a reasonable estimate of the results 
+     cannot be made.
+
+          Due to the restatement of the registrant's reported 
+          sales and results of operations indicated above, 
+          reported results of operations will be adjusted 
+          downward.  In addition, as a result of such 
+          restatement and in light of other matters currently 
+          under review by the registrant it is anticipated 
+          that the registrant's loss of its fourth fiscal 
+          quarter of 1995 will be greater than the previously 
+          announced estimate of $2.5 million.  Because neither 
+          the restatement of the registrant's  financial 
+          statements nor the 1995 audit have been completed, 
+          a reasonable estimate of such loss cannot be 
+          quantified at this time.  However, the registrant 
+          does anticipate that the downward adjustment for 
+          the fourth fiscal quarter of 1995 will be material.
+
+<PAGE>
+
+
+                              ABS Industries, Inc. 
+                  Name of Registrant as Specified in Charter)
+
+has caused this notification to be signed on its behalf by the 
+undersigned hereunto duly authorized.
+
+Date JANUARY 30, 1996      By                                   
+                              /s/    William J. McCarthy  
+
+                                     William J. McCarthy
+                           President and Chief Executive Officer
+
+
+INSTRUCTION:  The form may be signed by an executive officer of 
+the registrant or by any other duly authorized representative.  
+The name and title of the person signing the form shall be typed 
+or printed beneath the signature.  If the statements signed on 
+behalf of the registrant by an authorized representative (other 
+than an executive officer), evidence of the representative's 
+authority to sign on behalf of the registrant shall be filed 
+with the form.
+
+                             ATTENTION                        
+
+
+INTENTIONAL MISSTATEMENTS OR OMISSIONS OF FACT CONSTITUTE 
+FEDERAL CRIMINAL VIOLATIONS (SEE 18 U.S.C. 1001).
+
+                      GENERAL INSTRUCTIONS
+
+1.   This form is required by Rule 12b-25 (17 CFR 240.12b-25) 
+     of the General Rules and Regulations under the Securities
+     Exchange Act of 1934.
+
+2.   One signed original and four conformed copies of this 
+     form and amendments thereto must be completed and filed 
+     with the Securities and Exchange Commission, Washington, 
+     D.C. 20549, in accordance with Rule 0-3 of the General 
+     Rules and Regulations under the Act.  The information 
+     contained in or filed with the form will be made a matter 
+     of public record in the Commission files.
+
+3.   A manually signed copy of the form and amendments thereto 
+     shall be filed with each national securities exchange on 
+     which any class of securities of the registrant is 
+     registered.
+
+4.   Amendments to the notifications must be also be filed on 
+     12b-25 but need not restate information that has been 
+     correctly furnished.  The form shall be clearly 
+     identified as an amended notification.
+
+5.   ELECTRONIC FILERS.  This form shall not be used by 
+     electronic filers unable to timely file a report solely 
+     due to electronic difficulties.  Filers unable to submit 
+     a report within the time period prescribed due to 
+     difficulties in electronic filing should comply with 
+     either Rule 201 or Rule 202 of Regulation  S-T 
+     (Section 232.201 or Section 232.202 of this chapter) 
+     or apply for an adjustment in filing date pursuant to 
+     Rule 13(b) of Regulation S-T (Section 232.13(b) of 
+     this chapter).
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

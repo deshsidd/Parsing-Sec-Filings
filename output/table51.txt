@@ -1,0 +1,58 @@
+CONSOLIDATED STATEMENT OF CASH FLOWS
+<TABLE>
+<CAPTION>
+- ----------------------------------------------------------------------------------------------------------
+
+Years ended June 30,                                              2004            2003              2002
+- ----------------------------------------------------------------------------------------------------------
+Cash flows from operating activities:
+<S>                                                            <C>            <C>            <C>
+  Net income (loss)                                            $ 1,345,467    $(1,515,407)   $    84,002
+  Adjustments to reconcile net income (loss) to
+   net cash provided by operating activities:
+    Depreciation and amortization                                  159,823        202,685        354,688
+    Loss on disposal of property and equipment                      11,685           --             --
+    Cumulative effect of change in accounting principle               --        1,297,069           --
+    Reclassification of translation adjustments included
+     in net loss                                                      --           11,149           --
+    Provision for losses on accounts receivable                      5,989         49,344         64,248
+    Change in assets and liabilities:
+      (Increase) decrease in accounts receivable                  (260,268)       179,368        134,105
+      (Increase) decrease in inventories                          (222,005)       334,069        331,329
+      (Increase) decrease in prepaid expenses and other
+        current assets                                            (168,288)        41,499         (9,871)
+      Decrease (increase) in other assets                           53,391         64,419        (57,584)
+      Increase (decrease) in accounts payable                        6,171       (359,986)       375,871
+      (Decrease) increase in accrued expenses                      (78,819)       158,058       (125,847)
+      Increase in deferred rent                                     27,389           --             --
+- ---------------------------------------------------------------------------------------------------------
+         Net cash provided by operating activities                 880,535        462,267      1,150,941
+- ---------------------------------------------------------------------------------------------------------
+Cash flows from investing activities:
+  Proceeds from sale of graphic arts business                         --             --          340,815
+  Purchases of property and equipment                             (107,512)      (221,154)       (34,008)
+- ---------------------------------------------------------------------------------------------------------
+         Net cash provided by (used in) investing activities      (107,512)      (221,154)       306,807
+- ---------------------------------------------------------------------------------------------------------
+Cash flows from financing activities:
+  Borrowing of debt                                                   --          226,838      1,801,065
+  Repayments of debt                                            (1,099,168)      (327,777)    (2,942,287)
+- ---------------------------------------------------------------------------------------------------------
+         Net cash used in financing activities                  (1,099,168)      (100,939)    (1,141,222)
+- ---------------------------------------------------------------------------------------------------------
+Exchange rate effects on cash and cash equivalents                    --            1,470          1,692
+- ---------------------------------------------------------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents              (326,145)       141,644        318,218
+
+Cash and cash equivalents at beginning of year                     658,138        516,494        198,276
+- ---------------------------------------------------------------------------------------------------------
+Cash and cash equivalents at end of year                       $   331,993    $   658,138    $   516,494
+=========================================================================================================
+Supplemental disclosures of cash flow information:
+
+  Cash paid during the year for:
+    Interest                                                   $   161,266    $   213,040    $   298,631
+=========================================================================================================
+    Income taxes                                               $    13,528    $    19,702    $    16,115
+=========================================================================================================
+</TABLE>

@@ -1,0 +1,44 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For The Years Ended October 31 (In Thousands)
+<TABLE>
+<CAPTION>
+
+
+                                                               1997           1996           1995
+                                                             ---------      ---------      ---------
+<S>                                                          <C>            <C>            <C>
+OPERATING ACTIVITIES:
+Net income                                                   $ 108,837      $  87,463      $  55,186
+Adjustments to reconcile net income to net cash
+from operating activities:
+   Non-recurring charges                                        22,700             --          3,914
+   Depreciation and amortization                                49,843         33,794         26,341
+   Reduction in deferred compensation                              962            781            966
+   Decrease in deferred income taxes                            (6,789)        (3,448)        (4,652)
+   Other                                                           (93)            28            455
+   Changes in assets and liabilities
+       Accounts receivable                                     (72,693)       (45,767)       (31,130)
+       Inventories                                             (34,441)       (35,100)       (21,466)
+       Prepaids and other assets                                (7,863)        (3,048)        (2,455)
+       Accounts payable                                          5,921         15,104          6,559
+       Accrued liabilities                                      13,329         13,650         10,541
+           Total cash from operating activities                 79,713         63,457         44,259
+
+INVESTING ACTIVITIES:
+Property and equipment additions, net                         (119,030)       (69,057)       (32,456)
+Acquisition payments                                           (33,917)       (49,291)        (4,676)
+Long-term investments                                           (3,523)        (7,268)        (8,139)
+           Total cash used for investing activities           (156,470)      (125,616)       (45,271)
+
+FINANCING ACTIVITIES:
+Decrease in long-term debt                                      (5,279)        (4,897)          (400)
+Common stock sold                                                9,534         11,696        190,671
+           Total cash from financing activities                  4,255          6,799        190,271
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH                           (925)            90           (280)
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS               (73,427)       (55,270)       188,979
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD                 183,221        238,491         49,512
+CASH AND CASH EQUIVALENTS, END OF PERIOD                     $ 109,794      $ 183,221      $ 238,491
+SUPPLEMENTAL DISCLOSURES:
+   Income taxes paid                                         $  55,209      $  46,129      $  27,549
+</TABLE>

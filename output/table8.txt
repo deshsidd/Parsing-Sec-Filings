@@ -1,0 +1,1013 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS</font></b></p>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="197" colspan="9" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:147.55pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">For&nbsp;the&nbsp;Year&nbsp;Ended&nbsp;May&nbsp;31,</font></b></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">2003</font></b></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">2002</font></b></p>
+  </td>
+  <td width="16" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">2001</font></b></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="197" colspan="9" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:147.55pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">(In&nbsp;thousands)</font></b></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="font-weight:bold;line-height:8.0pt;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash flows from
+  operating activities:</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Net income (loss)</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="7" valign="bottom" style="padding:0pt 0pt 0pt 0pt 0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="47" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:35.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(12,410</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="7" valign="bottom" style="padding:0pt 0pt 0pt 0pt 0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="50" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:37.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(58,939</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="7" colspan="2" valign="bottom" style="padding:0pt 0pt 0pt 0pt 0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="48" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:36.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">18,531</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Adjustments to
+  reconcile net income (loss) to net cash provided from (used in) operating
+  activities:</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Depreciation and amortization</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">27,172</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">22,496</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">20,639</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Deferred taxes</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3,376</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2,394</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(312</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Impairment and other special charges, net of tax</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3,484</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">51,686</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Changes in
+  certain assets and liabilities, excluding effects of acquired businesses:</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Accounts receivable</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">16,517</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">24,363</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">20,712</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Inventories</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">17,755</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(31,749</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">17,887</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Equipment on or available for short-term lease</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5,232</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12,229</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">294</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Equipment on long-term lease</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1,796</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(30,025</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Accounts and trade notes payable</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2,841</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(25,261</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(35,034</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Accrued liabilities and taxes on income</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(14,423</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5,861</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">79</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 40.3pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Other, primarily prepaids</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(581</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2,171</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2,919</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Net cash provided from (used in) operating
+  activities</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">34,733</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(33,904</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">45,715</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash flows from
+  investing activities:</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Property, plant and equipment expenditures</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(9,930</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(12,112</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(13,134</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proceeds from disposal of assets</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">113</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">589</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">378</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Business acquisition</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(13,251</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3,200</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proceeds from sale of business and facility</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2,969</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2,229</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investment in leveraged leases</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1,694</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(373</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5,446</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Other</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1,530</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1,470</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">13,029</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Net cash provided from (used in) investing activities</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(6,684</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(24,388</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2,519</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash flows from
+  financing activities:</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proceeds from borrowings</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">24,000</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">115,504</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Reduction in borrowings</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(56,643</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(65,411</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(26,364</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proceeds from stock offering</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">34,334</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash dividends</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(797</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4,430</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(9,157</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Purchases of treasury stock</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p align="center" style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#151;</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(205</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(211</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 20.15pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Other</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">90</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(897</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">116</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 30.25pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Net cash provided from (used in) financing
+  activities</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(33,350</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">78,895</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(35,616</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:6.0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Effect of exchange rate changes on cash</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(67</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">110</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:6.0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(50</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:6.0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Increase
+  (decrease) in cash and cash equivalents</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(5,368</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">)</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">20,713</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12,568</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;page-break-after:avoid;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash and cash
+  equivalents, beginning of year</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="54" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:40.55pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">34,522</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="57" colspan="2" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:42.45pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">13,809</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55" colspan="3" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.3pt;">
+  <p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1,241</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr bgcolor="#CCEEFF">
+  <td width="389" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:291.75pt;">
+  <p style="margin:0pt 0pt .0001pt 10.1pt;text-indent:-10.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cash and cash
+  equivalents, end of year</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="7" valign="bottom" style="border:none;border-bottom:double windowtext 2.25pt;padding:0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="47" valign="bottom" style="border-bottom:double windowtext 2.25pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:35.55pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">29,154</font></p>
+  </td>
+  <td width="16" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:12.0pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="7" valign="bottom" style="border:none;border-bottom:double windowtext 2.25pt;padding:0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="50" valign="bottom" style="border-bottom:double windowtext 2.25pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:37.45pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">34,522</font></p>
+  </td>
+  <td width="15" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:11.25pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="7" colspan="2" valign="bottom" style="border:none;border-bottom:double windowtext 2.25pt;padding:0pt 0pt 0pt 0pt;width:5.0pt;">
+  <p align="left" style="margin:0pt 0pt .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">$</font></p>
+  </td>
+  <td width="48" valign="bottom" style="border-bottom:double windowtext 2.25pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:36.3pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">13,809</font></p>
+  </td>
+  <td width="6" valign="bottom" style="padding:0pt .7pt 0pt 0pt 0pt .7pt 0pt 0pt;width:4.4pt;">
+  <p style="margin:0pt 0pt .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr height="0">
+  <td width="389" style="border:none;"></td>
+  <td width="16" style="border:none;"></td>
+  <td width="7" style="border:none;"></td>
+  <td width="47" style="border:none;"></td>
+  <td width="16" style="border:none;"></td>
+  <td width="7" style="border:none;"></td>
+  <td width="50" style="border:none;"></td>
+  <td width="15" style="border:none;"></td>
+  <td width="1" style="border:none;"></td>
+  <td width="6" style="border:none;"></td>
+  <td width="48" style="border:none;"></td>
+  <td width="6" style="border:none;"></td>
+ </tr>
+</table>

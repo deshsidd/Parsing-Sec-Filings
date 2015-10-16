@@ -1,0 +1,59 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+                         FOR THE YEARS ENDED OCTOBER 31
+
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+
+                                                                           1993           1992           1991
+                                                                      -----------    -----------     ----------
+<S>                                                                    <C>            <C>            <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                                                             $  31,636      $  21,026      $  22,025
+Adjustments to reconcile net income to net cash from
+     operating activities -
+   Depreciation and amortization                                          20,587         19,878         17,954
+   Reduction in deferred compensation                                        814            776            464
+   Decrease in deferred income taxes                                        (444)          (243)          (840)
+   Changes in assets and liabilities
+      Accounts receivable                                                (19,416)        (6,041)         3,987
+      Inventories                                                         (9,215)         1,364         (2,114)
+      Prepaid income taxes and other assets                               (3,586)          (921)        (1,996)
+      Accounts payable                                                     2,967            560         (2,121)
+      Accrued liabilities                                                  6,105         (1,644)          (192)
+                                                                       ---------      ---------      ---------
+           Total cash from operating activities                           29,448         34,755         37,167
+                                                                       ---------      ---------      ---------
+
+CASH FLOWS FROM INVESTMENT ACTIVITIES:
+   Property and equipment additions, net                                 (21,243)       (15,780)       (24,567)
+   Acquisition payments                                                   (2,199)            --        (49,289)
+   Investment in technology                                                 (763)            --             --
+   Long-term investments                                                  (1,835)            --             --
+                                                                       ---------      ---------      ---------
+          Total cash used for investment activities                      (26,040)       (15,780)       (73,856)
+                                                                       ---------      ---------      ---------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Increase (decrease) in long-term debt                                 (13,324)       (30,612)        38,948
+   Common stock issued                                                     5,756          2,012          1,872
+                                                                       ---------      ---------      ---------
+          Total cash from (used for) financing activities                 (7,568)       (28,600)        40,820
+                                                                       ---------      ---------      ---------
+
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                          (4,160)        (9,625)         4,131
+
+CASH AND CASH EQUIVALENTS, beginning of period                            20,484         30,109         25,978
+                                                                       ---------      ---------      ---------
+
+CASH AND CASH EQUIVALENTS, end of period                               $  16,324      $  20,484      $  30,109
+                                                                       ---------      ---------      ---------
+                                                                       ---------      ---------      ---------
+
+SUPPLEMENTAL DISCLOSURES:
+   Interest paid                                                       $     308      $   2,271      $   1,402
+   Income taxes paid                                                   $  18,206      $  13,361      $  13,242
+                                                                       ---------      ---------      ---------
+                                                                       ---------      ---------      ---------
+</TABLE>

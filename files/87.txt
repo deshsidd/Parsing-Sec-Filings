@@ -1,0 +1,1514 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NbacM9gbuFujTlI9FcnlFDh8ODLCY4yKT82qV9ESmq3cQLnobSLSAi47Ws08JJKX
+ kk70CqKBySaraJK/xcixFA==
+
+<SEC-DOCUMENT>0000006201-06-000049.txt : 20060717
+<SEC-HEADER>0000006201-06-000049.hdr.sgml : 20060717
+<ACCEPTANCE-DATETIME>20060717164825
+ACCESSION NUMBER:		0000006201-06-000049
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060717
+DATE AS OF CHANGE:		20060717
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMR CORP
+		CENTRAL INDEX KEY:			0000006201
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				751825172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08400
+		FILM NUMBER:		06965339
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76155
+		BUSINESS PHONE:		8179631234
+
+	MAIL ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			75261-9616
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ar0510ka.txt
+<DESCRIPTION>AMR CORPORATION 10K/A
+<TEXT>
+
+
+                             United States
+                  Securities and Exchange Commission
+                        Washington, D.C. 20549
+                      ___________________________
+
+                              Form 10-K/A
+                           (Amendment No. 1)
+
+    x  Annual Report Pursuant to Section 13 or 15(d) of the Securities
+                         Exchange Act of 1934
+              For the fiscal year ended December 31, 2005
+
+   Transition Report Pursuant to Section 13 or 15(d) of the Securities
+                         Exchange Act of 1934
+
+
+                    Commission File Number:  1-8400
+                            AMR Corporation
+        (Exact name of registrant as specified in its charter)
+
+           Delaware                              75-1825172
+(State or other jurisdiction of                (IRS Employer
+incorporation or organization)             Identification Number)
+                        4333 Amon Carter Blvd.
+                        Fort Worth, Texas 76155
+     (Address of principal executive offices, including zip code)
+
+                            (817) 963-1234
+         (Registrant's telephone number, including area code)
+                    ______________________________
+
+      Securities registered pursuant to Section 12(b) of the Act:
+
+      Title of Each Class                Name of Exchange on Which Registered
+Common Stock, $1 par value per share      New York Stock Exchange
+   9.00% Debentures due 2016              New York Stock Exchange
+7.875% Public Income Notes due 2039       New York Stock Exchange
+
+
+      Securities registered pursuant to Section 12(g) of the Act:
+                                 None
+                    ______________________________
+
+Indicate  by  check  mark if the registrant is a  well-known  seasoned
+issuer, as defined in Rule 405 of the Securities Act.
+x Yes      No
+
+Indicate  by  check  mark if the registrant is not  required  to  file
+reports pursuant to Section 13 or Section 15(d) of the Act.
+  Yes    x No
+
+Indicate  by  check  mark whether the registrant  (1)  has  filed  all
+reports  required to be filed by Section 13 or 15(d) of the Securities
+Exchange  Act  of  1934 during the preceding 12 months  (or  for  such
+shorter period that the registrant was required to file such reports),
+and  (2) has been subject to such filing requirements for the past  90
+days.   x  Yes     No
+
+Indicate by check mark if disclosure of delinquent filers pursuant  to
+Item  405 of Regulation S-K is not contained herein, and will  not  be
+contained,  to  the best of the registrant's knowledge, in  definitive
+proxy or information statements incorporated by reference in Part  III
+of this Form 10-K or any amendment to this Form 10-K.  x
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer.  See
+definition of "accelerated filer" and "large accelerated filer" in
+Rule 12b-2 of the Exchange Act.
+x Large Accelerated Filer    Accelerated Filer    Non-accelerated Filer
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act).   Yes  x No
+
+The  aggregate market value of the voting stock held by non-affiliates
+of the registrant as of June 30, 2005, was approximately $2.0 billion.
+As of February 17, 2006, 186,117,892 shares of the registrant's common
+stock were outstanding.
+
+                  DOCUMENTS INCORPORATED BY REFERENCE
+Part III of this Form 10-K incorporates by reference certain
+information from the Proxy Statement for the Annual Meeting of
+Stockholders to be held May 17, 2006.
+
+
+                           EXPLANATORY NOTE
+
+
+In  response  to  comments raised by the Staff of the  Securities  and
+Exchange Commission, this Form 10-K/A (Amendment No. 1) is being filed
+by   AMR   Corporation  (the  Company)  to  supplement  the  Company's
+description of its decision to change the depreciable lives of certain
+of  its  aircraft  types in Management's Discussion  and  Analysis  of
+Financial Condition and Results of Operations (MD&A) in the Form  10-K
+for  the  year ended December 31, 2005 that was originally filed  with
+the Securities and Exchange Commission on February 24, 2006.
+
+As the amendment only relates to Item 7, MD&A, the previously issued
+consolidated financial statements and footnotes thereto are unchanged.
+No attempt has been made in this Form 10-K/A to modify or update
+disclosures in the original report on Form 10-K (original Form 10-K)
+except as required to address the additional description of the change
+in depreciable lives.  This Form 10-K/A does not reflect events
+occurring after the filing of the original Form 10-K or modify or
+update any related disclosures.  Information not affected by the
+amendment is unchanged and reflects the disclosure made at the time of
+the filing of the original Form 10-K with the Securities and Exchange
+Commission on February 24, 2006.  Accordingly, this Form 10-K/A should
+be read in conjunction with the original Form 10-K and the Company's
+filings made with the Securities and Exchange Commission subsequent to
+the filing of the original Form 10-K, including any amendments to
+those filings.
+
+In accordance with Rule 12b-15 promulgated under the Securities and
+Exchange Act of 1934, as amended, the complete text of Item 7, MD&A,
+is set forth herein, including those portions of the text that have
+not been amended from that set forth in the original Form 10-K.  The
+only changes to the text in Item 7 of the original Form 10-K are as
+follows:
+
+  -  The paragraph under Results of Operations (page 33 of the
+     original Form 10-K) was amended to detail the location of additional
+     description related to the change in depreciable lives of the
+     Company's aircraft.
+
+  -  A paragraph was added to Result of Operations (page 33 of the
+     original Form 10-K).
+
+  -  Three paragraphs were added to the Critical Accounting Policies
+     discussion of Long-lived assets (page 40 of the original Form 10-K).
+
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+       FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Forward-Looking Information
+
+The  discussions  under Business, Risk Factors, Properties  and  Legal
+Proceedings   and   the  following  discussions   under   Management's
+Discussion  and  Analysis  of  Financial  Condition  and  Results   of
+Operations  and Quantitative and Qualitative Disclosures about  Market
+Risk contain various forward-looking statements within the meaning  of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E
+of  the  Securities Exchange Act of 1934, as amended, which  represent
+the  Company's expectations or beliefs concerning future events.  When
+used  in  this  document  and  in  documents  incorporated  herein  by
+reference,  the words "expects," "plans," "anticipates,"  "indicates,"
+"believes,"   "forecast,"   "guidance,"  "outlook,"   "may,"   "will,"
+"should,"  and  similar expressions are intended to identify  forward-
+looking   statements.  Forward-looking  statements  include,   without
+limitation,  the  Company's  expectations  concerning  operations  and
+financial  conditions,  including changes in capacity,  revenues,  and
+costs,  future financing plans and needs, overall economic conditions,
+plans  and  objectives for future operations, and the  impact  on  the
+Company  of  its  results  of  operations  in  recent  years  and  the
+sufficiency  of its financial resources to absorb that  impact.  Other
+forward-looking  statements include statements  which  do  not  relate
+solely  to  historical facts, such as, without limitation,  statements
+which  discuss the possible future effects of current known trends  or
+uncertainties,  or  which indicate that the future  effects  of  known
+trends  or  uncertainties cannot be predicted, guaranteed or  assured.
+All   forward-looking  statements  in  this  report  are  based   upon
+information  available to the Company on the date of this report.  The
+Company  undertakes  no obligation to publicly update  or  revise  any
+forward-looking  statement, whether as a result  of  new  information,
+future  events, or otherwise. The Risk Factors listed in Item  1A,  in
+addition  to  other  possible  factors not  listed,  could  cause  the
+Company's actual results to differ materially from historical  results
+and from those expressed in forward-looking statements.
+
+Overview
+
+The  Company  has incurred very large operating and net losses  during
+the past five years, as shown in the following table:
+                             Year ended December 31,
+(in millions)      2005        2004       2003       2002        2001
+
+Operating loss     $ (93)      $(144)     $  (844)   $(3,300)    $(2,470)
+Net loss            (861)       (761)      (1,228)    (3,511)     (1,762)
+
+
+These  losses reflect, among other things, a substantial  decrease  in
+the  Company's  revenues in 2001 and 2002. This revenue  decrease  was
+primarily driven by (i) a steep fall-off in the demand for air travel,
+particularly business travel, primarily caused by weakness in the U.S.
+economy,  (ii)  reduced pricing power, resulting mainly  from  greater
+cost  sensitivity  on  the  part  of  travelers  (especially  business
+travelers),  increasing competition from LCCs,  and  the  use  of  the
+Internet  and  (iii)  the  aftermath of the Terrorist  Attacks,  which
+accelerated and exacerbated the trend of decreased demand and  reduced
+industry revenues. Subsequent to 2002, passenger traffic significantly
+improved,  reflecting  a  general  economic  improvement.   In   2005,
+mainline passenger load factor increased 3.8 points year-over-year  to
+78.6  percent.   In addition, mainline passenger revenue  yield  began
+rebounding in 2005 and increased 4.0 percent year-over-year.  However,
+passenger  revenue  yield remains depressed by  historical  standards.
+The  Company believes this depressed passenger yield is the result  of
+its  reduced pricing power resulting from the factors listed in clause
+(ii) above, and other factors, which the Company believes will persist
+indefinitely and possibly permanently.
+
+
+                                1
+
+
+The  Company's  2004  and 2005 financial results were  also  adversely
+affected  by  significant increases in the price  of  jet  fuel.   The
+average  price per gallon of fuel increased 33.9 cents  from  2003  to
+2004  and  51.9  cents  from  2004  to  2005.  These  price  increases
+negatively  impacted fuel expense by $1.1 billion and $1.7 billion  in
+2004  and  2005, respectively. Continuing high fuel prices, additional
+increases  in the price of fuel, and/or disruptions in the  supply  of
+fuel, would further adversely affect the Company's financial condition
+and its results of operations.
+
+In  response to the challenges faced by the Company, during  the  past
+five years the Company has implemented several restructuring and other
+initiatives:
+
+- - Following  the  Terrorist  Attacks,  the  Company  reduced  its
+  operating  schedule  by  approximately 20 percent  and  reduced  its
+  workforce by approximately 20,000 jobs.
+
+- - In 2002, the Company announced a series of initiatives to reduce
+  its  annual  costs by $2 billion.  These initiatives  involved:  (i)
+  scheduling efficiencies, (ii) fleet simplification, (iii) streamlined
+  customer interaction, (iv) distribution modifications, (v) in-flight
+  product    changes,    (vi)   operational    changes    and    (vii)
+  headquarters/administration efficiencies.   As  a  result  of  these
+  initiatives,  the Company reduced an estimated 7,000 jobs  by  March
+  2003.
+
+- - In February 2003, American asked its employees for approximately
+  $1.8  billion in annual savings through a combination of changes  in
+  wages,  benefits  and work rules.  In April 2003,  American  reached
+  agreements  with  its three unions (the Labor Agreements)  and  also
+  implemented various changes in the pay plans and benefits  for  non-
+  unionized  personnel, including officers and other  management  (the
+  Management Reductions). The Labor Agreements and Management Reductions
+  resulted in an estimated $1.8 billion in annual savings and included a
+  workforce  reduction of approximately 9,300 jobs. In  addition,  the
+  Company  and American reached concessionary agreements with  certain
+  vendors,  lessors, lenders and suppliers (collectively, the Vendors,
+  and the agreements, the Vendor Agreements), resulting in an estimated
+  $200 million in annual cost savings.  Generally, under the terms  of
+  these Vendor Agreements, the Company or American received the benefit
+  of  lower rates and charges for certain goods and services, and more
+  favorable  rent and financing terms with respect to certain  of  its
+  aircraft.
+
+- - Subsequent  to  the April 2003 Labor Agreements  and  Management
+  Reductions, the Company announced the Turnaround Plan.  The Turnaround
+  Plan is the Company's strategic framework for returning to sustained
+  profitability and emphasizes: (i) lower costs, (ii) an increased focus
+  on  what  customers' truly value and are prepared to pay for,  (iii)
+  increased  union  and employee involvement in the operation  of  the
+  Company and (iv) the need for a more sound balance sheet and financial
+  structure.
+
+- - Subsequent  to  the  announcement of the  Turnaround  Plan,  the
+  Company  has  worked with its unions and employees to  identify  and
+  implement additional initiatives designed to increase efficiencies and
+  revenues and reduce costs.  These initiatives included: (i) the return
+  of under-used gate space and the consolidation of terminal space, (ii)
+  the de-peaking of its hub at Miami, the reduction in the size of its
+  St. Louis hub and the simplification of its domestic operations, (iii)
+  the  acceleration  of  the retirement of certain  aircraft  and  the
+  cancellation or deferral of aircraft deliveries, (iv) the improvement
+  of  aircraft utilization across its fleet and an increase in seating
+  density  on  certain fleet types, (v) the sale of  certain  non-core
+  assets,  (vi) the expansion of its international network, where  the
+  Company   believes  that  higher  revenue  generating  opportunities
+  currently exist, (vii) the implementation of an on-board food purchase
+  program and new fees for ticketing and baggage services, (viii) lower
+  distribution  costs,  (ix) the implementation of  fuel  conservation
+  initiatives,  (x) the increase in third-party maintenance  contracts
+  obtained  by  the Company's Maintenance and Engineering group,  (xi)
+  upgrading of flight navigation systems to provide more direct routings
+  and (xii) numerous other initiatives.
+
+- - As part of its effort to build greater employee involvement, the
+  Company  has  sought to make its labor unions and its employees  its
+  business  partners in working for continuous improvement  under  the
+  Turnaround  Plan. Among other things, the senior management  of  the
+  Company meets regularly with union officials to discuss the Company's
+  financial  results  as  well  as the competitive  landscape.   These
+  discussions include (i) the Company's own cost reduction and revenue
+  enhancement  initiatives, (ii) a review of initiatives, in-place  or
+  contemplated, at other airlines and the impact of those initiatives on
+  the  Company's  competitive  position, and  (iii)  benchmarking  the
+  Company's revenues and costs against what would be considered "best in
+  class" (the Company's Performance Leadership Initiative).
+
+
+                                2
+
+
+
+These  initiatives  have  significantly improved  the  Company's  cost
+structure  and  resulted  in the Company achieving  what  the  Company
+believes  to  be the lowest unit costs of the traditional carriers  in
+2004.  However, a significant number of the Company's competitors have
+recently   reorganized  or  are  reorganizing,  including  under   the
+protection  of  Chapter  11 of the Bankruptcy Code,  including  Delta,
+United, US Airways and Northwest.  These competitors are significantly
+reducing  their cost structures through bankruptcy, resulting  in  the
+Company's cost structure once again becoming less competitive.
+
+The Company's ability to become profitable and its ability to continue
+to fund its obligations on an ongoing basis will depend on a number of
+factors, many of which are largely beyond the Company's control.  Some
+of  the  risk factors that affect the Company's business and financial
+results  are discussed in the Risk Factors listed in Item 1A.  As  the
+Company seeks to improve its financial condition, it must continue  to
+take  steps  to generate additional revenues and significantly  reduce
+its  costs. Although the Company has a number of initiatives  underway
+to  address  its cost and revenue challenges, the ultimate success  of
+these initiatives is not known at this time and cannot be assured.  It
+will  be  very  difficult,  absent  continued  restructuring  of   its
+operations, for the Company to continue to fund its obligations on  an
+ongoing  basis,  or  to  become profitable, if  the  overall  industry
+revenue  environment  does not continue to  improve  and  fuel  prices
+remain at historically high levels for an extended period.
+
+
+                                3
+
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash, Short-Term Investments and Restricted Assets
+
+At  December  31,  2005, the Company had $3.8 billion in  unrestricted
+cash  and  short-term investments and $510 million in restricted  cash
+and short-term investments.
+
+Significant Indebtedness and Future Financing
+
+Substantial  indebtedness is a significant  risk  to  the  Company  as
+discussed  in the Risk Factors listed in Item 1A.  During  2003,  2004
+and  2005, in addition to refinancing its Credit Facility and  certain
+debt  with  an  institutional investor (see Note 6 to the consolidated
+financial   statements),   the  Company   raised   an   aggregate   of
+approximately  $4.5  billion of financing to fund capital  commitments
+(mainly  for aircraft and ground properties) and operating losses  and
+to  bolster  its  liquidity. As of the date of  this  Form  10-K,  the
+Company believes that it should have sufficient liquidity to fund  its
+operations for the foreseeable future, including repayment of debt and
+capital   leases,   capital   expenditures   and   other   contractual
+obligations.  However, to maintain sufficient liquidity as the Company
+continues   to   implement  its  restructuring  and   cost   reduction
+initiatives, and because the Company has significant debt,  lease  and
+other  obligations in the next several years, as well  as  substantial
+pension funding obligations (refer to Contractual Obligations in  this
+Item  7),  the  Company  will need access to additional  funding.  The
+Company's possible financing sources primarily include: (i) a  limited
+amount  of additional secured aircraft debt (a very large majority  of
+the Company's owned aircraft, including virtually all of the Company's
+Section  1110-eligible  aircraft, are  encumbered)  or  sale-leaseback
+transactions  involving  owned aircraft,  (ii)  debt  secured  by  new
+aircraft  deliveries,  (iii)  debt  secured  by  other  assets,   (iv)
+securitization  of  future  operating  receipts,  (v)  the   sale   or
+monetization  of certain assets, (vi) unsecured debt and (vii)  equity
+and/or equity-like securities. However, the availability and level  of
+these  financing sources cannot be assured, particularly in  light  of
+the  Company's  and  American's recent financial results,  substantial
+indebtedness,  reduced credit ratings, high fuel prices,  historically
+weak revenues and the financial difficulties being experienced in  the
+airline  industry.  The inability of the Company to obtain  additional
+funding  on acceptable terms would have a material adverse  impact  on
+the  ability of the Company to sustain its operations over  the  long-
+term.
+
+Credit Ratings
+
+AMR's and American's credit ratings are significantly below investment
+grade.  Additional  reductions in AMR's or American's  credit  ratings
+could  further  increase  its borrowing or  other  costs  and  further
+restrict the availability of future financing.
+
+Credit Facility Covenants
+
+American  has  a  credit facility consisting of  a  fully  drawn  $540
+million  senior  secured  revolving  credit  facility,  with  a  final
+maturity  on June 17, 2009, and a fully drawn $248 million  term  loan
+facility,  with  a final maturity on December 17, 2010 (the  Revolving
+Facility  and  the Term Loan Facility, respectively, and collectively,
+the Credit Facility). American's obligations under the Credit Facility
+are guaranteed by AMR.
+
+
+                                4
+
+
+
+The  Credit  Facility  contains a covenant  (the  Liquidity  Covenant)
+requiring  American  to  maintain,  as  defined,  unrestricted   cash,
+unencumbered short term investments and amounts available for  drawing
+under  committed  revolving credit facilities of not less  than  $1.25
+billion  for each quarterly period through the remaining life  of  the
+credit  facility.  American  was  in  compliance  with  the  Liquidity
+Covenant as of December 31, 2005 and expects to be able to continue to
+comply  with this covenant.  In addition, the Credit Facility contains
+a covenant (the EBITDAR Covenant) requiring AMR to maintain a ratio of
+cash flow (defined as consolidated net income, before interest expense
+(less   capitalized   interest),  income   taxes,   depreciation   and
+amortization and rentals, adjusted for certain gains or losses and non-
+cash  items)  to  fixed  charges (comprising  interest  expense  (less
+capitalized  interest) and rentals).  AMR was in compliance  with  the
+EBITDAR  covenant as of December 31, 2005 and expects to  be  able  to
+continue to comply with this covenant for the period ending March  31,
+2006.   However,  given the historically high price of  fuel  and  the
+volatility  of  fuel  prices and revenues, it is difficult  to  assess
+whether AMR and American will, in fact, be able to continue to  comply
+with  the Liquidity Covenant and, in particular, the EBITDAR Covenant,
+and  there  are no assurances that AMR and American will  be  able  to
+comply  with these covenants.  Failure to comply with these  covenants
+would  result in a default under the Credit Facility which - - if  the
+Company  did  not  take  steps to obtain a  waiver  of,  or  otherwise
+mitigate,  the  default  -  -  could  result  in  a  default  under  a
+significant  amount of the Company's other debt and lease  obligations
+and  otherwise  adversely  affect the Company.   See  Note  6  to  the
+consolidated  financial  statements for the required  ratios  at  each
+measurement date through the life of the Credit Facility.
+
+Cash Flow Activity
+
+The  Company,  or  its subsidiaries, recorded the following  debt (1)
+during the year ended December 31, 2005 (in millions):
+
+  JFK Facilities Sublease Revenue Bonds, net (2)           $ 491
+  Sale and leaseback of spare engines                        133
+  Re-marketing of DFW-FIC Revenue Refunding Bonds,
+    Series 2000A,maturing 2029                               198
+  Various debt agreements related to the purchase of
+    regional jet aircraft, net                               319
+
+
+                                                          $1,141
+
+   (1) The  table does not include a transaction in which American
+       purchased certain obligations due October 2006 with a face value of
+       $261  million at par value from an institutional investor. In
+       conjunction with the purchase, American borrowed an additional $245
+       million under an existing mortgage agreement with a final maturity in
+       December 2012 from the same investor.
+   (2) Amount shown is net of $207 million the Company will receive to
+       fund future capital spending at JFK, $77 million held by a trustee for
+       future debt service on the bonds and a discount of $25 million.
+
+See  Notes  5  and  6  to  the consolidated financial  statements  for
+additional information regarding the debt issuances listed above.
+
+During  the  fourth quarter of 2005, the Company issued  and  sold  13
+million shares of its common stock.  The Company realized $223 million
+from the equity sale.
+
+
+                                5
+
+
+
+The  Company's cash flow from operating activities improved  in  2005.
+Net  cash  provided  by  operating activities during  the  year  ended
+December  31, 2005 was $1.0 billion, an increase of $307 million  over
+2004, due primarily to an improved revenue environment.
+
+Capital  expenditures  during 2005 were  $681  million  and  primarily
+included  the acquisition of 20 Embraer 145 aircraft and the  cost  of
+improvements  at  JFK.   A  portion of the improvements  at  JFK  were
+reimbursed  to  the Company through a financing transaction  discussed
+further above and in Note 6 to the consolidated financial statements.
+
+During  2004,  the  Company  sold its remaining  interest  in  Orbitz,
+resulting  in  total  proceeds of $185 million  and  a  gain  of  $146
+million.
+
+Working Capital
+
+AMR  (principally  American)  historically  operates  with  a  working
+capital deficit, as do most other airline companies.  In addition, the
+Company has historically relied heavily on external financing to  fund
+capital  expenditures.  More recently, the Company has also relied  on
+external financing to fund operating losses.
+
+Off Balance Sheet Arrangements
+
+American  has determined that it holds a significant variable interest
+in, but is not the primary beneficiary of, certain trusts that are the
+lessors  under  84  of  its aircraft operating  leases.  These  leases
+contain  a  fixed  price  purchase option, which  allows  American  to
+purchase  the  aircraft at a predetermined price on a specified  date.
+However,  American  does  not guarantee  the  residual  value  of  the
+aircraft.   As  of  December 31, 2005, future lease payments  required
+under these leases totaled $2.6 billion.
+
+Certain  special  facility revenue bonds have been issued  by  certain
+municipalities  primarily to purchase equipment  and  improve  airport
+facilities that are leased by American and accounted for as  operating
+leases.  Approximately $1.9 billion of these bonds (with total  future
+payments  of approximately $4.8 billion as of December 31,  2005)  are
+guaranteed  by American, AMR, or both. Approximately $523  million  of
+these   special  facility  revenue  bonds  contain  mandatory   tender
+provisions  that  require  American to make operating  lease  payments
+sufficient  to repurchase the bonds at various times: $28  million  in
+2006, $100 million in 2007, $218 million in 2008, $112 million in 2014
+and  $65  million in 2015. Although American has the right to remarket
+the  bonds,  there  can  be  no assurance that  these  bonds  will  be
+successfully  remarketed.  Any payments to redeem  or  purchase  bonds
+that  are not remarketed would generally reduce existing rent leveling
+accruals  or  be considered prepaid facility rentals and would  reduce
+future  operating  lease commitments. Approximately  $198  million  of
+special  facility revenue bonds with mandatory tender provisions  were
+successfully  remarketed in 2005.  They were acquired by  American  in
+2003  under  a  mandatory  tender provision.   Thus,  the  receipt  by
+American of the proceeds from the remarketing in July 2005 resulted in
+an  increase  to  Other  liabilities and deferred  credits  where  the
+tendered bonds had been classified pending their use to offset certain
+future operating lease obligations.
+
+In  addition,  the Company has other operating leases,  primarily  for
+aircraft  and airport facilities, with total future lease payments  of
+$4.8  billion as of December 31, 2005.  Entering into aircraft  leases
+allows the Company to obtain aircraft without immediate cash outflows.
+
+
+                                6
+
+
+
+Contractual Obligations
+
+The   following   table  summarizes  the  Company's  obligations   and
+commitments as of December 31, 2005 (in millions):
+                               Payments Due by Year(s) Ended December 31,
+                                                       2007    2009
+                                                       and     and      2011 and
+ Contractual Obligations              Total    2006    2008    2010     Beyond
+
+
+Operating lease payments for
+ aircraft and facility obligations 1 $ 12,217  $ 1,065 $ 2,012 $ 1,687  $ 7,453
+ Firm aircraft commitments 2            2,895      102       -       -    2,793
+ Capacity purchase agreements 3           237       90     129      18        -
+ Long-term debt 4                      20,644    1,924   3,472   4,108   11,140
+ Capital lease obligations              1,804      263     432     315      794
+Other purchase obligations 5            1,563      376     420     307      460
+Other long-term liabilities 6,7         2,234      196     407     433    1,198
+
+Total obligations and commitments    $ 41,594  $ 4,016 $ 6,872 $ 6,868  $23,838
+
+
+        1  Certain  special  facility  revenue  bonds  issued  by
+           municipalities  -  which  are supported  by  operating
+           leases  executed by American - are guaranteed  by  AMR
+           and/or  American. The special facility  revenue  bonds
+           with  mandatory tender provisions discussed above  are
+           included  in this table under their ultimate  maturity
+           date  rather  than  their mandatory  tender  provision
+           date.   See  Note  5  to  the  consolidated  financial
+           statements for additional information.
+        2  As  of  December 31, 2005, the Company had commitments
+           to  acquire  two  Boeing 777-200ERs in  2006;  and  an
+           aggregate of 47 Boeing 737-800s and seven Boeing  777-
+           200ERs  in  2013  through 2016. The Company  has  pre-
+           arranged   backstop   financing  available   for   the
+           aircraft scheduled to be delivered in 2006.
+        3  The  table  reflects minimum required  payments  under
+           capacity purchase contracts between American  and  two
+           regional    airlines,   Chautauqua   Airlines,    Inc.
+           (Chautauqua) and Trans States Airlines  Inc.   If  the
+           Company   terminates  its  contract  with   Chautauqua
+           without cause, Chautauqua has the right to put its  15
+           Embraer  aircraft to the Company.   If  this  were  to
+           happen,  the  Company  would take  possession  of  the
+           aircraft  and  become  liable  for  lease  obligations
+           totaling  approximately  $21  million  per  year  with
+           lease  expirations  in  2018 and  2019.   These  lease
+           obligations are not included in the table above.   See
+           Note  4  to the consolidated financial statements  for
+           additional information.
+        4  Amounts  represent contractual amounts due,  including
+           interest.    Interest  on  variable  rate   debt   was
+           estimated  based on the current rate at  December  31,
+           2005.
+
+
+                                7
+
+
+
+        5  Includes noncancelable commitments to purchase goods or
+           services, primarily construction related costs at  JFK
+           and    information    technology   related    support.
+           Substantially all of the Company's construction  costs
+           at  JFK  will be reimbursed through a fund established
+           from  a  previous financing transaction.  The  Company
+           has  made  estimates  as  to  the  timing  of  certain
+           payments  primarily  for construction  related  costs.
+           The  actual  timing of payments may  vary  from  these
+           estimates.   Substantially  all   of   the   Company's
+           purchase  orders  issued for other  purchases  in  the
+           ordinary   course   of  business  contain   a   30-day
+           cancellation clause that allows the Company to  cancel
+           an order with 30 days notice.
+
+        6  Includes expected other postretirement benefit payments through
+           2015.
+        7  Excludes a $2.3 billion accident liability, related to the
+           Terrorist Attacks and flight 587, recorded in Other liabilities
+           and deferred credits, as discussed in Note 2 to the consolidated
+           financial statements.  This liability is offset in its entirety
+           by a receivable, recorded in Other assets, which the Company
+           expects to receive from insurance carriers as claims are resolved.
+
+Pension Obligations  In addition to the commitments summarized  above,
+the  Company is required to make contributions to its defined  benefit
+pension  plans under the minimum funding requirements of the  Employee
+Retirement  Income Security Act (ERISA). The Company's estimated  2006
+contributions  to its defined benefit pension plans are  approximately
+$250  million.  This estimate reflects the provisions of  the  Pension
+Funding Equity Act of 2004. (The effect of the Pension Funding  Equity
+Act  was  to  defer  to later years a portion of the minimum  required
+contributions that would otherwise have been due for the 2004 and 2005
+plan years.)
+
+Under  Generally Accepted Accounting Principles, the Company's defined
+benefit  plans are underfunded as of December 31, 2005 by $3.2 billion
+based  on  the Projected Benefit Obligation (PBO) and by $2.3  billion
+based on the Accumulated Benefit Obligation (ABO) (refer to Note 10 to
+the  consolidated financial statements).  The Company's funded  status
+at  December  31,  2005 under the relevant ERISA funding  standard  is
+similar  to  its  funded status using the ABO  methodology.    Due  to
+uncertainties regarding significant assumptions involved in estimating
+future  required contributions to its defined benefit  pension  plans,
+such  as interest rate levels, the amount and timing of asset returns,
+and,  in  particular,  the  impact of proposed  legislation  currently
+pending  the reconciliation process of the U.S. Congress, the  Company
+is  not  able to reasonably estimate its future required contributions
+beyond  2006.   However,  absent  significant  legislative  relief  or
+significant  favorable  changes in market  conditions,  or  both,  the
+Company  could  be  required  to  fund  in  2007  a  majority  of  the
+underfunded  balance under the relevant ERISA funding standard.   Even
+with  significant  legislative  relief  (including  proposed  airline-
+specific  relief),  the Company's 2007 required minimum  contributions
+are expected to be higher than the Company's 2006 contributions.
+
+Results of Operations
+
+The  Company incurred an $861 million net loss in 2005 compared  to  a
+net  loss  of  $761 million in 2004. The Company's 2005  results  were
+impacted  by the continuing increase in fuel prices and certain  other
+costs,  offset by an improvement in revenues; a $108 million  decrease
+in  depreciation expense related to a change in the depreciable  lives
+of  certain  aircraft  types described below, in  Critical  Accounting
+Policies  in this Item 7, and in Note 1 to the consolidated  financial
+statements;  and  productivity improvements and other cost  reductions
+resulting from progress under the Turnaround Plan.  The Company's 2005
+results  were also impacted by a $155 million aircraft charge,  a  $73
+million facility charge, an $80 million charge for the termination  of
+a  contract, a $37 million gain related to the resolution  of  a  debt
+restructuring  and  a  $22  million credit  for  the  reversal  of  an
+insurance  reserve.   All  of  these amounts  are  included  in  Other
+operating expenses in the consolidated statement of operations, except
+for  a  portion  of  the facility charge which is  included  in  Other
+rentals and landing fees.  Also included in the 2005 results was a $69
+million  fuel tax credit.  Of this amount, $55 million is included  in
+Aircraft  fuel expense and $14 million is included in Interest  income
+in  the  consolidated  statement of operations.   The  Company's  2004
+results  include  a  $146 million gain on the sale  of  the  Company's
+remaining investment in Orbitz that is included in Miscellaneous,  net
+in  the  consolidated  statement of operations and  net  restructuring
+charges  of  $11 million included in Other operating expenses  in  the
+consolidated  statement of operations.  In addition, the  Company  did
+not record a tax benefit associated with its 2005 or 2004 losses.
+
+
+                                8
+
+
+
+Although  the  Company  is currently receiving a depreciation  expense
+benefit  from  the change in estimate of depreciable  lives  discussed
+above,  the  Company's operating expenses excluding depreciation  will
+likely be higher than operating new aircraft during the extended  life
+of  the MD-80 aircraft.  For example, based on current estimates,  the
+Company's   MD-80  aircraft  consume  more  fuel  and   incur   higher
+maintenance  expense  than  a  new  aircraft  that  requires   minimal
+maintenance during the first several years of operation.
+
+Revenues
+2005   Compared   to   2004      The  Company's   revenues   increased
+approximately $2.1 billion, or 11.1 percent, to $20.7 billion in  2005
+compared  to  2004.  American's passenger revenues increased  by  10.6
+percent,  or  $1.6 billion, on a capacity (available seat mile)  (ASM)
+increase  of 1.2 percent.  American's passenger load factor  increased
+3.8  points to 78.6 percent and passenger revenue yield per  passenger
+mile  increased  4.0  percent to 12.01 cents.   This  resulted  in  an
+increase  in passenger revenue per available seat mile (RASM)  of  9.3
+percent  to  9.43  cents. In 2005, American derived  approximately  65
+percent  of  its  passenger  revenues  from  domestic  operations  and
+approximately 35 percent from international operations.  Following  is
+additional information regarding American's domestic and international
+RASM and capacity:
+
+                           Year Ended December 31, 2005
+                        RASM      Y-O-Y     ASMs         Y-O-Y
+                       (cents)   Change    (billions)    Change
+
+
+   DOT Domestic          9.37     10.6 %       115       (2.3)%
+   International         9.56      6.6          61        8.6
+     DOT Latin America   9.48      7.9          30        6.0
+     DOT Atlantic       10.08      9.0          24        6.7
+     DOT Pacific         8.12     (7.7)          7       30.1
+
+The   Company's   Regional  Affiliates  include   two   wholly   owned
+subsidiaries,  American Eagle Airlines, Inc. and  Executive  Airlines,
+Inc.  (collectively,  AMR  Eagle), and two independent  carriers  with
+which   American  has  capacity  purchase  agreements,  Trans   States
+Airlines,   Inc.   (Trans  States)  and  Chautauqua   Airlines,   Inc.
+(Chautauqua).
+
+Regional  Affiliates' passenger revenues, which are based on  industry
+standard  proration  agreements  for flights  connecting  to  American
+flights, increased $272 million, or 14.5 percent, to $2.1 billion as a
+result  of  increased capacity and load factors.  Regional Affiliates'
+traffic increased 22.8 percent to 8.9 billion revenue passenger  miles
+(RPMs),  while  capacity increased 17.3 percent to 12.7 billion  ASMs,
+resulting  in  a 3.2 point increase in passenger load factor  to  70.4
+percent.
+
+Cargo revenues decreased 0.5 percent, or $3 million, primarily due  to
+a  0.5 percent decrease in cargo revenue yield per ton mile.  However,
+the  cargo division saw a $49 million increase in fuel surcharges  and
+other  service  fees.  These amounts are included  in  Other  revenues
+which are discussed below.
+
+Other  revenues  increased  18.3 percent, or  $205  million,  to  $1.3
+billion  due  in  part  to increased cargo fuel surcharges,  increased
+third-party   maintenance   contracts  obtained   by   the   Company's
+maintenance  and engineering group and increases in certain  passenger
+fees.
+
+
+                                9
+
+
+
+
+
+2004   Compared   to   2003      The  Company's   revenues   increased
+approximately $1.2 billion, or 6.9 percent, to $18.6 billion  in  2004
+compared  to  2003.  American's passenger revenues  increased  by  4.8
+percent,  or  $689 million, on a capacity (available seat mile)  (ASM)
+increase  of 5.3 percent.  American's passenger load factor  increased
+2.0 points to 74.8 percent while passenger revenue yield per passenger
+mile  decreased  by 3.1 percent to 11.54 cents.  This  resulted  in  a
+decrease  in passenger revenue per available seat mile (RASM)  of  0.5
+percent  to  8.63  cents. In 2004, American derived  approximately  66
+percent  of  its  passenger  revenues  from  domestic  operations  and
+approximately 34 percent from international operations.  Following  is
+additional information regarding American's domestic and international
+RASM and capacity:
+                            Year Ended December 31, 2004
+                        RASM      Y-O-Y     ASMs         Y-O-Y
+                       (cents)   Change    (billions)    Change
+
+
+   DOT Domestic          8.47     (2.1)%        118       1.1%
+   International         8.97      2.8           56      15.4
+     DOT Latin America   8.78     (3.3)          28      18.6
+     DOT Atlantic        9.25      8.4           23       9.1
+     DOT Pacific         8.79     14.9            5      27.7
+
+
+Regional  Affiliates' passenger revenues, which are based on  industry
+standard  proration  agreements  for flights  connecting  to  American
+flights, increased $357 million, or 23.5 percent, to $1.9 billion as a
+result  of  increased capacity and load factors.  Regional Affiliates'
+traffic increased 32.0 percent to 7.3 billion revenue passenger  miles
+(RPMs),  while  capacity increased 26.0 percent to 10.8 billion  ASMs,
+resulting  in  a 3.0 point increase in passenger load factor  to  67.2
+percent.
+
+Cargo  revenues increased 12.0 percent, or $67 million, primarily  due
+to a 10.2 percent increase in cargo ton miles.
+
+
+                                10
+
+
+
+Operating Expenses
+2005  Compared  to  2004    The  Company's  total  operating  expenses
+increased  10.7  percent, or $2.0 billion, to $20.8  billion  in  2005
+compared to 2004.  American's mainline operating expenses per  ASM  in
+2005  increased  7.9  percent compared to 2004 to  10.50  cents.  This
+increase  in  operating expenses per ASM is due primarily  to  a  42.1
+percent  increase in American's price per gallon of fuel (net  of  the
+impact  of  a  fuel tax credit and fuel hedging) in 2005  relative  to
+2004.
+
+   (in millions)                 Year ended
+   Operating Expenses            December 31,  Change       Percentage
+                                     2005      from 2004      Change
+
+   Wages, salaries and benefits   $ 6,755        $   36         0.5 %
+   Aircraft fuel                    5,615         1,646        41.5    (a)
+   Other rentals and landing fees   1,262            75         6.3
+   Depreciation and amortization    1,164         (128)       (9.9)    (b)
+   Commissions, booking fees
+     and credit card expense        1,113             6         0.5
+   Maintenance,materials
+     and repairs                      989            18         1.9
+   Aircraft rentals                   591          (18)       (3.0)
+   Food service                       507          (51)       (9.1)
+   Other operating expenses         2,809           432        18.2    (c)
+   Total operating expenses       $20,805        $2,016        10.7 %
+
+(a)  Aircraft fuel expense increased primarily due to a 42.1 percent
+     increase in American's price per gallon of fuel (including the benefit
+     of a $55 million fuel excise tax refund received in March 2005 and the
+     impact of fuel hedging) offset by a 2.2 percent decrease in American's
+     fuel consumption.
+(b)  Effective January 1, 2005, in order to more accurately reflect
+     the expected useful lives of its aircraft, the Company changed its
+     estimate of the depreciable lives of its Boeing 737-800, Boeing 757-
+     200 and McDonnell Douglas MD-80 aircraft from 25 to 30 years.  As a
+     result of this change, Depreciation and amortization expense was
+     reduced by approximately $108 million during the year and the per
+     share net loss was $0.65 less than it otherwise would have been.
+(c)  Other operating expenses increased due to a $155 million charge
+     for the retirement of 27 MD-80 aircraft, facilities charges of $56
+     million as part of the Company's restructuring initiatives and an $80
+     million  charge for the termination of an airport construction
+     contract.  These charges were somewhat offset by a $37 million gain
+     related to the resolution of a debt restructuring and a $22 million
+     credit for the reversal of an insurance reserve.  The account was also
+     impacted by an increase in communications charges of $53 million year-
+     over-year due to increased international flying and higher rates.
+
+
+                                11
+
+
+
+
+2004  Compared  to  2003    The  Company's  total  operating  expenses
+increased  2.8  percent, or $505 million, to  $18.8  billion  in  2004
+compared to 2003.  American's mainline operating expenses per  ASM  in
+2004  decreased  4.1  percent compared to 2003  to  9.73  cents.  This
+decrease  in operating expenses per ASM is due primarily to American's
+cost  savings initiatives and occurred despite the benefit in 2003  of
+the  receipt  of a grant from the U.S. government and a  38.5  percent
+increase in American's price per gallon of fuel (net of the impact  of
+fuel hedging) in 2004 relative to 2003.
+
+   (in millions)                 Year ended
+   Operating Expenses            December 31,  Change       Percentage
+                                     2004      from 2003      Change
+
+   Wages,salaries and benefits    $ 6,719       $ (545)        (7.5) %    (a)
+   Aircraft fuel                    3,969         1,197         43.2      (b)
+   Other rentals and landing fees   1,187            14          1.2
+   Depreciation and amortization    1,292          (85)        (6.2)
+   Commissions, booking  fees
+     and credit card expense        1,107            44          4.1
+   Maintenance, materials
+     and repairs                      971           111         12.9      (c)
+   Aircraft rentals                   609          (78)       (11.4)      (d)
+   Food service                       558          (53)        (8.7)
+   Other operating expenses         2,377         (458)       (16.2)      (e)
+   U.S. government grant                -           358          NM       (f)
+   Total operating expenses       $18,789       $   505         2.8 %
+
+(a)  Wages, salaries and benefits decreased due to lower wage rates
+     and reduced headcount primarily as a result of the Labor Agreements
+     and Management Reductions, discussed in the Company's 2003 Form 10-K,
+     which became effective in the second quarter of 2003. This decrease
+     was offset to some degree by increased headcount related to capacity
+     increases.
+(b)  Aircraft fuel expense increased due to a 38.7 percent increase in
+     the Company's price per gallon of fuel (net of the impact of fuel
+     hedging) and a 3.3 percent increase in the Company's fuel consumption.
+(c)  Maintenance, materials and repairs increased primarily due to
+     increased aircraft utilization, the benefit from retiring aircraft
+     subsiding and increases in contractual rates in certain flight hour
+     agreements for outsourced aircraft engine maintenance.
+(d)  Aircraft rentals decreased primarily due to the removal of leased
+     aircraft from the fleet in the second half of 2003 as part of the
+     Company's restructuring initiatives and concessionary agreements with
+     certain lessors, which reduced future lease payment amounts and
+     resulted in the conversion of 30 operating leases to capital leases in
+     the second quarter of 2003.
+(e)  Included in this amount are restructuring charges for 2004 which
+     included (i) the reversal of reserves previously established for
+     aircraft return costs of $20 million, facility exit costs of $21
+     million and employee severance of $11 million, (ii) $21 million in
+     aircraft  charges  and (iii) $42 million in employee  charges.
+     Restructuring charges for 2003 included approximately (i) $341 million
+     in aircraft charges offset by a $20 million credit to adjust prior
+     accruals, (ii) $92 million in employee charges, (iii) $62 million in
+     facility exit costs and a (iv) $68 million gain resulting from a
+     transaction involving 33 of the Company's Fokker 100 aircraft and
+     related debt.
+(f)  U.S. government grant for 2003 reflects the reimbursement of
+     security service fees from the U.S. government under the Emergency
+     Wartime Supplemental Appropriations Act, discussed in Note 2 to the
+     consolidated financial statements.
+
+
+                                12
+
+
+
+Other Income (Expense)
+Other  income  (expense)  consists of  interest  income  and  expense,
+interest capitalized and miscellaneous - net.
+
+2005  Compared  to  2004   Increases  in  both  short-term  investment
+balances  and interest rates caused an increase in Interest income  of
+$83  million,  or  125.8 percent, to $149 million.   Interest  expense
+increased $86 million, or 9.9 percent, to $957 million primarily as  a
+result  of  increases in interest rates.  Miscellaneous-net  for  2004
+includes  a  $146 million gain on the sale of the Company's  remaining
+interest in Orbitz.
+
+2004  Compared to 2003  Interest income increased $11 million, or 20.0
+percent,  to  $66  million  due primarily to increases  in  short-term
+investment  balances and interest rates.  Interest  expense  increased
+$168  million,  or  23.9 percent, to $871 million resulting  primarily
+from  the  increase  in  the  Company's long-term  debt  coupled  with
+increases in interest rates, and an $84 million reduction in  interest
+expense  in  2003  related  to  the agreement  reached  with  the  IRS
+discussed below.
+
+Income Tax Benefit
+
+2005  and 2004 The Company did not record a net tax benefit associated
+with its 2005 and 2004 losses due to the Company providing a valuation
+allowance,  as  discussed  in  Note 8 to  the  consolidated  financial
+statements.
+
+2003 The  Company did not record a net tax benefit associated with  its
+2003  losses  due  to  the  Company providing a  valuation  allowance.
+Additionally, in 2003, the Company reached an agreement with  the  IRS
+covering  tax years 1990 through 1995. As a result of this  agreement,
+the  Company recorded an $80 million tax benefit to reduce  previously
+accrued  income  tax  liabilities and  an  $84  million  reduction  in
+interest expense to reduce previously accrued interest related to  the
+accrued income tax liabilities.
+
+
+                                13
+
+
+
+Operating Statistics
+The  following table provides statistical information for American and
+Regional  Affiliates for the years ended December 31, 2005,  2004  and
+2003.
+
+                                         Year Ended December 31,
+                                      2005         2004         2003
+
+American  Airlines,  Inc.  Mainline
+Jet Operations
+Revenue passenger miles (millions)    138,374      130,164     120,328
+Available seat miles (millions)       176,112      174,015     165,209
+Cargo ton miles (millions)              2,209        2,203       2,000
+Passenger load factor                   78.6%        74.8%       72.8%
+
+Passenger revenue yield per
+passenger mile (cents)                  12.01        11.54       11.91
+Passenger revenue per available
+seat mile (cents)                        9.43         8.63        8.67
+Cargo revenue yield per ton mile
+(cents)                                 28.21        28.36       27.87
+Operating expenses per available
+seat mile, excluding
+Regional Affiliates (cents) (*)         10.50         9.73       10.15
+Fuel consumption (gallons,in millions)  2,948        3,014       2,956
+Fuel price per gallon (cents)           172.3        121.2        87.5
+Operating aircraft at year-end            699          727         770
+
+Regional Affiliates
+Revenue passenger miles (millions)      8,946        7,283       5,516
+Available seat miles (millions)        12,714       10,835       8,597
+Passenger load factor                   70.4%        67.2%       64.2%
+
+
+(*)   Excludes $2.5 billion, $2.1 billion and $1.8 billion of expense
+      incurred related to Regional Affiliates in 2005, 2004 and 2003,
+      respectively.
+
+Outlook
+
+The Company currently expects first quarter mainline unit costs to  be
+approximately  10.7  cents.   Capacity  for  American's  mainline  jet
+operations is expected to be essentially flat in the first quarter  of
+2006  compared  to  the  first quarter of 2005.   American's  mainline
+capacity  for  the  full  year 2006 is expected  to  decrease  by  1.3
+percent,  with a decrease in domestic capacity of 4.1 percent  and  an
+increase in international capacity of 4.0 percent.
+
+Other Information
+
+Environmental  Matters    Subsidiaries of AMR have  been  notified  of
+potential liability with regard to several environmental cleanup sites
+and certain airport locations.  At sites where remedial litigation has
+commenced,  potential liability is joint and several.   AMR's  alleged
+volumetric  contributions  at  these sites  are  minimal  compared  to
+others.    AMR   does  not  expect  these  matters,  individually   or
+collectively, to have a material impact on its results of  operations,
+financial  position or liquidity.  Additional information is  included
+in Item 1 and Note 4 to the consolidated financial statements.
+
+Critical  Accounting Policies and Estimates   The preparation  of  the
+Company's  financial statements in conformity with generally  accepted
+accounting  principles  requires  management  to  make  estimates  and
+assumptions  that  affect  the amounts reported  in  the  consolidated
+financial statements and accompanying notes.  The Company believes its
+estimates and assumptions are reasonable; however, actual results  and
+the  timing of the recognition of such amounts could differ from those
+estimates.    The  Company  has  identified  the  following   critical
+accounting   policies  and  estimates  used  by  management   in   the
+preparation of the Company's financial statements: accounting for long-
+lived assets, passenger revenue, frequent flyer program, pensions  and
+other postretirement benefits, income taxes and tax contingencies.
+
+
+                                14
+
+
+
+
+
+
+   Long-lived  assets - The Company has approximately $19  billion  of
+   long-lived  assets as of December 31, 2005, including approximately
+   $18  billion  related to flight equipment and other  fixed  assets.
+   In  addition  to the original cost of these assets, their  recorded
+   value  is  impacted  by a number of policy elections  made  by  the
+   Company,  including estimated useful lives and salvage values.   In
+   accordance  with  Statement of Financial Accounting  Standards  No.
+   144,  "Accounting  for  the Impairment or  Disposal  of  Long-Lived
+   Assets" (SFAS 144), the Company records impairment charges on long-
+   lived  assets  used  in  operations when events  and  circumstances
+   indicate  that  the  assets may be impaired, the undiscounted  cash
+   flows  estimated to be generated by those assets are less than  the
+   carrying  amount  of those assets and the net  book  value  of  the
+   assets  exceeds  their  estimated  fair  value.  In  making   these
+   determinations,  the  Company uses certain assumptions,  including,
+   but  not  limited to: (i) estimated fair value of the  assets;  and
+   (ii)  estimated future cash flows expected to be generated by these
+   assets,  which  are based on additional assumptions such  as  asset
+   utilization,  length  of service and estimated  salvage  values.  A
+   change  in  the Company's fleet plan has been the primary indicator
+   that  has  resulted in an impairment charge in the  past.   In  the
+   fourth  quarter  of  2005,  the Company  permanently  grounded  and
+   retired  27  McDonnell Douglas MD-80 airframes,  24  of  which  had
+   previously  been in temporary storage.  See further  discussion  of
+   the  charge related to the retirement in Note 2 to the consolidated
+   financial statements.
+
+   On November 17, 2004, American deferred the delivery date of 54
+   Boeing  aircraft by approximately seven years which, in combination
+   with  numerous  other  factors, led  American  to  re-evaluate  the
+   expected  useful  lives  of its aircraft.   As  a  result  of  this
+   evaluation, American changed its estimate of the depreciable  lives
+   of  its Boeing 737-800, Boeing 757-200 and McDonnell Douglas  MD-80
+   aircraft  from  25  to  30 years effective January  1,  2005.   The
+   primary  factors that supported changing the estimated useful  life
+   of  these  aircraft were (i) the absence of scheduled  narrow  body
+   deliveries until  2013 (even these 47 narrow body deliveries  would
+   only  replace  less  than  ten percent of  the  Company's  existing
+   narrow  body fleet of 547 aircraft assuming the deliveries are  not
+   used  to  grow  the  Company's capacity at  that  time),  (ii)  the
+   financial condition of the Company, which significantly limits  its
+   flexibility  to  purchase new aircraft and  (iii)  the  absence  of
+   technology   step  change  for  narrow  body  aircraft,   such   as
+   technology  that  would  allow  the Company  to  fly  its  aircraft
+   substantially  more efficiently (as was the case with  replacements
+   for  previous generation aircraft such as the B-727 which had three
+   engines  versus two on the replacement aircraft) that would clearly
+   economically  compel  the  Company  to  replace  the   fleet.    In
+   addition,  there are currently no government regulations,  such  as
+   noise   reduction   requirements,  that  would   require   aircraft
+   replacement.
+
+   Subsequent to the change in depreciable lives on January 1, 2005,
+   all  of American's fleet types are depreciated over 30 years except
+   for  the  Airbus A300 and the Boeing 767, which did  not  generally
+   meet the above conditions to support extending their lives.
+
+   It  is  possible that the ultimate lives of the Company's  aircraft
+   will  be significantly different than the current estimate  due  to
+   unforeseen  events  in the future that impact the  Company's  fleet
+   plan,  including  positive or negative developments  in  the  areas
+   described above.  For example, operating the aircraft for a  longer
+   period  will result in higher maintenance, fuel and other operating
+   costs than if the Company replaced the aircraft.  At some point  in
+   the  future,  higher  operating costs could  change  the  Company's
+   analysis  of  the  economic  impact of  retaining  aircraft  versus
+   replacing them with new aircraft.
+
+   Passenger  revenue - Passenger ticket sales are initially  recorded
+   as  a  component  of Air traffic liability.  Revenue  derived  from
+   ticket  sales  is  recognized  at the  time  service  is  provided.
+   However,  due to various factors, including the industry's  pricing
+   structure   and  interline  agreements  throughout  the   industry,
+   certain   amounts   are  recognized  in  revenue  using   estimates
+   regarding  both  the  timing  of the revenue  recognition  and  the
+   amount  of  revenue  to  be recognized, including  breakage.  These
+   estimates  are  generally based upon the evaluation  of  historical
+   trends,  including the use of regression analysis and other methods
+   to  model  the  outcome  of future events based  on  the  Company's
+   historical   experience,  and  are  recognized  at  the   time   of
+   departure.  The Company's estimation techniques have  been  applied
+   consistently  from year to year.  However, due to  changes  in  the
+   Company's  ticket refund policy and changes in the  travel  profile
+   of  customers,  historical  trends may  not  be  representative  of
+   future results.
+
+
+                                15
+
+
+
+   Frequent  flyer  program  -   American uses  the  incremental  cost
+   method  to  account for the portion of its frequent flyer liability
+   incurred when AAdvantage members earn mileage credits by flying  on
+   American  or  American Eagle.  American's frequent flyer  liability
+   is  accrued  each time a member accumulates sufficient  mileage  in
+   his  or her account to claim the lowest level of free travel  award
+   (25,000  miles)  and  the award is expected to  be  used  for  free
+   travel.   American  includes fuel, food, and reservations/ticketing
+   costs in the calculation of incremental cost.  These estimates  are
+   generally  updated  based  upon the Company's  12-month  historical
+   average  of  such  costs.  American also accrues a  frequent  flyer
+   liability for the mileage credits that are expected to be used  for
+   travel   on  participating  airlines  based  on  historical   usage
+   patterns and contractual rates.
+
+   At  both  December  31,  2005  and 2004,  American  estimated  that
+   approximately  ten million free travel awards were expected  to  be
+   redeemed  for  free  travel on American  and  American  Eagle.   In
+   making  the  estimate of free travel awards, American has  excluded
+   mileage  in  inactive accounts, mileage related  to  accounts  that
+   have  not  yet reached the lowest level of free travel  award,  and
+   mileage  in active accounts that have reached the lowest  level  of
+   free  travel  award but which are not expected to ever be  redeemed
+   for   free  travel  on  American  or  participating  airlines.  The
+   Company's  total liability for future AAdvantage award  redemptions
+   for  free,  discounted  or upgraded travel  on  American,  American
+   Eagle  or  participating airlines as well as  unrecognized  revenue
+   from  selling AAdvantage miles to other companies was approximately
+   $1.5  billion  and $1.4 billion (and is recorded as a component  of
+   Air   traffic  liability  in  the  consolidated  balance   sheets),
+   representing  17.7 percent and 19.6 percent of AMR's total  current
+   liabilities, at December 31, 2005 and 2004, respectively.
+
+   Revenue earned from selling AAdvantage miles to other companies  is
+   recognized  in two components.  The first component represents  the
+   revenue  for  air transportation sold and is valued at fair  value.
+   This  revenue  is  deferred  and recognized  over  the  period  the
+   mileage is expected to be used, which is currently estimated to  be
+   28   months.   The  second  revenue  component,  representing   the
+   marketing  products sold and administrative costs  associated  with
+   operating  the AAdvantage program, is recognized in  the  month  of
+   sale.
+
+   The  number  of free travel awards used for travel on American  and
+   American  Eagle  was  2.6  million in 2005 and  2004,  representing
+   approximately  7.2  percent and 7.5 percent of passengers  boarded,
+   respectively.   The  Company  believes  displacement   of   revenue
+   passengers  is  minimal  given  the  Company's  load  factors,  its
+   ability   to  manage  frequent  flyer  seat  inventory,   and   the
+   relatively  low  ratio  of  free award usage  to  total  passengers
+   boarded.
+
+   Changes  to  the  percentage  of the amount  of  revenue  deferred,
+   deferred  recognition period, percentage of awards expected  to  be
+   redeemed  for  travel  on  participating airlines,  cost  per  mile
+   estimates  or  the  minimum  award  level  accrued  could  have   a
+   significant  impact on the Company's revenues or  incremental  cost
+   accrual in the year of the change as well as in future years.
+
+   Pensions and other postretirement benefits - The Company's  pension
+   and   other  postretirement  benefit  costs  and  liabilities   are
+   calculated  using various actuarial assumptions and  methodologies.
+   The  Company  uses certain assumptions including, but  not  limited
+   to,  the selection of the: (i) discount rate; (ii) expected  return
+   on plan assets; and (iii) expected health care cost trend rate.
+
+   These assumptions as of December 31 were:
+                                                   2005      2004
+        Discount rate
+                                                   5.75%     6.00%
+        Expected return on plan assets             8.75%     9.00%
+        Expected health care cost trend rate:
+             Pre-65 individuals
+                 Initial                            4.5%      4.5%
+                 Ultimate                           4.5%      4.5%
+             Post-65 individuals
+                 Initial                            9.0%     10.0%
+                 Ultimate (2010)                    4.5%      4.5%
+
+
+                                16
+
+
+
+
+   The Company's discount rate is determined based upon the review  of
+   year-end  high quality corporate bond rates. Lowering the  discount
+   rate by 50 basis points as of December 31, 2005 would increase  the
+   Company's  pension  and  postretirement  benefits  obligations   by
+   approximately  $662  million  and $170 million,  respectively,  and
+   increase   estimated  2006  pension  and  postretirement   benefits
+   expense by $75 million and $9 million, respectively.
+
+   The  expected return on plan assets is based upon an evaluation  of
+   the  Company's historical trends and experience taking into account
+   current  and  expected market conditions and the  Company's  target
+   asset allocation of 40 percent longer duration corporate bonds,  25
+   percent  U.S.  value  stocks,  20 percent  developed  international
+   stocks,  five  percent emerging markets stocks and  bonds  and  ten
+   percent  alternative (private) investments. The expected return  on
+   plan  assets  component of the Company's net periodic benefit  cost
+   is  calculated  based  on the fair value of  plan  assets  and  the
+   Company's  target  asset  allocation.   The  Company  monitors  its
+   actual  asset  allocation  and believes that  its  long-term  asset
+   allocation  will  continue to approximate  its  target  allocation.
+   The  Company's  historical annualized ten-year rate  of  return  on
+   plan  assets, calculated using a geometric compounding  of  monthly
+   returns,  is  approximately 10.6 percent as of December  31,  2005.
+   Lowering  the expected long-term rate of return on plan  assets  by
+   50  basis  points as of December 31, 2005 would increase  estimated
+   2006 pension expense by approximately $38 million.
+
+   The  health care cost trend rate is based upon an evaluation of the
+   Company's  historical  trends and experience  taking  into  account
+   current  and  expected market conditions.  Increasing  the  assumed
+   health  care  cost  trend rate by 100 basis points  would  increase
+   estimated 2006 postretirement benefits expense by $40 million.
+
+   The  Company  has  pension and postretirement benefit  unrecognized
+   net  actuarial  losses  as of December 31, 2005,  of  approximately
+   $2.2 billion and $300 million, respectively.  The unrecognized  net
+   actuarial  losses represent changes in the amount of the  projected
+   benefit   obligation,   the  postretirement   accumulated   benefit
+   obligation   and  plan  assets  resulting  from  (i)   changes   in
+   assumptions  and (ii) actual experience differing from assumptions.
+   The  amortization of unrecognized net actuarial loss  component  of
+   the  Company's 2006 pension and postretirement benefit net periodic
+   benefit costs are expected to be approximately $81 million  and  $1
+   million,  respectively. The Company's total  2006  pension  expense
+   and   postretirement   expense  is  currently   estimated   to   be
+   approximately $467 million and $248 million, respectively.
+
+   The  Company  records an additional minimum pension liability  when
+   its  accumulated  benefit  obligation exceeds  the  pension  plans'
+   assets  in excess of amounts previously accrued for pension  costs.
+   As  of  December 31, 2005, the Company's additional minimum pension
+   liability  was  $1.4 billion, up from $1.0 billion as  of  December
+   31,  2004,  primarily  as a result of a decrease  in  the  discount
+   rate.   The  increase  in the Company's minimum  pension  liability
+   resulted  in a 2005 debit to equity of approximately $379  million.
+   An  additional minimum pension liability is recorded as an increase
+   to  the  pension  liability, an increase to other  assets  (to  the
+   extent  that  a plan has unrecognized prior service  costs)  and  a
+   charge  to  stockholders'  equity  (deficit)  as  a  component   of
+   Accumulated  other  comprehensive  loss.   See  Note  10   to   the
+   consolidated   financial  statements  for  additional   information
+   regarding the Company's pension and other postretirement benefits.
+
+   Income  taxes - The Company accounts for income taxes in accordance
+   with  Financial  Accounting  Standards  No.  109,  "Accounting  for
+   Income  Taxes".   Accordingly, the Company records a  deferred  tax
+   asset  valuation  allowance when it is more likely  than  not  that
+   some  portion  or  all  of  its deferred tax  assets  will  not  be
+   realized.   The Company considers its historical earnings,  trends,
+   and  outlook  for  future years in making this  determination.  The
+   Company had a deferred tax valuation allowance of $1.3 billion  and
+   $833  million  as of December 31, 2005 and 2004, respectively.  See
+   Note  8  to  the  consolidated financial statements for  additional
+   information.
+
+
+                                17
+
+
+
+   Tax  contingencies  -  The  Company  has  reserves  for  taxes  and
+   associated  interest that may become payable in future years  as  a
+   result   of  audits  by  tax  authorities.   Although  the  Company
+   believes  that the positions taken on previously filed tax  returns
+   are  reasonable, it nevertheless has established tax  and  interest
+   reserves  in  recognition  that  various  taxing  authorities   may
+   challenge   the  positions  taken  by  the  Company  resulting   in
+   additional  liabilities for taxes and interest.  The  tax  reserves
+   are  reviewed as circumstances warrant and adjusted as events occur
+   that  affect  the  Company's  potential  liability  for  additional
+   taxes,  such  as  lapsing  of applicable statutes  of  limitations,
+   conclusion  of  tax audits, additional exposure  based  on  current
+   calculations,   identification   of   new   issues,   release    of
+   administrative   guidance,  or  rendering  of  a   court   decision
+   affecting a particular tax issue.  In 2003, the Company reached  an
+   agreement with the IRS covering tax years 1990 through 1995 and  as
+   a  result, recorded an $80 million tax benefit to reduce previously
+   accrued  income  tax  liabilities and an $84 million  reduction  in
+   interest  expense to reduce previously accrued interest related  to
+   accrued tax liabilities.
+
+New   Accounting  Pronouncement    In  December  2004,  the  Financial
+Accounting  Standards  Board issued Statement of Financial  Accounting
+Standards No. 123 (revised 2004), "Share-Based Payment" (SFAS 123(R)).
+SFAS  123(R) requires all share-based payments to employees, including
+grants  of  employee stock options, to be recognized in the  financial
+statements  based  on  their  fair  values.   Prior  to  SFAS  123(R),
+companies could elect to account for share-based payments under APB 25
+and  provide the pro forma disclosures required by SFAS 123 (described
+in  Note  1 to the consolidated financial statements). SFAS 123(R)  is
+effective  January  1, 2006 for AMR.  Under SFAS 123(R),  compensation
+expense  will be recognized for the portion of outstanding  awards  as
+service  is  provided, based on the grant-date  fair  value  of  those
+awards  calculated  under  SFAS 123 for  pro  forma  disclosures.  The
+Company expects that the impact of adoption on its first quarter  2006
+results  will  be similar to the amounts disclosed in  each  quarterly
+period during 2005.  However, subsequent to the first quarter of 2006,
+the  impact  of  SFAS 123(R) will decrease significantly  due  to  the
+vesting period ending for stock options issued under the 2003 Employee
+Stock Incentive Plan.
+
+
+
+                                18
+
+
+
+
+
+
+Exhibit Listing
+
+
+ 31.1 Certification of Chief Executive Officer pursuant to  Rule  13a-
+       14(a).
+
+ 31.2 Certification  of Chief Financial Officer pursuant to Rule  13a-
+               14(a).
+
+
+
+                                19
+
+
+
+
+
+
+                               SIGNATURE
+
+Pursuant  to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+AMR CORPORATION
+
+
+By: /s/ Gerard J. Arpey
+    Gerard J. Arpey
+    Chairman, President and Chief
+    Executive Officer
+    (Principal Executive Officer)
+
+Date: July 17, 2006
+
+
+
+
+                                20
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>exhibit311.txt
+<DESCRIPTION>AMR CORPORATION EXHIBIT 31.1
+<TEXT>
+                                                       Exhibit 31.1
+
+
+I, Gerard J. Arpey, certify that:
+
+1. I  have  reviewed  this  annual report on  Form  10-K/A  of  AMR Corporation;
+
+
+2. Based on my knowledge, this report does not contain any untrue
+   statement of a material fact or omit to state a material fact
+   necessary to make the statements made, in light of the circumstances
+   under which such statements were made, not misleading with respect to
+   the period covered by this report;
+
+
+
+Date:  July 17, 2006           /s/ Gerard J. Arpey
+                               Gerard J. Arpey
+                               Chairman, President and Chief Executive Officer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>exhibit312.txt
+<DESCRIPTION>AMR CORPORATION EXHIBIT 31.2
+<TEXT>
+                                                            Exhibit 31.2
+
+
+I, Thomas W. Horton, certify that:
+
+1. I  have  reviewed  this  annual report on  Form  10-K/A  of  AMR Corporation;
+
+
+2. Based on my knowledge, this report does not contain any untrue
+   statement of a material fact or omit to state a material fact
+   necessary to make the statements made, in light of the circumstances
+   under which such statements were made, not misleading with respect to
+   the period covered by this report;
+
+
+
+Date:  July 17, 2006       /s/ Thomas W. Horton
+                           Thomas W. Horton
+                           Executive Vice President and Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

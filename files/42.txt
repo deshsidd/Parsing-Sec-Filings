@@ -1,0 +1,2889 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DcuAi7Wv5FDEwN7CtaI4TrffHyupAIdkvz4u2AHjtsPgrf2KUu4Tb2IizvZl/rra
+ dteKDQgzneo0U87K4B+MTQ==
+
+<SEC-DOCUMENT>0000889812-97-002061.txt : 19970929
+<SEC-HEADER>0000889812-97-002061.hdr.sgml : 19970929
+ACCESSION NUMBER:		0000889812-97-002061
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970926
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AFP IMAGING CORP
+		CENTRAL INDEX KEY:			0000319126
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				132956272
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		
+		SEC FILE NUMBER:	000-10832
+		FILM NUMBER:		97686523
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 CLEARBROOK RD
+		CITY:			ELMSFORD
+		STATE:			NY
+		ZIP:			10523
+		BUSINESS PHONE:		9145926100
+
+	MAIL ADDRESS:	
+		STREET 1:		250 CLEARBROOK RD
+		CITY:			ELMSFORD
+		STATE:			NY
+		ZIP:			10523
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AUTOMATIC FILM PROCESSOR CORP
+		DATE OF NAME CHANGE:	19821122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+<PAGE>
+
+
+                       Securities and Exchange Commission
+                             Washington, D.C. 20549
+
+                                    Form 10-K
+
+     [X]    Annual Report Pursuant to Section 13 or 15 (d) of the Securities
+            Exchange Act of 1934 for the Fiscal Year Ended June 30, 1997
+                                                           -------------
+                                     or
+
+     [ ]    Transition Report Pursuant to Section 13 or 15 (d) of the Securities
+            Exchange Act of 1934
+
+                         Commission File Number: 0-10832
+                                                 -------
+
+                             AFP Imaging Corporation
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                   New York                              13-2956272
+       -------------------------------               -------------------
+       (State or other jurisdiction of                  (IRS Employer
+        incorporation or organization)               Identification No.)
+
+                     250 Clearbrook Road, Elmsford, NY 10523
+                    ----------------------------------------
+                    (Address of principal executive offices)
+
+Registrant's telephone number:  (914)592-6100
+
+Securities registered pursuant Section 12 (b) of the Act:  None
+
+Securities registered pursuant to Section 12 (g) of the Act:
+
+                      Common Stock, par value .01 per share
+                      -------------------------------------
+                                (Title of Class)
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+                           [X]
+                           ---                      ---
+                           Yes                      No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. ( X )
+
+The aggregate market value of the Registrant's Common stock held by
+non-affiliates of the Registrant as of August 29, 1997 was approximately
+$9,208,065. On such date, the averages of the closing bid and asked prices
+of the Common Stock, as quoted by the Nasdaq SmallCap Market, was $2 7/16.
+
+The registrant had 7,471,185 shares of Common Stock outstanding as of 
+August 29, 1997,
+
+The Company's Proxy Statement for the 1997 Annual Meeting of Shareholders
+tentatively scheduled for December 18, 1997 is hereby incorporated by
+reference into Part III of this Form 10K.
+
+<PAGE>
+
+Part I
+
+Item 1. Business
+
+a) General Development of Business
+
+AFP Imaging Corporation (the "Company") was organized on September 20, 1978,
+under the laws of the State of New York. Since its inception, the Company has
+been engaged in the business of designing, developing, manufacturing and
+distributing equipment for producing "hard copy" images by chemical processing
+photosensitive materials as well as manufacturing other electro/optical imaging
+equipment. These products have been adapted to medical, industrial, dental and
+graphic arts applications. The Company's products are distributed to worldwide
+markets through a network of dealers.
+
+On July 14, 1997, the Company completed the renegotiation of its credit facility
+with its senior secured lender. The general terms, conditions and covenants are
+substantially the same as prior to such negotiation, except that the Company
+renegotiated a lower interest rate and a broader borrowing base.
+
+On April 17, 1997, the Company expanded its dental imaging business by the
+acquisition of Regam Medical Systems International AB ("Regam"), a Swedish
+company. Regam is a manufacturer of a filmless digital dental radiography
+system, with an installed base of over 3,500 units in Europe and Asia. The
+purchase price of $2.9 million consisted of cash, notes payable and a contingent
+royalty. The Company financed the cash portion of the purchase price from
+available cash on hand.
+
+On August 6, 1996, the Company sold its fluoroscopic imaging inventories located
+in Richmond, Virginia. The Company realized a loss of approximately $60,000 on
+this transaction which loss had been accrued as of June 30, 1996. The assets of
+this division were not material to the total assets of the Company.
+
+As discussed in "Competition", the Company's products are subject to competition
+from the development of new technologies, products and services by well
+established competitors who may have greater financial resources, facilities and
+
+organization than the Company. Accordingly, the Company's product lines are
+susceptible to relatively short life cycles.
+
+b) Financial Information about Industry Segments
+
+The Company is engaged in only one industry segment and management believes that
+all of its products and services fall within one class of similar or related
+products and services.
+
+c) Narrative Description of Business
+
+Principal Products and Services
+
+Medical, Dental and Industrial X-Ray Processors & Accessories
+
+The Company manufactures and distributes a line of free-standing and table top
+medical, dental and industrial x-ray film processors. Various models of these
+machines are capable of processing or developing up to 400 films per hour. The
+exposed film is inserted into equipment and returned to the operator developed,
+fixed, washed and dried. The equipment can be located either in a dark room site
+or adapted to a daylight, self-loading system. These units are used for
+diagnostic x-ray imaging and industrial, non-destructive testing applications.
+The Company's products are distributed worldwide through an unaffiliated dealer
+network.
+
+Digital Dental Imaging Systems
+
+The Company manufactures and distributes a filmless digital dental radiography
+system, based on electronic imaging technology. Such technology creates dental
+images on a computer screen that operates in a Windows based software
+environment. Currently, these products are being sold in Europe, Latin America
+and Asia. The Company will introduce these products into North American markets
+in fiscal 1998.
+
+<PAGE>
+
+Diagnostic Imagers and Viewers
+
+The Company manufactures a line of digital and analog multiformat compact
+cameras to permanently record and document the images produced during diagnostic
+examinations from several different applications. The cameras can produce
+anywhere from one to six images on films that can be processed and developed in
+Company manufactured film processors. The Company has the distribution rights to
+a line of European monitors specifically designed for the high resolution needs
+of the medical display market.
+
+X-Ray Systems
+
+The Company has the distribution rights to a European dental x-ray machine for
+the North American market. The x-ray film exposed by each of these units is then
+developed in the Company's processors. This x-ray product is also compatible
+with the Company's digital x-ray unit.
+
+Graphic Arts Processors
+
+
+The Company manufactures and distributes various sized graphic arts processors
+which develop different photosensitive materials such as rapid access film and
+papers. These processors are intended for use with phototypesetting, graphics
+and other pre-printing press applications. Newspapers, publishers and commercial
+printers are primary customers for these products.
+
+Competition
+
+The Company's product lines are subject to both foreign and domestic competition
+and is characterized by research and development of new technologies, products
+and services. Competitors are well established in the film manufacturing and
+distribution businesses and may have greater financial resources, facilities and
+organization than the Company. The Company is also an Original Equipment
+Manufacturer (OEM) supplier to others. With respect to all of its products, the
+Company competes on the basis of price, features, product quality, applications,
+engineering, promptness of delivery and customer service. The Company believes
+it is one of the largest domestic equipment manufacturers in its class of
+products.
+
+Customers
+
+No customer accounted for 10% or more of net sales in fiscal 1997 or 1996.
+Management does not believe the loss of any one customer would have a materially
+adverse effect on the Company's consolidated business. Foreign markets and sales
+are pursued by various international dealers.
+
+Backlog Orders
+
+As of June 30, 1997, the Company's backlog of orders for its products was
+approximately $4,174,052 as compared to $3,654,700 as of June 30, 1996. All of
+the orders included in the backlog at June 30, 1997 are scheduled for delivery
+by June 30, 1998. OEM purchase commitments are typically negotiated for 12 month
+periods but are not based on a calendar or fiscal year. Spare part sales are not
+part of the Company's backlog calculations. In the opinion of the Company,
+fluctuations in the backlog and its size at any given time are not necessarily
+indicative of intermediate or long-term trends in the Company's business. Much
+of the Company's backlog can be canceled or the delivery dates extended without
+penalty. Delivery of capital equipment is frequently subject to changing budget
+conditions of consumers.
+
+Government Contracts
+
+The Company has no current contracts with the federal government that are
+material to the consolidated business. The Company's policy is to be responsive
+to all governmental Request for Quotations (RFQ) which can be fulfilled within
+the scope of the Company's product lines.
+
+Patents and Trademarks
+
+The Company presently owns many domestic and foreign utility patents which it
+believes are material to the technology used in its products. The Company is not
+aware of any patents held by others that conflict with its current domestic
+product designs. The Company is evaluating whether its recently acquired foreign
+
+technology infringes on any domestic patents held by others. The principal
+technology applied to the 
+
+<PAGE>
+
+construction of the Company's other products is state-of-the-art but not
+considered proprietary. The Company owns several domestic and foreign trademarks
+which it uses in connection with the marketing of its products.
+
+Research and Development
+
+The amount spent during each of the last three fiscal years on primary research
+activities relating to the development of new products and the improvement of
+existing products, all of which was Company sponsored, is as follows:
+
+           1997                       1996                      1995
+           ----                       ----                      ----
+         $776,423                  $1,273,032                 $750,818
+
+The Company's level of spending is discussed further in "Management's Discussion
+and Analysis of Financial Condition and Results of Operation".
+
+Raw Materials
+
+The Company does not utilize any unique raw materials or processes in the design
+and manufacture of its products. The Company anticipates that an adequate
+commercial supply of all raw materials will be available from multiple sources.
+
+Employees
+
+As of June 30, 1997, the Company employed 190 persons worldwide on a full-time
+basis. The Company has no collective bargaining agreements and considers its
+relationship with its employees to be satisfactory.
+
+Sales, Marketing and Distribution
+
+All of the Company's products are manufactured and distributed domestically and
+internationally in two configurations. Certain products are custom engineered
+and brand labeled for other large OEM's. The balance of the Company's products
+are brand labeled by the Company with its own trade names and are distributed
+through an extensive network of independent medical, dental and graphic arts
+dealers who install and service the equipment. The Company maintains a
+significant marketing and regional sales management effort to promote and
+support all its products.
+
+The Company advertises in trade journals (domestic and international), provides
+sales support and literature, prepares technical manuals and conducts customer
+education and training programs in order to promote its products. In addition,
+the Company participates in domestic and international trade and clinical shows.
+The Company utilizes various domestic and international forms of trademarks,
+including AFP Imaging, DENT-X, Sens-A-Ray 2000 and LOGE, among others.
+
+Government Regulation
+
+
+The United States Food and Drug Administration ("FDA"), Bureau of Medical
+Devices regulates the distribution of all equipment used as medical devices. The
+Company has registered all of its medical apparatus with this agency. The Bureau
+of Medical Devices has the right to disapprove the marketing of any medical
+device that it believes is unfit for the purposes intended. The Company believes
+that its products and procedures satisfy all the criteria necessary to comply
+with the regulations of the FDA's Bureau of Medical Devices. The Company's
+primary manufacturing facility is ISO 9001 (International Standards
+Organization) certified.
+
+Seasonal Nature
+
+The Company's business is not considered seasonal.
+
+Working Capital Practices
+
+The Company engages in no unusual practices regarding inventories, receivables
+or other items of working capital. The Company renegotiated its credit facility
+with its existing lender in July 1997. See 
+
+<PAGE>
+
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" for further discussion.
+
+Environmental Impact
+
+The Company believes it is in compliance with laws and regulations governing the
+protection of the environment and that continued compliance will not have a
+material effect on its business or require any material capital expenditures.
+The Company does not use any controlled or regulated materials or processes in
+its operation. Compliance with local codes for the installation and operation of
+the Company's products is the responsibility of the end user.
+
+d) Financial Information about Foreign and Domestic Operations and Export Sales
+
+With respect to the Company's last three fiscal years, domestic sales were
+$23,527,612 (1997), $26,368,729 (1996), and $20,818,704 (1995) representing 64%,
+72%, and 78% respectively of the Company's sales during such periods. Domestic
+operating income was $2,283,895, $1,537,291 and $1,524,181 for the years ended
+June 30, 1997, 1996, and 1995, respectively. Export and foreign sales during
+such periods were $13,520,898 (1997) $10,160,150 (1996) and $5,770,208 (1995) or
+36%, 28% and 22% of total Company sales for each period, respectively. The
+Company's Swedish subsidiary, Regam, incurred an operating loss of $154,600 from
+April 17, 1997 (acquisition date) through June 30, 1997. The Company had no
+foreign operating income or losses for the years ended June 1996 and 1995.
+
+Assets used in the manufacture of export sales are integrated with the other
+assets of the Company.
+
+Item 2. Properties
+
+The Company's manufacturing facility is well maintained, is in good operating
+condition, and has a productive capacity sufficient to meet the Company's
+
+present and anticipated needs. The Company's executive offices and its
+manufacturing facility are located in Elmsford, New York. This property is under
+a renegotiated lease expiring on December 31, 2000 at a rental of $598,574
+through the lease term for the last three years plus increases in real estate
+taxes, utility costs and common area charges. The Company leases a sales and
+marketing facility in Springfield, Virginia for $140,000 per annum. This lease
+expires on March 31, 1998. The Company leases a small facility in Sweden for
+approximately $28,000 per annum. The lease expires December 31, 1997.
+
+Item 3. Legal Proceedings
+
+The Company is currently defending a civil complaint instituted by a former
+vendor of Visiplex Instruments Ltd., for breach of Bulk Sales Notice, alleging
+that no notice of the bulk transfer of assets was given in July 1995. The
+Company did not assume such liability. Visiplex Instrument Ltd. provided the
+Company with an Indemnification and Hold Harmless Agreement, which has a
+$500,000 limit. The complaint does not specify the amount of damages, however,
+at this time, the Company does not believe that the outcome of this matter will
+have a material adverse effect on the consolidated financial statements. The
+Company is not aware of any other litigation which could have a material adverse
+effect on its financial condition.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+There were no matters submitted to a vote of security holders during the fourth
+quarter of the fiscal year ended June 30, 1997.
+
+<PAGE>
+
+Part II
+
+Item 5. Market for the Registrant's Common Equity and Related Stockholder
+Matters
+
+a) Market Information
+
+The Common Stock of the Company is traded on the Nasdaq SmallCap Market (Symbol
+"AFPC"). The following table shows the high and low bid quotations for the
+Company's Common Stock for each quarterly period during the Company's last two
+fiscal years. These prices do not represent actual transactions and do not
+include retail mark-ups, mark-downs or commissions.
+
+        Quarter ended                             High              Low
+        -------------                             ----              ---
+
+        September 30, 1995                        2 1/2             5/8
+
+        December 31, 1995                         2 1/4             1 1/8
+
+        March 31, 1996                            1 9/16            7/8
+
+        June 30, 1996                             1 7/16            15/16
+
+        September 30, 1996                        1 13/16           1
+
+
+        December 31, 1996                         1 7/8             1
+
+        March 31, 1997                            2 5/16            1 11/16
+
+        June 30, 1997                             2 1/8             1 1/2
+
+b) Holders
+
+The following table sets forth the approximate number of holders of record of
+Common Stock of the Company at September 1, 1997.
+
+             Title of Class                    Number of Holders of Record
+      ----------------------------             ---------------------------
+      Common Stock, $.01 par value                         531
+
+c) Dividends
+
+No cash dividends have been declared on the Company's shares to date and the
+Company anticipates that for the foreseeable future any earnings will be
+retained for use in its business.
+
+Pursuant to the terms of the Company's 12% Convertible Subordinated Debentures,
+repaid in full in June 1997, the Company was not permitted to declare or pay any
+dividend on any shares of its capital stock, other than cash dividends on its
+Preferred Stock, Series A and Series B, until the entire principal amount of the
+Debentures was paid in full or converted into Common Stock.
+
+
+<PAGE>
+
+
+Item 6.  AFP Imaging Corporation and Subsidiaries Selected Financial Data
+as of and for The Years Ended June 30, 1997, 1996, 1995, 1994, and 1993
+
+<TABLE>
+<CAPTION>
+                                         1997             1996              1995              1994             1993
+                                         ----             ----              ----              ----             ----
+<S>                                  <C>               <C>              <C>               <C>              <C>        
+
+NET SALES                            $37,048,510       $36,528,879      $26,588,912       $30,505,249      $38,257,479
+                                     ===========       ===========      ===========       ===========      ===========
+
+OPERATING
+INCOME (LOSS)                         $2,129,295        $1,537,291       $1,524,181       $(3,383,100)(c)    $(355,372)(d)
+                                      ==========        ==========       ==========       ============       ==========
+
+NET INCOME (LOSS)                     $1,548,597          $700,528         $923,999       $(4,184,156)(c)  $(1,255,668)(d)
+                                      ==========          ========         ========       ============     ============
+
+NET PRIMARY EARNINGS
+(LOSS) PER COMMON
+SHARE AND
+
+EQUIVALENTS                                 $.16(a)           $.08(a)          $.13(a)          $(.71)           $(.26)
+                                            ====              ====             ====             ======           ======
+
+NET FULLY DILUTED
+EARNINGS (LOSS) PER
+COMMON SHARE AND
+
+EQUIVALENTS                                 $.15(a)           $.08(a)          $.12(a)          $(.71)           $(.26)
+                                            ====              ====             ====             ======           ======
+
+TOTAL ASSETS                         $20,516,028       $20,258,093      $11,789,582       $15,074,720      $22,547,342
+                                     ===========       ===========      ===========        ==========       ==========
+
+LONG-TERM DEBT                        $4,412,116(b)     $7,278,072(b)    $1,935,638(b)        $17,235(e)       $48,052(e)
+                                      ==========        ==========       ==========            ======          =======
+
+SHAREHOLDERS'
+EQUITY                               $10,873,384        $9,316,087       $5,538,068        $4,595,319       $7,675,882
+                                     ===========        ==========       ==========         =========        =========
+
+SHAREHOLDERS'
+EQUITY PER
+COMMON SHARE                               $1.06              $.83             $.66              $.52            $1.20
+                                           =====              ====             ====              ====            =====
+
+COMMON SHARES
+OUTSTANDING,
+at end of period                       7,432,698         7,077,767        6,449,394         6,423,074        5,332,036
+                                       =========         =========        =========         =========        =========
+
+CASH DIVIDENDS
+PER COMMON SHARE                            none              none             none              none             none
+</TABLE>
+
+
+(a)   In 1997, the weighted average number of common shares used in calculating
+      primary and fully diluted earnings per share reflects the assumed
+      conversion of the convertible preferred stock and the assumed exercise of
+      in-the-money stock options and warrants. In 1996 and 1995, primary and
+      fully diluted earnings per share reflects the assumed conversion of the
+      convertible preferred stock. For all years, in calculating fully diluted
+      earnings per share, the weighted average number of common shares includes
+      the assumed conversion of the convertible subordinated debentures.
+
+(b)   In 1997, 1996 and 1995, the Company has classified revolver borrowings as
+      long-term as the facility was extended for two years on July 14,1995 and
+      July 14, 1997.
+
+(c)   This amount includes provisions of approximately $1.2 million to
+      write-down the Company's Virginia facility to its estimated fair value,
+      $1.0 million to write-down the Company's sales office in Frankfurt,
+      Germany to its estimated fair value, and $1.3 million to discard inventory
+      from discontinued product lines.
+
+
+(d)   This amount includes a provision of $1.5 million to write-down the
+      Company's Virginia facility to its estimated fair value, and a write-off
+      of $426,096 for receivables from a bankrupt customer.
+
+(e)   This amount excludes $3,603,583 and $3,331,830 for fiscal years 1994 and
+      1993, respectively, of debt classified as short-term.
+
+<PAGE>
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operation
+
+Capital Resources and Liquidity
+
+The Company's working capital decreased $4.3 million between fiscal 1997 and
+fiscal 1996 due to a $1.5 million decrease in inventories, a $1.3 million
+decrease in cash and equivalents, and a $1.7 million increase in accounts
+payable and other short term accruals. The Company generated net income of $1.55
+million in fiscal 1997. The Company acquired a digital dental imaging company in
+April 1997. The cash portion of the purchase price was funded from available
+cash.
+
+The Company renegotiated its credit facility of a $9.85 million revolver and
+term loan facility with its present lender effective July 14, 1997 for a two
+year period. The credit line provides working capital for the Company. The
+Company believes that this revised credit facility is sufficient to finance its
+ongoing operations. The revolver loan is secured by available and eligible
+inventory, accounts receivable, equipment, life insurance policies and proceeds
+thereof, trademarks, licenses, patents and general intangibles. The Company
+renegotiated a lower interest rate and increased availability based on stated
+terms and asset amounts. Other terms, conditions and covenants of the new
+facility are similar to those of the previous facility See Notes to Consolidated
+Financial Statements for further information regarding this credit facility. As
+of June 30, 1997, the Company had $3,506,000 of unused credit available and is
+in compliance with all financial ratios and covenants as stated in its loan
+documents.
+
+During the 1997 fiscal year, the Company loaned an unaffiliated dental
+manufacturing company an aggregate of $300,000. The borrower executed notes
+evidencing such obligation with an extended maturity date of October 1, 1997.
+The notes are secured by the stock and assets of the borrower. The borrower is 
+currently negotiating with the Company for an extended repayment of such loan.
+
+In August 1993, the Company was required to begin annual sinking fund payments
+on its subordinated debentures. The Company repaid in full the Subordinate
+Debentures as of June 30, 1997.
+
+The Company's historical operating cash flows have been positive; however, the
+Company is dependent upon its existing credit facilities to finance its ongoing
+operations. During fiscal 1997, the Company reduced its borrowings on its credit
+facility by approximately $4.6 million with internally generated funds from
+operations.
+
+
+Capital expenditures for fiscal 1997 consisted of individual computer
+workstation upgrades, production tooling, molds and other appropriate
+replacements in the normal course of operations. The Company has committed
+approximately $350,000 to the purchase of a new Business Information System
+including the upgrade of existing computer hardware and a new fully integrated
+manufacturing software package. The Company has committed to a three year lease
+for the hardware and software costs, which is recorded as a capital lease. The
+Company expects to continue to finance any future capital requirements
+principally from internally generated funds. The Company is presently unaware of
+any other demands, commitments or contingencies which are reasonably likely to
+result in a material increase or decrease in its liquidity in the foreseeable
+future.
+
+Results of Operation - Fiscal 1997 vs. Fiscal 1996
+
+On April 17, 1997 the Company acquired the stock of Regam Medical Systems
+International AB ("Regam"), a Swedish digital imaging company. The acquisition
+was accounted for under the purchase method of accounting and has been fully
+consolidated in the Company's consolidated financial statements. Regam's
+operations from the date of acquisition through fiscal year end are not
+significant to the Company's consolidated results.
+
+Sales increased $520,000 or 1% between the two fiscal years. The Company
+experienced a 20% growth in sales of its dental imaging business offset by a 5%
+decline in graphic art sales due to changing customer demands and market
+technology. Medical imaging sales stayed constant through the two periods. Gross
+profit as a percent of sales decreased .5% due to increased sales of exclusive
+distributor goods, which sales generally have lower gross margins.
+
+Selling, general and administrative costs decreased $96,000 or 1%. Fiscal 1996
+expenses included a provision of $60,000 for the loss incurred on the sale of
+the fluoroscopic imaging assets. The composition of 
+
+
+<PAGE>
+
+these expenses shifted slightly with more costs to promote the dental and
+medical products worldwide and less administrative overhead costs, due to
+ongoing management expense reduction programs.
+
+Research and development costs decreased $497,000 or 39%. The Company completed
+several in-house engineering projects and continues to re-evaluate the market
+potential of investment in product engineering versus the distribution of
+alternative outsourced products. The Company continues to invest in sustaining
+engineering and related costs to maintain their technical advantage.
+
+Interest expense net decreased $325,000 or 42%. The Company reduced its
+borrowings with its senior secured lender by $4 million, offset by the lost
+interest income resulting from the use of available cash to partially fund the
+Regam acquisition.
+
+The income tax provision primarily represents nominal state capital taxes due,
+as in the prior fiscal year. The Company realized net operating losses
+
+previously subject to valuation allowances to offset any federal and state
+income tax provision.
+
+Results of Operation - Fiscal 1996 vs. Fiscal 1995
+
+On July 14, 1995, the Company acquired most of the assets and selected
+liabilities of Visiplex Instruments Ltd., a medical diagnostic imaging equipment
+manufacturer and distributor. Visiplex had been a tenant in the Company's New
+York facility since November 1994. Management felt that this acquisition
+presented the Company with an opportunity to broaden its medical diagnostic
+market penetration while potentially achieving efficiencies with the
+consolidation of the two operations. Visiplex was fully consolidated into the
+Company's operations for substantially all of fiscal 1996.
+
+Sales increased approximately $9.9 million or 37.4%. $9.1 million was due to the
+sales generated from the newly acquired Visiplex product line. $2.7 million is
+due to increased processor sales, offset by a $1.6 million decrease in graphic
+art sales due to changing customer demands and market technology. The Company's
+dental business had flat sales growth this year. The fluoroscopic imaging
+division experienced a decline in sales which resulted in the sale of this
+product line on August 6, 1996.
+
+Gross profit as a percent of sales declined 1.3% from the prior fiscal year.
+This was due to the acquisition of the Visiplex product line whose products have
+a smaller gross margin and a slight change in the product mix towards more
+distributed goods, which also have a lower gross margin.
+
+Selling, general, and administrative costs increased $2.4 million or 35%.
+Approximately 85% of the increase can be attributed to the Visiplex acquisition,
+including approximately $200,000 of additional amortization expense. Also
+included is a $60,000 provision for the estimated loss incurred on the sale of
+the fluoroscopic imaging assets on August 6, 1996. The balance of this increase
+was due to an increase in marketing expenditures for worldwide promotion of all
+Company products.
+
+Research and development costs increased $522,000 or 70%, which was primarily
+due to the added Visiplex staff. Visiplex has a highly trained engineering
+department whose resources were being utilized to research and develop new
+digital imaging products. The Company is currently re-evaluating the market
+demand for certain new products versus the distribution of alternative
+outsourced products with respect to their anticipated return on investment.
+
+Interest expense, net increased $201,000 or 35%. This represented the increased
+debt required to finance the Visiplex acquisition, offset by the interest earned
+on the private equity placement, and the convertible subordinated debt converted
+to equity earlier in the year.
+
+The income tax provision primarily represents nominal state capital taxes due.
+The Company realized net operating losses previously subject to valuation
+allowances to offset any federal and state income tax provision.
+
+<PAGE>
+
+                            AFP IMAGING CORPORATION
+
+                                AND SUBSIDIARIES
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+Report of Independent Public Accountants                                   F-1
+
+Consolidated Balance Sheets -- June 30, 1997 and 1996               F-2 to F-3
+
+Consolidated Statements of Operations for the Years
+         Ended June 30, 1997, 1996 and 1995                                F-4
+
+Consolidated Statements of Shareholders' Equity for
+         the Years Ended June 30, 1997, 1996 and 1995                      F-5
+
+Consolidated Statements of Cash Flows
+         for the Years Ended June 30, 1997, 1996 and 1995           F-6 to F-7
+
+Notes to Consolidated Financial Statements                         F-8 to F-15
+
+Schedule II - Valuation and Qualifying Accounts for the
+         Years Ended June 30, 1997 and 1996                               F-16
+
+
+All other schedules called for under Regulation S-X are not submitted
+because they are not applicable or not required or because the required
+information is included in the consolidated financial statements and notes
+thereto.
+
+<PAGE>
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Shareholders of
+AFP Imaging Corporation:
+
+We have audited the accompanying consolidated balance sheets of AFP Imaging
+Corporation (a New York Corporation) and subsidiaries as of June 30, 1997 and
+1996, and the related consolidated statements of operations, shareholders'
+equity and cash flows for each of the three years in the period ended June 30,
+1997. These consolidated financial statements and the schedule referred to below
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these consolidated financial statements and schedule based
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of AFP Imaging
+Corporation and subsidiaries as of June 30, 1997 and 1996 and the results of
+their operations and their cash flows for each of the three years in the period
+ended June 30, 1997 in conformity with generally accepted accounting principles.
+
+Our audits were made for the purpose of forming an opinion on the basic
+consolidated financial statements taken as a whole. Schedule II, Valuation and
+Qualifying Accounts, is presented for purposes of complying with the Securities
+and Exchange Commission's rules and is not part of the basic financial
+statements. This schedule has been subjected to the auditing procedures applied
+in the audits of the basic consolidated financial statements and, in our
+opinion, fairly states in all material respects the financial data required to
+be set forth therein in relation to the basic consolidated financial statements
+taken as a whole.
+
+                                                      Arthur Andersen LLP
+
+New York, New York
+August 13, 1997
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+              CONSOLIDATED BALANCE SHEETS -- JUNE 30, 1997 AND 1996
+
+<TABLE>
+<CAPTION>
+                                     ASSETS                                              1997             1996
+                                     ------                                          ------------     ------------
+
+<S>                                                                                  <C>              <C>         
+CURRENT ASSETS:
+   Cash and cash equivalents                                                         $  1,858,287     $  3,133,198
+   Accounts receivable, less allowance for doubtful accounts and sales returns
+      of $277,926 and $238,000, respectively                                            5,816,106        6,020,129
+   Inventories (Note 1)                                                                 6,016,528        7,530,128
+   Prepaid expenses and other                                                             650,095          163,374
+                                                                                     ------------     ------------
+                Total current assets                                                   14,341,016       16,846,829
+
+PROPERTY, PLANT AND EQUIPMENT, at cost:
+   Leasehold improvements                                                                 287,474          263,378
+   Machinery and equipment                                                              7,224,278        6,840,122
+                                                                                     ------------     ------------
+                                                                                        7,511,752        7,103,500
+Less - Accumulated depreciation                                                        (6,113,123)      (5,833,067)
+                                                                                     ------------     ------------
+                                                                                        1,398,629        1,270,433
+
+
+INTANGIBLE ASSETS, net of accumulated amortization of $681,363 and $666,968
+    respectively (Note 1)                                                               4,441,453        1,907,112
+
+OTHER ASSETS                                                                              334,930          233,719
+                                                                                     ------------     ------------
+                                                                                     $ 20,516,028     $ 20,258,093
+                                                                                     ============     ============
+</TABLE>
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-2
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+              CONSOLIDATED BALANCE SHEETS -- JUNE 30, 1997 AND 1996
+
+<TABLE>
+<CAPTION>
+                      LIABILITIES AND SHAREHOLDERS' EQUITY                               1997             1996
+                      ------------------------------------                           ------------     ------------
+<S>                                                                                  <C>              <C>         
+CURRENT LIABILITIES:
+   Current portion of long-term debt (Note 2)                                        $    639,314     $    214,620
+   Accounts payable                                                                     1,801,973        1,364,937
+   Accrued expenses                                                                     2,220,096        1,140,198
+   Accrued payroll expenses                                                               569,145          544,179
+   Convertible subordinated debenture                                                     -                200,000
+                                                                                     ------------     ------------
+                Total current liabilities                                               5,230,528        3,463,934
+
+LONG-TERM DEBT (Note 2)                                                                 4,412,116        7,278,072
+
+CONVERTIBLE SUBORDINATED DEBENTURE                                                        -                200,000
+
+COMMITMENTS AND CONTINGENCIES (Note 7)                                                    -                -
+
+SHAREHOLDERS' EQUITY (Notes 3 and 4):
+   Convertible Preferred Stock, Series A, 1,750,000 authorized, 1,396,814 and
+      1,724,984 shares issued and outstanding at June 30, 1997 and
+      1996, respectively                                                                2,171,071        2,564,876
+   Convertible Preferred Stock, Series B, 824,844 authorized, 711,872 shares
+      issued and outstanding at June 30, 1997 and 1996                                    854,247          854,247
+   Common Stock warrants                                                                   25,314           25,314
+   Common Stock, $.01 par value, 30,000,000 shares authorized, 7,432,698 and
+      7,077,751 shares issued and outstanding at June 30, 1997 and
+      1996, respectively                                                                   74,327           70,778
+   Paid-in capital in excess of par                                                     8,578,549        8,175,793
+   Accumulated deficit                                                                   (826,324)      (2,374,921)
+   Cumulative translation adjustment                                                       (3,800)         -
+                                                                                     ------------     ------------
+                Total shareholders' equity                                             10,873,384        9,316,087
+                                                                                     ------------     ------------
+                                                                                     $ 20,516,028     $ 20,258,093
+                                                                                     ============     ============
+</TABLE>
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-3
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                FOR THE YEARS ENDED JUNE 30, 1997, 1996 AND 1995
+
+<TABLE>
+<CAPTION>
+                                                                        1997             1996              1995
+                                                                     -----------      -----------      -----------
+<S>                                                                  <C>              <C>              <C>        
+NET SALES                                                            $37,048,510      $36,528,879      $26,588,912
+COST OF SALES                                                         24,950,627       24,430,698       17,427,070
+                                                                     -----------      -----------      -----------
+          Gross profit                                                12,097,883       12,098,181        9,161,842
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES                           9,192,165        9,287,858        6,886,843
+
+RESEARCH AND DEVELOPMENT EXPENSES (Note 1)                               776,423        1,273,032          750,818
+                                                                     -----------      -----------      -----------
+          Operating income                                             2,129,295        1,537,291        1,524,181
+
+INTEREST EXPENSE, net                                                    451,466          776,763          575,182
+                                                                     -----------      -----------      -----------
+          Income before provision for income taxes                     1,677,829          760,528          948,999
+
+PROVISION FOR INCOME TAXES (Note 5)                                      129,232           60,000           25,000
+                                                                     -----------      -----------      -----------
+NET INCOME                                                           $ 1,548,597      $   700,528      $   923,999
+                                                                     ===========      ===========      ===========
+
+NET EARNINGS PER COMMON SHARE (Note 1)
+   Primary                                                                 $.16             $.08             $.13
+   Fully diluted                                                           $.15             $.08             $.12
+</TABLE>
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-4
+
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+                FOR THE YEARS ENDED JUNE 30, 1997, 1996 AND 1995
+
+<TABLE>
+<CAPTION>
+                                           Convertible       Convertible                                    
+                                            Preferred         Preferred         Common                      
+                                             Stock,            Stock,            Stock          Common      
+                                            Series A          Series B         Warrants          Stock      
+                                          ------------      ------------     ------------     ------------  
+<S>                                       <C>               <C>              <C>              <C>           
+Balance June 30, 1994                     $  1,281,626      $        -       $     25,314     $     64,230  
+   Conversion of 1,320 shares of
+      preferred stock to common stock           (3,432)              -                -                 13
+   Issuance of 25,000 shares of
+      "restricted" common stock                    -                 -                -                250  
+   Net Income                                      -                 -                -                -    
+                                          ------------      ------------     ------------     ------------  
+Balance June 30, 1995                        1,278,194               -             25,314           64,493  
+   Issuance of 2,083,333 shares of
+      preferred stock                        1,645,753           854,247              -                -    
+   Conversion of subordinated
+      debentures into common stock                 -                 -                -              4,309  
+   Conversion of 138,088 shares of
+      preferred stock, Series A, to
+      common stock                            (359,071)              -                -              1,381  
+   Issuance of 59,880 shares of
+      common stock in connection
+      with the exercise of stock
+      options                                      -                 -                -                599  
+   Retirement of 444 shares of
+      common stock                                 -                 -                -                 (4) 
+   Net Income                                      -                 -                -                -    
+                                          ------------      ------------     ------------     ------------  
+Balance June 30, 1996                        2,564,876           854,247           25,314           70,778  
+   Issuance of 15,000 shares of
+      common stock in connection
+      with the exercise of stock
+      options                                      -                 -                -                150  
+   Conversion of 328,170 shares of
+      preferred stock, Series A, to
+      339,947 shares of common stock          (393,805)              -                -              3,399  
+   Foreign currency translation
+      adjustment                                   -                 -                -                -    
+   Net Income                                      -                 -                -                -    
+                                          ------------      ------------     ------------     ------------  
+Balance June 30, 1997                     $  2,171,071      $    854,247     $     25,314     $     74,327  
+                                          ============      ============     ============     ============  
+
+
+<CAPTION>
+                                            Paid-in                            Foreign
+                                            Capital                            Currency
+                                          In Excess of      Accumulated       Translation
+                                              Par             Deficit          Adjustment          Total
+                                          ------------      ------------      ------------      ------------
+<S>                                       <C>               <C>               <C>               <C>         
+Balance June 30, 1994                     $  7,223,597      $ (3,999,448)     $        -        $  4,595,319
+   Conversion of 1,320 shares of
+      preferred stock to common stock            3,419               -                 -                 -
+   Issuance of 25,000 shares of
+      "restricted" common stock                 18,500               -                 -              18,750
+   Net Income                                      -             923,999               -             923,999
+                                          ------------      ------------      ------------      ------------
+Balance June 30, 1995                        7,245,516        (3,075,449)              -           5,538,068
+   Issuance of 2,083,333 shares of
+      preferred stock                              -                 -                 -           2,500,000
+   Conversion of subordinated
+      debentures into common stock             512,691               -                 -             517,000
+   Conversion of 138,088 shares of
+      preferred stock, Series A, to
+      common stock                             357,690               -                 -                 -
+   Issuance of 59,880 shares of
+      common stock in connection
+      with the exercise of stock
+      options                                   60,531               -                 -              61,130
+   Retirement of 444 shares of
+      common stock                                (635)              -                 -                (639)
+   Net Income                                      -             700,528               -             700,528
+                                          ------------      ------------      ------------      ------------
+Balance June 30, 1996                        8,175,793        (2,374,921)              -           9,316,087
+   Issuance of 15,000 shares of
+      common stock in connection
+      with the exercise of stock
+      options                                   12,350               -                 -              12,500
+   Conversion of 328,170 shares of
+      preferred stock, Series A, to
+      339,947 shares of common stock           390,406               -                 -                 -
+   Foreign currency translation
+      adjustment                                   -                 -              (3,800)           (3,800)
+   Net Income                                      -           1,548,597               -           1,548,597
+                                          ------------      ------------      ------------      ------------
+Balance June 30, 1997                     $  8,578,549      $   (826,324)     $     (3,800)     $ 10,873,384
+                                          ============      ============      ============      ============
+</TABLE>
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-5
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                 FOR THE YEARS ENDED JUNE 30, 1997 1996 AND 1995
+
+<TABLE>
+<CAPTION>
+                                                                   1997             1996             1995
+                                                                -----------      -----------      -----------
+<S>                                                             <C>              <C>              <C>        
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net Income                                                   $ 1,548,597      $   700,528      $   923,999
+   Adjustments to reconcile net income to net cash provided
+     by (used in) operating activities-
+       (Gain) loss on sale of equipment                               3,396              -            (31,719)
+       Depreciation and amortization                                891,370          969,439          761,475
+       Provision for losses on accounts receivable                   93,463          131,280           65,650
+       Change in assets and liabilities:
+         (Increase) decrease in accounts receivable                 567,560         (842,774)        (539,008)
+         (Increase) decrease in inventories                       1,859,800          (26,956)       1,680,364
+         (Increase) decrease in prepaid expenses and other         (267,221)         124,917          (12,723)
+         Increase (decrease) in other assets                         (2,636)        (223,877)         (65,334)
+         Increase (decrease) in accounts payable                   (302,565)      (1,564,700)          97,127
+         Increase (decrease) in accrued expenses                    955,898         (578,856)         (64,860)
+         Increase (decrease) in accrued payroll expenses             24,966          107,153           97,578
+                                                                -----------      -----------      -----------
+                Total adjustments                                 3,924,032       (1,904,374)       1,988,550
+                                                                -----------      -----------      -----------
+                Net cash provided by (used in) operating
+                   activities                                     5,472,628       (1,203,846)       2,912,549
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Investment in Regam Medical Systems
+          International AB                                       (1,561,293)             -                -
+   Investment in Visiplex Instruments, Ltd.                             -         (3,554,367)             -
+   Issuance of notes receivable                                    (310,000)             -                -
+   Acquisition of licensing agreement                                   -            (25,000)             -
+   Capital expenditures                                            (217,525)        (197,824)        (131,221)
+   Proceeds from sales of land, building and equipment                  -                -          1,712,124
+                                                                -----------      -----------      -----------
+                Net cash provided by (used in) investing
+                   activities                                    (2,088,818)      (3,777,191)       1,580,903
+</TABLE>
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-6
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                 FOR THE YEARS ENDED JUNE 30, 1997 1996 AND 1995
+
+                                   (Continued)
+
+<TABLE>
+<CAPTION>
+                                                                1997             1996             1995
+                                                             -----------      -----------      -----------
+<S>                                                          <C>              <C>              <C>        
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Borrowing of debt                                                 -          5,582,432          250,000
+   Repayments of debt                                         (4,667,421)        (552,278)      (4,588,982)
+   Exercise of common stock options                               12,500           60,491              -
+   Issuance of convertible preferred stock                           -          2,500,000              -
+                                                             -----------      -----------      -----------
+                Net cash provided by (used in) financing
+                   activities                                 (4,654,921)       7,590,645       (4,338,982)
+
+EXCHANGE RATE EFFECTS ON CASH AND CASH EQUIVALENTS                (3,800)             -                -
+                                                             -----------      -----------      -----------
+                Net increase (decrease) in cash and cash
+                   equivalents                                (1,274,911)       2,609,608          154,470
+
+CASH AND CASH EQUIVALENTS, at beginning of year                3,133,198          523,590          369,120
+                                                             -----------      -----------      -----------
+CASH AND CASH EQUIVALENTS, at end of year                    $ 1,858,287      $ 3,133,198      $   523,590
+                                                             ===========      ===========      ===========
+SUPPLEMENTAL CASH FLOW DISCLOSURES:
+   Cash paid during the year for-
+     Interest                                                $   450,683      $   848,521      $   598,028
+     Income taxes                                                 80,373           47,648           11,929
+</TABLE>
+
+SUPPLEMENTAL NON-CASH INVESTING AND FINANCIAL ACTIVITIES DISCLOSURES:
+In fiscal 1997, common stock was issued upon the conversion of $393,805 of
+Series A convertible preferred stock. In fiscal 1996, common stock was issued
+upon the conversion of $517,000 of convertible subordinated debentures and
+$359,071 of Series A convertible preferred stock. In fiscal 1995, common stock
+was issued upon the conversion of $3,432 of Series A convertible preferred
+stock.
+
+           The accompanying notes to consolidated financial statements
+           are an integral part of these consolidated balance sheets.
+
+                                       F-7
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                  JUNE 30, 1997
+
+
+(1)    Accounting Policies:
+
+          The Company
+
+          AFP Imaging Corporation (together with its subsidiaries, the
+          "Company") was organized on September 20, 1978, under the laws of the
+          State of New York. Since its inception, the Company has been engaged
+          in the business of designing, developing, manufacturing and
+          distributing equipment for producing "hard copy" images by chemical
+          processing photosensitive materials. During fiscal 1996, the Company
+          acquired most of the assets and selected liabilities of Visiplex
+          Instruments Ltd. which manufactures electronic diagnostic imaging
+          equipment. On April 17, 1997, the Company acquired all of the
+          outstanding shares of Regam Medical Systems International AB, a
+          Swedish manufacturer of advanced dental imaging devices. The Company's
+          products are distributed to worldwide markets through a network of
+          dealers and original equipment manufacturers.
+
+          Principles of consolidation
+
+          The consolidated financial statements include AFP Imaging Corporation
+          and its wholly owned subsidiaries. All significant intercompany
+          transactions have been eliminated in consolidation.
+
+          Revenue recognition
+
+          Revenue is recognized by the Company when products are shipped and
+          title passes to the customer.
+
+          Use of estimates
+
+          The preparation of financial statements in conformity with generally
+          accepted accounting principles requires management to make estimates
+          and assumptions that affect the reported amounts of assets and
+          liabilities and the reported amounts of revenues and expenses during
+          the reporting period. Actual results could differ from those
+          estimates.
+
+          Cash and cash equivalents
+
+          Cash and cash equivalents include deposits with original maturities of
+          three months or less.
+
+          Inventories
+
+
+          Inventories, which include material, labor and manufacturing overhead,
+          are stated at the lower of cost (first-in, first-out) or market (net
+          realizable value). Inventories used in the determination of cost of
+          sales were as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                1997              1996
+                                                                             ----------        ----------
+<S>                                                                          <C>               <C>       
+                 Raw materials and sub-component parts                       $4,565,064        $5,576,116
+                 Work-in-process and finished goods                           1,451,464         1,954,012
+                                                                             ----------        ----------
+                                                                             $6,016,528        $7,530,128
+                                                                             ==========        ==========
+</TABLE>
+
+                                       F-8
+
+<PAGE>
+
+          Depreciation
+
+          Machinery and equipment is depreciated using straight-line and
+          accelerated methods over estimated useful lives ranging from three to
+          ten years. Leasehold improvements are depreciated on a straight-line
+          basis over the shorter of 40 years or their estimated useful lives.
+
+          Research and development costs
+
+          Research and development costs are charged to expense as incurred.
+          These costs have been incurred in connection with the design and
+          development of the Company's products.
+
+          Intangible assets
+
+          Intangible assets are valued at their estimated fair value when
+          acquired. These assets, which are amortized on a straight-line basis,
+          consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                     Amortization
+                                                    1997              1996              Period
+                                                 ----------        ----------        ------------
+<S>                                              <C>               <C>                <C>        
+     Goodwill                                    $5,097,816        $2,549,080         15-40 years
+     Licensing Fees                                  25,000            25,000             2 years
+                                                 ----------        ----------
+                                                  5,122,816         2,574,080
+     Less - Accumulated amortization               (681,363)         (666,968)
+                                                 ----------        ----------
+     Intangible assets, net                      $4,441,453        $1,907,112
+                                                 ==========        ==========
+
+</TABLE>
+
+          The Company periodically reviews the carrying value of the goodwill
+          and other long lived assets to determine whether an impairment may
+          exist. The Company considers relevant cash flow, estimated future
+          operating results, trends and other available information in assessing
+          whether the carrying value of the asset can be recovered. The Company
+          believes no such impairments exist as of June 30, 1997.
+
+          Net earnings per common share
+
+          The computation of net earnings per common share is based upon the
+          weighted average number of common shares outstanding during the period
+          plus (in periods in which they have a dilutive effect) the effect of
+          common shares contingently issuable. Primary and fully diluted
+          earnings per common share for the fiscal years ended 1997, 1996, and
+          1995 are presented below:
+
+<TABLE>
+<CAPTION>
+                                                    1997              1996             1995
+                                                 ----------        ----------       ----------
+<S>                                              <C>               <C>              <C>     
+     Net Earnings Available for Common
+       Shareholders                              $1,548,597          $700,528         $923,999
+
+     Total Common Stock and Equivalents           9,981,525         9,112,677        6,922,512
+                                                 ----------        ----------       ----------
+     Primary Earnings Per Share                        $.16              $.08             $.13
+                                                 ==========        ==========       ==========
+     Net Earnings Available for  Common
+       Shareholders                              $1,560,541          $737,141       $1,009,785
+
+     Total Common Stock and Equivalents          10,245,336         9,628,992        8,297,512
+                                                 ----------        ----------       ----------
+     Fully Diluted Earnings Per Share                  $.15              $.08             $.12
+                                                 ==========        ==========       ==========
+</TABLE>
+
+                                       F-9
+
+<PAGE>
+
+          The primary earnings per share computation reflects the effects of
+          common shares contingently issuable upon the exercise of warrants,
+          options and convertible preferred stock (see Notes 3 and 4), in
+          periods in which such exercise would cause dilution. The fully diluted
+          earnings per share computation reflects the effect of the conversion
+          of convertible subordinated debentures in periods in which such
+          conversion would cause dilution. In fiscal 1997 and 1996, the
+          conversion of certain warrants would be antidilutive while in fiscal
+          1995, the exercise of certain warrants and options would be
+          antidilutive.
+
+
+          In all years, net earnings available for common shareholders differs
+          between primary and fully diluted earnings per share due to interest
+          expense, net of taxes, associated with the convertible subordinated
+          debentures, which would not have been incurred assuming conversion at
+          the beginning of the period.
+
+(2)    Debt:
+
+       As of June 30, 1996, the Company had a $9.85 million revolver and term
+       loan with its senior lender at an interest rate of 2% above prime. This
+       facility expired on July 14, 1997 and was replaced by an $8.4 million
+       revolver loan and a $1.45 million term loan at an interest rate of 3/4%
+       above prime (the "Credit Facility"). The Credit Facility is
+       collateralized by accounts receivable, eligible inventory, equipment,
+       life insurance policies and proceeds thereof, trademarks, licenses,
+       patents, and general intangibles. The arrangement provides for
+       restrictions on borrowings, requires certain financial ratios related to
+       total debt, unsubordinated debt to tangible net worth and current assets
+       to current liabilities be maintained and requires minimum levels of
+       working capital, net worth and cash flow. The Company has unused lines of
+       credit available, subject to formula, of $3.50 million as of June 30,
+       1997 for short-term financing needs.
+
+       As the Company extended its credit facility to mature on July 14, 2000,
+       the balance of the original revolver has been classified as long-term as
+       of June 30, 1997.
+
+       As of June 30, 1997 and 1996, debt consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                               1997              1996
+                                                            ----------        ----------
+<S>                                                         <C>               <C>       
+           Revolver                                         $2,956,399        $6,948,072
+           Term Loan (a)                                       330,000           440,000
+           Notes Payable (b)                                 1,200,000             -
+           Capital leases and other                            349,900           104,620
+                                                            ----------        ----------
+                                                             5,051,430         7,492,696
+
+           Less - Current Portion                              639,314           214,620
+                                                            ----------        ----------
+                                                            $4,412,116        $7,278,072
+                                                            ==========        ==========
+</TABLE>
+
+           (a)    The term loan bears interest at prime plus 2% (10.25% at June
+                  30,1997). Effective July 14, 1997, the term loan will bear
+                  interest at Citibank base rate for borrowing plus 3/4%.
+           (b)    The $1.2 million notes payable to ACG Nystromgruppen AB, the
+                  former parent of Regam Medical Systems International AB,
+                  consists of a $1 million promissory note and a $200,000 note
+                  payable backed by a letter of credit. The promissory note
+
+                  bears interest at LIBOR plus 2% (8.375% at June 30, 1997).
+                  This note is payable in full on April 17, 2000. The $200,000
+                  note payable is due on March 31, 1998.
+
+       The Company's weighted average borrowing rate was approximately 10.25%
+       and 10.7% as of June 30, 1997 and 1996, respectively. The fair market
+       value of all of the Company's debt approximates its carrying value.
+
+                                      F-10
+
+<PAGE>
+
+       Maturities of debt by fiscal year ended June 30 are as follows:
+
+                     1998                             $   639,314
+                     1999                                 223,585
+                     2000                               1,175,301
+                     2001                               2,988,741
+                     2002                                  24,489
+
+       At June 30, 1997 the Company had guarantees of $389,461 with foreign
+       vendors.
+
+(3)    Convertible Preferred Stock, Series A and B:
+
+       The Company has two series of convertible preferred stock of which
+       1,396,814 Series A shares and 711,872 Series B shares are currently
+       outstanding. Each Series A share is convertible into 1.03 shares of
+       common stock while all Series B shares are convertible into one share of
+       common stock.
+
+(4)    Stock Purchase Plans and Common Stock Warrants:
+
+       In November 1991, the Company reinstated its restricted stock purchase
+       plan which had expired (the "Restricted Plan") under which 400,000 shares
+       of Common Stock were reserved for issuance. 25,000 shares were issued
+       during fiscal 1995.
+
+       The Company has two employee incentive stock option plans, under which
+       approximately 1,000,000 shares of Common Stock were authorized and
+       available for issuance. Under the terms of the plans, options to purchase
+       common stock of the Company may be granted at not less than 100% of the
+       fair market value of the stock on the date of grant, or 110% of the fair
+       market value if granted to persons owning more than 10% of the
+       outstanding stock of the Company. Transactions for 1997, 1996 and 1995
+       are as follows:
+
+<TABLE>
+<CAPTION>
+                                                         Weighted                   Weighted                   Weighted
+                                                          Average                    Average                   Average
+                                              1997         Price         1996         Price        1995         Price
+                                            --------     --------      --------     --------      --------     --------
+<S>                                         <C>          <C>           <C>          <C>           <C>          <C>  
+         Options outstanding July 1,         794,120        $0.79       238,000        $0.74       146,880        $1.33
+         Granted                              63,500         1.23       626,000         0.83       127,120         0.51
+         Exercised                           (15,000)        0.83       (59,880)        1.02             -          N/A
+         Cancelled                           (20,000)        0.64       (10,000)        0.75       (36,000)        2.27
+                                            --------     --------      --------     --------      --------     --------
+         Options outstanding June 30,        822,620        $0.82       794,120        $0.79       238,000        $0.74
+                                            ========     ========      ========     ========      ========     ========
+         Options exercisable at June 30,     822,620                    794,120                    238,000
+                                            ========                   ========                   ========
+         Weighted average fair value of
+         options granted during years
+         ended June 30,                        $0.52                      $0.35                      $0.24
+                                            ========                   ========                   ========
+</TABLE>
+
+       The fair value of each option grant was estimated on the date of grant
+       using the Black-Scholes option pricing model and the following
+       assumptions for grants in fiscal 1997, 1996, and 1995: dividend yield of
+       0%; expected volatility of 54%; expected life of four years and risk-free
+       interest rate ranging from 5.86% to 7.35%.
+
+                                      F-11
+
+<PAGE>
+
+       The Company accounts for these plans pursuant to Accounting Principles
+       Board Opinion 25, "Accounting for Stock Issued to Employees," under which
+       no compensation cost has been recognized. Had compensation cost for these
+       plans been determined based on the fair value at the grant dates
+       consistent with SFAS 123, "Accounting for Stock-Based Compensation", the
+       Company's net income and earnings per share would have been reduced to
+       the following pro forma amounts:
+
+<TABLE>
+<CAPTION>
+                                                                        1997             1996            1995
+                                                                     ----------       ----------      ----------
+<S>                                            <C>                   <C>              <C>             <C>     
+          Net Income                           As reported           $1,548,597         $700,528        $923,999
+                                               Pro forma              1,515,477          483,642         893,160
+
+          Primary earning per share            As reported              .16               .08             .13
+                                               Pro forma                .15               .05             .13
+
+          Fully diluted earnings per share     As Reported              .15               .08             .12
+                                               Pro Forma                .15               .05             .11
+</TABLE>
+
+
+       As of June 30, 1997, there remained outstanding warrants to purchase
+       253,138 shares of common stock at prices ranging from $1.50 to $2.60
+       share.
+
+5)     Income Taxes:
+
+       The income (loss) before provision for income taxes is comprised of the
+       following:
+
+<TABLE>
+<CAPTION>
+                                                              1997              1996             1995
+                                                           ----------        ----------       ----------
+<S>                                                        <C>               <C>              <C>     
+          United States                                    $1,832,429        $  760,528         $948,999
+          Foreign                                            (154,600)             -                -
+                                                           ----------        ----------       ----------
+                Total                                      $1,677,829          $760,528         $948,999
+                                                           ----------        ----------       ----------
+</TABLE>
+
+       The provision for income taxes is comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                              1997              1996             1995
+                                                           ----------        ----------       ----------
+<S>                                                        <C>               <C>              <C>     
+          Current:
+          State                                              $129,232           $60,000          $15,000
+          Foreign                                                -                 -              10,000
+                                                           ----------        ----------       ----------
+                                                             $129,232           $60,000          $25,000
+                                                           ==========        ==========       ==========
+</TABLE>
+
+       The difference between the provision for income taxes at the effective
+       federal statutory rates and the amounts provided in the financial
+       statements is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                              1997              1996             1995
+                                                           ----------        ----------       ----------
+<S>                                                        <C>               <C>              <C>     
+          Tax Provision at Federal statutory rates          $ 570,462         $ 258,580        $ 322,660
+
+          Increase (decrease) in tax provision 
+             resulting from:
+             State income tax provision, net of                85,293            60,000           15,000
+                federal benefit
+             Foreign loss not benefited                        52,564              -                -
+             Amortization in excess of tax basis              103,467            69,548          123,819
+
+             Realization of deferred tax assets              (699,672)         (343,095)        (437,897)
+             Other                                             17,118            14,967            1,418
+                                                           ----------        ----------       ----------
+             Provision for income taxes                     $ 129,232        $   60,000       $   25,000
+                                                           ==========        ==========       ==========
+</TABLE>
+
+                                      F-12
+
+<PAGE>
+
+       The items which comprise the deferred tax balance are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                1997              1996
+                                                                             -----------       -----------
+<S>                                                                          <C>               <C>        
+          Depreciation                                                       $    26,507       $     8,086
+
+          Accrued liabilities and reserves not currently deductible              428,477           617,828
+          Inventory                                                              174,986           173,386
+          Net operating loss carryforwards                                       653,808         1,334,825
+                                                                             -----------       -----------
+                                                                               1,283,778         2,134,125
+
+          Deferred tax asset valuation reserve                                (1,283,778)       (2,134,125)
+                                                                             -----------       -----------
+          Tax asset recognized on balance sheets                             $     -           $     -
+                                                                             ===========       ===========
+</TABLE>
+
+       Net operating loss carryforwards will expire beginning in 2009.
+
+(6)    Profit Sharing Plan:
+
+       The Company maintains a profit sharing plan and trust pursuant to which
+       participants receive certain benefits upon retirement, death, disability
+       and, to a limited extent, upon termination of employment for other
+       reasons. Allocation among participants' interests, including officers and
+       directors who are employees, is in accordance with current Internal
+       Revenue Service regulations.
+
+       The aggregate amount contributed to the plan by the Company each fiscal
+       year is determined by the Board of Directors following a review of the
+       profits of such fiscal year. The plan requires no minimum contribution by
+       the Company. Profit sharing expense of $50,000, $40,000 and $50,000 was
+       recorded for the years ended June 30, 1997, 1996 and 1995, respectively.
+
+(7)    Commitments and Contingencies:
+
+       The Company and its subsidiaries are defendants (together with other
+       third parties) in a legal claim alleging that the Company violated
+       bulksales laws upon the acquisition of Visiplex Instruments Ltd.
+
+       ("Visiplex") in July 1995. The Company believes that this claim is
+       without merit and intends to vigorously defend the litigation. While no
+       monetary damages have been specified in the lawsuit, the Company believes
+       that any potential loss resulting from this claim would not have any
+       material effect on the company's financial position or results of
+       operations. Furthermore, the Company has filed a cross claim against the
+       former owners of Visiplex under an indemnification clause contained in
+       the asset purchase agreement between the two parties.
+
+       The Company has leases for office and manufacturing facilities for
+       periods expiring through fiscal year 2001. Approximate minimum annual
+       rental payments under these leases as of the fiscal year ended June 30
+       are as follows:
+
+                  1998                                      $598,574
+                  1999                                       598,574
+                  2000                                       598,574
+                  2001                                       299,287
+
+       Rent expense was approximately $719,000, $748,000 and $606,000 for the
+       years ended June 30, 1997, 1996 and 1995, respectively.
+
+
+                                      F-13
+
+<PAGE>
+
+(8)    Segment Information:
+
+       The Company operates in one business segment which designs, develops,
+       manufactures and markets medical, dental and graphic arts image systems
+       and all related accessories. There were no sales to any one customer in
+       excess of 10% of net sales in fiscal 1997, 1996, and 1995.
+
+       Segment financial information:
+
+<TABLE>
+<CAPTION>
+                                                            1997                 1996                 1995
+                                                         -----------          -----------          -----------
+<S>                                                      <C>                  <C>                  <C>        
+               Sales
+                 United States                           $23,527,612          $26,368,729          $20,818,704
+                 Europe                                      529,100               -                    -
+                 Domestic export sales                    12,991,798           10,160,150            5,770,208
+                                                         -----------          -----------          -----------
+                          Total                          $37,048,510          $36,528,879          $26,588,912
+                                                         ===========          ===========          ===========
+               Net Income (loss)
+                 United States                           $ 1,702,496          $   700,528          $   923,999
+                 Europe                                     (153,900)              -                    -
+                                                         -----------          -----------          -----------
+                          Total                          $ 1,548,597          $   700,528          $   923,999
+                                                         ===========          ===========          ===========
+
+               Identifiable assets
+                 United States                           $19,630,528          $20,258,093          $11,789,582
+                 Europe                                      885,500               -                    -
+                                                         -----------          -----------          -----------
+                          Total                          $20,516,028          $20,258,093          $11,789,582
+                                                         ===========          ===========          ===========
+</TABLE>
+
+       The net loss in Europe for the fiscal year ended June 30, 1997 was
+       related to the acquisition of Regam Medical Systems International AB (See
+       Note 9).
+
+(9)    Acquisition of Regam Medical Systems International
+
+       On April 17, 1997 the Company acquired all of the outstanding shares of
+       Regam Medical Systems International AB ("Regam"), a Swedish manufacturer
+       of electronic dental imaging equipment for $2.9 million in cash and notes
+       payable. The notes payable, totaling $1.2 million, were issued to the
+       former owner of Regam (See Note 2). The results of Regam's operations
+       have been combined with those of the Company since the date of
+       acquisition.
+
+       The acquisition was accounted for using the purchase method of
+       accounting. Accordingly, a portion of the purchase price was allocated to
+       the net assets acquired based on their estimated fair values. The balance
+       of the purchase price, $2.8 million, was recorded as the excess of cost
+       over net assets acquired (goodwill) and is being amortized over fifteen
+       years on a straight-line basis. The allocation of the purchase price will
+       be finalized during fiscal 1998 upon completion of restructuring
+       decisions and asset valuations.
+
+       The following table reflects unaudited pro forma combined results of
+       operations of the Company and Regam on the basis that the acquisition had
+       taken place at the beginning of the latest fiscal year presented:
+
+<TABLE>
+<CAPTION>
+                                                      (Unaudited)          (Unaudited)
+                                                          1997                 1996
+                                                      -----------          -----------
+<S>                                                   <C>                  <C>        
+                Revenues                              $38,544,797          $38,006,591
+                Net income                                770,183              191,668
+                Income per common share                      $.08                 $.02
+                Shares used in computation              9,981,525            9,112,677
+</TABLE>
+
+                                      F-14
+
+<PAGE>
+
+       In management's opinion, the unaudited pro forma combined results of
+       operations are not indicative of the actual results that would have
+       occurred had the acquisition been consummated at the beginning of fiscal
+
+       1997 or 1996, or of future operations of the combined companies under the
+       ownership and management of the Company.
+
+(10)   Adoption of New Financial Standard
+
+       In February 1997, the Financial Accounting Standards Board issued
+       Statement of Financial Accounting Standard No. 128, "Earnings Per Share"
+       (SFAS 128). SFAS requires the replacement of primary and fully-diluted
+       earnings per share with basic and diluted earnings per share,
+       respectively. The statement also requires restatement of previously
+       reported earnings per share information to ensure consistency with future
+       reported amounts. The Company does not believe that the adoption of this
+       standard will result in any significant differences from previously
+       reported earnings per share.
+
+                                      F-15
+
+<PAGE>
+
+                    AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+                   FOR THE YEARS ENDED JUNE 30, 1997 AND 1996
+
+<TABLE>
+<CAPTION>
+                                    Balance at      Charged to      Charged to
+                                     Beginning       Costs and         Other                         Balance at End
+           Description               of Period        Expenses      Accounts(1)       Deductions        of Period
+- --------------------------------    -----------     -----------     -----------       ----------     --------------
+<S>                                 <C>             <C>             <C>              <C>             <C>        
+
+June 30, 1997
+- -------------
+
+Allowance for doubtful accounts
+   and sales returns                $   238,000     $    93,463     $    67,926      $  (121,463)     $   277,926
+
+Accumulated depreciation              5,833,067         363,195             -            (83,139)       6,113,123
+
+Accumulated amortization                666,968         398,150             -           (383,755)         681,363
+
+Deferred tax asset valuation
+   reserve                            2,134,125             -          (850,347)             -          1,283,778
+
+June 30, 1996
+- -------------
+
+Allowance for doubtful accounts
+   and sales returns                $   179,998     $   131,280     $    88,788      $  (162,006)     $   238,000
+
+Accumulated depreciation              5,450,566         382,501             -                -          5,833,067
+
+
+Accumulated amortization              1,272,973         586,938             -         (1,192,943)         666,968
+
+Deferred tax asset valuation
+   reserve                            1,974,402             -           159,723              -          2,134,125
+</TABLE>
+
+(1)    Represents amounts acquired from Visiplex Instruments Ltd. or Regam
+       Medical Systems International AB, or corresponding increase (decrease)
+       in the related deferred tax asset.
+
+                                      F-16
+
+<PAGE>
+
+Item 9.  Disagreements on Accounting and Financial Disclosure
+
+During the three years ended June 30, 1997, there were no disagreements with the
+Company's independent accountants on any matters or accounting principles or
+practices or financial statement disclosure.
+
+                                    Part III
+
+Items 10, 11, 12, and 13 are hereby incorporated by reference from the Company's
+Proxy Statement for the Annual Meeting of Shareholders, tentatively scheduled
+for December 18, 1997.
+
+
+<PAGE>
+
+Part IV
+
+     Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+     a)    1. The financial statements and schedules listed in the accompanying
+           index to financial statements are filed as a part of this annual
+           report.
+
+           2.  See a)1. Above.
+
+           3. The following exhibits are filed pursuant to Item 601 of
+           Regulation S-K. The numbers set forth below opposite the description
+           of each Exhibit correspond to the Exhibit Table of Item 601 of
+           Regulation S-K.
+
+               2. (a)  --  Asset Purchase Agreement between Xenon Industries
+                           Inc., and Visiplex Instruments, Ltd., dated June 30,
+                           1995. (6)
+
+                  (b)  --  Stock Purchase Agreement between ACG Nystromgruppen
+                           AB and AFP Imaging Corporation, dated April 17, 1997.
+                           (12)
+
+                  (c)  --  Promissory Note between ACG Nystromgruppen AB and AFP
+                           Imaging Corporation, dated April 17, 1997. (12)
+
+               3. (a)  --  Certificate of Incorporation of Registrant as
+                           amended. (2)
+
+                  (b)  --  Restated Certificate of Incorporation of Registrant.
+                           (4)
+
+                  (c)  --  Certificate of Amendment to Certificate of
+                           Incorporation of Registrant. (8)
+
+                  (d)  --  Certificate of Amendment of the Certificate of
+                           Incorporation of the Company filed with the Secretary
+                           of the State of New York on October 12, 1995. (10)
+
+                  (e)  --  By-Laws of Registrant. (2)
+
+                  (f)  --  Excerpt from minutes of Board of Directors meeting of
+                           August 12, 1982, amending the By-Laws of Registrant.
+                           (5)
+
+               4. (a)  --  Specimen of Common Stock Certificates. (2)
+
+                  (b)  --  Form of Common Stock Purchase Warrant. (2)
+
+                  (c)  --  1980 Restricted Stock Purchase Plan of the
+                           Registrant. (2)
+
+
+                  (d)  --  Form of Restricted Stock Purchase Agreement. (2)
+
+                  (e)  --  Profit Sharing Plan of the Registrant, as
+                           supplemented. (2)
+
+                  (f)  --  Specimen of Preferred Stock, Series A. Certificate.
+                           (5)
+
+                  (g)  --  Form of Preferred Stock and Debenture Purchase
+                           Agreement, dated as of August 12, 1982, between
+                           Registrant and each of the persons listed on the
+                           schedule of purchasers annexed thereto. (4)
+
+                  (h)  --  Form of Registrant's 12% Convertible Subordinated
+                           Debenture due 1997. (4)
+
+                  (i)  --  Restated Certificate of Incorporation. (4)
+
+                  (j)  --  Registration Right Agreement, dated August 12, 1982
+                           between Registrant and Pako Corporation. (4)
+
+                  (k)  --  Warrant Certificate, dated August 12, 1982, issued to
+                           Frederick R. Adler. (4)
+
+                  (l)  --  Warrant Certificate, dated October 22, 1982 issued to
+                           61 Broadway Associates Partnership. (1)
+
+                  (m)  --  Registrant's 1992 Stock Option Plan. (9)
+
+                  (n)  --  Subscription Agreement, dated October 11, 1995 of New
+                           Ballantrae Partners, L.P. (10)
+
+                  (o)  --  Registration Rights Agreement, dated as of October
+                           12, 1995 by and between AFP Imaging Corporation and
+                           New Ballantrae Partners, L.P. (10)
+
+                  (p)  --  Shareholders Agreement, dated as of October 12, 1995
+                           by and among New Ballantrae Partners, L.P., Donald
+                           Rabinovitch and David Vozick. (10)
+
+                  (q)  --  Registrant's 1995 Stock Option Plan. (11)
+
+               10.(a)  --  Health and Medical Reimbursement Plan. (2)
+
+                  (b)  --  Lease Agreement dated September 1, 1985, for premises
+                           at 250 Clearbrook Road, Elmsford, NY. (7)
+
+                  (c)  --  Letter Amendment dated May 1992, to Registrant's 12%
+                           Convertible Subordinated Debenture due 1997. (9)
+
+<PAGE>
+
+                  (d)  --  Greyhound Financial Capital Corporation Loan and
+                           Security Agreement (8)
+
+
+                  (e)  --  Finova Capital Corporation (formerly Greyhound
+                           Financial Capital Corporation) Amendment No. 3 to
+                           Loan and Security Agreement and Replacement Secured
+                           Promissory Note.
+
+           11.  --  Statement re computation per share earnings. (3)
+
+           21.  --  Subsidiaries of the Registrant.
+
+           27.  --  Financial Data Schedule
+
+     b)  Reports on Form 8-K:
+
+     A current Report on Form 8K/A was filed on June 30, 1997, to present the
+     Financial Statements of Regam Medical Systems International AB for the year
+     ended August 31, 1996, and the required pro-forma financial information
+
+     (1) Incorporated by reference from the Exhibits filed with Registrant's
+     Report on Form 10-K, dated June 30, 1984, filed with the Securities and
+     Exchange Commission.
+
+     (2) Incorporated by reference from the exhibits filed with Registration
+     Statement #2-G8980 of the Company, as amended, on file with the Securities
+     and Exchange Commission.
+
+     (3)   See Note 1 to "Notes to Financial Statements".
+
+     (4) Incorporated by reference from the Exhibits filed with Registrant's
+     Report on Form 8-K, dated August 12, 1982.
+
+     (5) Incorporated herein by reference from the Exhibits filed with the
+     Registrant's Annual Report on Form 10-K for the fiscal year ended June 30,
+     1982.
+
+     (6) Incorporated by reference from the Exhibits filed with Registrant's
+     Report on Form 8-K, dated July 31, 1995.
+
+     (7) Incorporated by reference from the Exhibits filed with Registrant's
+     Annual Report on Form 10-K for the fiscal year ended June 30, 1986.
+
+     (8) Incorporated by reference from the Exhibits filed with Registrant's
+     Annual Report on Form 10-K for the fiscal year ended June 30, 1994.
+
+     (9) Incorporated by reference from the Exhibits filed with Registrant's
+     Annual Report on Form 10-K for the fiscal year ended June 30, 1993.
+
+     (10) Incorporated by reference from the Exhibits filed with Registrant's
+     current report on Form 8-K, dated October 12, 1995.
+
+     (11) Incorporated by reference from the Exhibits filed with Registrant's
+     Annual Report on Form 10-K for the fiscal year ended June 30, 1996.
+
+     (12) Incorporated by reference from the Exhibits filed with the
+     Registrant's Report on form 8-K, dated May 1, 1997.
+
+<PAGE>
+
+                                   Signatures
+
+     Pursuant to the requirements of Section 13 or 15 (d) of the Securities
+     Exchange Act of 1934, the registrant has duly caused this report to be
+     signed on its behalf by the undersigned, thereunto duly authorized.
+
+     By:   /s/ Donald Rabinovitch
+           ------------------------------
+           Donald Rabinovitch, President
+     Date:  September 24, 1997
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+     report has been signed below by the following persons on behalf of the
+     registrant and in the capacities and on the dates indicated.
+
+     By:   /s/ Donald Rabinovitch
+           ------------------------------
+           Donald Rabinovitch, President
+                  & Director
+           (Principal Executive Officer)
+     Date:  September 24, 1997
+
+     By:   /s/ David Vozick
+           ------------------------------
+           David Vozick, Chairman of the Board
+               Secretary and Treasurer
+           (Principal Financial and Accounting Officer)
+     Date:  September 24, 1997
+
+     By:   /s/ Robert Rosen
+           ------------------------------
+           Robert Rosen, Director
+     Date:  September 24, 1997
+
+     By:   /s/ Robert Blatt
+           ------------------------------
+           Robert Blatt, Director
+     Date:  September 24, 1997
+
+     By:   /s/ Frank O'Bryan
+           ------------------------------
+           Frank O'Bryan, Director
+     Date:  September 24, 1997
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.(E)
+<SEQUENCE>2
+<DESCRIPTION>THIRD AMENDMENT TO LOAN AND SECURITY AGREEMENT
+              DATED AS OF JULY 14, 1997
+<TEXT>
+
+
+<PAGE>
+                               THIRD AMENDMENT TO
+                           LOAN AND SECURITY AGREEMENT
+
+     This Third Amendment to Loan and Security Agreement (this "Amendment"),
+dated as of July 14, 1997, is entered into by and among AFP IMAGING CORPORATION,
+a New York corporation, successor by merger to AFP Technologies Corporation,
+formerly known as Kenro Corporation, a New Jersey corporation ("AFP"),
+LOGETRONICS CORPORATION, a New York corporation ("LogE"), VISIPLEX INSTRUMENTS
+CORPORATION, a New York corporation formerly known as Xenon Industries, Inc.
+("Visiplex") and REGAM MEDICAL SYSTEMS INTERNATIONAL AB, a Swedish corporation
+("Regam") (AFP, LogE, Visiplex and Regam are hereinafter jointly and severally,
+referred to as "Borrower"), and FINOVA CAPITAL CORPORATION, a Delaware
+corporation ("Lender") formerly known as Greyhound Financial Corporation,
+successor-by-merger to Greyhound Financial Capital Corporation, an Oregon
+corporation ("Original Lender").
+
+                              W I T N E S S E T H:
+
+     WHEREAS, Borrower, AFP Technologies Corporation, formerly known as Kenro
+Corporation, a New Jersey corporation and Original Lender are parties to that
+certain Loan and Security Agreement dated as of November 22, 1993, as the same
+was amended by (i) that certain First Amendment to Loan and Security Agreement
+dated as of December 7, 1993 and (ii) that certain Second Amendment to Loan and
+Security Agreement dated as of July 14, 1995 (as so amended, the "Loan
+Agreement") setting forth the terms and conditions under which Original Lender
+would make loans and other advances to Borrower; and
+
+     WHEREAS, effective as of December 31, 1994, Original Lender was merged with
+and into Lender (then known as Greyhound Financial Corporation), with Lender
+being the surviving corporation of such merger, and Lender succeeded to all the
+rights and obligations of Original Lender under the Loan Agreement and the Loan
+Documents; and
+
+     WHEREAS, effective on April 17, 1997 AFP acquired all of the issued and
+outstanding stock of Regam; and
+
+     WHEREAS, Borrower has requested that Lender make certain amendments to the
+Loan Agreement, which Lender is willing to do but only upon the terms and
+subject to the conditions herein set forth;
+
+     NOW, THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+<PAGE>
+     1. Definitions. Unless otherwise defined in this Amendment, all capitalized
+terms used herein shall have the same meaning as set forth in the Loan
+Agreement.
+
+     2. Amendments. The Loan Agreement is hereby amended as follows:
+
+     (a) Paragraph 1(A) is hereby amended by adding or substituting, as the case
+may be, the following definitions:
+
+          "this Agreement' shall mean this Loan and Security Agreement dated as
+     of November 22, 1993, as amended by the First Amendment, the Second
+     Amendment and the Third Amendment, and as the same may hereafter be
+     amended, restated, renewed, extended or modified from time to time."
+
+          "'Borrower' means, individually and collectively, jointly and
+     severally, each of AFP, LogE, Visiplex and Regam."
+
+          "'Collateral' shall have the meaning given to it in Section 3 of the
+     Third Amendment."
+
+          "'Eligible Backed Foreign Receivable' shall mean an otherwise Eligible
+     Receivable of an account debtor not located in the United States, where
+     such Receivable is fully supported by a letter of credit or other form of
+     guaranty or security, in each case in form and substance satisfactory to
+     Lender."
+
+          "'Eligible Named Foreign Receivable' shall mean an otherwise Eligible
+     Receivable of any of Siemens AG, Phillips Medical Systems, GE Belgium or
+     AGFA Gaevert."
+
+          "'Eligible Foreign Receivable' shall mean an Eligible Receivable of an
+     account debtor not located in the United States, but excluding (A) Eligible
+     Backed Foreign Receivables and (B) Eligible Named Foreign Receivables."
+
+          "'Loan Documents' means, collectively, this Agreement, the
+     Intellectual Property Security Agreement, the Subordination Agreement, the
+     Environmental Certificate, the Assignment of Contract, Term Note C, any
+     other note or notes executed by Borrower and payable to Lender, and any
+     other agreements entered into in connection with this Agreement, together
+     with all alterations, amendments, changes, extensions, modifications,
+     refinancings, refundings, renewals,
+
+                                      -2-
+
+<PAGE>
+     replacements, restatements, or supplements, of or to any of the foregoing."
+
+          "'Regam' means Regam Medical Systems International AB, a Swedish
+     corporation."
+
+          "'Subordinating Creditor' means ACG Nystromgruppen AB, a Swedish
+     corporation."
+
+          "'Subsidiary' means any of LogE, Visiplex or Regam."
+
+          "'Term Note C' shall mean that certain promissory note of Borrower,
+     payable to Lender's order, dated as of the Third Amendment Effective Date,
+     in the original principal amount of $1,450,000, and attached as Exhibit A
+     to the Third Amendment, as the same may hereafter be amended, restated,
+     renewed, extended or modified, or any new note issued in substitution
+     therefor, from time to time."
+
+          "'Third Amendment' shall mean that certain Third Amendment to Loan and
+     Security Agreement dated as of July 14, 1997, between Lender and Borrower."
+
+          "'Third Amendment Effective Date' shall mean July 14, 1997, the date
+     upon which the Third Amendment became effective."
+
+     (b) Clause (v) of the definition of "Eligible Receivables" is hereby
+amended in its entirety to read as follows:
+
+          "(v) [Reserved];"
+
+     (c) Paragraph 2(B)(i)(b) is hereby amended in its entirety to read as
+follows:
+
+          "(b) an amount equal to (1) eighty percent (80%) of the net amount of
+     Eligible Receivables other than Eligible Named Foreign Receivables or
+     Eligible Foreign Receivables, plus (2) the lesser of (A) eighty percent
+     (80%) of the net amount of Eligible Named Foreign Receivables or (B)
+     $500,000, plus (3) the lesser of (A) fifty percent (50%) of the net amount
+     of Eligible Foreign Receivables or (B) $500,000;"
+
+                                      -3-
+
+<PAGE>
+     (d) Paragraph 2(B)(iii) is hereby amended in its entirety to read as
+follows:
+
+          "(iii) Fixed Asset Loan: a term loan in the outstanding principal
+     amount of One Million Four Hundred and Fifty Thousand Dollars and No/100
+     ($1,450,000.00) (the "Fixed Asset Loan"); provided, that the Fixed Asset
+     Loan shall be subject to such terms and conditions as are set forth on Term
+     Note C.
+
+          Lender shall disburse the Fixed Asset Loan in a single advance in
+     accordance with the terms and subject to the conditions set forth in the
+     Loan Agreement."
+
+     (e) The first sentence of Paragraph 3(A) is hereby amended in its entirety
+to read as follows:
+
+     "Borrower shall pay Lender interest on the daily outstanding balance of
+     Borrower's loan account at a per annum rate of three-quarters of one
+     percent (0.750%) in excess of the rate of interest announced publicly by
+     Citibank, N.A., from time to time as its 'base rate' (or any successor
+     thereto), which may not be such institution's lowest rate (the 'Base
+     Rate')."
+
+     (f) The final sentence of Paragraph 3(A) is hereby amended in its entirety
+to read as follows:
+
+     "The foregoing notwithstanding, the principal balance of the Fixed Asset
+     Loan shall bear interest at a per annum rate as set forth in Term Note C."
+
+     (g) Paragraph 3(B), providing for a Minimum Interest Charge, is hereby
+deleted in its entirety.
+
+     (h) Paragraph 3(G) is hereby amended in its entirety to read as follows:
+
+          "(G) Examination Fees. Borrower agrees to pay to Lender an examination
+     fee in the amount of Five Hundred and No/100 Dollars ($500.00) per day per
+     auditor in connection with each audit or examination of Borrower performed
+     by Lender prior to or after the date hereof, plus all costs and expenses
+     incurred in connection therewith (the "Examination Fee"). Notwithstanding
+     the foregoing, so long as there exists no Event of Default or any act or
+     event which with notice, passage of time, or both would constitute an Event
+     of Default, Borrower shall pay only Lender's actual fees and expenses
+     incurred during Lender's field examinations and audits, based upon a cycle
+     of
+
+                                      -4-
+
+<PAGE>
+     one hundred and eighty (180) days between such field examinations/audits
+     and a limit of five (5) business days per such field examination/audit;
+     provided, however, that nothing herein shall be deemed to limit the
+     frequency or the duration of Lender's field examinations/audits."
+
+     (i) Paragraph 17(A) is hereby amended and restated in its entirety to read
+as follows:
+
+          "Term. The initial term of this Agreement shall be for three (3) years
+     from the Third Amendment Effective Date (the 'Initial Term') and shall be
+     automatically renewed for successive periods of one (1) year (each, a
+     'Renewal Term'), at the discretion of Lender, unless earlier terminated as
+     provided herein. All loans and all credit facilities shall be coterminous."
+
+     (j) Paragraph 17(D) is hereby amended in its entirety to read as follows:
+
+          "(D) Early Termination; Termination Fee. In addition to the procedure
+     set forth in Paragraph 17(B), Borrower may terminate this Agreement at any
+     time upon sixty (60) days' prior written notice and prepay the Obligations.
+     Upon any such early termination by Borrower or any termination of this
+     Agreement by Lender upon the occurrence of an Event of Default under
+     Paragraph 18(A) hereof, then, and in any such event, Borrower shall pay to
+     Lender upon the effective date of such termination a fee (the 'Termination
+     Fee') in an amount equal to: (i) three percent (3%) of the average daily
+     outstanding balance of the Obligations for the 180 day period (or lesser
+     period if applicable) preceding the date of termination, if such early
+     termination occurs on or prior to the first anniversary of the Third
+     Amendment Effective Date; (i) two percent (2%) of the average daily
+     outstanding balance of the Obligations for the 180 day period (or lesser
+     period if applicable) preceding the date of termination, if such early
+     termination occurs after the first anniversary of the Third Amendment
+     Effective Date but on or prior to the second anniversary of the Third
+     Amendment Effective Date; or (ii) one percent (1%) of the average daily
+     outstanding balance of the Obligations for the 180-day period preceding the
+     date of termination, if such early termination occurs after the second
+     anniversary of the Third Amendment Effective Date. The Termination Fee
+     shall be presumed to be the amount of damages sustained by Lender as a
+     result of the early termination, and Borrower agrees that because it is
+     difficult to calculate such damages, the Termination Fee provided for
+     herein is reasonable under the circumstances."
+
+                                      -5-
+
+<PAGE>
+     (k) Notwithstanding anything to the contrary contained in the Loan
+Agreement, as long as (i) Borrower shall maintain excess borrowing availability
+of at least Five Hundred Thousand Dollars ($500,000), after giving effect to any
+requested but unfunded advance and payment in full of Borrower's suppliers to
+within sixty (60) days of such suppliers' respective written or agreed-upon
+terms, and (ii) there shall not then exist an Event of Default or any act or
+event which with notice, passage of time, or both would constitute an Event of
+Default, (1) Borrower shall report to Lender Collateral information on a monthly
+basis (in the form of a Borrowing Base Certificate to be prescribed by Lender),
+and (2) Borrower shall maintain dominion over its cash.
+
+     (l) Lender's address for notice purposes in Exhibit B to the Loan Agreement
+is hereby amended in its entirety to read as follows:
+
+          Lender's address for notices: FINOVA Capital Corporation
+                                        311 South Wacker Drive
+                                        Suite 4400
+                                        Chicago, Illinois 60606
+                                        Att'n: Brian G. Rujawitz
+                                        Fax: (312) 322-7250
+
+          with a copy to:               FINOVA Capital Corporation
+                                        1850 North Central Avenue
+                                        Phoenix, Arizona 85002
+                                        Attention: Joseph R. D'Amore, Esq.
+                                        Fax: (602) 207-5036
+
+          with a copy to:               Gammage & Burnham
+                                        Two North Central Avenue
+                                        Eighteenth Floor
+                                        Phoenix, Arizona 85004
+                                        Att'n: Randall S. Dalton, Esq.
+                                        Fax: (602) 256-4475
+
+     (m) The Validity and Support Agreement is hereby terminated and deemed to
+be of no further force or effect.
+
+     (n) Within sixty (60) days after the Third Amendment Effective Date,
+Borrower shall cause to be delivered to Lender a Subordination Agreement from
+ACG Nystromgruppen AB (the Subordinating Creditor) with respect to that certain
+US$1,000,000 promissory note of AFP dated April 17, 1997.
+
+     (o) Notwithstanding anything to the contrary contained in the Loan
+Agreement, "Eligible Receivables" shall exclude Receivables of Regam unless and
+
+                                      -6-
+
+<PAGE>
+until Lender shall have satisfied itself in its sole determination that Lender
+has a first priority perfected security interest in such Receivables of Regam.
+
+     (p) Notwithstanding anything to the contrary contained in the Loan
+Agreement, "Eligible Inventory" shall exclude Inventory of Regam unless and
+until Lender shall have satisfied itself in its sole determination that Lender
+has a first priority perfected security interest in such Inventory.
+
+     (q) The following new Section 13(A)(v) is hereby added to read as follows:
+
+          "(v) Regam is a corporation duly organized, validly existing and in
+     good standing under the laws of the Country of Sweden, is qualified and
+     authorized to do business and is in good standing in all jurisdictions in
+     which such qualification and good standing are necessary in order for it to
+     conduct its business and own its property (other than to the extent that
+     such failure to qualify would not have a material adverse effect on the
+     business or financial condition of Regam), and has all requisite power and
+     authority to conduct its business as presently conducted, to own its
+     property and to execute and deliver each of the Loan Documents to which it
+     is a party and perform all of its Obligations thereunder;"
+
+     (r) Section 15(L), which presently reads as follows:
+
+          "(L) Affiliate Transactions. Except as set forth below, sell,
+     transfer, distribute or pay any money or property to any Affiliate, or
+     invest in (by capital contribution or otherwise) or purchase or repurchase
+     any stock or Indebtedness, or any property, of any Affiliate, or become
+     liable on any guaranty of the indebtedness, dividends or other obligations
+     of any Affiliate. Notwithstanding the foregoing, Borrower may pay
+     compensation permitted by Paragraph 15(J) to employees who are Affiliates,
+     make loans or other advances permitted by Paragraph 15(B) to executives who
+     are Affiliates and make payments to E-Ticket to the extent permitted under
+     the Subordination Agreement between Lender and E-Ticket and, if no Event of
+     Default has occurred, Borrower may engage in transactions with Affiliates
+     in the normal course of business, in amounts and upon terms which are fully
+     disclosed to Lender and which are no less favorable to Borrower than would
+     be obtainable in a comparable arm's length transaction with a Person who is
+     not an Affiliate;"
+
+is hereby amended in its entirety to read as follows:
+
+                                      -7-
+
+<PAGE>
+          "(L) Affiliate Transactions.
+
+               (i) sell, transfer, distribute or pay any money or property to
+          any Affiliate other than Regam, or invest in (by capital contribution
+          or otherwise) or purchase or repurchase any stock or Indebtedness, or
+          any property, of any Affiliate other than Regam, or become liable on
+          any guaranty of the indebtedness, dividends or other obligations of
+          any Affiliate other than Regam; provided, however, that if (A) no
+          Event of Default exists and (B) no act or event has occurred which,
+          with the passing of time or the giving of notice, or both, would
+          constitute an Event of Default, then Borrower may engage in
+          transactions with any Affiliate other than Regam in the normal course
+          of business, in amounts and upon terms which are fully disclosed to
+          Lender and which are no less favorable to Borrower than would be
+          obtainable in a comparable arm's length transaction with a Person who
+          is not an Affiliate;
+
+               (ii) sell, transfer, distribute or pay any money or property to
+          Regam, except on the following terms and subject to the following
+          conditions: (A) both before and after having given effect to such
+          sale, transfer, distribution or payment , no Event of Default exists
+          and no act or event has occurred which, with the passing of time or
+          the giving of notice, or both, would constitute an Event of Default
+          and (B) either (1) Lender shall continue to have a first priority
+          perfected security interest in such money or property, or (2) both
+          before and after having given effect to such sale, transfer,
+          distribution or payment, Borrower shall have excess borrowing
+          availability of at least One Million Five Hundred Thousand Dollars
+          ($1,500,000) after giving effect to any requested but unfunded advance
+          and payment in full of Borrower's suppliers to within sixty (60) days
+          of such suppliers' respective written or agreed-upon terms, or (3)
+          FINOVA shall have given its prior written approval for such sale,
+          transfer, distribution or payment;
+
+               (iii) notwithstanding the provisions of Section 15(L)(i) or
+          Section 15(L)(ii), Borrower may pay compensation permitted by
+          Paragraph 15(J) to employees who are Affiliates, make loans or other
+          advances permitted by Paragraph 15(B) to executives who are Affiliates
+          and make payments to Subordinated Creditor to the extent permitted
+          under the Subordination Agreement between Lender and Subordinated
+          Creditor;".
+
+                                      -8-
+
+<PAGE>
+     3. Reaffirmation and Grant of Security Interest. Without in any way
+limiting the provisions of Section 4(A) of the Loan Agreement, and to secure the
+prompt payment and performance of the Obligations (other than those Obligations
+arising out of the Environmental Certificate), and notwithstanding which entity
+constituting Borrower receives a particular advance of the Total Facility, each
+entity constituting Borrower hereby reaffirms the grant to Lender of or grants
+to Lender, as the case may be, a security interest in all of such Borrower's now
+owned or hereafter acquired or arising Inventory, Equipment, Receivables, the
+Life Insurance Policies and the proceeds thereof, Trademarks, Licenses and
+Patents, and General Intangibles, including, without limitation, all of such
+Borrower's Deposit Accounts, money, any and all property now or at any time
+hereafter in Lender's possession (including claims and credit balances), and all
+proceeds (including proceeds of any insurance policies, proceeds of proceeds and
+claims against third parties), all products and all books and records related to
+any of the foregoing (all of the foregoing, together with all other property in
+which Lender may be granted a lien or security interest, is referred to herein,
+collectively, as the "Collateral"; provided, however, that, with respect solely
+to Collateral of Regam, such Collateral of Regam shall in all events include
+only property of Regam located in the United States of America as of the Third
+Amendment Effective Date together with such Collateral of Regam as thereafter
+may be located therein from time to time.
+
+     4. Conditions Precedent. The amendments described in this Amendment and the
+obligations of Lender set forth in this Amendment will not be effective unless
+and until each of the following conditions precedent have been satisfied, in
+form, manner and substance satisfactory to Lender:
+
+     (a) Borrower shall have delivered or caused to be delivered to Lender the
+following documents, all of which shall be properly completed, executed and
+otherwise satisfactory to Lender:
+
+          (i) this Third Amendment;
+
+          (ii) Term Note C (as described in Section 2(a) hereof), in form and
+     substance set forth in Exhibit A attached hereto and incorporated herein by
+     this reference, which Term Note C shall be issued in substitution for, but
+     not in payment of or satisfaction of, (A) that certain First Amended
+     Secured Promissory Note (Term Note A) in the original principal amount of
+     $550,000 and (B) that certain Secured Promissory Note (Term Note B);
+
+          (iii) Any other consents deemed necessary by Lender;
+
+          (iv) A corporate resolution from the Board of Directors of each entity
+     constituting Borrower (and from the Shareholders, if
+
+                                      -9-
+
+<PAGE>
+     necessary) approving the transactions contemplated hereby and the execution
+     and delivery of this Amendment and Term Note C;
+
+          (v) A certificate of Borrower's president and corporate assistant
+     secretary attesting to the facts that (A) the corporate resolutions set
+     forth in Section 3(a)(vi) above have not been modified or revoked and
+     remain in full force and effect; and (B) the by-laws of such Borrower have
+     not changed from the date of the last such certification, or attaching any
+     amendments thereto.
+
+          (vi) Such amendments to Lender's existing financing statements and
+     such new financing statements in Lender's favor as Lender deems necessary;
+     and
+
+          (vii) Such other items as Lender may require;
+
+     (b) Lender shall have received a certificate of corporate status with
+respect to each Borrower, dated within ten (10) days of the date hereof, from
+the Secretary of State or other appropriate governmental authority of the state
+or country of incorporation of each Borrower, which certificate shall indicate
+that each Borrower is in good standing in such jurisdiction, together in each
+case with a certified copy of the articles of incorporation of each Borrower
+from such governmental authority;
+
+     (c) There shall not then exist an Event of Default or any act or event
+which with notice, passage of time, or both would constitute an Event of
+Default;
+
+     (d) All the representations and warranties of the Loan Parties in the Loan
+Documents (as defined in Section 2(a) hereof) as amended hereby shall be true
+and correct, in all material respects, before and after giving effect to the
+making of this Amendment;
+
+     (e) Lender shall have reviewed and approved a current UCC search on
+Borrower; and
+
+     (f) Borrower shall have paid all closing costs, recording fees and taxes,
+appraisal fees and expenses, travel expenses, fees and expenses of Lender's
+counsel, and all other costs and expenses incurred by Lender in connection with
+the preparation of, closing of and disbursement of the advances pursuant to this
+Amendment, which costs, fees and expenses may be payable from the first advance
+made pursuant to this Amendment.
+
+     5. Indebtedness Acknowledged. Borrower acknowledges that the indebtedness
+evidenced by the Loan Documents is just and owing and agrees to pay the
+indebtedness in accordance with the terms of the Loan Documents. Borrower
+
+                                      -10-
+
+<PAGE>
+further acknowledges and represents that no event has occurred and no condition
+presently exists that would constitute a default or event of default by Lender
+under the Loan Agreement as amended hereby or any of the other Loan Documents,
+with or without notice or lapse of time.
+
+     6. Validity of Documents. Borrower hereby ratifies, reaffirms, acknowledges
+and agrees that the Loan Agreement as amended hereby and the other Loan
+Documents represent valid, enforceable and collectable obligations of Borrower,
+and that Borrower presently has no existing claims, defenses (personal or
+otherwise) or rights of setoff whatsoever with respect to the Obligations of
+Borrower under the Loan Agreement as amended hereby or any of the other Loan
+Documents. Borrower furthermore agrees that it has no defense, counterclaim,
+offset, cross-complaint, claim or demand of any nature whatsoever which can be
+asserted as a basis to seek affirmative relief or damages from Lender.
+
+     7. Reaffirmation of Warranties. Borrower hereby reaffirms to Lender each of
+the representations, warranties, covenants and agreements of Borrower as set
+forth in each of the Loan Documents as amended hereby with the same force and
+effect as if each were separately stated herein and made as of the date hereof.
+Borrower represents and warrants to Lender that with respect to the financing
+transaction herein contemplated, no Person is entitled to any brokerage fee or
+other commission and Borrower agrees to indemnify and hold Lender harmless
+against any and all such claims.
+
+     8. Ratification of Terms and Conditions. All terms, conditions and
+provisions of the Loan Agreement as amended hereby, and of each of the other
+Loan Documents shall continue in full force and effect and shall remain
+unaffected and unchanged except as specifically amended hereby. In the event of
+any conflict between the terms and conditions of this Amendment and any of the
+other Loan Documents, the provisions of this Amendment shall control.
+
+     9. Other Writings. Lender and Borrower will execute such other writings as
+may be necessary to confirm or carry out the intentions of Lender and Borrower
+evidenced by this Amendment.
+
+     10. Benefit of this Amendment. The terms and provisions of this Amendment
+and the other Loan Documents shall be binding upon and inure to the benefit of
+Lender and Borrower and their respective successors and assigns, except that
+Borrower shall not have any right to assign its rights under this Amendment or
+any of the Loan Documents or any interest therein without the prior written
+consent of Lender.
+
+     11. Choice of Law. The Loan Documents and this Amendment shall be performed
+and construed in accordance with the laws of the State of Arizona.
+
+                                      -11-
+
+<PAGE>
+     12. Entire Agreement. Except as modified by this Amendment, the Loan
+Documents remain in full force and effect. The Loan Documents as modified by
+this Amendment embody the entire agreement and understanding between Borrower
+and Lender, and supersede all prior agreements and understandings between said
+parties relating to the subject matter thereof.
+
+     13. Counterparts; Telecopy Execution. This Amendment may be executed in any
+number of separate counterparts, all of which when taken together shall
+constitute one and the same instrument, admissible into evidence,
+notwithstanding the fact that all parties have not signed the same counterpart.
+Delivery of an executed counterpart of this Amendment by telefacsimile shall be
+equally as effective as delivery of a manually executed counterpart of this
+Amendment. Any party delivering an executed counterpart of this Amendment by
+telefacsimile shall also deliver a manually executed counterpart of this
+Amendment, but the failure to deliver a manually executed counterpart shall not
+affect the validity, enforceability, and binding affect of this Amendment.
+
+     14. Effectiveness of Amendment. This Amendment shall not be effective until
+the same is executed and delivered by the parties hereto and all conditions set
+forth in Section 4 hereof have been satisfied.
+
+     15. Reaffirmation. All of the terms and provisions of the Loan Agreement
+are hereby confirmed and ratified. However, in the event of a conflict between
+the Loan Agreement and this Amendment, the provisions of this Amendment shall
+prevail.
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+                                      -12-
+
+<PAGE>
+     IN WITNESS WHEREOF, the parties have executed this Amendment on the date
+and year first written above.
+
+AFP IMAGING CORPORATION, a New York     LOGETRONICS CORPORATION, a New
+corporation, successor by merger to     York corporation
+AFP Technologies Corporation,
+formerly known as Kenro
+Corporation, a New Jersey
+corporation
+
+By: _______________________________     By: _______________________________
+    Name:                                   Name:
+    Title:                                  Title:
+
+VISIPLEX INSTRUMENTS CORPORATION, a     REGAM MEDICAL SYSTEMS INTERNATIONAL
+New York Corporation formerly known     AB, a Swedish corporation
+as Xenon Industries, Inc.
+
+By: _______________________________     By: _______________________________
+    Name:                                   Name:
+    Title:                                  Title:
+
+                                      FINOVA CAPITAL CORPORATION, a Delaware
+                                      corporation formerly known as
+                                      Greyhound Financial Corporation,
+                                      successor-by-merger to Greyhound
+                                      Financial Capital Corporation, an
+                                      Oregon corporation
+
+                                      By: __________________________________
+                                          Name:
+                                          Title:
+
+                                      -13-
+
+<PAGE>
+                          EXHIBIT A TO FIRST AMENDMENT
+
+                               Form of Term Note C
+
+                                (to be attached)
+
+<PAGE>
+                       REPLACEMENT SECURED PROMISSORY NOTE
+                                  (TERM NOTE C)
+
+$1,450,000                                                      Phoenix, Arizona
+                                                                   July 14, 1997
+
+     FOR VALUE RECEIVED, AFP IMAGING CORPORATION, a New York corporation,
+successor by merger to AFP Technologies Corporation, formerly known as Kenro
+Corporation, a New Jersey corporation, LOGETRONICS CORPORATION, a New York
+corporation, VISIPLEX INSTRUMENTS CORPORATION, a New York corporation formerly
+known as Xenon Industries, Inc. and REGAM MEDICAL SYSTEMS INTERNATIONAL AB, a
+Swedish corporation ("Regam") (all of the foregoing, individually and
+collectively "Debtor"), jointly and severally promise to pay to the order of
+FINOVA CAPITAL CORPORATION ("Secured Party"), formerly known as Greyhound
+Financial Corporation and successor-by-merger to Greyhound Financial Capital
+Corporation, an Oregon corporation, at its offices at 355 South Grand Avenue,
+Suite 2400, Los Angeles, California 90071, or at such other place or places as
+Secured Party may from time to time designate in writing, the principal sum of
+One Million Four Hundred Fifty Thousand Dollars ($1,450,000), payable as
+follows:
+
+          a. Thirty-Six (36) equal successive monthly installments of principal
+     of Twelve Thousand Eighty-Three and 33/100 Dollars ($12,083.33) each on the
+     first day of each month, beginning August 1, 1997, and continuing through
+     and including July 1, 2000; and
+
+          b. A final installment of One Million Fifteen Thousand and 12/100
+     Dollars ($1,015,000.12) on the 14th day of July, 2000,
+
+together with accrued interest on the principal balance from time to time
+remaining unpaid, payable monthly on the first day of each and every month,
+beginning August 1, 1997. Notwithstanding anything herein to the contrary, in
+the event that certain Loan and Security Agreement, dated as of November 22,
+1993 by and among Debtor (other than Regam), AFP Technologies Corporation,
+formerly known as Kenro Corporation, a New Jersey corporation and Secured Party
+(the "Original Agreement"), as amended by that certain First Amendment to Loan
+and Security Agreement dated as of December 7, 1993 (the "First Amendment") that
+certain Second Amendment to Loan and Security Agreement dated as of July 14,
+1995 (the "Second Amendment") and that certain Third Amendment to Loan and
+Security Agreement of even date herewith (the "Third Amendment"; and
+collectively with the Second Amendment, the First Amendment and the Original
+Agreement, and as the same may hereafter be amended, restated, renewed, extended
+or modified from time to time, the "Loan Agreement") is terminated by Debtor, by
+Secured Party or by any other person at any time, then the entire unpaid
+principal balance of this Note,
+
+<PAGE>
+together with all accrued and unpaid interest hereon, shall become immediately
+due and payable in full on the effective date of such termination, without
+presentment, notice or demand of any kind.
+
+     Interest shall be computed on the basis of a 360-day year for the actual
+number of days elapsed, and shall be at the rate of three-quarters of one
+percent (0.750%) in excess of the Base Rate (as hereinafter defined), computed
+on the basis of a 360-day year; provided, however, upon the occurrence and
+during the continuance of an event of default (as hereinafter defined), interest
+shall accrue on the outstanding principal balance of this Note at a default rate
+(the "Default Rate") of two and three-quarters percent (2.750%) in excess of the
+Base Rate, and shall be payable on demand. "Base Rate" means, for any day, the
+rate of interest per annum (over a year of 360 days) announced by Citibank, N.A.
+(the "Bank"), from time to time, as its "base rate" (or any successor thereto)
+in effect on such day. The Base Rate is not necessarily the lowest rate charged
+by the Bank. The applicable rate of interest assessed hereunder will be
+increased or decreased from time to time hereafter in an amount equal to any
+increase or decrease hereafter made by the Bank in the Base Rate. A change in
+the Base Rate shall be effective on the first day following such change,
+provided that a cumulative change of less than one fourth of one percent (0.25%)
+shall not be considered.
+
+     Debtor warrants and represents to Secured Party that Debtor has used and
+will continue to use the loans and advances represented by this Note solely for
+proper business purposes, and consistent with all applicable laws and statutes.
+Debtor further warrants and represents to Secured Party and covenants with
+Secured Party that Debtor is not in the business of extending credit for the
+purpose of purchasing or carrying margin stock (within the meaning of Regulation
+G issued by the Board of Governors of the Federal Reserve System), and no part
+of the loan represented by this Note has been or will be used to purchase or
+carry any margin stock or to extend credit to others for the purpose of
+purchasing or carrying any margin stock.
+
+     This Note is secured by the Collateral described in the Loan Agreement.
+
+     The occurrence of any one of the following events shall constitute a
+default by Debtor under this Note (hereinafter an "Event of Default"): (a) if
+Debtor fails to pay to Secured Party an installment of principal or interest
+hereunder when due; (b) if Debtor fails to pay any of its Obligations (as
+defined in the Loan Agreement) to Secured Party when due and payable or declared
+due and payable; (c) if Debtor fails or neglects to perform, keep or observe any
+term, provision, covenant, warranty or representation contained in this Note or
+the Loan Agreement (other than as referred to in (a) or (b) of this paragraph),
+which is required to be performed, kept or observed by Debtor or if a default
+occurs under the Loan Agreement; (d) an Event of Default under and as defined in
+the Loan Agreement shall exist; or (e) the
+
+                                      -2-
+
+<PAGE>
+occurrence of a default or an event of default under any agreement, instrument
+or document heretofore, now or at any time or times hereafter delivered to
+Secured Party by Debtor or by any guarantor of part or all of Debtor's
+obligations to Secured Party.
+
+     Upon the occurrence of any Event of Default hereunder, in addition to
+Secured Party's right to charge interest on the Obligations at the Default Rate:
+(a) at the option of Secured Party, the entire unpaid amount of all of the
+Obligations shall become immediately due and payable without demand, notice or
+legal process of any kind; (b) Secured Party may, at its option, without demand,
+notice or legal process of any kind, exercise any and all rights and remedies
+granted to it by the Loan Agreement or by any other agreement now or hereafter
+existing between Secured Party and Debtor or between Secured Party and any
+guarantor of part or all of Debtor's liabilities to Secured Party; and (c)
+Secured Party may at its option exercise from time to time any other rights and
+remedies available to it under the Uniform Commercial Code or other law of the
+State of Arizona.
+
+     The remedies of Secured Party as provided herein and in the Loan Agreement
+shall be cumulative and concurrent, and may be pursued singularly, successively,
+or together, at the sole discretion of Secured Party. No act of omission or
+commission of Secured Party, including specifically any failure to exercise any
+right, remedy or recourse, shall be deemed to be a waiver or release of the
+same, such waiver or release to be effected only through a written document
+executed by Secured Party and then only to the extent specifically recited
+therein. A waiver or release with reference to any one event shall not be
+construed as continuing, as a bar to, or as a waiver or release of, any
+subsequent right, remedy or recourse as to a subsequent event.
+
+     Debtor waives presentment, demand and protest, notice of protest, notice of
+presentment and all other notices and demands in connection with the enforcement
+of Secured Party's rights hereunder, except as specifically provided and called
+for by this Note, and hereby consents to, and waives notice of, the release,
+addition, or substitution, with or without consideration, of any collateral or
+of any person liable for payment of this Note. Any failure of Secured Party to
+exercise any right available hereunder or otherwise shall not be construed as a
+waiver of the right to exercise the same or as a waiver of any other right at
+any other time.
+
+     If legal action is necessary to enforce any provision of this Note, the
+prevailing party to such action shall be entitled to recover payment of its
+costs and attorneys' fees, paralegals' fees and expert witnesses' fees from the
+losing party.
+
+     Secured Party may at any time transfer this Note and Secured Party's rights
+in any or all collateral securing this Note, and Secured Party thereafter shall
+be relieved from all liability with respect to such collateral arising after the
+date of such transfer.
+
+                                      -3-
+
+<PAGE>
+     This Note shall be binding upon Debtor and its legal representatives,
+successors and assigns. Wherever possible, each provision of this Note shall be
+interpreted in such manner as to be effective and valid under applicable law,
+but if any provision of the Note shall be prohibited by or invalid under such
+law, such provision shall be severable, and be ineffective to the extent of such
+prohibition or invalidity, without invalidating the remaining provision of this
+Note. The representations, warranties, covenants, liabilities and obligations of
+Debtor contained herein constitute the joint and several representations,
+warranties, covenants, liabilities and obligations of each of the parties
+constituting Debtor.
+
+     This Note is issued in substitution for, but not in payment for or
+satisfaction of (i) that certain First Amended Secured Promissory Note (Term
+Loan A) dated July 14, 1995 in the original principal amount of $550,000, which
+itself was issued in amendment and restatement of, but not in payment for or
+satisfaction of, that certain Secured Promissory Note dated as of November 22,
+1993 in the original principal amount of $250,000.00 and (ii) that certain
+Secured Promissory Note (Term Loan B) dated as of July 14, 1995 in the original
+principal amount of $900,000.00 (collectively, the "Original Note"). Upon
+execution and delivery hereof and satisfaction of the conditions precedent set
+forth in the Third Amendment, the terms and provisions of this Note shall govern
+and control all matters formerly governed by the Original Note. This Note is
+Term Note C as defined in the Loan Agreement.
+
+     THIS NOTE HAS BEEN DELIVERED FOR ACCEPTANCE BY SECURED PARTY IN PHOENIX,
+ARIZONA AND SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL
+LAWS (AS OPPOSED TO THE CONFLICTS OF LAW PROVISIONS) OF THE STATE OF ARIZONA, AS
+THE SAME MAY FROM TIME TO TIME BE IN EFFECT, INCLUDING, WITHOUT LIMITATION, THE
+UNIFORM COMMERCIAL CODE AS ADOPTED IN ARIZONA. DEBTOR HEREBY (i) IRREVOCABLY
+SUBMITS TO THE JURISDICTION OF ANY STATE OR FEDERAL COURT LOCATED IN MARICOPA
+COUNTY, ARIZONA OVER ANY ACTION OR PROCEEDING TO ENFORCE OR DEFEND ANY MATTER
+ARISING FROM OR RELATED TO THIS NOTE; (ii) WAIVES PERSONAL SERVICE OF ANY AND
+ALL PROCESS UPON DEBTOR, AND CONSENTS THAT ALL SUCH SERVICE OF PROCESS BE MADE
+BY MESSENGER, CERTIFIED MAIL OR REGISTERED MAIL DIRECTED TO DEBTOR AT THE
+ADDRESS SET FORTH BELOW AND SERVICE SO MADE SHALL BE DEEMED TO BE COMPLETED UPON
+THE EARLIER OF ACTUAL RECEIPT OR THREE (3) DAYS AFTER THE SAME SHALL HAVE BEEN
+POSTED TO DEBTOR'S ADDRESS; (iii) IRREVOCABLY WAIVES, TO THE FULLEST EXTENT
+DEBTOR MAY EFFECTIVELY DO SO, THE DEFENSE OF AN INCONVENIENT FORUM TO THE
+MAINTENANCE OF ANY SUCH ACTION OR PROCEEDING; (iv) AGREES THAT A FINAL JUDGMENT
+IN ANY SUCH ACTION OR PROCEEDING SHALL BE
+
+                                      -4-
+
+<PAGE>
+CONCLUSIVE AND MAY BE ENFORCED IN ANY OTHER JURISDICTION BY SUIT ON THE JUDGMENT
+OR IN ANY OTHER MANNER PROVIDED BY LAW; (v) AGREES NOT TO INSTITUTE ANY LEGAL
+ACTION OR PROCEEDING AGAINST SECURED PARTY OR ANY OF SECURED PARTY'S DIRECTORS,
+OFFICERS, EMPLOYEES, AGENTS OR PROPERTY, CONCERNING ANY MATTER ARISING OUT OF OR
+RELATING TO THIS NOTE IN ANY COURT OTHER THAN ONE LOCATED IN MARICOPA COUNTY,
+ARIZONA; AND (vi) IRREVOCABLY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION
+ARISING UNDER OR IN CONNECTION WITH THIS NOTE. NOTHING IN THIS PARAGRAPH SHALL
+AFFECT OR IMPAIR SECURED PARTY'S RIGHT TO SERVE LEGAL PROCESS IN ANY MANNER
+PERMITTED BY LAW OR SECURED PARTY'S RIGHT TO BRING ANY ACTION OR PROCEEDING
+AGAINST DEBTOR OR DEBTOR'S PROPERTY IN THE COURTS OF ANY OTHER JURISDICTION.
+
+
+AFP IMAGING CORPORATION, a New York     LOGETRONICS CORPORATION, a New
+corporation, successor by merger to     York corporation
+AFP Technologies Corporation,
+formerly known as Kenro
+Corporation, a New Jersey
+corporation
+
+By: _______________________________     By: _______________________________
+    Name:                                   Name:
+    Title:                                  Title:
+
+Employer ID No.: 13-2956272             Employer ID No.: 22-2825090
+
+
+VISIPLEX INSTRUMENTS CORPORATION, a     REGAM MEDICAL SYSTEMS INTERNATIONAL
+New York corporation formerly known     AB, a Swedish corporation
+as Xenon Industries, Inc.
+
+By: _______________________________     By: _______________________________
+    Name:                                   Name:
+    Title:                                  Title:
+
+Employer ID No.: 11-2557539             Employer ID No.: ___________
+
+
+Debtor's address: 250 Clearbrook Road
+                  Elmsford, New York 10523
+                  Att'n: David Vozick
+
+                                      -5-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+
+<PAGE>
+
+                                                                      Exhibit 21
+
+                           Subsidiaries of Registrant
+
+                                         Country/State of       % of Voting
+Name                                      Incorporation       Securities Owned
+- ----                                      -------------       ----------------
+
+LogEtronics Corporation                      New York              100%
+
+Visiplex Instruments Corporation             New York              100%
+
+AFP/LOGE International                       New York              100%
+
+Regam Medical Systems
+
+International AB                             Sweden                100%
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+       
+<S>                           <C>
+<PERIOD-TYPE>                 YEAR
+<FISCAL-YEAR-END>             JUN-30-1997
+<PERIOD-END>                  JUN-30-1997
+<CASH>                        1,858,287
+<SECURITIES>                  0
+<RECEIVABLES>                 6,094,032
+<ALLOWANCES>                  277,926
+<INVENTORY>                   6,016,528
+<CURRENT-ASSETS>              14,341,016
+<PP&E>                        7,511,752
+<DEPRECIATION>                6,113,123
+<TOTAL-ASSETS>                20,516,028
+<CURRENT-LIABILITIES>         5,230,527
+<BONDS>                       0
+<PREFERRED-MANDATORY>         0
+<PREFERRED>                   3,025,318
+<COMMON>                      74,327
+<OTHER-SE>                    7,773,739
+<TOTAL-LIABILITY-AND-EQUITY>  20,516,028
+<SALES>                       37,048,510
+<TOTAL-REVENUES>              37,048,510
+<CGS>                         24,950,627
+<TOTAL-COSTS>                 9,968,588
+<OTHER-EXPENSES>              0
+<LOSS-PROVISION>              0
+<INTEREST-EXPENSE>            451,466
+<INCOME-PRETAX>               1,677,829
+<INCOME-TAX>                  129,232
+<INCOME-CONTINUING>           1,548,597
+<DISCONTINUED>                0
+<EXTRAORDINARY>               0
+<CHANGES>                     0
+<NET-INCOME>                  1,548,597
+<EPS-PRIMARY>                 .16
+<EPS-DILUTED>                 .15
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

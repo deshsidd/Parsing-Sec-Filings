@@ -1,0 +1,2679 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BCZlvIYb5+BF74CZlI4dC1ygGBIyUgnv5RQ2Y1hxLkGHZ9mC8i6C9qPuISa5FLJa
+ D/PwM4UDhazKRO9Hi3G7gw==
+
+<SEC-DOCUMENT>0000912057-97-028915.txt : 19970825
+<SEC-HEADER>0000912057-97-028915.hdr.sgml : 19970825
+ACCESSION NUMBER:		0000912057-97-028915
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970531
+FILED AS OF DATE:		19970822
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AAR CORP
+		CENTRAL INDEX KEY:			0000001750
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES [5080]
+		IRS NUMBER:				362334820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06263
+		FILM NUMBER:		97668667
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+		BUSINESS PHONE:		6302272000
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEN AIRCRAFT RADIO INC
+		DATE OF NAME CHANGE:	19700204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>10-K405
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                   FORM 10-K
+                 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE FISCAL YEAR ENDED MAY 31, 1997             COMMISSION FILE NUMBER 1-6263
+                                   AAR CORP.
+             (Exact Name of Registrant as Specified in its Charter)
+ 
+             DELAWARE                            36-2334820
+  (State or Other Jurisdiction of             (I.R.S. Employer
+  Incorporation or Organization)             Identification No.)
+ 
+   ONE AAR PLACE, 1100 N. WOOD DALE ROAD, WOOD DALE,
+                       ILLINOIS                                   60191
+       (Address of Principal Executive Offices)                (Zip Code)
+ 
+       Registrant's telephone number, including area code (630) 227-2000
+ 
+          Securities registered pursuant to Section 12(b) of the Act:
+ 
+                                            NAME OF EACH EXCHANGE
+        TITLE OF EACH CLASS                  ON WHICH REGISTERED
+- -----------------------------------  -----------------------------------
+ 
+   COMMON STOCK, $1.00 PAR VALUE           NEW YORK STOCK EXCHANGE
+                                           CHICAGO STOCK EXCHANGE
+   COMMON STOCK PURCHASE RIGHTS            NEW YORK STOCK EXCHANGE
+                                           CHICAGO STOCK EXCHANGE
+ 
+          Securities registered pursuant to Section 12(g) of the Act:
+                                      None
+ 
+    Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.    Yes /X/    No / /
+ 
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. /X/
+ 
+    At July 31, 1997, the aggregate market value of the Registrant's voting
+stock held by nonaffiliates was approximately $615,745,166. The calculation of
+such market value has been made for the purposes of this report only and should
+not be considered as an admission or conclusion by the Registrant that any
+person is in fact an affiliate of the Registrant.
+ 
+    On July 31, 1997, there were 18,341,213 shares of Common Stock outstanding.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+    The definitive proxy statement relating to the Registrant's Annual Meeting
+of Stockholders, to be held October 8, 1997, is incorporated by reference in
+Part III to the extent described therein.
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+                               TABLE OF CONTENTS
+ 
+<TABLE>
+<CAPTION>
+                                                                                                              PAGE
+                                                                                                            ---------
+<S>                 <C>                                                                                     <C>
+PART I
+ 
+  Item 1.           Business..............................................................................          2
+ 
+  Item 2.           Properties............................................................................          4
+ 
+  Item 3.           Legal Proceedings.....................................................................          4
+ 
+  Item 4.           Submission of Matters to a Vote of Security Holders...................................          5
+ 
+                    Executive Officers of the Registrant..................................................          5
+ 
+PART II
+ 
+  Item 5.           Market for the Registrant's Common Equity and Related Stockholder Matters.............          6
+ 
+  Item 6.           Selected Financial Data...............................................................          7
+ 
+  Item 7.           Management's Discussion and Analysis of Financial Condition and Results of
+                      Operations..........................................................................          8
+ 
+  Item 8.           Financial Statements and Supplementary Data...........................................         12
+ 
+  Item 9.           Changes in and Disagreements with Accountants on Accounting and Financial
+                      Disclosure..........................................................................         34
+ 
+PART III
+ 
+  Item 10.          Directors and Executive Officers of the Registrant....................................         35
+ 
+  Item 11.          Executive Compensation................................................................         35
+ 
+  Item 12.          Security Ownership of Certain Beneficial Owners and Management........................         35
+ 
+  Item 13.          Certain Relationships and Related Transactions........................................         35
+ 
+PART IV
+ 
+  Item 14.          Exhibits, Financial Statements, Schedules and Reports on Form 8-K.....................         36
+ 
+SIGNATURES................................................................................................         37
+</TABLE>
+ 
+                                       1
+<PAGE>
+                                     PART I
+ 
+ITEM 1.  BUSINESS (IN THOUSANDS, EXCEPT PERCENTAGE AND EMPLOYEE DATA)
+ 
+    AAR CORP. and its subsidiaries are referred to herein collectively as the
+"Company," unless the context indicates otherwise. The Company was organized in
+1955 as the successor to a business founded in 1951 and was reincorporated in
+Delaware in 1966. The Company is a worldwide leader in supplying aftermarket
+products and services to the global aerospace/aviation industry.
+ 
+    Certain of the Company's aviation-related activities and products are
+subject to licensing, certification and other requirements imposed by the
+Federal Aviation Administration and other regulatory agencies, both domestic and
+foreign. The Company believes that it has all licenses and certifications that
+are material to the conduct of its business.
+ 
+    The Company's Trading activities include the purchase, sale and lease of a
+wide variety of new, overhauled and repaired products for the aviation
+aftermarket. These include a broad range of engine and aircraft parts, spare
+engines, instruments, avionics, hydraulics and pneumatic systems, landing gear,
+flight control systems, and other components and accessories. These products are
+comprised of new and used parts and components purchased from manufacturers and
+others, as well as components and parts that the Company has overhauled or
+repaired. The Company also provides customized inventory supply and management
+programs for certain aircraft and engine parts in support of customer
+maintenance activities. The Company's primary sources of aviation products for
+its Trading activities are domestic and foreign airlines, independent aviation
+service companies, aircraft leasing companies, and airframe, engine and other
+original equipment manufacturers. The Company's Trading activities also include
+the purchase, sale, lease and lease financing of new and used jet aircraft.
+During the fourth quarter of fiscal 1997, the Company sold its hardware
+distribution unit. During the first quarter of fiscal 1998, the Company
+purchased substantially all of the assets of Cooper Aviation Industries, Inc., a
+distributor of factory-new aviation parts and accessories to the commercial,
+regional/commuter and general aviation markets.
+ 
+    The Company's Overhaul activities include a wide range of repair and
+maintenance services, parts, component exchange and other products for its
+aerospace/aviation commercial and military customers. The Company's overhaul
+capabilities include most commercial aircraft landing gear; a wide variety of
+avionic, instrument, electrical, electronic, fuel, hydraulic and pneumatic
+components; and a broad range of internal engine components. AAR also operates
+an aircraft maintenance facility providing maintenance, modification, special
+equipment installation, painting services and aircraft terminal services for
+various models of commercial, military, regional, business and general aviation
+aircraft and provides overhaul and parts supply services to industrial gas and
+steam turbine operators. The Company's overhaul operations support the Company's
+own Trading activities by repairing and overhauling parts for sale by the
+trading business, including parts needed for its inventory management program
+customers.
+ 
+    The Company's Manufacturing activities include the manufacture and repair of
+a wide array of containers, pallets and shelters in support of military and
+humanitarian rapid deployment activities. The Company's Manufacturing activities
+also include the design, manufacture and installation of in-plane cargo loading
+and handling systems for commercial and military aircraft and helicopters, and a
+line of specialized protective transport cases that are used to transport
+sensitive and calibrated tools and instruments, as well as vacuum storage
+containers that protect machinery and equipment during long-term storage. AAR
+also designs and manufactures a complete line of self-propelled floor sweepers
+and scrubbers for a variety of industrial and commercial uses, which it sells
+under the PowerBoss-Registered Trademark- name.
+ 
+                                       2
+<PAGE>
+    The Company furnishes aviation products and services primarily through its
+own employees. Domestic and foreign airlines, regional/commuter airlines,
+aviation original equipment manufacturers, aircraft leasing companies, domestic
+and foreign military organizations and independent aviation support companies
+are the principal customers for the Company's aviation trading activities.
+Principal customers of the Company's aviation overhaul activities are commercial
+airlines, aircraft leasing companies, business aircraft operators, military
+overhaul depots, military contractors and original equipment manufacturers.
+Sales of aviation products and services to commercial airlines are generally
+affected by such factors as the number, type and average age of aircraft in
+service, the levels of aircraft utilization (E.G., frequency of schedules), the
+number of airline operators and the level of sales of new and used aircraft.
+ 
+    The Company is a leading independent supplier of aviation services to the
+highly competitive worldwide aviation aftermarket. In its Trading and Overhaul
+activities, competition is based on quality, ability to provide a broad range of
+products and services, speed of delivery and price. Competitors in the parts
+supply business include the original equipment manufacturers, commercial
+airlines, and other independent suppliers of parts and services. In certain of
+its leasing and commercial jet aircraft trading activities, the Company faces
+competition from financial institutions, syndicators, commercial and specialized
+leasing companies and other entities that provide financing. AAR also competes
+with various repair and overhaul organizations, which include the service arms
+of original equipment manufacturers, the maintenance departments or divisions of
+large commercial airlines (some of which also offer maintenance services to
+third parties), and independent organizations. AAR's pallet, container and
+shelter manufacturing activities compete with several modest-sized private
+companies, and its cargo systems competitors include a number of divisions of
+large corporations. Although certain of the Company's competitors have
+substantially greater financial and other resources than the Company, the
+Company believes that it has maintained a satisfactory competitive position
+through its responsiveness to customer needs, its attention to quality and its
+unique combination of trading expertise, technical capabilities and financial
+strength.
+ 
+    At May 31, 1997 backlog believed to be firm was approximately $84,795
+compared to $86,061 at May 31, 1996. An additional $45,743 of unfunded
+government options on awarded contracts also existed at May 31, 1997. It is
+expected that approximately $82,066 of the backlog will be shipped in fiscal
+1998.
+ 
+    Sales to the U.S. Government, its agencies and its contractors were
+approximately $82,125 (13.9% of total net sales), $92,362 (18.3% of total net
+sales) and $82,708 (18.3% of total net sales) in fiscal years 1997, 1996 and
+1995, respectively. Because such sales are subject to competitive bidding and
+government funding, no assurance can be given that such sales will continue at
+levels previously experienced. The majority of the Company's government
+contracts are for aviation products and services used for ongoing routine
+military logistic support activities; unlike weapons systems and other
+high-technology military requirements, these products and services are less
+likely to be affected by reductions in defense spending. The Company's contracts
+with the U.S. Government and its agencies are typically firm agreements to
+provide aviation products and services at a fixed price and have a term of one
+year or less, frequently subject to extension for one or more additional periods
+of one year at the option of the government agency. Although the Company's
+government contracts are subject to termination at the election of the
+government, in the event of such a termination the Company would be entitled to
+recover from the government all allowable costs incurred by the Company through
+the date of termination.
+ 
+    At May 31, 1997, the Company employed approximately 2,100 persons worldwide.
+ 
+    For information concerning the Company's Business Segment activities,
+including classes of similar products and services, see Item 7, "Management's
+Discussion and Analysis of Financial
+ 
+                                       3
+<PAGE>
+Condition and Results of Operations." For information concerning export sales,
+see "Business Segment Information" in Note 9 of Notes to Consolidated Financial
+Statements.
+ 
+ITEM 2.  PROPERTIES
+ 
+    Aviation trading activities are conducted from one building in Wood Dale,
+Illinois. In addition to warehouse space, which is mechanized for efficient
+access to the diverse inventory, the facility includes executive and sales
+offices. Warehouse facilities are leased in Windsor Locks, Connecticut; Hamburg
+and Hannover, Germany; Nantgarw, Wales, and Brussels, Belgium for the purpose of
+aviation parts distribution.
+ 
+    Aviation overhaul facilities are located in The Netherlands near Schiphol
+International Airport (in a building owned by the Company); Garden City, New
+York (in a building owned by the Company); Frankfort, New York (subject to an
+industrial revenue bond lease to the Company until 2001, at which time the
+Company expects to purchase the facility for a nominal consideration); Windsor,
+Connecticut (in a building owned by the Company); Miami, Florida (in leased
+facilities near the airport); Singapore (in leased facilities near the airport);
+London, England (in leased facilities) and Oklahoma City, Oklahoma (in
+facilities leased from airport authorities). The Company's experience indicates
+that lease renewal is available on reasonable terms consistent with its business
+needs.
+ 
+    The Company's principal Manufacturing activities are conducted at owned
+facilities in Port Jervis, New York; Cadillac and Livonia, Michigan; and a plant
+located in Aberdeen, North Carolina (subject to an expired industrial revenue
+bond lease to the Company which provided for the Company to purchase the
+facility for a nominal consideration).
+ 
+ITEM 3.  LEGAL PROCEEDINGS
+ 
+    A subsidiary of the Company has negotiated a settlement resolving an
+enforcement action brought on behalf of the United States Environmental
+Protection Agency ("EPA") in the U.S. District Court for the Western District of
+Michigan in January, 1996, alleging violations of the Clean Air Act relating to
+exceeding volatile organic compound emission rates under a permit issued to the
+subsidiary by the Michigan Department of Natural Resources. The EPA had
+previously issued a Notice of Proposed Civil Penalty for the alleged violations
+in the amount of $600,000. The subsidiary made a payment of $210,000 to the EPA
+and the EPA dismissed the alleged violations without admission of wrongdoing by
+the subsidiary.
+ 
+    Except as otherwise set forth in this Item 3, the Company is not a party to
+any pending material, governmental or environmental legal proceedings other than
+routine litigation incidental to its business.
+ 
+                                       4
+<PAGE>
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+    No matter was submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+ 
+SUPPLEMENTAL INFORMATION:
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+    Information concerning each executive officer of the Company is set forth
+below:
+ 
+<TABLE>
+<CAPTION>
+NAME                                           AGE   PRESENT POSITION WITH THE COMPANY
+- ---------------------------------------------  ---   ------------------------------------------------------------
+<S>                                            <C>   <C>
+Ira A. Eichner...............................  66    Chairman of the Board; Director
+David P. Storch..............................  44    President and Chief Executive Officer; Director
+Howard A. Pulsifer...........................  54    Vice President; General Counsel; Secretary
+Timothy J. Romenesko.........................  40    Vice President; Chief Financial Officer and Treasurer
+Philip C. Slapke.............................  44    Vice President-Engine Group
+</TABLE>
+ 
+    Mr. Eichner, the founder of the Company, has been Chairman of the Board of
+the Company since 1973, and a director since it was founded in 1955. His
+directorship expires at the 1999 Annual Meeting. Mr. Eichner was the Company's
+Chief Executive Officer from 1955 until 1996, when he relinquished that
+position. Mr. Eichner is Mr. Storch's father-in-law.
+ 
+    Mr. Storch has been President of the Company since July, 1989 and Chief
+Executive Officer since October, 1996. Previously, he was Chief Operating
+Officer from 1989 to 1996 and a Vice President of the Company from 1988 to 1989.
+Mr. Storch joined the Company in 1979 and was President of a major subsidiary
+from 1984 to 1988. Mr. Storch has been a director of the Company since 1989, and
+his directorship expires at the 1997 Annual Meeting. Mr. Storch is Mr. Eichner's
+son-in-law.
+ 
+    Mr. Pulsifer joined the Company as General Counsel in August, 1987 and has
+been a Vice President since October, 1989 and Secretary since May, 1990. He was
+previously with United Airlines, Inc. for 14 years, most recently as Senior
+Counsel.
+ 
+    Mr. Romenesko has been a Vice President since January, 1994 and Chief
+Financial Officer and Treasurer since December, 1994. Previously he served as
+Controller of the Company from 1991 to 1995 and in various other positions since
+joining the Company in 1981.
+ 
+    Mr. Slapke has been a Vice President of the Company since July, 1994. He is
+also President of a major subsidiary, a position he has held since July, 1989.
+He has been with the Company in various positions since 1982.
+ 
+                                       5
+<PAGE>
+                                    PART II
+ 
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS (IN THOUSANDS, EXCEPT PER SHARE INFORMATION, PERCENTAGE DATA
+         AND NUMBER OF STOCKHOLDERS)
+ 
+    The Company's Common Stock is traded on the New York Stock Exchange and the
+Chicago Stock Exchange. On June 30, 1997, there were approximately 9,500 holders
+of the Common Stock of the Company, including participants in security position
+listings.
+ 
+    Certain of the Company's debt agreements contain provisions restricting the
+payment of dividends or repurchase of its shares. See Note 2 of Notes to
+Consolidated Financial Statements included herein. Under the most restrictive of
+these provisions, the Company may not pay dividends (other than stock dividends)
+or acquire its capital stock if after giving effect thereto the aggregate
+amounts paid on or after June 1, 1995 exceed the sum of (i) $25,000 plus (ii)
+50% of Consolidated Net Income of the Company after June 1, 1995. At May 31,
+1997, unrestricted consolidated retained earnings available for payment of
+dividends and purchase of the Company's shares totalled approximately $15,196.
+At June 1, 1997 unrestricted consolidated retained earnings increased to $26,708
+due to inclusion of 50% of Consolidated Net Income of the Company for fiscal
+1997.
+ 
+    The table below sets forth for each quarter of the fiscal year indicated the
+reported high and low market prices of the Company's Common Stock on the New
+York Stock Exchange and the quarterly dividends declared.
+ 
+<TABLE>
+<CAPTION>
+                                   FISCAL 1997                      FISCAL 1996
+                          ------------------------------   ------------------------------
+   PER COMMON SHARE:        MARKET PRICES                    MARKET PRICES
+- ------------------------  -----------------    QUARTERLY   -----------------    QUARTERLY
+        QUARTER            HIGH       LOW      DIVIDENDS    HIGH       LOW      DIVIDENDS
+- ------------------------  -------   -------    ---------   -------   -------    ---------
+<S>                       <C>       <C>        <C>         <C>       <C>        <C>
+  First.................   21 3/4    18 3/8      $ .12      17 7/8    14 7/8      $ .12
+  Second................   30 3/8    21            .12      19        16 3/4        .12
+  Third.................   30 1/4    24 5/8        .12      22        18 1/2        .12
+  Fourth................   31 7/8    25 1/2        .12      23 5/8    19 1/2        .12
+                                                   ---                              ---
+                                                 $ .48                            $ .48
+                                                   ---                              ---
+                                                   ---                              ---
+</TABLE>
+ 
+                                       6
+<PAGE>
+ITEM 6.  SELECTED FINANCIAL DATA
+(IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+<TABLE>
+<CAPTION>
+                                                                      FOR THE YEAR ENDED MAY 31,
+                                                   -----------------------------------------------------------------
+                                                     1997          1996          1995          1994          1993
+                                                   ---------     ---------     ---------     ---------     ---------
+<S>                                                <C>           <C>           <C>           <C>           <C>
+RESULTS OF OPERATIONS:
+- -------------------------------------------------
+  Net sales......................................  $589,328      $504,990      $451,395      $407,754      $382,780
+  Gross profit...................................   108,541        90,765        77,871        71,910        68,436
+  Operating income...............................    42,890        32,442        24,438        21,824         5,343(4)
+  Interest expense...............................    10,786        10,616        10,900         9,564         8,107
+  Income (loss) before provision (benefit) for
+    income taxes.................................    32,975        22,782        14,713        13,684        (1,917)(4)
+  Net income.....................................    23,025        16,012        10,463         9,494           283(4)
+                                                   ---------     ---------     ---------     ---------     ---------
+                                                   ---------     ---------     ---------     ---------     ---------
+  Share data:
+    Net income per share.........................  $   1.38      $   1.00      $    .66      $    .60      $    .02(4)
+    Cash dividends per share.....................  $    .48      $    .48      $    .48      $    .48      $    .48
+    Average common shares
+      outstanding................................    16,684(1)     15,978        15,932        15,904        15,855
+                                                   ---------     ---------     ---------     ---------     ---------
+                                                   ---------     ---------     ---------     ---------     ---------
+ 
+FINANCIAL POSITION AT YEAR END:
+- ------------------------------------------------------------
+  Working capital................................  $314,119(1)   $258,627      $248,492      $240,009(3)   $193,399
+  Total assets...................................   529,584(1)    437,846       425,814       411,016(2)    365,151
+  Short-term debt................................     1,474         1,474         1,632           568(3)     25,025
+  Long-term debt.................................   116,818       118,292       119,766       115,729(3)     66,298
+  Total debt.....................................   118,292       119,766       121,398       116,297(3)     91,323
+  Stockholders' equity...........................   269,259(1)    204,635       197,119       189,488       189,216
+                                                   ---------     ---------     ---------     ---------     ---------
+                                                   ---------     ---------     ---------     ---------     ---------
+  Number of shares outstanding at end of year....    18,204(1)     15,998        15,961        15,906        15,900
+                                                   ---------     ---------     ---------     ---------     ---------
+                                                   ---------     ---------     ---------     ---------     ---------
+  Book value per share of common stock...........  $  14.79      $  12.79      $  12.35      $  11.91      $  11.90
+                                                   ---------     ---------     ---------     ---------     ---------
+                                                   ---------     ---------     ---------     ---------     ---------
+</TABLE>
+ 
+- ------------------------
+ 
+Notes:
+ 
+(1)   In February 1997, the Company sold two million shares of its common stock
+    for $50,075, which is net of expenses.
+ 
+(2)   Reflects reclassification of $6,610 of noncurrent deferred tax assets
+    against noncurrent deferred tax liabilities to conform to the fiscal 1995
+    presentation.
+ 
+(3)   In October 1993, the Company sold $50,000 of unsecured 7.25% Notes due
+    October 15, 2003. Proceeds were used to repay short-term bank borrowings and
+    in the Company's operations.
+ 
+(4)   Fiscal 1993 includes noncash restructuring expenses of $11,000 ($7,200
+    after tax) primarily related to the writedown of certain inventories to
+    reflect the impact of market conditions and a reduction in income tax
+    expense of $1,200.
+ 
+                                       7
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+        (IN THOUSANDS, EXCEPT PERCENTAGE DATA)
+ 
+                             RESULTS OF OPERATIONS
+ 
+    The Company reports its activities in one business segment: Aviation
+Services. The table below sets forth net sales for the Company's classes of
+similar products and services within this segment for each of the last three
+fiscal years ended May 31.
+ 
+<TABLE>
+<CAPTION>
+                                                                        FOR THE YEAR ENDED MAY 31,
+                                                                   -------------------------------------
+                                                                      1997         1996         1995
+                                                                   -----------  -----------  -----------
+<S>                                                                <C>          <C>          <C>
+Net Sales:
+  Trading........................................................  $   344,816  $   259,702  $   236,723
+  Overhaul.......................................................      147,853      133,587      108,737
+  Manufacturing..................................................       96,659      111,701      105,935
+                                                                   -----------  -----------  -----------
+                                                                   $   589,328  $   504,990  $   451,395
+                                                                   -----------  -----------  -----------
+                                                                   -----------  -----------  -----------
+</TABLE>
+ 
+THREE-YEAR NET SALES SUMMARY
+ 
+    The comparison of the Company's net sales over the last three fiscal years
+covers a period of growth and expansion in the aerospace/aviation industry.
+During this period, most of the world's major commercial airlines returned to
+profitability from the severe industry downturn of the early 1990s. In addition,
+certain start-up airlines which emerged at the beginning of the three-year
+period continued to expand their fleets and routes and experience improving
+financial results. In the same period, higher revenue passenger miles and higher
+air freight traffic drove requirements for additional or new aircraft and
+increased utilization of aircraft, leading to a greater demand for parts and
+service support. In addition, aircraft operators focused on cost structure
+improvements and took steps to outsource certain support operations and
+consolidate vendor lists.
+ 
+    During the last three fiscal years, the Company's aggressive pursuit of
+opportunities resulted in additional long-term programs, an increase in the
+Company's customer base and a broadening of the range of products and services
+provided to existing customers. Sales were higher during fiscal 1997 in all of
+the Company's major Trading and Overhaul businesses as it expanded the breadth
+of products and services and developed innovative programs to improve customers'
+competitive positions.
+ 
+    Prior to fiscal 1997, the Company's principal Manufacturing unit benefited
+from the U.S. Government's programs to reduce budgets, including base closures,
+which resulted in the military requiring more products to support its rapid
+deployment activities. Over the last fiscal year, the Company experienced a
+reduction in demand for its manufactured pallets, containers and shelters for
+the U.S. military, as usage of these products declined due to lower mobilization
+of the rapid deployment force around the world. The Company continues to pursue
+opportunities available in the commercial sector for these products.
+ 
+    The Company believes that its established market position, its ability to
+respond to changes in the industry and its diverse customer base, coupled with a
+strong aerospace/aviation industry, position the Company to take advantage of
+opportunities in its markets.
+ 
+FISCAL 1997 COMPARED WITH FISCAL 1996
+ 
+    The Company's operating results showed improvement over the prior fiscal
+year as it experienced higher demand for its trading and overhaul products and
+services in a strong aerospace/aviation industry. Consolidated net sales
+increased $84,338 or 16.7% over the prior fiscal year reflecting higher
+ 
+                                       8
+<PAGE>
+sales in the Company's Trading and Overhaul businesses. Consolidated operating
+income increased $10,448 or 32.2% over the prior year due to increased
+consolidated net sales and a higher consolidated gross profit margin, partially
+offset by higher selling, general and administrative costs. Net income increased
+$7,013 or 43.8% due to increased consolidated net sales and gross profit margin.
+ 
+    Trading sales increased $85,114 or 32.8% over the prior year due to growth
+in its engine and airframe parts businesses and higher sales in its engine and
+aircraft sales and leasing businesses. Increased volume through the Company's
+long-term inventory management programs contributed to the sales increase in the
+engine parts business. Overhaul sales increased $14,266 or 10.7% reflecting
+increased demand for certain aircraft and aircraft component repair and
+maintenance services. Sales in Manufacturing declined $15,042 or 13.5% resulting
+from lower demand for its products supporting the U.S. Government's rapid
+deployment program.
+ 
+    Consolidated gross profit increased $17,776 or 19.6% due to increased
+consolidated net sales and an increase in the consolidated gross profit margin
+to 18.4% from 18.0% in the prior year. The increase in the consolidated gross
+profit margin during fiscal 1997 was attributable to the favorable mix of
+products and services sold on trading and overhaul products and services,
+partially offset by lower margins on certain manufactured products due to lower
+sales volume.
+ 
+    Consolidated operating income increased $10,448 or 32.2% over the prior year
+as a result of the increase in consolidated net sales and the higher
+consolidated gross profit margin, partially offset by higher selling, general
+and administrative costs. The increase to selling, general and administrative
+costs was driven by increased personnel and marketing support costs.
+ 
+    Consolidated net income increased $7,013 or 43.8% over the prior year as a
+result of the factors discussed above.
+ 
+FISCAL 1996 COMPARED WITH FISCAL 1995
+ 
+    The Company's operating results continued to improve in fiscal 1996 as it
+took advantage of business opportunities available in the improved
+aerospace/aviation marketplace and as the Company successfully implemented
+certain strategic marketing initiatives. Consolidated net sales for fiscal 1996
+increased $53,595 or 11.9% over the prior fiscal year due to increased sales
+across all classes of similar products and services. Consolidated operating
+income increased $8,004 or 32.8% over the prior year due to increased
+consolidated net sales and a higher consolidated gross profit margin partially
+offset by increased selling, general and administrative costs. Net income
+increased $5,549 or 53.0% over the prior year primarily due to increased
+consolidated net sales and gross profit margin.
+ 
+    Trading sales increased $22,979 or 9.7% over the prior year as a result of
+increased sales of aircraft, airframe and large component parts, which included
+sales from inventory management programs and inventory provisioning for air
+carriers. Overhaul sales increased $24,850 or 22.9% primarily as a result of
+airframe and large airframe component overhaul services, supplemented by other
+airframe component overhaul services. Manufacturing sales increased $5,766 or
+5.4% over the prior year primarily due to increased sales of products and
+product repair services supporting rapid deployment requirements, aircraft cargo
+systems and floor maintenance equipment, partially offset by a decline from the
+disposition of small manufactured product lines since the prior year.
+ 
+    Consolidated gross profit increased $12,894 or 16.6% over the prior fiscal
+year due to increased consolidated net sales and an improved gross profit margin
+of 18.0% versus the prior year's 17.3% margin. The margin on principal trading
+and overhaul products and services improved over the prior year as a result of
+favorable product mix and improved pricing of certain products and services. The
+margin on manufactured products declined slightly as a result of the mix of
+products and product repair services supporting rapid deployment requirements
+partially offset by aircraft cargo systems and floor maintenance equipment.
+ 
+                                       9
+<PAGE>
+    Consolidated operating income increased $8,004 or 32.8% over the prior year
+as a result of increased consolidated net sales and gross profit margin
+partially offset by increased total selling, general and administrative costs.
+While selling, general and administrative costs declined as a percentage of
+sales, the total costs increased over the prior year as a result of increased
+personnel costs, increased marketing support programs and costs to enhance
+information technology systems.
+ 
+    Consolidated net income increased $5,549 or 53.0% over the prior fiscal year
+primarily as a result of the increased consolidated net sales and improved
+consolidated gross profit margin. Net income also increased by a reduction in
+interest expense resulting from substantially lower short-term borrowings during
+the current year partially offset by a small increase in the Company's current
+year effective tax rate.
+ 
+FISCAL 1995 COMPARED WITH FISCAL 1994
+ 
+    The Company's operating results continued to improve in fiscal 1995 building
+on improvements in the prior year. Consolidated net sales for fiscal 1995
+increased $43,641 or 10.7% over the prior fiscal year primarily due to increased
+sales of major products within each of the classes of similar products and
+services. Operating income increased $2,614 or 11.9% over the prior year due to
+increased consolidated net sales partially offset by a slightly lower
+consolidated gross profit margin and increased total selling, general and
+administrative costs. Net income increased $969 or 10.2% primarily due to
+increased consolidated net sales partially offset by the factors described above
+and increased interest expense on additional borrowings and higher interest
+rates, primarily resulting from the sale of $50,000 of 10-year, 7.25% notes in
+October, 1993.
+ 
+    Trading sales increased $28,162 or 13.5% primarily as a result of increased
+sales of airframe and large component parts as well as sales resulting from
+inventory management programs and inventory provisioning of start-up airlines.
+Overhaul sales increased $5,765 or 5.6% primarily as a result of increased
+airframe and airframe component overhaul services partially offset by reduced
+sales of large component overhaul services. Manufacturing sales increased $9,714
+or 10.1% primarily due to the sale of manufactured commercial cargo systems,
+products and product repairs supporting the U.S. Government's rapid deployment
+program and floor maintenance products.
+ 
+    Consolidated gross profit increased $5,961 or 8.3% over the prior fiscal
+year due to increased consolidated net sales, although the consolidated gross
+profit margin of 17.3% was lower than the prior year's 17.6% gross profit
+margin. However, the prior fiscal year included $700 from a reduction in the
+interest rate on a nonrecourse leveraged lease obligation and $1,300 from
+leveraged lease repricing required to adjust for tax rate differentials. The
+margin on manufactured products and principal trading products increased year
+over year. Overhaul margins declined over the prior year primarily as a result
+of changes in the mix of labor and parts provided in overhaul services and
+highly competitive pricing on overhaul business.
+ 
+    Consolidated operating income increased $2,614 or 11.9% over the prior year
+due to increased consolidated net sales partially offset by the consolidated
+margin decline described above and increased selling, general and administrative
+costs which declined as a percentage of net sales.
+ 
+    Consolidated net income increased $969 or 10.2% over the prior year due to
+the increased consolidated net sales partially offset by the factors described
+above and increased interest expense.
+ 
+                                       10
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+    At May 31, 1997, the Company's liquidity and capital resources included cash
+of $51,705 and working capital of $314,119. At May 31, 1997, the Company's
+long-term debt to capitalization was 30.3%, compared to 36.6% at May 31, 1996.
+The reduction in the long-term debt-to-capitalization ratio principally reflects
+the Company's recently completed stock offering. The Company continues to
+maintain its available external sources of financing from $136,283 of unused
+available bank lines and a shelf registration on file with the Securities and
+Exchange Commission under which up to an additional $85,000 of medium- or
+long-term debt securities may be sold subject to market conditions.
+ 
+    During fiscal 1997, the Company generated $9,531 of cash from operations
+compared to $24,760 and $15,255 during fiscal 1996 and fiscal 1995 respectively.
+The reduction in cash generated from operations during fiscal 1997 compared to
+the two previous fiscal years was due primarily to working capital investments
+made as a result of continued growth in the Company's Trading and Overhaul
+businesses, partially offset by increased net income.
+ 
+    During fiscal 1997, the Company's investing activities consumed $31,968 of
+cash and cash equivalents. Of this amount, $30,292 related to property, plant
+and equipment additions, of which $20,100 reflects the Company's acquisition and
+refurbishment of an operating facility. This facility allowed the Company to
+consolidate and replace certain facilities previously operated by the Company
+and will accommodate the growth of the Company's principal trading operating
+units. Upon the sale of the facilities owned by the Company vacated as a result
+of the relocation to the new building, the proceeds will be added to cash and
+cash equivalents.
+ 
+    During fiscal 1997, cash provided from financing activities was $40,651,
+reflecting the sale of two million shares of common stock during the third
+quarter for $50,075, which is net of expenses, partially offset by the payment
+of cash dividends of $7,976 and the acquisition of 322 shares of its stock for
+$8,080 of which 259 shares were acquired in connection with the exercise of
+stock options.
+ 
+    The Company believes that its cash and cash equivalents and available
+sources of capital will continue to provide the Company with the ability to meet
+its ongoing working capital requirements, make anticipated capital expenditures,
+meet contractual commitments and pay dividends.
+ 
+    A summary of key indicators of financial condition and lines of credit
+follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                    MAY 31,
+                                                               ------------------
+                         DESCRIPTION                             1997      1996
+- -------------------------------------------------------------  --------  --------
+ 
+<S>                                                            <C>       <C>
+Working capital..............................................  $314,119  $258,627
+Current ratio................................................     4.1:1     4.3:1
+ 
+Bank credit lines:
+  Borrowings outstanding.....................................  $  --     $  --
+  Available but unused lines.................................   136,283   132,977
+                                                               --------  --------
+Total credit lines...........................................  $136,283  $132,977
+                                                               --------  --------
+                                                               --------  --------
+Long-term debt, less current maturities......................  $116,818  $118,292
+Ratio of long-term debt to capitalization....................     30.3%     36.6%
+</TABLE>
+ 
+                                       11
+<PAGE>
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+                          INDEPENDENT AUDITORS' REPORT
+ 
+TO THE STOCKHOLDERS AND BOARD OF DIRECTORS
+  OF AAR CORP.:
+ 
+    We have audited the accompanying consolidated balance sheets of AAR CORP.
+and subsidiaries as of May 31, 1997 and 1996, and the related consolidated
+statements of income, stockholders' equity, and cash flows for each of the years
+in the three-year period ended May 31, 1997. These consolidated financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+ 
+    We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+    In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of AAR CORP.
+and subsidiaries as of May 31, 1997 and 1996, and the results of their
+operations and their cash flows for each of the years in the three-year period
+ended May 31, 1997, in conformity with generally accepted accounting principles.
+ 
+                                          KPMG Peat Marwick LLP
+ 
+Chicago, Illinois
+June 24, 1997
+ 
+                                       12
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF INCOME
+ 
+<TABLE>
+<CAPTION>
+                                                                        FOR THE YEAR ENDED MAY 31,
+                                                                       ----------------------------
+                                                                         1997      1996      1995
+                                                                       --------  --------  --------
+                                                                         (000S OMITTED EXCEPT PER
+                                                                               SHARE DATA)
+ 
+<S>                                                                    <C>       <C>       <C>
+Net sales............................................................  $589,328  $504,990  $451,395
+                                                                       --------  --------  --------
+ 
+Costs and operating expenses:
+ 
+  Cost of sales......................................................   480,787   414,225   373,524
+ 
+  Selling, general and administrative................................    65,651    58,323    53,433
+                                                                       --------  --------  --------
+ 
+                                                                        546,438   472,548   426,957
+                                                                       --------  --------  --------
+ 
+Operating income.....................................................    42,890    32,442    24,438
+ 
+Interest expense.....................................................   (10,786)  (10,616)  (10,900)
+ 
+Interest income......................................................       871       956     1,175
+                                                                       --------  --------  --------
+ 
+Income before provision for income taxes.............................    32,975    22,782    14,713
+ 
+Provision for income taxes...........................................     9,950     6,770     4,250
+                                                                       --------  --------  --------
+ 
+Net income...........................................................  $ 23,025  $ 16,012  $ 10,463
+                                                                       --------  --------  --------
+                                                                       --------  --------  --------
+ 
+Net income per share of common stock.................................  $   1.38  $   1.00  $    .66
+                                                                       --------  --------  --------
+                                                                       --------  --------  --------
+</TABLE>
+ 
+          The accompanying notes to consolidated financial statements
+                   are an integral part of these statements.
+ 
+                                       13
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+ 
+                                     ASSETS
+ 
+<TABLE>
+<CAPTION>
+                                                                                            MAY 31,
+                                                                                       ------------------
+                                                                                         1997      1996
+                                                                                       --------  --------
+                                                                                         (000S OMITTED)
+<S>                                                                                    <C>       <C>
+Current assets:
+  Cash and cash equivalents..........................................................  $ 51,705  $ 33,606
+ 
+  Accounts receivable................................................................   122,944   107,138
+ 
+  Inventories........................................................................   176,921   138,200
+ 
+  Equipment on or available for short-term lease.....................................    40,318    36,884
+ 
+  Deferred tax assets, deposits and other............................................    22,212    22,184
+                                                                                       --------  --------
+ 
+Total current assets.................................................................   414,100   338,012
+                                                                                       --------  --------
+ 
+Property, plant and equipment, at cost:
+ 
+  Land...............................................................................     5,204     3,095
+ 
+  Buildings and improvements.........................................................    53,603    36,748
+ 
+  Equipment, furniture and fixtures..................................................    72,622    89,647
+                                                                                       --------  --------
+ 
+                                                                                        131,429   129,490
+ 
+Accumulated depreciation.............................................................   (60,321)  (74,659)
+                                                                                       --------  --------
+ 
+                                                                                         71,108    54,831
+                                                                                       --------  --------
+ 
+Other assets:
+ 
+  Investment in leveraged leases.....................................................    27,606    30,905
+ 
+  Cost in excess of underlying net assets of acquired companies......................     5,653     5,842
+ 
+  Retirement benefits, notes receivable and other....................................    11,117     8,256
+                                                                                       --------  --------
+ 
+                                                                                         44,376    45,003
+                                                                                       --------  --------
+ 
+                                                                                       $529,584  $437,846
+                                                                                       --------  --------
+                                                                                       --------  --------
+</TABLE>
+ 
+          The accompanying notes to consolidated financial statements
+                   are an integral part of these statements.
+ 
+                                       14
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+ 
+                        LIABILITIES AND STOCKHOLDERS' EQUITY
+ 
+<TABLE>
+<CAPTION>
+                                                                                            MAY 31,
+                                                                                       ------------------
+                                                                                         1997      1996
+                                                                                       --------  --------
+                                                                                         (000S OMITTED)
+<S>                                                                                    <C>       <C>
+Current liabilities:
+ 
+  Current maturities of long-term debt...............................................  $  1,474  $  1,474
+ 
+  Accounts payable...................................................................    77,567    59,005
+ 
+  Accrued liabilities................................................................    17,647    14,356
+ 
+  Accrued taxes on income............................................................     3,293     4,550
+                                                                                       --------  --------
+ 
+Total current liabilities............................................................    99,981    79,385
+                                                                                       --------  --------
+ 
+Long-term debt, less current maturities..............................................   116,818   118,292
+ 
+Deferred tax liabilities.............................................................    32,560    30,680
+ 
+Other liabilities....................................................................     6,294     --
+ 
+Retirement benefit obligation and deferred credits...................................     4,672     4,854
+                                                                                       --------  --------
+ 
+                                                                                        160,344   153,826
+                                                                                       --------  --------
+ 
+Stockholders' equity:
+ 
+  Preferred stock, $1.00 par value, authorized 250 shares; none issued...............     --        --
+ 
+  Common stock, $1.00 par value, authorized 80,000 shares; issued 18,932 and 16,404,
+    respectively.....................................................................    18,932    16,404
+ 
+  Capital surplus....................................................................   141,016    83,975
+ 
+  Retained earnings..................................................................   125,694   110,645
+ 
+  Treasury stock, 728 and 406 shares at cost, respectively...........................   (13,365)   (5,285)
+ 
+  Cumulative translation adjustments.................................................    (3,018)   (1,104)
+                                                                                       --------  --------
+ 
+                                                                                        269,259   204,635
+                                                                                       --------  --------
+ 
+                                                                                       $529,584  $437,846
+                                                                                       --------  --------
+                                                                                       --------  --------
+</TABLE>
+ 
+          The accompanying notes to consolidated financial statements
+                   are an integral part of these statements.
+ 
+                                       15
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                     FOR THE THREE YEARS ENDED MAY 31, 1997
+ 
+<TABLE>
+<CAPTION>
+                                                                                                                           MINIMUM
+                                                 COMMON STOCK     TREASURY STOCK                           CUMULATIVE      PENSION
+                                               -----------------  ---------------   CAPITAL    RETAINED    TRANSLATION    LIABILITY
+                                               SHARES    AMOUNT   SHARES  AMOUNT    SURPLUS    EARNINGS    ADJUSTMENTS   ADJUSTMENTS
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+                                                                                  (000S OMITTED)
+<S>                                            <C>      <C>       <C>   <C>         <C>       <C>          <C>           <C>
+Balance, May 31, 1994........................  16,215   $16,215   309   $ (3,556)   $81,296   $  99,496      $ (2,963)     $ (1,000)
+  Net income.................................    --       --      --       --         --         10,463        --            --
+  Cash dividends ($.48 per share)                --       --      --       --         --         (7,650)       --            --
+  Treasury stock purchased...................    --       --      14        (177)     --         --            --
+  Exercise of stock options and stock
+    awards...................................      69        69   --       --           836      --            --            --
+  Adjustment for net translation gain........    --       --      --       --         --         --             4,460        --
+  Minimum pension liability..................    --       --      --       --         --         --            --              (370)
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+Balance, May 31, 1995........................  16,284   $16,284   323   $ (3,733)   $82,132   $ 102,309      $  1,497      $ (1,370)
+  Net income.................................    --       --      --       --         --         16,012        --            --
+  Cash dividends ($.48 per share)............    --       --      --       --         --         (7,676)       --            --
+  Treasury stock purchased...................    --       --      83      (1,552)     --         --            --            --
+  Exercise of stock options and stock
+    awards...................................     120       120   --       --         1,843      --            --            --
+  Adjustment for net translation loss........    --       --      --       --         --         --            (2,601)       --
+  Minimum pension liability..................    --       --      --       --         --         --            --             1,370
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+Balance, May 31, 1996........................  16,404   $16,404   406   $ (5,285)   $83,975   $ 110,645      $ (1,104)     $ --
+  Net income.................................    --       --      --       --         --         23,025        --            --
+  Cash dividends ($.48 per share)............    --       --      --       --         --         (7,976)       --            --
+  Issuance of common stock...................   2,000     2,000   --       --        48,075      --            --            --
+  Treasury stock purchased...................    --       --      322     (8,080)     --         --            --            --
+  Exercise of stock options and stock
+    awards...................................     528       528   --       --         8,966      --            --            --
+  Adjustment for net translation loss........    --       --      --       --         --         --            (1,914)       --
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+Balance, May 31, 1997........................  18,932   $18,932   728   $(13,365)   $141,016  $ 125,694      $ (3,018)     $ --
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+                                               -------  --------  ----  ---------   --------  ----------   -----------   -----------
+</TABLE>
+ 
+          The accompanying notes to consolidated financial statements
+                   are an integral part of these statements.
+ 
+                                       16
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+<TABLE>
+<CAPTION>
+                                                                                FOR THE YEAR ENDED MAY 31,
+                                                                               ----------------------------
+                                                                                 1997      1996      1995
+                                                                               --------  --------  --------
+                                                                                      (000S OMITTED)
+<S>                                                                            <C>       <C>       <C>
+Cash flows from operating activities:
+  Net income.................................................................  $ 23,025  $ 16,012  $ 10,463
+  Adjustments to reconcile net income to net cash provided from operating
+    activities:
+      Depreciation and amortization..........................................    12,287    10,115    10,328
+      Change in certain assets and liabilities:
+        Accounts receivable..................................................   (16,333)    2,584   (23,375)
+        Inventories..........................................................   (35,930)     (124)    2,717
+        Equipment on or available for short-term lease.......................    (3,808)   (6,247)    4,410
+        Deferred tax assets, deposits and other..............................     1,734    (4,818)    9,790
+        Accounts payable and other liabilities...............................    25,637     7,901     1,208
+        Accrued liabilities and taxes on income..............................     5,935     1,859     2,375
+        Deferred tax liabilities and other deferred credits..................    (3,016)   (2,522)   (2,661)
+                                                                               --------  --------  --------
+    Net cash provided from operating activities..............................     9,531    24,760    15,255
+                                                                               --------  --------  --------
+Cash flows from investing activities:
+  Property, plant and equipment expenditures, net............................   (30,292)   (7,547)   (9,073)
+  Investment in leveraged leases.............................................     3,299     1,047       666
+  Notes receivable and other.................................................    (4,975)    1,872      (939)
+                                                                               --------  --------  --------
+    Net cash used in investing activities....................................   (31,968)   (4,628)   (9,346)
+                                                                               --------  --------  --------
+Cash flows from financing activities:
+  Gross proceeds from issuance of long-term notes payable....................     --        --        6,186
+  Change in borrowings.......................................................    (1,474)   (1,632)   (1,085)
+  Cash dividends.............................................................    (7,976)   (7,676)   (7,650)
+  Purchases of treasury stock................................................    (8,080)   (1,552)     (177)
+  Proceeds from exercise of stock options and other..........................     8,106     1,963       905
+  Proceeds from common stock offering........................................    50,075     --        --
+                                                                               --------  --------  --------
+    Net cash provided from (used in) financing activities....................    40,651    (8,897)   (1,821)
+                                                                               --------  --------  --------
+Effect of exchange rate changes on cash......................................      (115)     (116)      325
+                                                                               --------  --------  --------
+Increase in cash and cash equivalents........................................    18,099    11,119     4,413
+Cash and cash equivalents, beginning of year.................................    33,606    22,487    18,074
+                                                                               --------  --------  --------
+Cash and cash equivalents, end of year.......................................  $ 51,705  $ 33,606  $ 22,487
+                                                                               --------  --------  --------
+                                                                               --------  --------  --------
+</TABLE>
+ 
+          The accompanying notes to consolidated financial statements
+                   are an integral part of these statements.
+ 
+                                       17
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+  DESCRIPTION OF BUSINESS
+ 
+    AAR CORP. supplies a variety of products and services to the
+aerospace/aviation industry in the United States and abroad. Products and
+services are sold primarily to commercial, domestic and foreign airlines,
+business aircraft operators, aviation original equipment manufacturers, aircraft
+leasing companies, domestic and foreign military agencies and independent
+aviation support companies.
+ 
+  PRINCIPLES OF CONSOLIDATION
+ 
+    The accompanying consolidated financial statements include the accounts of
+the Company and its subsidiaries after elimination of intercompany accounts and
+transactions.
+ 
+  REVENUE RECOGNITION
+ 
+    Sales and related cost of sales are recognized primarily upon shipment of
+products and performance of services. Sales and related cost of sales on
+long-term contracts are recognized as units are delivered, determined by the
+percentage of completion method based on the relationship of costs incurred to
+date to estimated total costs under the respective contracts. Lease revenue is
+recognized as earned.
+ 
+  ACCOUNTING CHANGES
+ 
+    In fiscal 1997, the Company adopted Statement of Financial Accounting
+Standards ("SFAS") No. 121 "Accounting for the Impairment of Long-Lived Assets
+and for Long-Lived Assets to Be Disposed Of " and SFAS No. 123 "Accounting for
+Stock-Based Compensation." The adoption of SFAS No. 121, which requires
+companies to review for impairment of long-lived assets and certain identifiable
+intangibles held or to be disposed of, did not affect the Company's results of
+operations or financial condition. SFAS No. 123 allows companies the option of
+adopting a fair value-based method of accounting for stock-based compensation
+plans, or to continue to apply the provisions of Accounting Principles Board
+Opinion ("APB") No. 25 "Accounting for Stock Issued to Employees," with expanded
+disclosures. The Company has elected to continue to apply the provisons of APB
+No. 25, with expanded disclosures in the notes to consolidated financial
+statements.
+ 
+  NEW ACCOUNTING STANDARDS
+ 
+    The Financial Accounting Standards Board issued SFAS No. 128 "Earnings Per
+Share" in February, 1997. SFAS No. 128 was issued to simplify the computation of
+earnings per share (EPS) calculations and to make U.S. standards more compatible
+with the EPS standards of other countries and that of the International
+Accounting Standards Committee. The standard replaces the presentation of
+primary EPS with a presentation of basic EPS, and fully diluted EPS with diluted
+EPS. The Company is required to adopt the provisions of SFAS No. 128 in its
+third quarter of fiscal 1998 and will require the Company to disclose both basic
+and diluted EPS information.
+ 
+                                       18
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -- (CONTINUED)
+  CASH AND CASH EQUIVALENTS
+ 
+    The Company considers all highly liquid investments with maturities of three
+months or less to be cash equivalents. At May 31, 1997 and 1996, cash
+equivalents of approximately $41,619 and $25,504, respectively, held by the
+Company, represent investments in funds holding high-quality commercial paper,
+Eurodollars and U.S. Government agency-issued securities. The carrying amount of
+cash equivalents approximates fair value at May 31, 1997 and 1996, respectively.
+ 
+  FOREIGN CURRENCY
+ 
+    Gains and losses on foreign currency translation and foreign exchange
+contracts are determined in accordance with the method of accounting prescribed
+by SFAS No. 52. All balance sheet accounts of foreign and certain domestic
+subsidiaries transacting business in currencies other than the Company's
+functional currency are translated at year-end or historical exchange rates.
+Revenues and expenses are translated at average exchange rates during the year.
+Translation adjustments are excluded from the results of operations and are
+recorded in Stockholders' equity as Cumulative translation adjustments.
+ 
+    Foreign and certain domestic subsidiaries incur transaction gains and losses
+upon settlement of obligations in currencies other than their functional
+currency. The aggregate net transaction gains included in the results of
+operations were $56, $239 and $45 for fiscal 1997, 1996 and 1995, respectively.
+ 
+  FINANCIAL INSTRUMENTS AND CONCENTRATIONS OF MARKET OR CREDIT RISK
+ 
+    Financial instruments that potentially subject the Company to concentrations
+of market or credit risk consist principally of trade receivables. While the
+Company's trade receivables are diverse based on the number of entities and
+geographic locations, the majority are concentrated in the aerospace/ aviation
+industry. The Company performs evaluations of customers' financial condition
+prior to extending credit privileges and performs ongoing credit evaluations of
+payment experience, current financial condition and risk analysis. The Company
+typically requires collateral in the form of security interest in assets,
+letters of credit, obligation guarantees from financial institutions, or sells
+its receivables, usually on a nonrecourse basis, for transactions other than
+normal trade terms.
+ 
+    SFAS No. 107 "Disclosures About Fair Value of Financial Instruments"
+requires disclosure of the fair value of certain financial instruments. Cash and
+cash equivalents, accounts receivable, short-term borrowings, accounts payable
+and accrued liabilities are reflected in the financial statements at fair value
+because of the short-term maturity of these instruments. Noncurrent notes
+receivable and long-term debt bearing a variable interest rate are reflected in
+the financial statements at fair value. Those bearing a fixed interest rate have
+fair values based on estimates using discounted future cash flows at an assumed
+discount rate for borrowings currently prevailing in the marketplace for similar
+instruments.
+ 
+    Fair value estimates are made at a specific point in time, based on relevant
+market information about the financial instrument. These estimates are
+subjective in nature and involve uncertainties
+ 
+                                       19
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -- (CONTINUED)
+and matters of significant judgment and therefore cannot be determined with
+precision. Changes in assumptions could significantly affect the estimates.
+ 
+  INVENTORIES
+ 
+    Inventories are priced at the lower of cost or market. Cost is determined by
+either the specific identification, average cost or first-in, first-out method.
+ 
+    The following is a summary of inventories:
+ 
+<TABLE>
+<CAPTION>
+                                                                                       MAY 31,
+                                                                              --------------------------
+                                                                                  1997          1996
+                                                                              ------------  ------------
+<S>                                                                           <C>           <C>
+Raw materials and parts.....................................................  $     36,067  $     33,978
+Work-in-process.............................................................        15,477        12,179
+Purchased aircraft, parts, engines and components held for sale.............       124,212        90,438
+Finished goods..............................................................         1,165         1,605
+                                                                              ------------  ------------
+                                                                              $    176,921  $    138,200
+                                                                              ------------  ------------
+                                                                              ------------  ------------
+</TABLE>
+ 
+    During the first quarter of fiscal 1997, the Company made certain inventory
+purchases in which the vendors provided extended terms at no interest. Other
+liabilities reflect the long-term obligation under these arrangements payable
+through December 31, 1998 and have been discounted at 6.5%.
+ 
+  EQUIPMENT UNDER OPERATING LEASES
+ 
+    Lease revenue is recognized as earned. The cost of the asset under lease is
+original purchase price plus overhaul costs. Depreciation of the cost is
+computed on a straight-line method over the estimated service life of the
+equipment and maintenance costs are expensed as incurred. The balance sheet
+classification is based on the lease term with fixed-term leases less than
+twelve months classified as short term and all others classified as long term.
+ 
+    Equipment on short-term lease consists of aircraft engines and parts on or
+available for lease to satisfy customers' immediate short-term requirements. The
+leases are renewable with fixed terms, which generally vary from one to six
+months.
+ 
+  PROPERTY, PLANT AND EQUIPMENT
+ 
+    Depreciation is computed on the straight-line method over useful lives of
+10-40 years for buildings and improvements and 3-10 years for equipment,
+furniture and fixtures. Leasehold improvements are amortized over the estimated
+useful life or the term of the applicable lease.
+ 
+    Repairs and maintenance expenditures are expensed as incurred. Upon sale or
+disposal, cost and accumulated depreciation are removed from the accounts and
+related gains and losses included in results of operations.
+ 
+                                       20
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -- (CONTINUED)
+  LEVERAGED LEASES
+ 
+    The Company acts as an equity participant in leveraged lease transactions.
+The equipment cost in excess of equity contribution is furnished by third-party
+financing in the form of secured debt. Under the lease agreements, the third
+parties have no recourse against the Company for nonpayment of the obligations.
+The third-party debt is collateralized by the lessees' rental obligations and
+the leased equipment.
+ 
+    The Company has ownership rights to the leased assets and is entitled to the
+investment tax credits and benefits of tax deductions for depreciation on the
+leased assets and for interest on the secured debt financing.
+ 
+  COST IN EXCESS OF UNDERLYING NET ASSETS OF ACQUIRED COMPANIES
+ 
+    The cost in excess of underlying net assets of acquired companies is being
+amortized over a period of forty years. Amortization was $223 in fiscal 1997 and
+$230 in fiscal 1996 and 1995, respectively. Accumulated amortization is $3,608,
+$3,385 and $3,155 at May 31, 1997, 1996 and 1995, respectively.
+ 
+  INCOME TAXES
+ 
+    Income taxes are determined in accordance with the method of accounting
+prescribed by SFAS No. 109.
+ 
+    Federal income taxes were provided on the earnings of foreign subsidiaries
+as the Company fully distributed these earnings. The earnings are treated as
+taxable in the United States; however, the related tax expense was offset by
+foreign tax credits. Foreign income taxes are provided at the local statutory
+rates and reflect estimated taxes payable.
+ 
+    The benefits of investment tax credits are recognized for book purposes
+under the deferral method of accounting for leveraged leases. The investment tax
+credits are recognized in the year earned for income tax purposes.
+ 
+  STATEMENTS OF CASH FLOWS
+ 
+    Supplemental information on cash flows follows:
+ 
+<TABLE>
+<CAPTION>
+                                                               FOR THE YEAR ENDED MAY 31,
+                                                             -------------------------------
+                                                               1997       1996       1995
+                                                             ---------  ---------  ---------
+<S>                                                          <C>        <C>        <C>
+Interest paid..............................................  $  10,500  $  10,500  $  10,700
+Income taxes paid..........................................      8,600      5,300      3,900
+Income tax refunds and interest received...................        500        900        330
+</TABLE>
+ 
+  USE OF ESTIMATES
+ 
+    Management of the Company has made estimates and assumptions relating to the
+reporting of assets and liabilities and the disclosure of contingent assets and
+liabilities to prepare these financial
+ 
+                                       21
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -- (CONTINUED)
+statements in conformity with generally accepted accounting principles. Actual
+results could differ from those estimates.
+ 
+2.  FINANCING ARRANGEMENTS
+ 
+    Bank loans consisted of:
+ 
+<TABLE>
+<CAPTION>
+                                                                                    MAY 31,
+                                                                        -------------------------------
+                                                                          1997       1996       1995
+                                                                        ---------  ---------  ---------
+<S>                                                                     <C>        <C>        <C>
+Current maturities of long-term debt..................................  $   1,474  $   1,474  $   1,632
+                                                                        ---------  ---------  ---------
+                                                                        ---------  ---------  ---------
+</TABLE>
+ 
+    Short-term borrowing activity was as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                         FOR THE YEAR ENDED MAY 31,
+                                                                      ---------------------------------
+                                                                         1997       1996        1995
+                                                                      ----------  ---------  ----------
+<S>                                                                   <C>         <C>        <C>
+Maximum amount borrowed.............................................  $   25,300  $   4,900  $   21,200
+Average daily borrowings............................................       3,624        437       7,553
+Average interest rate during the year...............................        5.8%       5.5%        6.2%
+                                                                      ----------  ---------  ----------
+                                                                      ----------  ---------  ----------
+</TABLE>
+ 
+    At May 31, 1997, aggregate unsecured bank credit arrangements were $136,283.
+Of this amount, $70,000 was available under credit lines with domestic banks,
+$60,000 was available under revolving credit and term loan agreements with
+domestic banks and $6,283 was available under credit agreements with foreign
+banks. All domestic and foreign credit lines were unused at May 31, 1997. There
+are no compensating balance requirements in connection with domestic or foreign
+lines of credit. Borrowings under domestic bank lines bear interest at or below
+the corporate base rate.
+ 
+    The Company may borrow a maximum of $60,000 (available through August 31,
+1999) under revolving credit and term loan agreements with domestic banks.
+Revolving credit borrowings may, at the Company's option, be converted to term
+loans payable in equal quarterly installments over five years. Interest is based
+on corporate base rate or quoted Eurodollar or multicurrency rates during the
+revolving credit period, and 1/2% over corporate base rate or quoted Eurodollar
+rate thereafter. There were no borrowings under these agreements outstanding at
+May 31, 1997. There are no compensating balance requirements on any of the
+committed lines but the Company is required to pay a commitment fee. There are
+no restrictions on the withdrawal or use of these funds.
+ 
+                                       22
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+2.  FINANCING ARRANGEMENTS -- (CONTINUED)
+    Long-term debt was as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                                       MAY 31,
+                                                                              --------------------------
+                                                                                  1997          1996
+                                                                              ------------  ------------
+<S>                                                                           <C>           <C>
+Notes payable due November 1, 2001 with interest of 9.5% payable
+  semi-annually on May 1 and November 1.....................................  $     65,000  $     65,000
+Notes payable due October 15, 2003 with interest of 7.25% payable
+  semi-annually on April 15 and October 15..................................        50,000        50,000
+Installment note due June, 1999 bearing interest at 5% per annum, compounded
+  monthly, payable in equal monthly payments of principal and interest......         3,033         4,383
+Industrial revenue bonds due in installments to 2002 with weighted average
+  interest of approximately 7.34% at May 31, 1997 (secured by trust
+  indentures on property, plant and equipment)..............................           259           383
+                                                                              ------------  ------------
+                                                                                   118,292       119,766
+Current maturities..........................................................        (1,474)       (1,474)
+                                                                              ------------  ------------
+                                                                              $    116,818  $    118,292
+                                                                              ------------  ------------
+                                                                              ------------  ------------
+</TABLE>
+ 
+    The Company is subject to a number of covenants under the revolving credit
+and term loan agreements, including restrictions which relate to the payment of
+cash dividends, maintenance of minimum net working capital and tangible net
+worth levels, sales of assets, additional financing, purchase of the Company's
+shares and other matters. The Company is in compliance with all restrictive
+financial provisions of the agreements. At May 31, 1997, unrestricted
+consolidated retained earnings available for payment of dividends and purchase
+of the Company's shares was approximately $15,196. Effective June 1, 1997,
+unrestricted consolidated retained earnings increased to $26,708 due to
+inclusion of 50% of the consolidated net income of the Company for fiscal 1997.
+The aggregate amount of long-term debt maturing during each of the next five
+fiscal years is $1,474 in 1998, $1,545 in 1999, $184 in 2000, $57 in 2001 and
+$65,032 in 2002. The fair value of the Company's long-term debt approximates
+carrying value.
+ 
+                                       23
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+3.  INCOME TAXES
+ 
+    The provision for income taxes included the following components:
+ 
+<TABLE>
+<CAPTION>
+                                                                          FOR THE YEAR ENDED MAY 31,
+                                                                       --------------------------------
+                                                                          1997       1996       1995
+                                                                       ----------  ---------  ---------
+<S>                                                                    <C>         <C>        <C>
+Current
+  Federal............................................................  $    8,605  $   4,215  $   2,255
+  Foreign............................................................         535        895        625
+  State, net of refunds..............................................         890        800        780
+                                                                       ----------  ---------  ---------
+                                                                       $   10,030  $   5,910  $   3,660
+                                                                       ----------  ---------  ---------
+Deferred.............................................................         (80)       860        590
+                                                                       ----------  ---------  ---------
+                                                                       $    9,950  $   6,770  $   4,250
+                                                                       ----------  ---------  ---------
+                                                                       ----------  ---------  ---------
+</TABLE>
+ 
+    The deferred tax provisions result primarily from differences between book
+and tax income arising from depreciation and leveraged leases. Refundable income
+taxes included within Deferred tax assets, deposits and other, principally
+represent refunds of Federal income taxes resulting from additional tax benefits
+generated from export sales and foreign tax credits carried back to prior years.
+ 
+    Deferred tax liabilities and assets result primarily from the differences in
+the timing of the recognition for transactions between book and income tax
+purposes and consist of the following components:
+ 
+<TABLE>
+<CAPTION>
+                                                                                         MAY 31,
+                                                                                  ---------------------
+                                                                                     1997       1996
+                                                                                  ----------  ---------
+<S>                                                                               <C>         <C>
+Deferred tax liabilities:
+  Depreciation..................................................................  $    9,740  $   7,390
+  Leveraged leases..............................................................      22,230     25,060
+  Other.........................................................................         950        950
+                                                                                  ----------  ---------
+  Total deferred tax liabilities................................................  $   32,920  $  33,400
+                                                                                  ----------  ---------
+                                                                                  ----------  ---------
+Deferred tax assets--current:
+  Inventory costs...............................................................  $    5,630  $   5,080
+  Employee benefits.............................................................       1,320        190
+  Doubtful account allowance....................................................         700        620
+  Other.........................................................................         680        480
+                                                                                  ----------  ---------
+  Total deferred tax assets--current............................................  $    8,330  $   6,370
+                                                                                  ----------  ---------
+Deferred tax assets--noncurrent:
+  Postretirement benefits.......................................................  $      360  $     560
+  Alternative minimum tax credits...............................................      --          2,160
+                                                                                  ----------  ---------
+  Total deferred tax assets--noncurrent.........................................         360      2,720
+                                                                                  ----------  ---------
+  Total deferred tax assets.....................................................  $    8,690  $   9,090
+                                                                                  ----------  ---------
+                                                                                  ----------  ---------
+</TABLE>
+ 
+                                       24
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+3.  INCOME TAXES -- (CONTINUED)
+    The Company has determined, more likely than not, that a valuation allowance
+is not required based upon the Company's history of prior operating earnings,
+its expectations for continued future earnings and the scheduled reversal of
+deferred tax liabilities, primarily related to leveraged leases, which exceed
+the amount of the deferred tax assets.
+ 
+    The provision for income taxes differs from the amount computed by applying
+the U.S. Federal statutory income tax rate of 35% for fiscal 1997 and 1996, and
+34% for fiscal 1995 for the following reasons:
+ 
+<TABLE>
+<CAPTION>
+                                                                            FOR THE YEAR ENDED MAY 31,
+                                                                          -------------------------------
+                                                                            1997       1996       1995
+                                                                          ---------  ---------  ---------
+<S>                                                                       <C>        <C>        <C>
+Provision for income taxes at the Federal statutory rate................  $  11,540  $   7,970  $   5,000
+  Tax benefits on exempt earnings from export sales.....................     (2,000)    (1,600)    (1,350)
+  State income taxes, net of Federal benefit and refunds................        800        520        330
+  Amortization of goodwill..............................................         80         90         90
+  Differences between foreign tax rates and the U.S. Federal statutory
+    rate................................................................       (200)       100        330
+  Other, net............................................................       (270)      (310)      (150)
+                                                                          ---------  ---------  ---------
+Provision for income taxes as reported..................................  $   9,950  $   6,770  $   4,250
+                                                                          ---------  ---------  ---------
+                                                                          ---------  ---------  ---------
+Effective income tax rate...............................................      30.2%       29.7%      28.9%
+                                                                          ---------  ---------  ---------
+                                                                          ---------  ---------  ---------
+</TABLE>
+ 
+    Pretax income from foreign subsidiaries was approximately $1,500, $2,100 and
+$600 at May 31, 1997, 1996 and 1995. Foreign income taxes were provided on all
+earnings from foreign subsidiaries.
+ 
+4.  COMMON STOCK AND STOCK OPTION PLANS
+ 
+    The Company has established stock option plans for officers and key
+employees of the Company. Stock option awards typically expire ten years from
+the date of grant or earlier upon termination of employment, become excercisable
+in five equal increments on successive grant anniversary dates at the New York
+Stock Exchange closing stock price on the date of grant, and are accompanied by
+reload features and, for certain individuals, stock rights excercisable in the
+event of a change in control of the Company.
+ 
+    The Company accounts for these plans under APB No. 25, under which no
+compensation cost has been recognized. Proforma information regarding net income
+and net income per share is required by SFAS No. 123, and has been determined as
+if the Company had accounted for its employee stock options under the fair value
+method of that Statement. The fair value of each option grant, including
+reloads, is estimated on the date of grant using the Black-Scholes
+option-pricing model with the following weighted average assumptions for fiscal
+1997: dividend yield of 2.4%; expected volatility of 24.0%; risk-free interest
+rate of 6.4%; and expected life of 3.6 years. The following weighted average
+assumptions were used to value options granted in fiscal 1996: dividend yield of
+3.2%; expected volatility of 25.2%; risk-free interest rate of 6.0%; and
+expected life of 4.0 years. The weighted average fair value of options granted
+during fiscal 1997 and 1996 was $4.57 and $3.30, respectively. Had compensation
+cost for stock options awarded under the plans been determined in accordance
+with
+ 
+                                       25
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+4.  COMMON STOCK AND STOCK OPTION PLANS -- (CONTINUED)
+SFAS No. 123, the Company's net income and net income per share would have been
+changed to the following proforma amounts:
+ 
+<TABLE>
+<CAPTION>
+                                                   1997        1996
+                                                ----------  ----------
+<S>                            <C>              <C>         <C>
+Net Income:                    As Reported      $   23,025  $   16,012
+                               Proforma             22,158      15,874
+Net Income Per Share:          As Reported            1.38        1.00
+                               Proforma               1.33         .99
+</TABLE>
+ 
+    A summary of changes in stock options granted to officers, key employees and
+nonemployee directors under stock option plans for the three years ended May 31,
+1997 follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                              NUMBER OF     WEIGHTED AVERAGE
+                                                                               SHARES        EXERCISE PRICE
+                                                                            -------------  -------------------
+<S>                                                                         <C>            <C>
+Outstanding, May 31, 1994 (236 exercisable)...............................          731         $   12.54
+  Granted.................................................................          250             13.68
+  Exercised...............................................................          (11)            10.15
+  Surrendered/expired/cancelled...........................................          (38)            13.48
+                                                                                  -----
+Outstanding, May 31, 1995 (362 exercisable)...............................          932         $   12.85
+                                                                                  -----
+  Granted.................................................................          293             17.68
+  Exercised...............................................................          (50)            10.99
+  Surrendered/expired/cancelled...........................................          (41)            13.37
+                                                                                  -----
+Outstanding, May 31, 1996 (496 exercisable)...............................        1,134         $   14.17
+                                                                                  -----
+  Granted.................................................................          630             23.14
+  Exercised...............................................................         (416)            13.18
+  Surrendered/expired/cancelled...........................................          (30)            16.79
+                                                                                  -----
+Outstanding, May 31, 1997 (443 exercisable)...............................        1,318         $   18.72
+                                                                                  -----
+                                                                                  -----
+</TABLE>
+ 
+    The following table provides additional information regarding options
+outstanding as of May 31, 1997:
+ 
+<TABLE>
+<CAPTION>
+                                                      WEIGHTED AVERAGE         NUMBER OF      WEIGHTED AVERAGE
+         OPTION EXERCISE              OPTIONS       REMAINING CONTRACTUAL       OPTIONS       EXERCISE PRICE OF
+           PRICE RANGE              OUTSTANDING        LIFE OF OPTIONS        EXERCISABLE    OPTIONS EXERCISABLE
+- ---------------------------------  -------------  -------------------------  --------------  -------------------
+<S>                                <C>            <C>                        <C>             <C>
+$10.00 - $16.88                             478                  6.3                   262       $     12.93
+$17.50 - $23.63                             448                  8.7                    37             19.44
+$24.13 - $30.00                             383                  9.4                   135             26.56
+$30.38 - $35.13                               9                  8.0                     9             32.34
+                                   -------------                             --------------
+                                          1,318                  8.0                   443             18.03
+                                   -------------                             --------------
+                                   -------------                             --------------
+</TABLE>
+ 
+    The AAR CORP. Stock Benefit Plan also provides for the grant of restricted
+stock awards. Restrictions are released at the end of applicable restricted
+periods. The number of shares and the
+ 
+                                       26
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+4.  COMMON STOCK AND STOCK OPTION PLANS -- (CONTINUED)
+restricted period, which varies from two to ten years, are determined by the
+Compensation Committee of the Board of Directors. The market value of the award
+on the date of grant is recorded as a deferred expense, Common stock and Capital
+surplus. The deferred expense is included in results of operations over the
+restricted term. The expense relating to outstanding restricted stock awards was
+$1,054, $516 and $266 in fiscal 1997, 1996 and 1995, respectively.
+ 
+    The AAR CORP. Employee Stock Purchase Plan is open to employees of the
+Company (other than officers, directors or participants in other stock option
+plans of the Company) with six months of service. The plan permits employees to
+purchase common stock in periodic offerings at the lesser of the fair market
+value on date of offering or 85% of the fair market value on the date of
+exercise. A participating employee pays for shares by payroll deduction over a
+two-year period. Upon completion of the purchase, the excess of the proceeds
+over the par value (or cost in the case of treasury stock) is credited to
+Capital surplus.
+ 
+    The number of options and awards outstanding and available for grant or
+issuance for each of the Company's stock plans is as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                                   MAY 31, 1997
+                                                                     -----------------------------------------
+                                                                       OUTSTANDING      AVAILABLE      TOTAL
+                                                                     ---------------  -------------  ---------
+<S>                                                                  <C>              <C>            <C>
+Stock Benefit Plan (officers, directors and key employees).........         1,517              89        1,606
+Employee Stock Purchase Plan.......................................             0             121          121
+</TABLE>
+ 
+    Pursuant to a shareholder rights plan adopted in 1987 and amended in 1989,
+each outstanding share of the Company's common stock carries with it a Right to
+purchase one additional share at a price of $85 (subject to antidilution
+adjustments). The Rights become exercisable (and separate from the shares) when
+certain specified events occur, including the acquisition of 20% or more of the
+common stock by a person or group (an "Acquiring Person") or the commencement of
+a tender or exchange offer for 30% or more of the common stock.
+ 
+    In the event that an Acquiring Person acquires 20% or more of the common
+stock, or if the Company is the surviving corporation in a merger involving an
+Acquiring Person, or if the Acquiring Person engages in certain types of
+self-dealing transactions, each Right entitles the holder to purchase for $85
+(or the then current exercise price) shares of the Company's common stock having
+a market value of $170 (or two times the exercise price), subject to certain
+exceptions. Similarly, if the Company is acquired in a merger or other business
+combination or 50% or more of its assets or earning power is sold, each Right
+entitles the holder to purchase at the then current exercise price that number
+of shares of common stock of the surviving corporation having a market value of
+two times the exercise price. The Rights, which do not entitle the holder
+thereof to vote or to receive dividends, expire on August 6, 1997 and may be
+redeemed by the Company for $.01 per Right under certain circumstances.
+ 
+    On September 21, 1990, the Board of Directors authorized the Company to
+purchase up to 1,000 shares of the Company's common stock on the open market or
+through privately negotiated transactions. As of May 31, 1997 the Company had
+purchased 464 shares of its common stock on the open market under this program
+at an average price of $13.89 per share.
+ 
+                                       27
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+5.  COMMON STOCK AND NET INCOME PER SHARE OF COMMON STOCK
+ 
+    During February 1997, the Company completed the sale of two million shares
+of common stock, raising $50,075, which is net of expenses.
+ 
+    Net income per share is computed by dividing net income by the weighted
+average number of shares of common stock outstanding during the year. Shares
+granted as restricted stock awards under the AAR CORP. Stock Benefit Plan are
+considered outstanding from the date of grant. Common Stock equivalents
+consisting of employee stock options have not been included in the per share
+calculations as their dilutive effect is not material.
+ 
+6.  EMPLOYEE BENEFIT PLANS
+ 
+    The Company has defined contribution or defined benefit plans covering
+substantially all full-time domestic employees and certain employees in The
+Netherlands.
+ 
+  DEFINED BENEFIT PLANS
+ 
+    The pension plans for domestic, salaried employees have benefit formulas
+primarily based on years of service and compensation. The pension benefit for
+hourly employees is generally based on a fixed amount per year of service. The
+Company follows the provisions of SFAS No. 87, "Employers' Accounting for
+Pensions" for all domestic and nondomestic pension plans.
+ 
+    The Company's funding policy for domestic plans is to contribute annually,
+at a minimum, an amount which is deductible for Federal income tax purposes and
+that is sufficient to meet actuarially computed pension benefits. Contributions
+are intended to provide for benefits attributed to service to date and for
+benefits expected to be earned in the future. The assets of the pension plans
+are invested primarily in mutual funds, common stocks, investment grade bonds
+and U.S. Government obligations.
+ 
+    Certain foreign operations of domestic subsidiaries also have pension plans.
+In most cases, the plans are defined benefit in nature. Assets of the plans are
+comprised of insurance contracts. Benefit formulas are similar to those used by
+domestic plans. It is the policy of these subsidiaries to fund at least the
+minimum amounts required by local law and regulation.
+ 
+                                       28
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+6.  EMPLOYEE BENEFIT PLANS -- (CONTINUED)
+ 
+    The following table sets forth the plans' funded status and the amount
+recognized in the Company's Consolidated Balance Sheets.
+ 
+<TABLE>
+<CAPTION>
+                                                                                 MAY 31, 1997    MAY 31, 1996
+                                                                                --------------  --------------
+<S>                                                                             <C>             <C>
+Actuarial present value of benefit obligation:
+  Vested benefit obligation...................................................   $    (32,786)   $    (30,572)
+  Nonvested benefit obligation................................................         (1,444)         (1,283)
+                                                                                --------------  --------------
+Accumulated benefit obligation................................................        (34,230)        (31,855)
+Effect of projected salary increases on the benefit obligation................         (4,540)         (4,071)
+                                                                                --------------  --------------
+Projected benefit obligation..................................................        (38,770)        (35,926)
+Plans' assets at fair value...................................................         35,825          33,277
+                                                                                --------------  --------------
+Projected benefit obligation in excess of plans' assets.......................         (2,945)         (2,649)
+Unrecognized net loss.........................................................          4,409           5,340
+Unrecognized prior service cost...............................................          1,241           1,391
+Unrecognized transition obligation............................................            719             833
+                                                                                --------------  --------------
+Prepaid pension costs.........................................................   $      3,424    $      4,915
+                                                                                --------------  --------------
+                                                                                --------------  --------------
+</TABLE>
+ 
+    The projected benefit obligation for domestic plans is determined using an
+assumed weighted average discount rate of 8.25% for fiscal 1997 and 1996,
+respectively, and an assumed average compensation increase of 5.0%. The expected
+long-term rate of return on assets is 10.0% for fiscal 1997 and 1996.
+Unrecognized net loss, prior service cost and transition obligation are
+amortized on a straight-line basis over the estimated average future service
+period.
+ 
+    The projected benefit obligation for nondomestic plans is determined using
+an assumed weighted average discount rate of 6.5% for fiscal 1997 and 1996,
+respectively, and an assumed average compensation increase of 2.0% for the first
+five years and 4.0% thereafter. The expected long-term rate of return on assets
+is 6.5% for fiscal 1997 and 1996.
+ 
+    Pension expense charged to results of operations includes the following
+components:
+ 
+<TABLE>
+<CAPTION>
+                                                                             MAY 31,
+                                                                 -------------------------------
+                                                                   1997       1996       1995
+                                                                 ---------  ---------  ---------
+<S>                                                              <C>        <C>        <C>
+Service costs for benefits earned during fiscal year...........  $   1,455  $   1,169  $   1,255
+Interest cost on projected benefit obligation..................      2,785      2,587      2,440
+Actual investment return on plan assets........................     (2,904)    (2,618)    (2,225)
+Net amortization and deferral..................................        411        224         60
+                                                                 ---------  ---------  ---------
+Total pension expense..........................................  $   1,747  $   1,362  $   1,530
+                                                                 ---------  ---------  ---------
+                                                                 ---------  ---------  ---------
+</TABLE>
+ 
+  DEFINED CONTRIBUTION PLAN
+ 
+    The defined contribution plan is a profit sharing plan which is intended to
+qualify as a 401(k) plan under the Internal Revenue Code. Under the plan,
+employees may contribute up to 15.0% of their
+ 
+                                       29
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+6.  EMPLOYEE BENEFIT PLANS -- (CONTINUED)
+pretax compensation, subject to applicable regulatory limits. The Company may
+make matching contributions up to 6.0% of compensation. Participants vest
+immediately in Company contributions. Expense charged to results of operations
+was $930, $815 and $830 in fiscal 1997, 1996 and 1995, respectively.
+ 
+  DIRECTOR, EXECUTIVE AND KEY EMPLOYEE RETIREMENT BENEFIT AND PROFIT SHARING
+  PLANS
+ 
+    The Company provides its outside directors with benefits upon retirement on
+or after age 65 provided they have completed at least five years of service as a
+director. Benefits are paid as an annuity in an amount equal to 25.0% of the
+annual retainer fee payable by the Company to active outside directors. Payment
+of benefits commences upon retirement and continues for a period equal to the
+total number of years of the retired director's service as a director to a
+maximum of ten years, or death, whichever occurs first. The Company also
+provides supplemental retirement and profit sharing benefits for current and
+former executives and key employees to supplement benefits provided by the
+Company's other benefit plans. The plans are not fully funded and may require
+funding in the event of a change in control of the Company as determined by the
+Company's Board of Directors. Expense charged to results of operations for these
+plans was $970, $555 and $585 in fiscal 1997, 1996 and 1995, respectively.
+ 
+  POSTRETIREMENT BENEFITS OTHER THAN PENSIONS
+ 
+    The Company provides health and life insurance benefits for certain eligible
+employees and retirees under a variety of plans. Generally these benefits are
+contributory with retiree contributions adjusted annually. The postretirement
+plans are unfunded and the Company has the right to modify or terminate any of
+these plans in the future, in certain cases subject to union bargaining
+agreements. In fiscal 1995, the Company completed termination of postretirement
+healthcare and life insurance benefits attributable to future services of
+collective bargaining and other domestic employees. The Company recognized an
+after-tax gain of $250 from the reduction in the accumulated postretirement
+benefit obligation related to this termination of benefits.
+ 
+    Postretirement benefit cost for the years ended May 31, 1997, 1996 and 1995
+included the following components:
+ 
+<TABLE>
+<CAPTION>
+                                                                   1997       1996       1995
+                                                                 ---------  ---------  ---------
+<S>                                                              <C>        <C>        <C>
+Service cost...................................................  $  --      $  --      $       4
+Interest cost..................................................         85         65         70
+                                                                 ---------  ---------  ---------
+                                                                 $      85  $      65  $      74
+                                                                 ---------  ---------  ---------
+                                                                 ---------  ---------  ---------
+</TABLE>
+ 
+                                       30
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+6.  EMPLOYEE BENEFIT PLANS -- (CONTINUED)
+    The funded status of the plans at May 31, 1997 and 1996 was as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                             1997       1996
+                                                                           ---------  ---------
+ 
+<S>                                                                        <C>        <C>
+Accumulated postretirement benefit obligation:
+  Current retirees.......................................................  $     774  $     728
+  Current employees -- fully eligible....................................        364        352
+                                                                           ---------  ---------
+                                                                               1,138      1,080
+Plans' assets at fair value..............................................     --         --
+                                                                           ---------  ---------
+Accumulated postretirement benefit obligation in excess of plans'
+ assets..................................................................      1,138      1,080
+Unrecognized prior service cost, transition obligation and net
+ (loss)/gain.............................................................         (3)       (10)
+                                                                           ---------  ---------
+Accrued postretirement benefit cost in the consolidated balance sheets...  $   1,135  $   1,070
+                                                                           ---------  ---------
+                                                                           ---------  ---------
+</TABLE>
+ 
+    The assumed discount rate used to measure the accumulated postretirement
+benefit obligation was 8.25% at May 31, 1997 and 1996, respectively. The assumed
+rate of future increases in healthcare costs was 8.8% and 9.4% in fiscal 1997
+and 1996 respectively, declining to 6.0% by the year 2003 and remaining at that
+rate thereafter. A one percent increase in the assumed healthcare cost trend
+rate would increase the accumulated postretirement benefit obligation by
+approximately $27 as of May 31, 1997 and would not result in a significant
+change to the annual postretirement benefit expense.
+ 
+7.  COMMITMENTS AND CONTINGENCIES
+ 
+    The Company leases certain facilities and equipment under agreements that
+expire at various dates through 2011. Rental expense under these leases was
+$6,660, $6,828 and $6,545 in fiscal 1997, 1996 and 1995, respectively.
+ 
+    Future minimum payments under leases with initial or remaining terms of one
+year or more at May 31, 1997 were $4,335 for fiscal 1998, $3,861 for fiscal
+1999, $3,526 for fiscal 2000, $2,937 for fiscal 2001 and $623 for fiscal 2002
+and thereafter.
+ 
+    The Company routinely issues letters of credit, performance bonds or credit
+guarantees in the ordinary course of its business. These instruments are
+typically issued in conjunction with insurance, contracts, sales of secured
+accounts receivables or other business requirements. The total of these
+instruments outstanding at May 31, 1997 was approximately $7,000.
+ 
+    The Company is involved in various claims and legal actions arising in the
+ordinary course of business. In the opinion of management, the ultimate
+disposition of these matters will not have a material adverse effect on the
+Company's consolidated financial condition.
+ 
+                                       31
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+8.  INVESTMENT IN LEVERAGED LEASES
+ 
+    From time to time, the Company acquires aircraft under lease that qualify
+for leveraged lease accounting treatment. Typically, these are long-term leases
+of late-model aircraft operated by major carriers where the company is an equity
+participant of at least twenty percent and there is a third-party provider of
+nonrecourse debt of the remaining equipment cost.
+ 
+    During the lease term the Company is required, in accordance with SFAS No.
+13, to adjust the elements of the investment in leveraged leases to reflect
+changes in important economic assumptions, such as the renegotiation of the
+interest rate on the nonrecourse debt or changes in income tax rates. In
+addition, the Company may sell options or other rights to the residual proceeds
+over the book value at the end of the lease term.
+ 
+    The Company's net investment in leveraged leases is comprised of the
+following elements:
+ 
+<TABLE>
+<CAPTION>
+                                                                              FOR THE YEAR ENDED
+                                                                                   MAY 31,
+                                                                              ------------------
+                                                                                1997      1996
+                                                                              --------  --------
+<S>                                                                           <C>       <C>
+ Rentals receivable (net of principal and interest on the nonrecourse
+   debt)....................................................................  $ 11,246  $ 14,545
+  Estimated residual value of leased assets.................................    23,950    23,950
+  Unearned and deferred income..............................................    (7,590)   (7,590)
+                                                                              --------  --------
+    Investment in leveraged leases..........................................    27,606    30,905
+  Deferred taxes............................................................   (22,230)  (25,060)
+                                                                              --------  --------
+  Net investment in leveraged leases........................................  $  5,376  $  5,845
+                                                                              --------  --------
+                                                                              --------  --------
+</TABLE>
+ 
+    Pretax income from leveraged leases was $0 in fiscal 1997, 1996 and 1995,
+respectively.
+ 
+9.  BUSINESS SEGMENT INFORMATION
+ 
+    The Company primarily operates in the aerospace/aviation industry and
+reports its activities in one primary business segment: Aviation Services.
+ 
+    Export sales from the Company's U.S. operations to unaffiliated customers,
+the majority located in Europe, the Middle East, Asia, Canada, Mexico and South
+America (including sales through foreign sales offices of domestic
+subsidiaries), were approximately $204,808 (34.8% of total net sales), $148,503
+(29.4% of total net sales) and $144,056 (31.9% of total net sales) in fiscal
+1997, 1996 and 1995, respectively.
+ 
+    Sales to the U.S. Government, its agencies and its contractors were
+approximately $82,125 (13.9% of total net sales), $92,362 (18.3% of total net
+sales) and $82,708 (18.3% of total net sales) in fiscal 1997, 1996 and 1995,
+respectively.
+ 
+                                       32
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+10.  SELECTED QUARTERLY DATA (UNAUDITED)
+ 
+    The unaudited selected quarterly data for fiscal years ended May 31, 1997
+and 1996 are as follows:
+ 
+                                  FISCAL 1997
+<TABLE>
+<CAPTION>
+                                                                          NET INCOME
+QUARTER                          NET SALES   GROSS PROFIT   NET INCOME    PER SHARE
+- -------------------------------  ---------   ------------   ----------   ------------
+<S>                              <C>         <C>            <C>          <C>
+First..........................  $ 136,037     $ 24,588      $ 4,848        $ .30
+Second.........................    135,675       24,824        5,144          .32
+Third..........................    154,135       28,140        5,940          .36
+Fourth.........................    163,481       30,989        7,093          .39
+                                 ---------   ------------   ----------
+                                 $ 589,328     $108,541      $23,025        $1.38
+                                 ---------   ------------   ----------      -----
+                                 ---------   ------------   ----------      -----
+                                     FISCAL 1996
+ 
+<CAPTION>
+                                                                          NET INCOME
+QUARTER                          NET SALES   GROSS PROFIT   NET INCOME    PER SHARE
+- -------------------------------  ---------   ------------   ----------   ------------
+<S>                              <C>         <C>            <C>          <C>
+First..........................  $ 109,593     $ 20,497      $ 3,226        $ .20
+Second.........................    121,261       21,963        3,691          .23
+Third..........................    136,065       22,463        4,089          .26
+Fourth.........................    138,071       25,842        5,006          .31
+                                 ---------   ------------   ----------      -----
+                                 $ 504,990     $ 90,765      $16,012        $1.00
+                                 ---------   ------------   ----------      -----
+                                 ---------   ------------   ----------      -----
+</TABLE>
+ 
+                                       33
+<PAGE>
+                           AAR CORP. AND SUBSIDIARIES
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+              (IN THOUSANDS, EXCEPT PER SHARE AND PERCENTAGE DATA)
+ 
+11.  ALLOWANCES AND RESERVES
+ 
+                          ALLOWANCES FOR DOUBTFUL ACCOUNTS
+ 
+<TABLE>
+<CAPTION>
+                                                                            FOR THE YEAR ENDED MAY 31,
+                                                                            ---------------------------
+                                                                             1997      1996      1995
+                                                                            ------    ------    -------
+<S>                                                                         <C>       <C>       <C>
+Balance, beginning of year................................................  $2,490    $2,400    $ 2,000
+  Provision charged to operations.........................................     500       900        895
+  Deductions for accounts written off, net of recoveries..................  (1,025)     (810)      (495)
+                                                                            ------    ------    -------
+Balance, end of year......................................................  $1,965    $2,490    $ 2,400
+                                                                            ------    ------    -------
+                                                                            ------    ------    -------
+</TABLE>
+ 
+                         INVENTORY REALIZATION RESERVES
+ 
+<TABLE>
+<CAPTION>
+                                                                            FOR THE YEAR ENDED MAY 31,
+                                                                            ---------------------------
+                                                                             1997      1996      1995
+                                                                            ------    ------    -------
+<S>                                                                         <C>       <C>       <C>
+Balance, beginning of year................................................  $5,528    $6,329    $ 8,916
+  Provision charged to operations.........................................   5,230     5,325      2,909
+  Inventory written off and loss from disposal, net
+    of recoveries.........................................................  (5,131)   (6,126)    (5,496)
+                                                                            ------    ------    -------
+Balance, end of year......................................................  $5,627    $5,528    $ 6,329
+                                                                            ------    ------    -------
+                                                                            ------    ------    -------
+</TABLE>
+ 
+    The inventory valuation reserve principally represents allowances for
+obsolete inventory as well as reserves to reduce the cost of certain surplus
+inventory to its net realizable value. The reserve applies to inventory
+supporting the Company's Trading, Overhaul and Manufacturing activities.
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+        ACCOUNTING AND FINANCIAL DISCLOSURE
+ 
+    Not Applicable.
+ 
+                                       34
+<PAGE>
+                                    PART III
+ 
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+    The information required by this item regarding the Directors of the Company
+is incorporated by reference to the information contained under the caption
+"Nominees and Continuing Directors" in the Company's definitive proxy statement
+for the 1997 Annual Meeting of Stockholders.
+ 
+    The information required by this item regarding the Executive Officers of
+the Company appears under the caption "Executive Officers of the Registrant" in
+Part I above.
+ 
+COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+ 
+    The information required by this item regarding the compliance with Section
+16(a) of the Securities Exchange Act of 1934 ("Exchange Act") is incorporated by
+reference to the information contained under the caption "Section 16(a)
+Beneficial Ownership Reporting Compliance" in the Company's definitive proxy
+statement for the 1997 Annual Meeting of Stockholders.
+ 
+ITEM 11.  EXECUTIVE COMPENSATION
+ 
+    The information required by this item is incorporated by reference to the
+information contained under the captions "Executive Compensation and Other
+Information" (but excluding the following sections thereof, "Compensation
+Committee's Report on Executive Compensation" and "Stockholder Return
+Performance Graphs"); "Employment and Other Agreements" and "Directors
+Compensation" in the Company's definitive proxy statement for the 1997 Annual
+Meeting of Stockholders.
+ 
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+    The information required by this item is incorporated by reference to the
+information contained under the caption "Security Ownership of Management and
+Others" in the Company's definitive proxy statement for the 1997 Annual Meeting
+of Stockholders.
+ 
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+    The information required by this item is incorporated by reference to the
+information contained under the caption "Certain Relationships and Related
+Transactions" in the Company's definitive proxy statement for the 1997 Annual
+Meeting of Stockholders.
+ 
+                                       35
+<PAGE>
+                                    PART IV
+ 
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND
+          REPORTS ON FORM 8-K
+ 
+                              FINANCIAL STATEMENTS
+ 
+<TABLE>
+<CAPTION>
+                                                               PAGE
+                                                              -------
+<S>                                                           <C>
+Independent Auditors' Report, KPMG Peat Marwick LLP.........       12
+Financial Statements -- AAR CORP. and Subsidiaries:
+  Consolidated statements of income for the three years
+    ended May 31, 1997......................................       13
+  Consolidated balance sheets as of May 31, 1997 and 1996...    14-15
+  Consolidated statements of stockholders' equity for the
+    three years ended May 31, 1997..........................       16
+  Consolidated statements of cash flows for the three years
+    ended May 31, 1997......................................       17
+  Notes to consolidated financial statements................    18-34
+  Selected quarterly data (unaudited) for the years ended
+    May 31, 1997 and 1996 (Note 10 to Consolidated Financial
+    Statements).............................................       33
+Financial data schedule for the twelve-month period ended May 31,
+  1997............................................. See exhibit index
+</TABLE>
+ 
+                                    EXHIBITS
+ 
+    The Exhibits filed as a part of this report are set forth in the Exhibit
+Index contained elsewhere herein. Each of the material contracts identified as
+Exhibits 10.1 through 10.10 is a management contract or compensatory plan or
+arrangement.
+ 
+                              REPORTS ON FORM 8-K
+ 
+    The Company filed no reports on Form 8-K during the three-month period ended
+May 31, 1997.
+ 
+                                       36
+<PAGE>
+                                   SIGNATURES
+ 
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+ 
+                                          AAR CORP.
+ 
+                                          (Registrant)
+ 
+Date: August 20, 1997
+ 
+                                          By:         /s/ DAVID P. STORCH
+ 
+                                             -----------------------------------
+ 
+                                             David P. Storch
+                                             PRESIDENT AND CHIEF
+                                             EXECUTIVE OFFICER
+ 
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+ 
+       SIGNATURE                         TITLE                        DATE
+- ------------------------  -----------------------------------    ---------------
+ 
+   /s/ IRA A. EICHNER     CHAIRMAN OF THE BOARD AND
+- ------------------------   DIRECTOR
+     Ira A. Eichner
+ 
+  /s/ DAVID P. STORCH     PRESIDENT AND CHIEF EXECUTIVE
+- ------------------------   OFFICER; DIRECTOR (PRINCIPAL
+    David P. Storch        EXECUTIVE OFFICER)
+ 
+/s/ TIMOTHY J. ROMENESKO  VICE PRESIDENT,
+- ------------------------   CHIEF FINANCIAL OFFICER AND
+  Timothy J. Romenesko     TREASURER (PRINCIPAL FINANCIAL AND
+                           ACCOUNTING OFFICER)
+ 
+  /s/ A. ROBERT ABBOUD    DIRECTOR
+- ------------------------
+    A. Robert Abboud
+ 
+ /s/ HOWARD B. BERNICK    DIRECTOR
+- ------------------------
+   Howard B. Bernick
+                                                                 August 20, 1997
+ /s/ EDGAR D. JANNOTTA    DIRECTOR
+- ------------------------
+   Edgar D. Jannotta
+ 
+  /s/ ROBERT D. JUDSON    DIRECTOR
+- ------------------------
+    Robert D. Judson
+ 
+  /s/ ERWIN E. SCHULZE    DIRECTOR
+- ------------------------
+    Erwin E. Schulze
+ 
+  /s/ JOEL D. SPUNGIN     DIRECTOR
+- ------------------------
+    Joel D. Spungin
+ 
+    /s/ LEE B. STERN      DIRECTOR
+- ------------------------
+      Lee B. Stern
+ 
+ /s/ RICHARD D. TABERY    DIRECTOR
+- ------------------------
+   Richard D. Tabery
+ 
+                                       37
+<PAGE>
+                                 EXHIBIT INDEX
+ 
+<TABLE>
+<CAPTION>
+              INDEX                                                          EXHIBITS
+- ----------------------------------             ---------------------------------------------------------------------
+<S>                                 <C>        <C>
+ 3. Articles of Incorporation             3.1  Restated Certificate of Incorporation;(1) Amendments thereto dated
+   and By-Laws                                 November 3, 1987(2) and October 19, 1988.(2)
+ 
+                                          3.2  By-Laws, as amended.(2) Amendment thereto dated April 12, 1994.(12)
+ 
+ 4. Instruments defining                  4.1  Restated Certificate of Incorporation and Amendments (see Exhibit
+   the rights of                               3.1).
+   security holders
+ 
+                                          4.2  By-Laws, as amended.(12)
+ 
+                                          4.3  Credit Agreement dated September 9, 1996, between the Registrant and
+                                               the Bank of America, Illinois.(15)
+ 
+                                          4.4  Rights Agreement between the Registrant and the First National Bank
+                                               of Chicago;(1) Amendment thereto dated July 18, 1989.(2)
+ 
+                                          4.5  Indenture dated October 15, 1989 between the Registrant and
+                                               Continental Bank, N.A. (now known as Bank of America, Illinois), as
+                                               Trustee, relating to debt securities;(5) First Supplemental Indenture
+                                               thereto dated August 26, 1991.(6)
+ 
+                                          4.6  Officers' certificates relating to debt securities dated October 24,
+                                               1989(10) and October 12, 1993.(10)
+ 
+                                          4.7  Credit Agreement dated October 7, 1996, between the Registrant and
+                                               The First National Bank of Chicago.(15)
+ 
+                                               Pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K, the Registrant
+                                               is not filing certain documents. The Registrant agrees to furnish a
+                                               copy of each such document upon the request of the Commission.
+ 
+10. Material Contracts                   10.1  AAR CORP. Stock Benefit Plan,(11) Amendment thereto dated July 29,
+                                               1996 and second amendment thereto dated January 2, 1997.(15)
+ 
+                                         10.2  Death Benefit Agreement dated August 24, 1984 between the Registrant
+                                               and Ira A. Eichner;(8) Amendment thereto dated August 12, 1988.(4)
+ 
+                                         10.3  Further Restated and Amended Employment Agreement dated August 1,
+                                               1985 between the Registrant and Ira A. Eichner;(3) Amendments thereto
+                                               dated August 12, 1988,(4) May 25, 1990(16) and July 13, 1994.(16)
+ 
+                                         10.4  Trust Agreement dated August 12, 1988 between the Registrant and Ira
+                                               A. Eichner(4) and amendments thereto dated May 25, 1990(16) and
+                                               February 4, 1994.(12)
+ 
+                                         10.5  AAR CORP. Directors' Retirement Plan, dated April 14, 1992.(9)
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+              INDEX                                                          EXHIBITS
+- ----------------------------------             ---------------------------------------------------------------------
+<S>                                 <C>        <C>
+                                         10.6  AAR CORP. Supplemental Key Employee Retirement Plan, dated July 13,
+                                               1994(13), amended June 1, 1995(16), January 1, 1996(16) and June 1,
+                                               1996.(16)
+ 
+                                         10.7  Employment agreement dated June 1, 1994 between the Registrant and
+                                               David P. Storch;(14) Amendment thereto dated October 9, 1996.(15)
+ 
+                                         10.8  Severance and Change in Control agreement dated February 24, 1995
+                                               between the Registrant and Philip C. Slapke.(14)
+ 
+                                         10.9  Severance and Change in Control agreement dated February 24, 1995
+                                               between the Registrant and Howard A. Pulsifer.(14)
+ 
+                                        10.10  Severance and Change in Control agreement dated February 24, 1995
+                                               between the Registrant and Timothy J. Romenesko.(14)
+ 
+21. Subsidiaries of                      21.1  Subsidiaries of AAR CORP. (filed herewith).
+   the Registrant
+ 
+23. Consents of experts                  23.1  Consent of KPMG Peat Marwick LLP (filed herewith).
+   and counsel
+ 
+27. Financial Data                       27.1  Financial Data Schedule for the Registrant's fiscal year ended May
+   Schedule                                    31, 1997.
+</TABLE>
+ 
+- ------------------------
+ 
+Notes:
+ 
+ (1) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1987.
+ 
+ (2) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1989.
+ 
+ (3) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1986.
+ 
+ (4) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1988.
+ 
+ (5) Incorporated by reference to Exhibits to the Registrant's Quarterly Report
+     on Form 10-Q for the Quarter ended November 30, 1989.
+ 
+ (6) Incorporated by reference to Exhibits to Registrant's Registration
+     Statement on Form S-3 filed August 27, 1991.
+ 
+ (7) Incorporated by reference to Exhibits to the Registrant's Quarterly Report
+     on Form 10-Q for the quarter ended November 30, 1991.
+ 
+ (8) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1985.
+ 
+ (9) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1992.
+ 
+(10) Incorporated by reference to Exhibits to the Registrant's Current Reports
+     on Form 8-K dated October 24, 1989 and October 12, 1993.
+<PAGE>
+(11) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1993.
+ 
+(12) Incorporated by reference to Exhibits to Registrant's Annual Report on Form
+     10-K for the fiscal year ended May 31, 1994.
+ 
+(13) Incorporated by reference to Exhibits to the Registrant's Quarterly Report
+     on Form 10-Q for the quarter ended November 30, 1994.
+ 
+(14) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1995.
+ 
+(15) Incorporated by reference to Exhibits to the Registrant's Quarterly Report
+     on Form 10-Q for the fiscal year ended November 30, 1996.
+ 
+(16) Incorporated by reference to Exhibits to the Registrant's Annual Report on
+     Form 10-K for the fiscal year ended May 31, 1996.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 21.1
+<TEXT>
+
+<PAGE>
+                                                                    EXHIBIT 21.1
+ 
+                         SUBSIDIARIES OF AAR CORP. (1)
+ 
+<TABLE>
+<CAPTION>
+                                                                                                      STATE OF
+                                       NAME OF CORPORATION                                          INCORPORATION
+- -------------------------------------------------------------------------------------------------  ---------------
+<S>                                                                                                <C>
+AAR Aircraft Group, Inc. (2).....................................................................        Oklahoma
+AAR Allen Group, Inc. (3)........................................................................        Illinois
+AAR Allen Services, Inc. (4).....................................................................        Illinois
+AAR Engine Group, Inc. (5).......................................................................        Illinois
+AAR Engine Services, Inc. (6)....................................................................        Illinois
+AAR Financial Services Corp......................................................................        Illinois
+AAR International, Inc. (7)......................................................................        Illinois
+AAR Manufacturing Group, Inc. (8)................................................................        Illinois
+AAR PowerBoss, Inc. (9)..........................................................................        Illinois
+</TABLE>
+ 
+- ------------------------
+ 
+(1) Subsidiaries required to be listed pursuant to Regulation S-K Item
+    601(b)(21).
+ 
+(2) Also does business under the name of AAR Oklahoma.
+ 
+(3) Also does business under the names AAR Allen Aircraft, AAR Expendables and
+    AAR Defense Systems.
+ 
+(4) Also does business under the names AAR Landing Gear Center, AAR Technical
+    Service Center and Mars Aircraft Radio.
+ 
+(5) Also does business under the names AAR Aircraft Turbine Center and AAR
+    Engine Sales & Leasing.
+ 
+(6) Also does business under the name AAR Engine Component Services.
+ 
+(7) Also does business under the names AAR Allen Group International, AAR Engine
+    Group International, AAR Aircraft Group International and AAR Manufacturing
+    Group International.
+ 
+(8) Also does business under the names AAR Advanced Structures, AAR Cadillac
+    Manufacturing and AAR Skydyne. AAR Manufacturing Group, Inc. was formerly
+    known as AAR Brooks & Perkins Corp.
+ 
+(9) Also does business under the name AAR PowerBoss.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 23.1
+<TEXT>
+
+<PAGE>
+                                                                    EXHIBIT 23.1
+ 
+The Board of Directors
+AAR CORP.:
+ 
+We consent to the incorporation by reference in Registration Statement Nos.
+33-19767, 33-26783, 33-38042, 33-43839, 33-58456, 33-56023, 33-57753, 333-00205,
+333-15327, 333-22175 and 333-26093 on Form S-8 and in Registration Statement
+Nos., 33-30222, 33-42326 and 333-19715 on Form S-3 of AAR CORP. of our report
+dated June 24, 1997 relating to the consolidated balance sheets of AAR CORP. and
+subsidiaries as of May 31, 1997 and 1996 and the related consolidated statements
+of income, stockholders' equity and cash flows for each of the years in the
+three-year period ended May 31, 1997, which report appears in the May 31, 1997
+annual report on Form 10-K of AAR CORP.
+ 
+                                          KPMG Peat Marwick LLP
+ 
+Chicago, Illinois
+August 20, 1997
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+REGISTRANT'S CONSOLIDATED FINANCIAL STATEMENTS FOR THE FISCAL YEAR ENDED MAY 31,
+1997 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          MAY-31-1997
+<PERIOD-START>                             JUN-01-1996
+<PERIOD-END>                               MAY-31-1997
+<CASH>                                          51,705
+<SECURITIES>                                         0
+<RECEIVABLES>                                  124,909
+<ALLOWANCES>                                     1,965
+<INVENTORY>                                    176,921
+<CURRENT-ASSETS>                               414,100
+<PP&E>                                         131,429
+<DEPRECIATION>                                  60,321
+<TOTAL-ASSETS>                                 529,584
+<CURRENT-LIABILITIES>                           99,981
+<BONDS>                                        116,818
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        18,932
+<OTHER-SE>                                     250,327
+<TOTAL-LIABILITY-AND-EQUITY>                   529,584
+<SALES>                                        589,328
+<TOTAL-REVENUES>                               589,328
+<CGS>                                          480,787
+<TOTAL-COSTS>                                  546,438
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                   499<F1>
+<INTEREST-EXPENSE>                               9,915<F2>
+<INCOME-PRETAX>                                 32,975
+<INCOME-TAX>                                     9,950
+<INCOME-CONTINUING>                             23,025
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    23,025
+<EPS-PRIMARY>                                     1.38
+<EPS-DILUTED>                                     1.38
+<FN>
+<F1> PROVISION FOR DOUBTFUL ACCOUNTS IS INCLUDED IN TOTAL COSTS AND EXPENSES.
+<F2> INTEREST EXPENSE IS PRESENTED NET OF $871 OF INTEREST INCOME.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

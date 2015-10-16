@@ -1,0 +1,69 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+
+<TABLE>
+<CAPTION>
+- ---------------------------------------------------------------------------------------------------------------
+                                                                                Year Ended December 31,
+                                                                         --------------------------------------
+                                                                            1999          1998          1997
+                                                                         ----------    ----------    ----------
+<S>                                                                      <C>           <C>           <C>
+CASH FLOW FROM OPERATING ACTIVITIES:
+   Income from continuing operations                                     $      656    $    1,114    $      809
+   Adjustments to reconcile income from continuing operations to net
+     cash provided by operating activities:
+       Depreciation                                                             864           830           831
+       Amortization                                                             228           210           209
+       Deferred income taxes                                                    183           268           321
+       Gain on sale of other investments, net                                   (95)           --            --
+       Gain on disposition of equipment and property                            (15)          (19)          (24)
+       Change in assets and liabilities:
+         Decrease (increase) in receivables                                     261          (185)           72
+         Increase in inventories                                               (140)          (36)          (41)
+         Increase in accounts payable and accrued liabilities                    42           345            64
+         Increase in air traffic liability                                       89           119           155
+       Other, net                                                               191           151           127
+                                                                         ----------    ----------    ----------
+              Net cash provided by operating activities                       2,264         2,797         2,523
+
+CASH FLOW FROM INVESTING ACTIVITIES:
+   Capital expenditures, including purchase deposits
+     on flight equipment                                                     (3,539)       (2,342)       (1,139)
+   Net decrease (increase) in short-term investments                           (253)          348          (480)
+   Acquisitions and other investments                                           (99)         (137)           --
+   Proceeds from:
+     Sale of discontinued operations                                            259            --            --
+     Sale of other investments                                                   85            --            --
+     Sale of equipment and property                                              79           262           291
+   Other                                                                         18            --            --
+                                                                         ----------    ----------    ----------
+              Net cash used for investing activities                         (3,450)       (1,869)       (1,328)
+
+CASH FLOW FROM FINANCING ACTIVITIES:
+   Repurchase of common stock                                                  (871)         (945)         (740)
+   Payments on long-term debt and capital lease obligations                    (280)         (547)         (648)
+   Proceeds from:
+     Issuance of long-term debt                                               1,956           246            --
+     Short-term loan from affiliate                                             300            --            --
+     Sale-leaseback transactions                                                 54           270            --
+     Exercise of stock options                                                   25            85           200
+                                                                         ----------    ----------    ----------
+              Net cash provided by (used for) financing activities            1,184          (891)       (1,188)
+                                                                         ----------    ----------    ----------
+
+Net increase (decrease) in cash                                                  (2)           37             7
+Cash at beginning of year                                                        87            50            43
+                                                                         ----------    ----------    ----------
+Cash at end of year                                                      $       85    $       87    $       50
+                                                                         ==========    ==========    ==========
+
+ACTIVITIES NOT AFFECTING CASH
+     Payment of short-term loan from affiliate against receivable from
+       affiliate                                                         $      300    $       --    $       --
+                                                                         ==========    ==========    ==========
+     Capital lease obligations incurred                                  $       54    $      270    $       --
+                                                                         ==========    ==========    ==========
+
+- ---------------------------------------------------------------------------------------------------------------
+</TABLE>

@@ -1,0 +1,3226 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VPnSDO37s0LL7qxgbzJjg5y7kdqjypgIpK5CwWSEcOGDx02QLs6EH/uFX3z1jUlz
+ OdGHwCzKYNbD07MsZ4OIaw==
+
+<SEC-DOCUMENT>0000061478-96-000002.txt : 19960111
+<SEC-HEADER>0000061478-96-000002.hdr.sgml : 19960111
+ACCESSION NUMBER:		0000061478-96-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19951031
+FILED AS OF DATE:		19960105
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADC TELECOMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000061478
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				410743912
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01424
+		FILM NUMBER:		96501260
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4900 W 78TH ST
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55343
+		BUSINESS PHONE:		6129388080
+
+	MAIL ADDRESS:	
+		STREET 1:		4900 W 78TH ST
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAGNETIC CONTROLS CO
+		DATE OF NAME CHANGE:	19850605
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+<PAGE>
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                                   FORM 10-K
+(Mark One)
+     _X_  For the fiscal year ended October 31, 1995
+
+OR
+
+     ___  For the Transition period from ____________ to _____________
+
+                          Commission File No. 0-1424
+
+                         ADC Telecommunications, Inc.
+- ------------------------------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+                Minnesota                                      41-0743912
+- ---------------------------------------                   -------------------
+     (State or other jurisdiction of                        (I.R.S. Employer
+      incorporation or organization)                        Identification No.)
+
+     4900 West 78th Street
+     Minneapolis, Minnesota                                   55435
+- -------------------------------                        ---------------------
+ (Address of principal executive offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:  (612) 938-8080
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+
+Securities registered pursuant to Section 12(g)
+of the Act:                                     Common Stock, $.20 par value
+                                                Common Stock Purchase Rights
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.   _X_  Yes      ___  No
+
+     The aggregate market value of voting stock held by nonaffiliates of the
+registrant, as of December 22, 1995, was approximately $2,199,841,550 (based on
+the last sale price of such stock as reported by the Nasdaq Stock Market
+National Market).
+
+     The number of shares outstanding of the registrant's common stock, $.20
+par value, as of December 22, 1995, was 62,759,877.
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.   ___
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+     Pursuant to General Instruction G(3), the responses to Items 10, 11, 12
+and 13 of Part III of this report are incorporated herein by reference to the
+information contained in the Company's definitive proxy statement for its 1996
+Annual Meeting of Shareholders to be filed with the Securities and Exchange
+Commission on or before February 27, 1996.
+<PAGE>
+PART I
+Item 1.   BUSINESS
+
+     ADC designs, manufactures and markets transmission, enterprise networking
+and connectivity products for use in broadband global networks.  The Company's
+wide range of products employ fiber, hybrid fiber coax, wireless and
+traditional copper-based technologies.  The Company's customers include:
+public network providers, which consist of all seven of the Regional Bell
+Operating Companies (RBOCs), other telephone companies, long distance carriers,
+wireless service providers, the major cable TV operators and other domestic
+public network providers; private and governmental network providers (such as
+various large business customers and governmental agencies); international
+network operators; and major telecommunications Original Equipment
+Manufacturers (OEMs).  The Company's products enable these network providers to
+build and upgrade their networks to support increasing user demand for voice,
+data and video services.
+
+     As used in this report, the terms "Company" and "ADC" refer to ADC
+Telecommunications, Inc. and its wholly owned subsidiaries, unless the context
+otherwise requires; and 1993, 1994 and 1995 refer to the Company's fiscal years
+ended October 31, 1993, 1994 and 1995, respectively.
+
+INDUSTRY BACKGROUND
+
+     Since the 1970's, the telecommunications equipment industry has grown and
+changed substantially, primarily as a result of continuous technological
+development; increased demand for the transmission of data and video traffic
+and the convergence of all network traffic into integrated multimedia services
+over public and private networks; and a changing regulatory and competitive
+environment.  The Company believes that these trends will continue to drive
+changes in the telecommunications equipment industry for the foreseeable
+future.
+
+     Several important technological developments have spurred the evolution of
+the telecommunications equipment industry.  One important technological change
+has been the deployment of fiber optic transmission systems.  In a fiber optic
+system, lasers transmit voice, data and video traffic in the form of analog or
+digital coded light pulses through glass fibers.  The increasing shift to fiber
+optic transmission systems has been principally due to the ability of fiber
+optics to carry large volumes of information at high speeds, its insensitivity
+to electromagnetic interference and the high transmission quality made possible
+by the physical properties of light.
+
+     The development of cost-effective digital technology has allowed greater
+capacity (or speed) in network transmission and has resulted in an increasing
+trend over the past decade to replace analog technology in copper, fiber and
+wireless transmission networks.  In analog technology, information is converted
+to a voltage or current wave form for processing or transmission.  In digital
+technology, information is converted to digital bits and then processed or
+transmitted using computer based components.  Very high-speed digital
+technology developments such as cell based Asynchronous Transfer Mode (ATM)
+technologies and Synchronous Optical NETwork (SONET) technologies have enabled
+network providers to transmit increasing amounts of data and video
+communications.
+<PAGE>
+     Another important technological change in the telecommunications
+marketplace is the use of integrated circuits in both public and private
+telecommunications networks, facilitating significantly more complex networks.
+Network equipment utilizing integrated circuits is increasingly performing the
+high speed switching, network performance monitoring, network management,
+information compression, data translation and other complex functions required
+to address expanding users' needs.
+
+     More recently, wireless technology developments are having an impact on
+the telecommunications equipment industry.  There has been substantial growth
+in wireless communications such as cellular telephone services, and significant
+preparations for increasing use of satellite-based services, personal
+communications services (PCS) and Multichannel, Multipoint Distribution Systems
+(MMDS) for wireless cable services.  This growth has been spurred by the
+convenience of mobility and the limits of wireline infrastructure.  In
+particular, in countries without reliable or extensive wireline systems,
+wireless service could ultimately provide the primary service platform for both
+mobile and fixed telecommunications applications, because of the potential
+savings in installation time and  cost.  The Company believes that in future
+years the continuing development of wireless communications technology could
+substantially extend the reach of current communications networks.
+
+     Demands on network infrastructure have grown substantially in the past
+decade.  Networks increasingly are required to transmit a combination of data
+and video for the purpose of communicating information, conducting business and
+delivering entertainment.  In addition, both public and private network
+customers are requesting the convergence of their voice, data and video traffic
+into integrated multimedia services transmitted over one network.  Such demands
+have prompted the development and use of "broadband" networks, which feature
+the improved reliability and increased speed of transmission generally required
+for data and video transmission over the network.  Specifically, the industry
+term "broadband" refers to all transmission speeds of T1 (1.544 million bits
+per second) and higher.  Growth in broadband network applications has fueled
+increased infrastructure investment by network operators in order to expand
+network capacity and provide new applications and services to meet users'
+needs.
+
+     The evolution in technology and user needs has been accompanied by changes
+in the domestic and international regulatory environment.  Since the
+divestiture of the AT&T regional operating companies in 1984, the RBOCs have
+been prevented from manufacturing equipment for use in telecommunications
+networks.  As the RBOCs have embarked on aggressive expansion plans,
+significant opportunities have been created for independent telecommunications
+equipment manufacturers such as the Company.  The policy of deregulation
+currently being followed by the Federal Communications Commission and other
+important regulatory agencies throughout the world has increased opportunities
+for independent companies to supply products and services within public
+telephone system markets and within private voice, data and video
+communications markets.  Although the ultimate impact is uncertain, current
+telecommunications legislation being discussed in the U.S. Congress may result
+in new competitors, including the RBOCs, entering the telecommunications
+equipment market.
+<PAGE>
+     Outside the United States, the telecommunications equipment market has
+also expanded and changed significantly in recent years, as network users have
+increasingly demanded access to voice, data and video communications
+capabilities.  Many countries without reliable or extensive wireline systems
+are seeking to develop and enhance their telecommunications infrastructure.
+This growth in demand for network services and infrastructure has been
+accompanied by changes in the international regulatory environment.  In many
+countries, government operated telecommunications monopolies are being
+converted to private network services providers, and competition among such
+carriers may intensify.
+
+     The Company believes that "broadband global networking," or the emerging
+series of worldwide broadband networks, represents a key enabling capability
+for meeting the information needs of network users.  The addition of high speed
+data and video traffic has driven the need for broadband infrastructure and has
+enabled the creation of a wide range of new applications, including video on
+demand, distance learning, telecommuting and remote medical imaging.  The
+Company participates in this emerging broadband global network market by
+providing a broad variety of equipment, services and integrated product
+solutions.
+
+STRATEGY
+
+     ADC's strategy is to capitalize on opportunities in the evolving global
+telecommunications market by providing equipment, services and integrated
+solutions for its customers' voice, data and video telecommunications networks.
+ADC's broad range of products addresses key areas of the telecommunications
+network infrastructure, and these products are used to connect physical
+networks, access network services, transport network traffic and manage
+networks.  ADC's diverse product offerings address the needs of its many
+customers which include the RBOCs, other telephone companies, long distance
+carriers, wireless service providers, the major cable TV operators, other
+public network providers, private network providers and telecommunications
+OEMs.  Key components of the Company's strategy include:
+
+* Focus on Broadband Network Opportunities.  In recent years, broadband
+requirements for both public and private networks have grown significantly.
+Accordingly, ADC is focusing its product development and marketing efforts on
+opportunities in emerging broadband networks.  In the public network market,
+broadband deployment has been driven by telephone and cable television
+providers seeking to establish the infrastructure required to offer video,
+telephony, entertainment, Internet access and other interactive services to
+residential customers over a single network.  In the private network market,
+broadband requirements have been driven by the growth of voice, data and video
+applications utilizing increasing amounts of bandwidth.  Examples of products
+developed by ADC to target these opportunities include the Company's Homeworx-
+TM- system, which has been designed to enable telephone and cable television
+companies to provide a range of voice, video and data services to residential
+customers; the Soneplex-Registered Trademark- product, which allows public
+network providers to cost effectively deliver and manage broadband services
+over the public network for their business customers; and the AAC-3-TM- ATM
+access concentrator, which is being developed to allow customers to gain access
+to switched voice, data and video traffic on public networks from their private
+networks.
+
+<PAGE>
+* Provide End-to-End Network Solutions.  ADC offers a broad line of
+telecommunications equipment that addresses customers' key network needs from
+the central office, through the local loop (the portion of a network that
+connects a subscriber's equipment to a local central office), into the customer
+premise and across enterprise networks.  Through internal development and
+acquisitions, ADC has formed its expertise in three major network areas:
+transmission, enterprise networking and broadband connectivity.  ADC is
+currently enhancing its network management and systems integration capability
+to enable it to offer customers more complete solutions to their network needs.
+
+* Leverage Technological Capabilities Across Product Groups.  ADC has developed
+substantial expertise in fiber optics, broadband, video and wireless
+technologies.  The Company has built these core competencies through internal
+development, acquisitions, joint ventures and technology licensing
+arrangements.  ADC's strategy is to leverage these core competencies across its
+product groups in order to develop new product architectures and network
+management tools for its customers' evolving voice, data and video network
+needs in various market areas.  An example of this effort is the continuing
+development of the Company's wireless technologies for use in converging wired
+and wireless applications such as potential wireless local loop products.
+
+* Expand International Presence.  ADC believes that significant growth in the
+telecommunications equipment market will occur outside the United States as a
+result of deregulation and the need of many foreign countries to substantially
+expand or enhance their telecommunications services.  ADC's strategy is to
+expand its international presence by increasing its international sales and
+marketing resources, leveraging its existing customer relationships, developing
+additional international distribution channels and seeking strategic alliances
+and acquisitions.
+
+* Pursue Strategic Alliances and Acquisitions.  ADC has sought and will
+continue to seek alliances and acquisitions to: (i) add key technologies that
+it can leverage across its businesses, (ii) broaden its product offerings,
+(iii) enter attractive new markets and (iv) expand or enhance its distribution
+channels.  Recent examples of such alliances and acquisitions include: ADC's
+OEM joint development efforts with Nokia Telecommunications, the infrastructure
+arm of Finland-based Nokia Corporation, to develop system solutions for the
+global cable TV and telecommunications markets; its partnerships with Bellcore
+and Objective System Integrators (OSI) to jointly develop element manager
+systems for ADC's Homeworx system; ADC's investment in and development alliance
+with NetComm Limited of Sydney, Australia, in the area of cable modems; its
+joint marketing relationship with Hitachi Telecom (USA) which includes ADC's
+Homeworx and Soneplex broadband access products and Hitachi's SONET and ATM
+equipment; ADC's technology exchanges with Fore Systems and Bay Networks in the
+public network ATM access product area; its investment in and development
+alliance with Optivision for MPEG-1 and MPEG-2 compression technology; and its
+acquisition of Australia-based AOFR Pty. Ltd. in the fiber optic couplers area.
+
+<PAGE>
+PRODUCT GROUPS
+
+     The Company's products can be categorized into three general functional
+groups: (i) transmission, (ii) enterprise networking and (iii) broadband
+connectivity.  These product groups accounted for 31%, 22% and 47%,
+respectively, of the Company's net sales for the year ended October 31, 1995.
+Each of these product groups is discussed below.
+
+TRANSMISSION
+
+     ADC's transmission products provide electronic and optical signal
+generation within predominantly public networks.  Certain of the transmission
+products also provide access to the network in order to monitor, test and
+reroute circuits within telecommunications transmission systems.  ADC's
+transmission products are designed for use in copper-based, coax-based, fiber-
+based or wireless transmission networks and are sold to telephone companies,
+cable TV companies, other public network providers and to users of private
+voice, data and video networks.  Transmission products include fiber optic
+video delivery products, other high speed voice, data and video delivery and
+access platforms, wireless microcell systems, test and monitoring systems and
+digital repeaters.  Certain of the Company's transmission products are
+described below.
+
+DV6000-TM- and Other Fiber Video Delivery Equipment.  The DV6000 system
+transmits a variety of signal types using a high speed, uncompressed digital
+format (2.4 billion bits per second) over fiber in the super trunking portions
+of broadcast and interactive video networks.  This system is used in
+significant public residential broadband networks, such as Viacom Cable's San
+Francisco Bay Area video backbone network and the regional headend network in
+Florida of TCI Cablevision of Florida, Inc.  ADC's PixlNet-TM- multipoint
+videoconferencing system provides a public network switched digital video
+system for user-initiated video conference management.  The PixlNet system is
+currently being tested in customer field trials.  The Company also manufactures
+various analog video transmission systems used in cable TV and broadcast
+applications and interactive systems for distance learning and campus
+interconnects.
+
+Homeworx Access Transport Platform.  The Company's Homeworx access transport
+platform is a customer loop transmission system for small business and
+residential customers utilizing hybrid fiber coax technology.  The Homeworx
+system has been designed for deployment on video-only, integrated video and
+telephony and telephony-only broadband networks provided by telephone operating
+companies, cable TV companies and other telecommunications common carriers.
+The Homeworx system has been selected for video-only use in the residential
+broadband networks of Ameritech Corporation, Southern New England Telephone
+Corporation, MediaOne, Cox Cable Communications, Inc. and Cable Bahamas.  The
+enhanced telephony version of the Homeworx system has commenced test trials
+with a limited number of customers.  Also, Optus Vision Pty. Ltd. in Australia
+has elected to use the telephony capability of the integrated video and
+telephony Homeworx system in its residential broadband network, and the Company
+currently plans to begin shipping this product in commercial volumes in the
+third quarter of 1996.  Additionally, the system is being tested by several of
+the Company's public network provider customers both in the United States and
+internationally.
+<PAGE>
+Soneplex Service Delivery Platform.  The Company's Soneplex platform is an
+intelligent loop access platform enabling public network providers to deliver
+T1-based services over copper or fiber for business customers.  The Company's
+Soneplex family of platforms and modules employ electrical-to-optical
+conversion for transport of voice, data and video over fiber facilities and
+High bit-rate Digital Subscriber Line (HDSL) transmission technology for
+transport of high bandwidth services over copper-based systems.  Soneplex
+products also integrate remote provisioning, circuit performance monitoring and
+test access capabilities to help public network carriers provide reliable
+service at a low operational cost.  The Company has under development new
+modules and capabilities for the Soneplex platform, including SONET
+internetworking.
+
+CityWide-TM- Products.  The Company's family of CityWide wireless systems
+products includes the CityCell- Registered Trademark- radio frequency and
+wideband digital microcells for adding and extending cellular communication
+coverage, primarily in large urban areas.  The CityCell microcell has been
+commercially deployed by six RBOC cellular network providers.  The Company's
+CityRad-TM- air-to-air re-radiator with traffic level monitoring is designed to
+extend wireless coverage without adding microcells.  Late in 1995, the Company
+introduced three new advanced intelligent network wireless network solutions to
+its CityWide product family, a multi-sectored digital microcell, an in-building
+distributed antenna system and a mini base station and mobile switching center
+product.  These products are expected to enter customer field trials by second
+quarter 1996 and to be commercially released later in the year.
+
+Test and Monitoring Systems.  The Company manufactures a variety of remote
+digital test and performance monitoring products for copper-based and fiber-
+based systems.
+
+Digital Repeaters.  The Company's copper-based digital repeaters are used
+primarily in central office applications to regenerate digital signals that
+have degraded because of transmission over long distances.
+
+SONET and ATM Equipment.  The Company has entered into a joint marketing
+arrangement with an OEM partner under which the Company has the exclusive right
+to market its partner's SONET and ATM equipment that support advanced high
+speed data and video applications, primarily in public networks.  The Company's
+partner will market the Company's Homeworx and Soneplex broadband access
+systems.
+
+ENTERPRISE NETWORKING
+
+     ADC's enterprise networking products provide interconnection and
+transmission of voice, data and video signals within a private network and also
+provide access to the public network.  These products are designed for use in
+copper-based, fiber optic and wireless networks and are sold to users of
+private voice, data and video networks, either directly or through
+telecommunications common carriers or Value Added Resellers (VARs).  Enterprise
+Networking products include public network access equipment, internetworking
+products and data network management products.  Certain of the Company's
+enterprise networking products are described below.
+
+<PAGE>
+Public Network Access Equipment.  The Company manufactures a family of Channel
+Service Unit (CSU) and Data Service Unit (DSU) products which are used to
+interconnect digitally the public network and the private network.  This
+equipment monitors circuits and provides system protection and other network
+management functions.  Certain of these products also enable the customer to
+test the performance of its voice network and allow connection of voice, data
+and video circuits.  These products support T1 and T3 (44.6 million bits per
+second) services and a variety of data protocols, including Frame Relay,
+Switched Multi-megabit Data Service (SMDS) and ATM.  During 1995, the Company
+began commercial shipment of its AAC-1-TM- and AAC-3 ATM access concentrators
+which adapt, aggregate, multiplex and manage all voice, data and video signals
+in various speeds, technologies and protocols for transport over T1 and T3
+speed ATM networks, respectively.  Recently, the Company has entered into
+agreements with ATM equipment suppliers such as FORE Systems and Bay Networks
+to integrate ADC's ATM adaptation and concentration technologies into the two
+companies' ATM switching and routing products and to jointly market ADC's ATM
+access concentrators.  In addition, the company has made other interoperability
+announcements of its ATM equipment with local service provider Ameritech and
+long distance carriers Wiltel, Inc. and Sprint.
+
+Internetworking Products.  Internetworking products include fiber optic
+backbones used to transport high speed multiple voice, data and video signals
+simultaneously over private networks and link Local Area Networks (LAN),
+mainframes, minicomputers, personal computers, telephone systems and video
+equipment with diverse protocols within private networks or over the public
+network; intelligent wiring hub products which interconnect workstations,
+personal computers and terminals, utilizing many different LAN protocols and
+types of cables; and network management systems.
+
+Patch/Switch System and PatchMate-TM- Module.  The Company's Patch/Switch
+system is a data network management product which provides access to and
+monitors, tests and reconfigures digital data circuits and permits local or
+remote switching to alternate circuits or backup equipment.  This system is
+modular, permitting the user to select and combine the particular functions
+desired in a system.  The PatchMate module is a manually operated
+electromechanical device used to gain access to the network in order to
+monitor, test and reconfigure digital data circuits.
+
+     Recognizing changes in the competitive environment for LAN equipment,
+during 1995 the Company realigned its Kentrox and Fibermux subsidiaries into
+one business unit to better address the industry trend toward integration of
+LAN and Wide Area Network (WAN) technologies and products.  This group combines
+LAN and WAN expertise in order to develop, manufacture and distribute advanced
+network access and transport products for use in current and future broadband
+enterprise networks.  The Company recorded a charge of $3.9 million related to
+a personnel reduction at the Fibermux facility and other expenses resulting
+from the realignment.  See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" and Note 2 of "Notes to Consolidated
+Financial Statements."
+<PAGE>
+BROADBAND CONNECTIVITY
+
+     ADC's broadband connectivity products provide the physical contact points
+for connecting different telecommunications system components and gaining
+access to telecommunications system circuits for the purpose of installing,
+testing, monitoring or reconfiguring such circuits within global public and
+private networks.  These products are sold to the RBOCs, other telephone
+companies, long distance carriers, other public network providers such as cable
+TV companies, private network providers and telecommunications OEMs.  The
+Company's broadband connectivity products are designed for use in copper-based,
+coax, fiber optic or wireless transmission networks.  Broadband connectivity
+products include various network access/connection devices for copper and coax
+networks, various network access/connection devices for fiber optic networks,
+modular fiber optic cable routing systems, broadband infrastructure database
+management systems and outside plant cabinets and enclosures.  Certain of the
+Company's broadband connectivity products are described below.
+
+Jacks, Plugs and Patch Cords.  Jacks and plugs are the basic components used to
+gain access to copper telecommunications circuits for testing and maintenance.
+Patch cords are wires or cables with a plug on each end.  ADC incorporates its
+jacks, plugs and patch cords into its own products and also sells them in
+component form, primarily to OEMs.  These components are generally manufactured
+to industry-recognized compatibility and reliability standards as off-the-shelf
+items.
+
+Jackfields and Patch Bays.  A jackfield is a module containing an assembly of
+jacks wired to terminal blocks or connectors and used by telecommunications
+companies to gain access to copper communication circuits for testing or
+patching the circuits.  ADC manufactures jackfields in both longframe and
+bantam formats, including prewired and connectorized models.  When testing a
+large number of circuits, series of jackfields are combined in specialized rack
+assemblies, which often may include test modules.  These are called patch bays.
+ADC manufactures a range of jackfields and patch bays in various
+configurations.  Certain of these jackfields are specialized for use in audio
+and visual transmission networks in the broadcast industry.
+
+DSX Products.  ADC manufactures digital signaling cross-connect (DSX) modules
+and bays which are jackfields and patch bays designed to gain access to and
+cross-connect digital copper circuits for both voice and data transmission.
+Since the introduction of DSX products in 1977, the Company has continued to
+expand and refine its DSX product offerings, and has become a leading
+manufacturer of products for the mechanical termination and interconnection of
+digital circuits used in voice and data transmission.  The DS-3 Digital
+Distribution Point (DDP) product family within the DSX product group are
+mechanical alternatives to hard-wiring equipment used for cable management and
+circuit access in software based digital cross-connect systems.
+
+Terminal Block and Frame Products.  Terminal blocks are molded plastic blocks
+with contact points used to facilitate multiple wire interconnections.  ADC
+manufactures a wide variety of terminal blocks.  The Company's cross-connect
+frames are terminal block assemblies used to connect the external wiring of a
+telecommunications network to the internal wiring of a
+<PAGE>
+telephone operating company central office or to interconnect various pieces of
+equipment within a telephone company.
+
+Video Signal Distribution Products.  During 1995, ADC developed and began
+initial shipment of a series of Video Signal Distribution (VSD) products
+designed to meet the unique performance requirements of Radio Frequency (RF)
+video transmission over coax cable.  This product family includes a series of
+splitter/combiner panels, a series of video jacks and panels which monitor,
+patch and provide a test access point and an analog video interface system
+panel designed for on-demand testing.
+
+Fiber Optic Patch Cords and Cable Assemblies.  Fiber optic patch cords are
+functionally similar to copper patch cords and are the basic components used to
+gain access to fiber telecommunications circuits for testing, maintenance,
+cross-connection and configuration purposes.  The Company's LightTracer-TM-
+fiber optic patch cords provide immediate identification of fiber optic
+connections.  The Company incorporates its fiber optic patch cords and cable
+assemblies into its own products and also sells them in component form.
+
+Fiber Optic Couplers.  Fiber optic couplers are passive connection devices used
+in fiber optic transmission systems to conform to the stringent environmental,
+reliability, performance and mechanical standards required in global broadband
+network and test equipment markets.  These products, which include optical
+splitters and wavelength division multiplexers, were added during 1995 through
+an acquisition of AOFR Pty. Ltd. in Australia and enable efficient and cost-
+effective deployment of broadband networks.
+
+Fiber Distribution Panels and Frames.  Fiber distribution panels and frames are
+functionally similar to copper jackfields and frames designed with special
+considerations of fiber optic properties.  They also provide interconnection
+points between fiber optic cables entering a building and fiber optic cables
+connected to fiber optic equipment within the building.
+
+FiberGuide -Registered Trademark- System.  The FiberGuide system is a modular
+routing system which provides a segregated, protected method of storing and
+routing fiber patch cords and cables within buildings.
+
+Outside Plant Products.  Outside plant (OSP) products consist of cabinets and
+other enclosures configured to locate and integrate the functions of passive
+fiber optic equipment and electronic transmission systems outside the telephone
+central office/cable TV headend switching and transmission facilities.  The
+Company's OSP products provide flexible network management, remote transmission
+capability and environmental protection for various telecommunications
+topologies and architectures.  OSP products designed for broadband residential
+loop applications also provide power supply and coaxial splicing and tapping
+functions.
+
+Multimedia Systems Products.  Multimedia systems products consist of integrated
+systems from several ADC product areas designed specifically for integrated
+voice, data and video applications such as distance learning, business, medical
+and government networks.
+<PAGE>
+Broadband Network Management and Test Solutions.  During 1995, ADC released the
+first phase of its hardware and software products designed to document, manage
+and test physical layer integrity and signal quality in broadband network
+transmission systems.  Additional phases of these systems are expected to be
+released during 1996.
+
+     The Company also provides engineer, furnish and install (EF&I) services,
+consisting of layout and installation of new telecommunications networks,
+modification of existing networks or the addition of equipment to existing
+networks.  The Company sells its EF&I services primarily to telephone operating
+companies, other common carriers and users of private telecommunications
+networks.  Building from this expertise, ADC is introducing a complete systems
+integration service to its customers in 1996.  ADC's systems integration
+services are divided into three unique areas, technical service design and
+management, operations and implementation and training and documentation
+services.
+
+SALES AND MARKETING
+
+     ADC sells its products to customers in three primary markets: (i) the
+United States public telecommunications network market, which consists of all
+seven of the RBOCs, other telephone companies, long distance carriers, wireless
+service providers, the major cable TV operators and other domestic public
+network providers; (ii) the private and governmental voice, data and video
+network market in the United States, such as various large business customers
+and governmental agencies that own and operate their own voice, data and video
+networks for internal use; and (iii) the international public and private
+network market.  The public, private/governmental and international market
+segments accounted for 58%, 24% and 18%, respectively of the Company's net
+sales for the year ended October 31, 1995; 57%, 28% and 15%, respectively, of
+the Company's net sales for the year ended October 31, 1994; and 56%, 28%, and
+16%, respectively, of the Company's net sales for the year ended October 31,
+1993.  The Company also sells product for each of these customer groups to the
+major telecommunications OEMs.
+
+     Purchases of products by public network providers and the OEMs which
+supply such companies have accounted for the largest portion of the Company's
+net sales in recent periods.  The Company's transmission and broadband
+connectivity products for public network providers are primarily located in
+central transmission facilities (such as telephone company network central
+offices, cable TV company network supertrunks and headend offices, and wireless
+network base stations, all of which contain the equipment used in switching and
+transmitting incoming and outgoing circuits).  Increasingly, portions of the
+Company's public network transmission systems are located in the public network
+outside plant facilities (outside the central transmission buildings) and on
+customers' premises.  The Company's private and governmental network customers
+generally purchase the Company's enterprise-wide communications systems and
+public network access equipment for installation in the networks located at
+their premises.
+
+     The Company also markets its products outside the United States primarily
+to telephone operating companies and cable TV companies for public
+telecommunications networks located in Canada, Europe, the Pacific Rim,
+Australia and Central and South America.
+<PAGE>
+     A majority of the Company's sales are made by a direct sales force, and
+the Company maintains sales offices throughout the United States as well as in
+Canada, Europe, the Pacific Rim, Australia and Central and South America.  The
+Company's products are sold in the United States by approximately 108 field
+sales representatives located in 20 sales offices throughout the country, and
+by several dealer organizations and distributors.  The Company sells its
+products to foreign customers through 41 employee field salespersons, eight
+foreign independent sales representatives and 73 foreign distributors, as well
+as through United States public and private network providers who also
+distribute outside the United States.
+
+     The Company has a customer service group that supports field sales
+personnel and is responsible for application engineering, customer training,
+entering orders and supplying delivery status information, and a field service
+engineering group that provides on-site service to customers.
+
+RESEARCH AND DEVELOPMENT
+
+     The Company believes that its future success depends on its ability to
+adapt to the rapidly changing telecommunications environment, to maintain its
+significant expertise in core technologies and to continue to meet and
+anticipate its customers' needs.  The Company continually reviews and evaluates
+technological changes affecting the telecommunications market and invests
+substantially in applications-based research and development.  The Company is
+committed to an ongoing program of new product development that combines
+internal development efforts with acquisitions, joint ventures and licensing or
+marketing arrangements relating to new products and technologies from sources
+outside the Company.
+
+     In recent periods, increasingly significant portions of new
+telecommunications equipment purchased by public network providers and private
+network customers have utilized fiber optic transmission technology and have
+employed digital technology.  In the future, these telecommunications network
+equipment purchasing trends will include increasingly sophisticated, software
+intensive, switching and network management systems.  In addition, there has
+been significantly increased demand for wireless communications services and
+higher speed transmission technologies.  As a result, the Company's internal
+and external product development activities are directed at the integration of
+fiber optic technology into additional products, the continuing development of
+its Homeworx system for telephony, data and integrated video, telephony and
+data applications, the development of network systems software, the continuing
+development of wireless products, the incorporation of ATM technology into
+voice, data and video products for both public and private telecommunications
+networks and the addition of video compression technology to its product line.
+The Company is also developing copper and fiber optic products for applications
+in the local loop.
+
+     New product development often requires long-term forecasting of market
+trends, development and implementation of new processes and technologies and a
+substantial capital commitment.  As a result of these and other factors,
+development and customer acceptance of new products is inherently uncertain,
+and there can be no assurance that such products will be developed on a timely
+basis or achieve market acceptance.
+
+<PAGE>
+COMPETITION
+
+     Competition in the telecommunications equipment industry is intense, and
+the Company believes that competition may increase substantially with the
+deployment of broadband networks and potential regulatory changes.  Many of the
+Company's foreign and domestic competitors have more extensive engineering,
+manufacturing, marketing, financial and personnel resources than those of the
+Company.  The Company's transmission products are competitive with products
+offered by several other companies, including AT&T Network Systems, Northern
+Telecom, Inc. and Motorola, Inc.  The Company's enterprise networking products
+are competitive with the products of a number of other companies, two of which
+(Bay Networks, Inc. and Cabletron Systems Inc.) are dominant in its intelligent
+wiring hub markets, and the Company's products face both strong price
+competition and pressure from alternative distribution strategies utilized by
+these other companies.  The Company's broadband connectivity products are
+competitive with the products offered by numerous other companies, including
+AT&T Network Systems and Switchcraft, Inc., a subsidiary of Raytheon Company.
+In addition, the Company faces increasing competition from a number of other
+smaller competitors, none of which is dominant at this time.
+
+     The rapid technological developments within the telecommunications
+industry have resulted in frequent changes to the Company's group of
+competitors.  The Company believes its success in competing with other
+manufacturers of telecommunications products depends primarily on its
+engineering, manufacturing and marketing skills, the price, quality and
+reliability of its products and its delivery and service capabilities.  While
+the market for the Company's products has not historically been characterized
+by significant price competition, the Company may face increasing pricing
+pressures from current and future competitors in certain or all of the markets
+for its products.
+
+     The Company believes that technological change, the increasing addition of
+data, video and other services to integrated multimedia networks, continuing
+regulatory change and industry consolidation or new entrants will continue to
+cause rapid evolution in the competitive environment of the telecommunications
+equipment market, the full scope and nature of which is difficult to predict at
+this time.  Increased competition could result in price reductions, reduced
+margins and loss of market share by the Company.  The Company believes industry
+regulatory change may create new opportunities for suppliers of
+telecommunications equipment.  The Company expects, however, that such
+opportunities may attract increased competition from others as well.  In
+addition, the Company expects that AT&T Network Systems will continue to be a
+major supplier to the RBOCs, and compete more extensively outside the RBOC
+market.  The Company also believes that the rapid technological changes which
+characterize the telecommunications industry will continue to make the markets
+in which the Company competes attractive to new entrants.  There can be no
+assurance that the Company will be able to compete successfully with its
+existing or new competitors or that competitive pressures faced by the Company
+will not materially and adversely affect its business, operating results and
+financial condition.
+<PAGE>
+MANUFACTURING AND SUPPLIES
+
+     The Company manufactures a wide variety of products which are fabricated,
+assembled and tested in its own facilities or in subcontracted facilities.  To
+seek to reduce costs, the Company also takes advantage of off-shore assembly
+and sourcing.  The manufacturing process for the Company's electronic products
+consists primarily of assembly and testing of electronic systems built from
+fabricated parts, printed circuit boards and electronic components.  The
+manufacturing process for the Company's electromechanical products consists
+primarily of fabrication of jacks, plugs, and other basic components from raw
+materials, assembly of components and testing.  The Company's sheet metal,
+plastic molding, stamping and machining capabilities permit the Company to
+configure components to customer specifications.
+
+     The Company purchases raw materials and component parts, consisting
+primarily of copper wire, optical fiber, steel, brass, nickel-steel alloys,
+gold, plastics, printed circuit boards, solid state components, discrete
+electronic components and similar items, from several suppliers.  Although a
+few of the components used by the Company are single sourced, the Company has
+experienced no significant difficulties to date in obtaining adequate
+quantities of these raw materials and component parts.
+
+PROPRIETARY RIGHTS
+
+     The Company owns a number of United States and foreign patents relating to
+its products.  These patents, in the aggregate, constitute a valuable asset of
+the Company.  The Company, however, believes that its business is not dependent
+upon any single patent or any group of related patents.
+
+     The Company has registered the initials ADC alone and in conjunction with
+specific designs as trademarks in the United States and various foreign
+countries.
+
+EMPLOYEES
+
+     As of October 31, 1995, there were 2,984 persons employed by the Company.
+The Company considers relations with its employees to be good.
+
+Item 2.   PROPERTIES
+
+     The Company's corporate headquarters are currently located in three leased
+buildings in Minnetonka, Minnesota.  The Company also leases facilities in
+Minnetonka for its Minnesota fiber optic operations and for the engineering,
+product management, manufacturing and manufacturing support operations for
+certain of its transmission products.
+
+The Company owns two buildings in Bloomington, Minnesota, which house manu
+facturing and manufacturing support operations, two facilities in LeSueur,
+Minnesota, which are used for electromechanical assembly and warehouse space
+and another building in Bloomington, Minnesota, which is leased to an
+unaffiliated company.  The Company expects to complete, by May 1, 1996, the
+construction of a distribution center on approximately eight acres
+<PAGE>
+of undeveloped land which it owns in Shakopee, Minnesota.  In addition, the
+Company owns approximately 38 acres of undeveloped land in Eden Prairie,
+Minnesota.
+
+     The Company owns a facility in Portland, Oregon, which serves as the
+office and manufacturing facility for certain of its enterprise networking
+products and leases space in Chatsworth, California, for certain other of its
+enterprise networking operations.  The Company leases space in Meriden,
+Connecticut, Wallingford, Connecticut, and Waseca, Minnesota, as the office,
+manufacturing and research and development facilities for certain of its
+transmission products.  The Company leases space in Fyshwick, Australian
+Capital Territory, Australia, which serves as the office and manufacturing
+facility for certain of its broadband connectivity operations.
+
+     The Company leases space in Richardson, Texas, for an engineering
+development center and leases sales office facilities in the United States,
+Canada, Mexico, Venezuela, the United Kingdom, Belgium, Germany, Australia and
+Singapore.  The Company leases additional warehouse space on a short term basis
+from time to time to meet its needs.
+
+     Leases for the Company's headquarters, sales offices and manufacturing
+facilities expire at different times through 2004 and are generally renewable
+on a fixed term or a month-to-month basis.  The Company believes that the
+facilities used in its operations are adequate.
+
+     For information regarding encumbrances on the Company's properties, see
+Note 4 to the Consolidated Financial Statements included in Part II, Item 8, of
+this report.
+
+
+Item 3.   LEGAL PROCEEDINGS
+
+     None.
+
+
+Item 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+<PAGE>
+EXECUTIVE OFFICERS OF THE REGISTRANT
+<TABLE>
+<CAPTION>
+The executive officers of the Company are as follows:
+<S>                     <C>                            <C>              <C>
+Name                     Office                        Officer Since    Age
+
+William J. Cadogan       Chairman of the Board               1987        47
+                         President, Chief Executive
+                         Officer and Chief Operating
+                         Officer
+
+Lynn J. Davis            Senior Vice President,              1984        48
+                         President Broadband
+                         Connectivity Group
+
+Richard S. Gilbert       Senior Vice President,              1994        43
+                         President Enterprise
+                         Networking Group
+
+Frederick D. Lawrence    Senior Vice President,              1994        47
+                         President Transmission
+                         Group
+
+Carleton A. Brown        Vice President, President           1995        53
+                         ADC Video Systems
+
+James C. Granger         Vice President, President           1995        49
+                         Access Platforms Systems
+
+William L. Martin III    Vice President, President           1994        48
+                         Network Systems Division
+
+Jack P. Reily            Vice President, Business            1994        45
+                         Development
+
+Charles T. Roehrick      Vice President, Controller          1995        41
+
+Robert E. Switz          Vice President, Chief Financial     1994        49
+                         Officer
+</TABLE>
+
+     Executive officers of the Company are elected by the Board of Directors.
+The Company's executive officers were last elected as executive officers on
+February 28, 1995, except Mssrs. Brown and Granger were elected to their
+positions March 23, 1995.  Messrs. Cadogan, Davis and Reily have served in
+various capacities with the Company for more than five years.  Biographical
+information regarding the other named officers follows.
+<PAGE>
+     Mr. Gilbert joined the Company in June 1992.  Prior to November 1994 he
+was Vice President and General Manager, Access Group for six months and Vice
+President Engineering for two years.  From 1991 to 1992 he was Vice President
+of Research and Development at Make Systems, Inc., a manufacturer of a network
+design and analysis tool.  From 1990 to 1991 Mr. Gilbert was Assistant Vice
+President of Software Engineering for Vitalink Communications Corporation, a
+manufacturer of data communications equipment.
+
+     Mr. Lawrence joined the Company in March 1994.  Prior to such time he was
+employed by Sprint Corporation for twelve years, most recently as President and
+CEO of United Telephone of Florida.  From 1989 to 1992 he was Senior Vice
+President Operations of US Sprint.
+
+     Mr. Brown joined the Company in March 1995.  Prior to such time he was
+President of ATx Telecom Systems Inc., a provider of enabling network
+technology solutions in the fiber optic/SONET transmission systems
+environments.  From 1992 to 1994 he was Senior Vice President and General
+Manager of Teleport Communications Group, a provider of alternate local
+exchange services to commercial customers.  From 1990-1991 he was President and
+Chief Operating Officer of Alcatel Network Systems.
+
+     Mr. Granger joined the Company in March 1995.  Prior to such time he was
+employed by Sprint/United Telephone of Florida and Sprint/Centel of Florida as
+Vice President of Consumer Markets.  His previous positions for Sprint/United
+Telephone of Florida included Vice President of Marketing from 1991 to 1993 and
+Assistant Vice President of Marketing from 1989 to 1991.
+
+     Mr. Martin joined the Company in September 1994.  Prior to such time he
+was employed by Ascom Timeplex, a manufacturer of data and telecommunications
+equipment, most recently as Vice President, Technical Marketing.  His previous
+positions included Vice President China Business Development and Vice President
+U.S. Sales.  From 1987 to 1990 he was the Chief Executive Officer of Broadband
+Telesystems, until that company was acquired by Ascom Timeplex.
+
+     Mr. Roehrick joined the Company in January 1995.  Prior to such time he
+was employed by Cray Research, Inc., a manufacturer of large scale computers,
+most recently as Controller.  From 1992 to 1993 he was Assistant Controller,
+and from 1989 to 1991 he was Director of Accounting.
+
+     Mr. Switz joined the Company in January 1994.  Prior to such time he was
+employed by Burr-Brown Corporation, a manufacturer of precision micro-
+electronics, from 1988, most recently as Vice President, Chief Financial
+Officer and Director, Ventures and Systems Business.
+<PAGE>
+                                    PART II
+
+Item 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND
+          RELATED STOCKHOLDER MATTERS
+
+     The Company's Common Stock, $.20 par value, is traded on the Nasdaq
+National Market under the symbol "ADCT." The following table sets forth the
+high and low sale prices for each quarter during the years ended October 31,
+1995 and 1994, as reported on that system.  All prices have been restated to
+reflect a two-for-one stock split effected in the form of a 100% stock dividend
+in February 1995.
+<TABLE>
+<CAPTION>
+
+                                             Low      High
+                                            -----     -----
+<S>                                        <C>       <C>
+     Fiscal Year Ended October 31, 1995
+          First Quarter                     19 3/4    25 1/2
+          Second Quarter                    22 5/8    34 1/4
+          Third Quarter                     27 3/4    40 1/4
+          Fourth Quarter                    33        49 3/8
+     Fiscal Year Ended October 31, 1994
+          First Quarter                     15 1/2    19 3/8
+          Second Quarter                    16 1/8    21 3/8
+          Third Quarter                     18 1/8    23 3/8
+          Fourth Quarter                    18 3/4    23 7/8
+</TABLE>
+
+     No cash dividends have been declared or paid during the past five years.
+The Company currently anticipates that it will retain any future earnings for
+use in its business and does not anticipate paying any cash dividends in the
+foreseeable future.  The Company's revolving credit agreements have certain
+restrictions on the payment of cash dividends.  As of October 31, 1995, there
+were approximately 2,665 holders of record of the Common Stock.
+<PAGE>
+Item 6.   SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following is a summary of certain consolidated statement of income and
+balance sheet information of ADC Telecommunications, Inc. and subsidiaries for
+the five years ended October 31, 1995.  This summary should be read in
+conjunction with the consolidated financial statements and notes thereto
+appearing elsewhere in this report.  All share and per share amounts have been
+restated to reflect a two-for-one stock split effected in the form of a 100%
+stock dividend in June 1993 and an additional two-for-one stock split effected
+in the form of a 100% stock dividend in February 1995.
+
+<TABLE>
+<CAPTION>
+                                                     Years Ended October 31,
+                                                     -----------------------
+                                             (In Thousands, except per share amounts)
+
+STATEMENT OF INCOME DATA                   1995     1994      1993      1992      1991
+                                        --------   --------  --------  --------  --------
+<S>                                     <C>        <C>       <C>       <C>       <C>
+Net sales                               $586,222  $448,735  $366,118  $316,496  $293,839
+Cost of product sold                     302,094   221,448   178,572   155,074   148,614
+                                        --------  --------  --------  --------  --------
+Gross profit                             284,128   227,287   187,546   161,422   145,225
+                                        --------  --------  --------  --------  --------
+Expenses:
+  Development and product engineering     66,460    48,974    40,988    36,063    32,315
+  Selling and administrative             130,297   110,799    93,311    82,966    74,369
+  Goodwill amortization                    3,133     3,135     2,798     2,720     2,744
+  Personnel reduction                      3,914       ---       ---     3,800       ---
+                                        --------  --------  --------  --------  --------
+     Total expenses                      203,804   162,908   137,097   125,549   109,428
+                                        --------  --------  --------  --------  --------
+Operating income                          80,324    64,379    50,449    35,873    35,797
+Other income (expense), net:
+  Interest                                 6,803     1,158       183     (942)     (108)
+  Other                                    (898)   (1,216)     (895)     (205)       716
+                                        --------  --------  --------  --------  --------
+Income before income taxes and
+  extraordinary item                      86,229    64,321    49,737    34,726    36,405
+Provision for income taxes                31,043    23,800    18,101    13,700    14,380
+                                        --------  --------  --------  --------  --------
+Net income before extraordinary item      55,186    40,521    31,636    21,026    22,025
+Extraordinary item, net of taxes (1)         ---   (1,450)       ---       ---       ---
+                                        --------  --------  --------  --------  --------
+Net income                               $55,186  $ 39,071  $ 31,636  $ 21,026  $ 22,025
+                                        ========  ========  ========  ========  ========
+Average common shares outstanding         58,547    55,610    54,998    54,176    53,476
+                                        ========  ========  ========  ========  ========
+Earnings per share before
+  extraordinary item (1)                    $.94      $.73      $.58      $.39      $.41
+                                        ========  ========  ========  ========  ========
+Earnings per share                          $.94      $.70      $.58      $.39      $.41
+                                        ========  ========  ========  ========  ========
+
+BALANCE SHEET DATA (at period end):
+Cash and cash equivalents               $238,491  $ 49,512  $ 16,324  $ 20,484  $ 30,109
+Working capital                          358,786   132,015    87,630    75,284    79,005
+Total assets                             601,083   334,684   280,054   240,762   247,169
+Total debt                                   410       810     1,110    14,434    45,046
+Total stockholders' investment           510,866   264,758   220,394   182,188   158,374
+                                        ========  ========  ========  ========  ========
+</TABLE>
+- ----------------
+(1)  An extraordinary charge of $1,450,000 (or $.03 per share), net of income
+taxes, recorded in the quarter ended January 31, 1994, represents the charge to
+clean up and repair the damage from an earthquake at the Company's facility in
+California.
+
+<PAGE>
+Item 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+
+Overview
+
+     The Company offers a broad range of products to address key areas of the
+telecommunications network infrastructure.  To meet its customers' needs, the
+Company offers equipment, services and integrated solutions within the
+following general functional product groups: transmission, enterprise
+networking and broadband connectivity.  The Company's transmission products are
+sold primarily to public network providers in the United States and
+internationally.  The Company's enterprise networking products are sold
+primarily to private voice, data and video network providers around the world.
+The Company's broadband connectivity products are sold to both public and
+private network providers.
+
+     Historically, the Company's principal product offerings have generally
+consisted of copper-based and fiber-based products designed to address the
+needs of its customers for transmission, enterprise networking and connectivity
+on traditional telephony networks.  With the growth of multimedia applications
+and the associated development of enhanced voice, data and video services, the
+Company's more recent product offerings and research and development efforts
+have increasingly focused on emerging technologies and applications relating to
+the broadband telecommunications equipment market.  The market for broadband
+telecommunications equipment is evolving and rapidly changing.  There can be no
+assurance that the Company's new or enhanced products will meet with market
+acceptance or be profitable.
+
+     The Company's operating results may fluctuate significantly from quarter
+to quarter due to several factors.  The Company's expense levels are based in
+part on expectations of future revenues.  If revenue levels in a particular
+period do not meet expectations, operating results will be adversely affected.
+In addition, the Company's results of operations are subject to seasonal
+factors.  The Company historically has experienced a stronger demand for its
+products in the fourth fiscal quarter, primarily as a result of customer budget
+cycles and Company year-end incentives, and has experienced a weaker demand for
+its products in the first fiscal quarter, primarily as a result of the number
+of holidays during late November, December and early January and a general
+industry slowdown during that period.
+
+<PAGE>
+Results of Operations
+
+     The percentage relationships to net sales of certain income and expense
+items for the three years ended October 31, 1995, and the percentage changes in
+these income and expense items between years are contained in the following
+table:
+
+<TABLE>
+<CAPTION>
+                                                               Percentage
+                                Percentage of Net Sales      Increase Between
+                                       Years Ended                Years
+                               ---------------------------   ----------------
+                                                             1995 vs   1994 vs
+                                 1995      1994      1993      1994     1993
+                                ------    ------    ------   -------   -------
+<S>                             <C>       <C>       <C>        <C>      <C>
+Net sales                       100.0%    100.0%    100.0%     30.6%     22.6%
+Cost of product sold            (51.5)    (49.3)    (48.8)     36.4     24.0
+                                ------    ------    ------
+Gross profit                      48.5      50.7      51.2     25.0     21.2
+Expenses:
+  Development and product
+    engineering                 (11.3)    (11.0)    (11.2)     35.7     19.5
+  Selling and administration    (22.2)    (24.7)    (25.5)     17.6     18.7
+  Goodwill amortization           (.6)      (.7)      (.7)        -        -
+  Personnel reduction             (.7)         -         -        -        -
+                                ------    ------    ------
+Operating income                  13.7      14.3      13.8     24.8     27.6
+Other income (expense), net:
+  Interest                         1.2        .3        .1        -        -
+  Other                           (.2)      (.3)      (.3)        -        -
+                                ------    ------    ------
+
+Income before income taxes and
+    extraordinary item            14.7      14.3      13.6      34.1      29.3
+Provision for income taxes       (5.3)     (5.3)     (5.0)      30.4      31.5
+                                ------    ------    ------
+Net income before
+    extraordinary item             9.4       9.0       8.6      36.2      28.1
+Extraordinary item, net of taxes     -      (.3)         -         -         -
+                                ------    ------    ------
+Net income                        9.4%      8.7%      8.6%      41.2      23.5
+                                ======    ======    ======
+</TABLE>
+     Net Sales:  The following table sets forth the Company's net sales for the
+three years ended October 31, 1995, for each of the functional product groups
+described above (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                                                                  PERCENTAGE INCREASE
+                               NET SALES FOR THE YEARS ENDED OCTOBER 31,              BETWEEN YEARS
+                       ----------------------------------------------------------  -------------------
+                                                                                   1995 vs.   1994 vs.
+                               1995                1994               1993           1994       1993
+                       ------------------  ------------------  ------------------  --------   --------
+<S>                   <C>           <C>    <C>          <C>    <C>          <C>      <C>       <C>
+Product Group          Net Sales      %    Net Sales      %    Net Sales      %
+                       ---------     ---   ---------     ---   ---------     ---
+Transmission            $184,432    31.5%   $103,694    23.1%    $69,386
+18.9%77.9%49.4%
+
+Enterprise Networking    127,405    21.7     123,300    27.5      95,540    26.1       3.3      29.1
+
+Broadband Connectivity   274,385    46.8     221,741    49.4     201,192    55.0      23.7      10.2
+     Total              $586,222   100.0%   $448,735   100.0%   $366,118
+100.0%30.622.6
+                        ========   ======   ========   ======   ========   ======
+</TABLE>
+<PAGE>
+     Net sales were $586.2 million and $448.7 million for the years ended
+October 31, 1995 and 1994, reflecting 30.6% and 22.6% annual increases,
+respectively.  The 1995 increase in net sales predominantly reflects the 77.9%
+and 23.7% increases in sales of transmission and broadband connectivity
+products, respectively.  The 1994 increase over 1993 net sales of $366.1
+million resulted from the above increases in all three product groups.
+
+     The Company's 77.9% and 49.4% growth in net sales of transmission products
+during 1995 and 1994, respectively, predominately reflects increased sales of
+fiber optic transmission systems to public telecommunications network
+providers.  If the Company's transmission systems introduced within the last
+three years and continuing transmission product enhancements meet with
+reasonable market acceptance, the Company anticipates that net sales of
+transmission products will grow as a percentage of the Company's total net
+sales.
+
+     Net sales of broadband connectivity products increased 23.7% and 10.2%
+during 1995 and 1994, respectively, reflecting the Company's success in selling
+these products into new global broadband market applications.  Within the
+broadband connectivity product group, net sales of ADC's digital signaling
+cross-connect (DSX) modules and bays have declined as a percentage of total net
+sales to 23.9% in 1995, from 27.2% in 1994 and 28.7% in 1993.  The Company
+believes that future sales of DSX and other copper connectivity products  will
+continue to account for a substantial portion of the Company's revenues,
+although these products may continue to decline as a percentage of total net
+sales primarily due to the ongoing evolution of technologies in the
+telecommunications marketplace.
+
+     Reflecting increased sales of fiber optic products in both the
+transmission and broadband connectivity product groups, net sales of fiber
+optic products represented 40.6%, 34.8% and 34.2% of total net sales in 1995,
+1994 and 1993, respectively.
+
+     Net sales of enterprise networking products increased 3.3% and 29.1%
+during 1995 and 1994, respectively.  These increases reflect significant growth
+in net sales of public network access equipment, partially offset by  decreases
+in net sales of Local Area Network (LAN) equipment.  The decline in LAN sales
+was most noticeable during 1995.  Recognizing changes in the competitive
+environment for LAN equipment, the Company has realigned its Kentrox and
+Fibermux subsidiaries into the Enterprise Networking Group to better address
+the industry trend toward integration of LAN and Wide Area Network (WAN)
+technologies and products.
+
+     Gross Profit.  During 1995, 1994 and 1993, the gross profit percentages
+were 48.5%, 50.7% and 51.2% of net sales, respectively.  The 1995 and 1994
+declines in gross profit percentages primarily resulted from the continuing
+change in product sales mix toward sales of newer, lower margin products which
+address emerging broadband applications.  Future gross profit percentages will
+continue to be affected by the mix of products the Company sells, the timing of
+new product introductions and manufacturing volume, among other factors.
+
+     Operating Expenses:  Total operating expenses for the years ended October
+31, 1995, 1994 and 1993 were $203.8 million, $162.9 million and $137.1 million,
+representing 34.8%, 36.4% and 37.4% of net sales, respectively.  The increases
+in absolute dollars of operating expenses during 1995 and 1994 were due
+primarily to the expanded operations associated with
+<PAGE>
+higher revenue levels and, in the year ended October 31, 1995, a charge of $3.9
+million related primarily to a personnel reduction at the Fibermux facility
+resulting from the realignment of the Company's enterprise networking
+operations.  The decreases in operating expenses as a percentage of net sales
+during 1995 and 1994 reflect the Company's ability to leverage operating
+expenses against revenue levels.
+
+     Development and product engineering expenses were $66.5 million, $49.0
+million and $41.0 million for the years ended October 31, 1995, 1994 and 1993,
+respectively, reflecting increases of 35.7% during 1995 and 19.5% during 1994.
+These increases resulted from substantial product development efforts in each
+of the Company's three functional product groups.  The Company believes that,
+given the rapidly changing technology and competitive environment in the
+telecommunications equipment industry, continued commitment to product
+development efforts will be required for the Company to remain competitive.
+Accordingly, the Company intends to continue to allocate substantial resources
+to product development for each of its three functional product groups.
+However, the Company recognizes the need to balance the cost of product
+development with expense control and remains committed to carefully managing
+the rate of increase of such expenses.
+
+     Selling and administration expenses were $130.3 million, $110.8 million
+and $93.3 million for the years ended October 31, 1995, 1994 and 1993,
+respectively, reflecting increases of 17.6% during 1995 and 18.7% during 1994.
+These increases resulted from selling activities associated with new product
+introductions and additional personnel costs related to expanded operations.
+
+     Other Income (Expense), Net:  For the year ended October 31, 1995, the
+significant net interest income (expense) category represented net interest
+income on cash balances.  (See "Liquidity and Capital Resources" below for a
+discussion of cash levels.)
+
+     Income Taxes:  See Note 7 to the Consolidated Financial Statements
+included in Part II, Item 8 of this report for a reconciliation of the federal
+statutory tax rate to effective tax rates of 36.0%, 37.0% and 36.4% in 1995,
+1994 and 1993, respectively.  These rates reflect $3.1 million, $3.1 million
+and $2.8 million of non-deductible goodwill amortization during 1995, 1994 and
+1993, respectively, included in operating expenses in each of the three years,
+and the beneficial impact of tax credits.
+
+     Extraordinary Item:  An extraordinary charge of $1.5 million (or $.03 per
+share), net of income taxes, was recorded in 1994, representing expenses
+relating to the clean up and repair of damage to the Fibermux facility
+resulting from an earthquake in January 1994.
+
+     Net Income:  Reflecting all of the matters discussed above, net income was
+$55.2 million (or $.94 per share) for the year ended October 31, 1995, an
+increase of 41.2% over $39.1 million (or $.70 per share) for the year ended
+October 31, 1994.  Net income for 1994 represented an increase of 23.5% over
+$31.6 million (or $.58 per share) for the year ended October 31, 1993.
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Cash and cash equivalents, primarily short-term investments in commercial
+paper with maturities of less than 90 days, increased $189.0 million and $33.2
+million during the years ended October 31, 1995 and 1994, respectively.  The
+major elements of the 1995 increase were the $181.8 million net proceeds from
+the Company's June 1995 secondary public offering of 6.3 million shares of
+common stock and net income before depreciation of $81.5 million, offset by
+property and equipment additions of $32.5 million, acquisition and investment
+payments of $12.8 million and the $52.6 million increase in inventory and
+receivable levels (reflecting an acquisition completed in 1995, as well as
+growth in business).  In the year ended October 31, 1994, the major elements of
+the increase were net income before depreciation of $62.4 million, offset by
+property and equipment additions of $21.8 million, acquisition payments of $7.1
+million and a $24.4 million increase in inventory and receivable levels.
+
+     The Company may borrow up to $40 million under revolving credit
+agreements.  Borrowings under these agreements bear interest at floating short-
+term market rates, may be repaid any time without penalty and may be converted
+to term loans bearing interest principally at the prime rate, payable in annual
+installments through December 2000.  At October 31, 1995, the entire $40
+million of borrowings under these agreements was available to the Company and
+it had no long-term debt outstanding.
+
+     Management believes that current cash balances, cash generated from
+operating activities and borrowings available under revolving credit agreements
+will be adequate to fund working capital requirements, capital expenditures
+(approximately $20 million committed at October 31, 1995) and possible
+acquisitions or strategic alliances for 1996.  However, the Company may find it
+necessary to seek additional sources of financing to support its capital needs,
+for additional working capital, potential investments or acquisitions, or
+otherwise.
+<PAGE>
+Item 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ADC Telecommunications, Inc. and Subsidiaries
+Index to Consolidated Financial Statements
+
+(A)  Statement of Registrant
+
+     No separate financial statements of the Company's subsidiaries are
+included herein because the Company is primarily an operating company and its
+subsidiaries are wholly-owned.
+
+(B)  Consolidated Statements
+
+Report of Independent Public Accountants                          26
+
+Consolidated Statements of Income for the years ended
+     October 31, 1995, 1994 and 1993                              27
+
+Consolidated Balance Sheets as of October 31, 1995 and 1994       28
+
+Consolidated Statements of Stockholders' Investment
+     for the years ended October 31, 1995, 1994 and 1993          29
+
+Consolidated Statements of Cash Flows for the years ended
+     October 31, 1995, 1994 and 1993                              30
+
+Notes to Consolidated Financial Statements                        31
+
+     All schedules for which provision is made in the applicable accounting
+regulations of the Securities and Exchange Commission have been omitted as not
+required, not applicable or the information required has been included
+elsewhere in the financial statements and related notes.
+
+(C)  Supplemental Financial Information -- Unaudited              39
+<PAGE>
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To ADC Telecommunications, Inc.:
+     We have audited the accompanying consolidated balance sheets of ADC
+TELECOMMUNICATIONS, INC. AND SUBSIDIARIES as of October 31, 1995 and 1994, and
+the related consolidated statements of income, stockholders' investment and
+cash flows for each of the three years in the period ended October 31, 1995.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+     We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of ADC Telecommunications,
+Inc. and subsidiaries as of October 31, 1995 and 1994, and the results of their
+operations and their cash flows for each of the three years in the period ended
+October 31, 1995, in conformity with generally accepted accounting principles.
+
+
+
+
+                                   ARTHUR ANDERSEN LLP
+
+Minneapolis, Minnesota
+December 13, 1995
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                 ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF INCOME
+                        FOR THE YEARS ENDED OCTOBER 31
+
+                   (In Thousands, Except Per Share Amounts)
+
+
+                                            1995          1994          1993
+                                            ----          ----          ----
+<S>                                       <C>          <C>           <C>
+Net Sales                                 $586,222     $448,735      $366,118
+
+Cost of Product Sold                       302,094      221,448       178,572
+                                          --------     --------      --------
+
+Gross Profit                               284,128      227,287       187,546
+                                          --------     --------      --------
+   Gross profit percentage                   48.5%        50.7%         51.2%
+                                          --------     --------      --------
+Expenses:
+  Development and product engineering       66,460       48,974        40,988
+  Selling and administration               130,297      110,799        93,311
+  Goodwill amortization                      3,133        3,135         2,798
+  Personnel reduction                        3,914           --            --
+                                          --------     --------      --------
+   Total expenses                          203,804      162,908       137,097
+                                          --------     --------      --------
+
+Operating Income                            80,324       64,379        50,449
+Other Income (Expense), Net                  5,905         (58)         (712)
+                                          --------     --------      --------
+
+Income before Income Taxes and              86,229       64,321        49,737
+  Extraordinary Item
+
+Provision for Income Taxes                  31,043       23,800        18,101
+                                          --------     --------      --------
+
+Net Income before Extraordinary Item        55,186       40,521        31,636
+
+Extraordinary Item, Net of Taxes                --      (1,450)            --
+                                          --------     --------      --------
+
+Net Income                                 $55,186      $39,071       $31,636
+                                          ========     ========      ========
+
+Average Common Shares Outstanding           58,547       55,610        54,998
+                                          ========     ========     =========
+Earnings per Share before                    $0.94        $0.73         $0.58
+  Extraordinary Item                      ========     ========     =========
+Earnings per Share                           $0.94        $0.70         $0.58
+                                          ========     ========     =========
+</TABLE>
+             The accompanying notes are an integral part of these
+                      consolidated financial statements.
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                 ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+                   CONSOLIDATED BALANCE SHEETS - OCTOBER 31
+                                       
+                                (In Thousands)
+
+
+
+                                                          1995          1994
+                                                          ----          ----
+
+                                    Assets
+
+<S>                                                    <C>           <C>
+Current Assets:
+  Cash and cash equivalents                            $238,491      $ 49,512
+  Accounts receivable, net of reserves of               107,255        75,348
+   $4,258 and $2,494
+  Inventories, net of reserves of $8,103 and $5,668      86,559        64,203
+  Prepaid income taxes and other assets                  15,442        10,305
+                                                       --------      --------
+   Total current assets                                 447,747       199,368
+
+Property and Equipment, net                              78,686        66,132
+
+Other Assets, Principally Goodwill                       74,650        69,184
+                                                       --------      --------
+                                                       $601,083      $334,684
+                                                       ========      ========
+
+
+
+                   Liabilities and Stockholders' Investment
+
+
+Current Liabilities:
+  Current maturities of long-term debt                 $    410      $    400
+  Accounts payable                                       28,820        22,132
+  Accrued liabilities                                    59,731        44,821
+                                                       --------      --------
+   Total current liabilities                             88,961        67,353
+
+Deferred Income Taxes                                     1,256         2,163
+
+Long-Term Debt, Less Current Maturities Above                --           410
+                                                       --------      --------
+   Total liabilities                                     90,217        69,926
+                                                       --------      --------
+
+Stockholders' Investment:
+  Common stock,  $0.20 par value; authorized 100,000 shares;
+   issued 62,737 and 27,888 shares                       12,547         5,577
+  Paid-in capital                                       219,266        34,851
+  Retained earnings                                     280,662       225,476
+  Cumulative translation adjustment                       (715)            --
+  Deferred compensation                                   (894)       (1,146)
+                                                       --------      --------
+   Total stockholders' investment                       510,866       264,758
+                                                       --------      --------
+                                                       $601,083      $334,684
+                                                       ========      ========
+</TABLE>
+             The accompanying notes are an integral part of these
+                      consolidated financial statements.
+<PAGE>
+<TABLE>
+<CAPTION>
+                  ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF STOCKHOLDERS' INVESTMENT
+                         FOR THE YEARS ENDED OCTOBER 31
+                                        
+                                 (In Thousands)
+                                        
+                                                                                                          Cumulative
+                                                               Common Stock        Paid-in     Retained  Translation      Deferred
+                                                             Shares    Amount      Capital     Earnings   Adjustment  Compensation
+<S>                                                         <C>     <C>          <C>           <C>          <C>        <C>
+Balance, October 31, 1992                                    13,610  $  2,722    $  25,745     $154,769          --     $  (1,048)
+    Stock split effected in the form of a stock dividend     13,778     2,756      (2,756)           --          --             --
+    Stock issued for employee benefit plans                     309        61        6,476           --          --          (781)
+    Reduction of deferred compensation                           --        --           --           --          --            814
+    Net income                                                   --        --           --       31,636          --             --
+                                                             ------   -------     --------     --------      ------     ----------
+
+Balance, October 31, 1993                                    27,697     5,539       29,465      186,405          --        (1,015)
+    Stock issued for employee benefit plans                     191        38        5,386           --          --        (1,262)
+    Reduction of deferred compensation                           --        --           --           --          --          1,131
+    Net income                                                   --        --           --       39,071          --             --
+                                                             ------   -------     --------     --------      ------     ----------
+
+Balance, October 31, 1994                                    27,888     5,577       34,851      225,476          --        (1,146)
+    Stock split effected in the form of a stock dividend     28,044     5,609      (5,609)           --          --             --
+    Stock issued for secondary public offering                6,325     1,265      180,489           --          --             --
+    Stock issued for employee benefit plans                     480        96        9,535           --          --          (714)
+    Reduction of deferred compensation                           --        --           --           --          --            966
+    Translation adjustments                                      --        --           --           --       (715)             --
+    Net income                                                   --        --           --       55,186          --             --
+                                                             ------   -------     --------     --------      ------     ----------
+
+Balance, October 31, 1995                                    62,737   $12,547    $ 219,266     $280,662      $(715)      $   (894)
+                                                             ======   =======    =========     ========  ==========     ==========
+</TABLE>
+   The accompanying notes are an integral part of these consolidated financial
+                                   statements
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                  ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                         FOR THE YEARS ENDED OCTOBER 31
+                                        
+                                 (In Thousands)
+
+                                                           1995           1994           1993
+                                                           ----           ----           ----
+<S>                                                      <C>            <C>            <C>
+Operating Activities:
+  Net income                                             $ 55,186       $ 39,071       $ 31,636
+  Adjustments to reconcile net income
+  to net cash from operating activities:
+     Depreciation and amortization                         26,341         23,366         20,587
+     Reduction in deferred compensation                       966          1,131            814
+     Decrease in deferred income taxes                    (4,652)        (1,786)          (444)
+     Other                                                    455             --             --
+     Changes in assets and liabilities
+       Accounts receivable                               (31,130)        (8,518)       (19,416)
+       Inventories                                       (21,466)       (15,925)        (9,215)
+       Prepaid income taxes and other assets              (2,455)          1,010        (3,586)
+       Accounts payable                                     6,559          8,438          2,967
+       Accrued liabilities                                 14,455         11,414          6,105
+                                                         --------       --------       --------
+          Total cash from operating activities             44,259         58,201         29,448
+                                                         --------       --------       --------
+
+Investment Activities:
+  Property and equipment additions, net                  (32,456)       (21,788)       (21,243)
+  Acquisition payments                                    (4,676)        (7,087)        (2,199)
+  Long-term investments                                   (8,139)             --        (2,598)
+                                                         --------       --------       --------
+          Total cash used for investment activities      (45,271)       (28,875)       (26,040)
+                                                         --------       --------       --------
+
+Financing Activities:
+  Decrease in long-term debt                                (400)          (300)       (13,324)
+  Common stock issued                                     190,671          4,162          5,756
+                                                         --------       --------       --------
+          Total cash from (used for)
+          financing activities                            190,271          3,862        (7,568)
+                                                         --------       --------       --------
+
+Effect of exchange rate changes on cash                      (280)            --             --
+                                                         ---------      --------       --------
+
+Increase (Decrease) in Cash and
+  Cash Equivalents                                        188,979         33,188        (4,160)
+
+Cash and Cash Equivalents, Beginning of Period             49,512         16,324         20,484
+                                                         --------       --------       --------
+
+Cash and Cash Equivalents, End of Period                 $238,491        $49,512        $16,324
+                                                         ========       ========       ========
+
+Supplemental Disclosures:
+  Interest paid                                          $     52        $   574        $   308
+  Income taxes paid                                      $ 27,549        $21,802        $18,206
+                                                         ========       ========       ========
+</TABLE>
+                 The accompanying notes are an integral part of these
+                             consolidated financial statements
+<PAGE>
+ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1)  Summary of Significant Accounting Policies
+
+Principles of Consolidation:  The consolidated financial statements include the
+accounts of ADC Telecommunications, Inc. (a Minnesota corporation) and its
+wholly owned subsidiaries, referred to collectively herein as the Company.  All
+significant intercompany transactions and balances have been eliminated in
+consolidation.
+
+Cash Equivalents:  Cash equivalents primarily represent short-term investments
+in commercial paper with maturities of three months or less.  These investments
+are reflected in the accompanying consolidated balance sheets at cost, which
+approximates fair value.
+
+Inventories:  Inventories include material, labor and overhead and are stated
+at the lower of first-in, first-out cost or market.
+
+Property and Equipment:  Property and equipment are recorded at cost and
+depreciated using the straight-line method over estimated useful lives of three
+to thirty years or, in the case of leasehold improvements, over the term of the
+lease, if shorter.  Both straight-line and accelerated methods of depreciation
+are used for income tax purposes.
+
+Goodwill:  The excess of the cost of acquired businesses over the fair value of
+the net assets acquired is being amortized on a straight-line basis over 25
+years.  Management periodically assesses the amortization period and
+recoverability of the carrying amount of goodwill based upon an estimate of
+future cash flows from related operations.
+
+Research and Development Costs:  The Company's policy is to expense all
+research and development costs in the period incurred.
+
+Income Taxes:  The Company utilizes the liability method of accounting for
+income taxes. Deferred tax liabilities or assets are recognized for the
+expected future tax consequences of temporary differences between the book and
+tax bases of assets and liabilities.
+
+Earnings Per Share:  Earnings per share is computed using the weighted average
+number of common shares outstanding during the year, after consideration of the
+dilutive effect of stock options and restricted stock awards.
+
+Foreign Currency Translation:  The Company accounts for translation of foreign
+currency in accordance with the provisions of SFAS No. 52.  The resulting
+translation adjustments are recorded directly to a separate component of
+stockholders' investment.
+
+The functional currency for the Company's foreign operations is the applicable
+local <PAGE>
+currency.  Prior to 1995 the Company's primary functional currency was the U.S.
+dollar.  The functional currency changed because of substantial changes in the
+Company's foreign operations.
+
+New Accounting Pronouncements:
+
+SFAS No. 121 - Accounting for the Impairment of Long-lived Assets and for Long-
+lived Assets to be Disposed of, requires impairment losses on long-lived assets
+to be recognized when an asset's book value exceeds its expected future cash
+flows (undiscounted).  The Company anticipates adopting this standard on
+November 1, 1996 and does not expect that adoption will have a material impact
+on the financial position or results of operations of the Company.
+
+SFAS No. 123 - Accounting for Stock-Based Compensation, encourages, but does
+not require, a fair value based method of accounting for employee stock options
+or similar equity instruments.  As permitted under the new standard, the
+Company will continue to account for employee stock options under APB No. 25.
+The pro-forma disclosures required by this standard will be adopted on November
+1, 1996.
+
+(2)  Consolidated Income Statement Information
+
+Export Sales:  Export sales were $106,416,000, $67,113,000 and $58,919,000
+during 1995, 1994 and 1993, respectively.
+
+Other Income (Expense), Net:
+<TABLE>
+<CAPTION>
+                                            1995           1994          1993
+                                                     (In Thousands)
+<S>                                       <C>            <C>           <C>
+Interest income                           $7,078         $1,309        $  468
+Interest expense                           (275)          (151)         (285)
+Other income (expense), net                (898)        (1,216)         (895)
+                                          ------        -------        ------
+                                          $5,905         $ (58)        $(712)
+                                          ======        =======        ======
+</TABLE>
+Personnel Reduction:  During the quarter ended April 30, 1995, the Company
+initiated a realignment of its Kentrox and Fibermux subsidiaries into one
+business unit.  The Company recorded a charge of $3,914,000 in conjunction with
+the realignment, related primarily to a personnel reduction.  The realignment
+terminated approximately 100 Fibermux employees primarily in sales,
+administration and engineering.  Substantially all termination benefits are
+expected to be paid by December 31, 1995.
+
+Extraordinary Item:  The building that serves as headquarters for Fibermux
+suffered damage as a result of the earthquake that struck Los Angeles on
+January 17, 1994.  The facility sustained damages of $2,300,000 ($1,450,000
+after the $850,000 tax benefit).  All operations resumed by February 8, 1994.
+<PAGE>
+(3)  Consolidated Balance Sheet Information
+<TABLE>
+<CAPTION>
+                                                      1995         1994
+                                                        (In Thousands)
+<S>                                                  <C>         <C>
+Inventories:
+Purchased materials and manufactured products        $75,694     $57,031
+Work-in-process                                       10,865       7,172
+                                                     -------     -------
+                                                     $86,559     $64,203
+                                                     =======     =======
+
+Property and equipment:
+Land and buildings                                   $33,362     $31,620
+Machinery and equipment                              139,294     114,337
+Furniture and fixtures                                18,881      16,232
+                                                     -------     -------
+                                                     191,537     162,189
+Less accumulated depreciation
+   and amortization                                (112,851)    (96,057)
+                                                   ---------    --------
+                                                     $78,686     $66,132
+                                                   ========-    ========
+
+Goodwill:
+Goodwill                                             $77,028     $77,028
+Less accumulated amortization                       (14,921)    (11,788)
+                                                    --------    --------
+                                                     $62,107     $65,240
+                                                    ========    ========
+Accrued liabilities:
+Accrued compensation and benefits                    $34,632     $30,916
+Accrued income taxes                                  10,088       5,804
+Other accrued liabilities                             15,011       8,101
+                                                    --------    --------
+                                                     $59,731     $44,821
+                                                    ========    ========
+</TABLE>
+(4)  Debt
+
+The Company has a revolving, unsecured credit agreement with four banks which
+permits borrowings up to $40,000,000 through December 31, 1996, primarily at
+prevailing market rates of interest.  There were no borrowings outstanding
+under this agreement at October 31, 1995 and 1994.
+
+As of October 31, 1995 and 1994, the Company had a mortgage note payable of
+$410,000 and $810,000, respectively, collateralized by certain land, buildings
+and equipment.  The note is payable in annual installments of approximately
+$400,000 through 1996 and bears interest at the rate of 7.55%.
+
+(5)  Employee Benefit Plans
+
+Pension Plan:  The Company maintains a defined benefit plan covering a majority
+of its employees.  The plan is funded in accordance with the requirements of
+Federal laws and regulations.  Plan assets consist of fixed income securities
+and a managed portfolio of
+<PAGE>
+equity securities.
+
+Pension expense included the following components:
+<TABLE>
+<CAPTION>
+
+                                                     1995      1994      1993
+                                                          (In Thousands)
+<S>                                                <C>       <C>       <C>
+Service cost for benefits
+  earned during the period                         $1,766    $1,804    $1,828
+Interest cost on the projected
+  benefit obligation                                1,682     1,522     1,348
+Return on assets                                  (3,627)     (633)   (2,137)
+Net amortization and deferral                       2,240     (700)       984
+                                                  -------   -------   -------
+                                                   $2,061    $1,993    $2,023
+                                                  =======   =======   =======
+Discount rate used to determine
+  actuarial present value of
+  benefits at October 31                             7.5%      7.5%      7.0%
+                                                  =======   =======   =======
+</TABLE>
+The rate of compensation increase used to measure the projected benefit
+obligation was 5% for all three years.  The expected long-term rate of return
+on plan assets was 9%.
+
+The following table sets forth the funded status of the plan as of October 31:
+<TABLE>
+<CAPTION>
+                                                      1995        1994
+                                                       (In Thousands)
+<S>                                               <C>          <C>
+Accumulated benefit obligation:
+  Vested                                           $(20,357)   $(17,857)
+  Nonvested                                          (1,509)     (1,405)
+                                                   ---------   ---------
+    Total                                           (21,866)    (19,262)
+Excess of projected benefit obligation
+  over accumulated benefit obligation                (4,055)     (3,164)
+                                                   ---------   ---------
+Projected benefit obligation                        (25,921)    (22,426)
+Market value of plan assets                           20,939      17,589
+                                                   ---------   ---------
+Unfunded projected benefit obligation                (4,982)     (4,837)
+Unrecognized net gain                                (3,240)     (1,922)
+Unrecognized prior service cost                        1,842       1,967
+Unrecognized transition liability                        851         922
+                                                   ---------   ---------
+    Total accrued pension liability                 $(5,529)    $(3,870)
+                                                   =========   =========
+</TABLE>
+The Company also maintains supplemental defined benefit retirement plans for
+members of the Board of Directors and for certain officers.  The cost of these
+plans was $458,000, $352,000 and $210,000 during 1995, 1994 and 1993,
+respectively.
+
+Retirement Savings Plan:  The Company maintains a Retirement Savings Plan for
+employees who have completed one year of service.  The Company contributes 1%
+of wages and, depending on Company performance, partially matches employee
+contributions to the Plan up to 6% of wages.  Employees are fully vested in all
+<PAGE>
+contributions.  The Company's contributions to the plan totaled $7,504,000,
+$6,778,000 and $3,210,000 during 1995, 1994, and 1993, respectively.  A portion
+of the Company's cash contributions is invested in the Company's stock by the
+Plan's trustee.
+
+Stock Award Plans:  The Company maintains a Stock Incentive Plan to grant
+certain stock awards, including stock options at fair market value and
+restricted shares, to key employees of the Company.
+
+The Company also maintains a Nonemployee Director Stock Option Plan in order to
+enhance the ability to attract and retain the services of experienced and
+knowledgeable outside directors.  This plan provides for granting of a maximum
+of 220,000 non-qualified stock options at fair market value.
+
+The Company issued shares of common stock to certain employees which are
+restricted as to their transferability through September 27, 1998.  The market
+value of such stock at the date of issuance is being amortized over the
+restricted period.  The unamortized amount of the resulting deferred
+compensation is recorded as a reduction of stockholders' investment.  In
+addition, the Company awarded stock retention bonuses which provide for cash
+payments to offset the personal income taxes incurred upon the lapsing of stock
+restriction.  The compensation expense associated with this plan was $516,000,
+$3,213,000, and $1,938,000 in 1995, 1994 and 1993, respectively.
+
+The following schedule summarizes activity in the plans:
+<TABLE>
+<CAPTION>
+                                         Stock      Restricted        Grant
+                                       Options           Stock        Price
+                                      ---------     ----------      ---------
+<S>                                  <C>            <C>             <C>
+Outstanding at October 31, 1993       1,884,740        221,116      $ 3 - $21
+    Granted                             448,270         68,230      $16 - $22
+    Exercised                         (324,398)             --      $ 3 - $11
+    Restrictions Lapsed                      --      (172,316)      $ 6 - $15
+    Canceled                           (35,806)       (16,220)      $ 6 - $19
+                                     ----------     ----------
+Outstanding at October 31, 1994,      1,972,806        100,810      $ 3 - $22
+    Granted                           1,623,441         20,250      $20 - $43
+    Exercised                         (636,738)             --      $ 3 - $27
+    Restrictions Lapsed                      --          (720)      $18 - $22
+    Canceled                          (299,812)       (37,770)      $13 - $32
+                                     ----------     ----------
+Outstanding at October 31, 1995       2,659,697         82,570      $ 3 - $43
+                                     ==========     ==========      =========
+Exercisable at October 31, 1995       1,489,570             --      $ 3 - $41
+                                     ==========     ==========      =========
+</TABLE>
+During 1993, options for 949,474 shares were exercised at prices ranging from
+$3 to $9 per share.
+<PAGE>
+(6)  Capital Stock
+
+Authorized Stock:  On November 28, 1995, the Board of Directors approved a
+resolution to increase the authorized number of common shares from 100,000,000
+to 300,000,000, subject to shareholder approval.  The Company is also
+authorized to issue 10,000,000 shares of no par value preferred stock.  As of
+October 31, 1995, none of the preferred shares were issued.
+
+Stock Split:  On January 24, 1995, the Company declared a two-for-one stock
+split effected in the form of a 100% stock dividend paid February 28, 1995, to
+stockholders of record as of February 15, 1995.  The share and per share
+information in the accompanying financial statements has been adjusted to
+reflect the effect of the dividend.
+
+Stock Offering:  On June 14, 1995, the Company completed a secondary public
+offering of 6,325,000 shares of its common stock at $30 per share.  The net
+proceeds from the offering were $181,754,000, which will be used for general
+corporate purposes, including working capital, capital expenditures and
+possible acquisitions or strategic alliances.
+
+Shareholder Rights Plan:  On November 28, 1995, the Board of Directors amended
+and restated the Company's Shareholder Rights Plan that was originally adopted
+during 1986.  Under the original Plan, the Board of Directors declared a
+dividend of one right for each outstanding share of the Company's common stock.
+The Plan, as amended, provides that if any person or group acquires 15% or more
+of the Company's common stock, each Right not owned by such person or group
+will entitle its holder to purchase, at the Right's then-current purchase price
+($125 for each one-half share of the Company's common stock at November 28,
+1995), common stock of the Company having a value of twice the Right's purchase
+price.  The Rights would not be triggered, however, if the acquisition of 15%
+or more of the Company's common stock is pursuant to a tender offer or exchange
+for all outstanding shares of the Company's common stock which is determined by
+the Board of Directors to be fair and in the best interests of the Company and
+its shareholders.  The Rights are redeemable at $0.01 any time prior to the
+time they become exercisable.  The Rights will expire on November 28, 2005, if
+not previously redeemed or exercised.
+
+(7)  Income Taxes
+
+The components of the provision for income taxes are as follows:
+<TABLE>
+<CAPTION>
+                                                   1995      1994      1993
+                                                        (In Thousands)
+<S>                                            <C>       <C>       <C>
+Current taxes payable:
+    Federal                                     $30,666   $21,357   $17,820
+    Foreign                                         573       330       426
+    State                                         4,456     3,211     2,859
+                                                -------   -------   -------
+                                                 35,695    24,898    21,105
+Deferred                                        (4,652)   (1,098)   (3,004)
+                                                -------   -------   -------
+Total provision                                 $31,043   $23,800   $18,101
+                                                =======   =======   =======
+</TABLE>
+<PAGE>
+The provision for foreign income taxes is based upon foreign pretax earnings of
+approximately $1,547,000, $1,563,000 and $1,120,000 during 1995, 1994 and 1993,
+respectively.
+
+The Company records a reduction in income taxes payable for qualifying tax
+credits in the year in which they occur.  The benefit for deferred taxes is
+primarily due to timing differences in the tax deductibility of employee
+benefit plan costs, depreciation and certain accrued expenses and reserves
+which are not yet deductible for income tax purposes.
+
+The effective income tax rate differs from the Federal statutory rate as
+follows:
+<TABLE>
+<CAPTION>
+                                                   1995      1994      1993
+                                                  -----     -----     -----
+<S>                                               <C>       <C>       <C>
+     Federal statutory rate                         35%       35%       35%
+     Research and development
+         tax credits                                (2)       (2)       (2)
+     Goodwill amortization                            1         2         2
+     State income taxes, net                          3         3         3
+     Other, net                                     (1)       (1)       (2)
+                                                  -----     -----     -----
+         Effective income tax rate                  36%       37%       36%
+                                                  =====     =====     =====
+</TABLE>
+Deferred tax assets (liabilities) of the Company as of October 31 are comprised
+of the following:
+<TABLE>
+<CAPTION>
+                                                 1995           1994
+                                                     (In Thousands)
+<S>                                            <C>            <C>
+     Current deferred tax assets:
+          Asset valuation reserves               $4,002         $3,059
+          Accrued liabilities                     7,067          4,339
+          Other                                     396            326
+                                               --------        -------
+             Total                              $11,465         $7,724
+                                               ========        =======
+     Non-current deferred tax assets (liabilities):
+          Depreciation                         $(1,929)       $(2,536)
+          Other                                     673            373
+                                               --------       --------
+             Total                             $(1,256)       $(2,163)
+                                               ========        =======
+</TABLE>
+The Company's Federal income tax returns for the years prior to 1994 have been
+audited and completely settled.  Management believes that adequate provision
+for income taxes has been made for all years through 1995.
+<PAGE>
+(8)  Commitments and Contingencies
+
+Operating Leases:  A portion of the Company's operations are conducted using
+leased equipment and facilities.  These leases are non-cancelable and renewable
+with expiration dates ranging through the year 2004.  The rental expense
+included in the accompanying consolidated statements of income was $5,676,000,
+$5,411,000, and $5,347,000 for 1995, 1994, and 1993 respectively.
+
+The following is a schedule of future minimum rental payments required under
+all non-cancelable operating leases as of October 31, 1995:
+
+                                         (In Thousands)
+          1996                                  $ 5,514
+          1997                                    4,683
+          1998                                    4,226
+          1999                                    3,598
+          2000 and thereafter                     4,429
+                                                -------
+                                                $22,450
+                                                =======
+
+Contingencies:  There are no legal proceedings pending against or involving the
+Company which, in the opinion of management, will have a material adverse
+effect on the Company's financial position or results of operations.
+
+Change of Control:  The Board of Directors has approved the extension of
+certain employee benefits, including salary continuation to key employees, in
+the event of a change of control of the Company.  The Board has retained the
+flexibility to cancel such provisions under certain circumstances.
+<PAGE>
+<TABLE>
+<CAPTION>
+                 ADC TELECOMMUNICATIONS, INC. AND SUBSIDIARIES
+                SUPPLEMENTAL FINANCIAL INFORMATION - Unaudited
+                                       
+                   (In Thousands, Except Earnings Per Share)
+
+                                                      1995
+                              ------------------------------------------------
+                                FIRST    SECOND    THIRD    FOURTH
+                               QUARTER   QUARTER   QUARTER   QUARTER     TOTAL
+                              --------  --------  --------  --------  --------
+<S>                          <C>        <C>       <C>       <C>       <C>
+Net Sales                     $121,774  $140,342  $150,454  $173,652  $586,222
+Gross Profit                    59,372    69,039    71,712    84,005   284,128
+Income Before Income Taxes      16,352    16,235    24,489    29,153    86,229
+Provision for Income Taxes       5,886     5,846     8,815    10,496    31,043
+Net Income                      10,466    10,389    15,674    18,657    55,186
+Average Common Shares
+  Outstanding                   55,849    56,094    59,321    62,655    58,547
+Earnings Per Share                0.19      0.18      0.26      0.30      0.94
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                      1994
+                              ------------------------------------------------
+                               FIRST     SECOND    THIRD    FOURTH
+                               QUARTER   QUARTER   QUARTER   QUARTER     TOTAL
+                              --------  --------  --------  --------  --------
+<S>                          <C>        <C>       <C>       <C>       <C>
+Net Sales                     $ 91,176  $113,573  $115,688  $128,298  $448,735
+Gross Profit                    45,929    57,413    58,342    65,603   227,287
+Income Before Income Taxes
+  and Extraordinary Item        10,626    16,008    17,456    20,231    64,321
+Provision for Income Taxes       3,931     5,923     6,459     7,487    23,800
+Net Income Before
+  Extraordinary Item             6,695    10,085    10,997    12,744    40,521
+Extraordinary Item, Net        (1,450)        --        --        --   (1,450)
+Net Income                       5,245    10,085    10,997    12,744    39,071
+Average Common Shares
+  Outstanding                   55,470    55,568    55,658    55,740    55,610
+
+Earnings Per Share Before
+  Extraordinary Item              0.12      0.18      0.20      0.23      0.73
+Earnings Per Share                0.09      0.18      0.20      0.23      0.70
+</TABLE>
+
+Item 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+
+          None
+<PAGE>
+                                   PART III
+
+
+Item 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     See Part I of this Report for information with respect to executive
+officers of the Company.  Pursuant to General Instruction G(3), reference is
+made to the information contained under the captions "Election of Directors"
+and "Section 16(a) Reporting" in the Company's definitive proxy statement for
+its 1996 Annual Meeting of Shareholders to be filed with the Securities and
+Exchange Commission on or before February 27, 1996, which information is
+incorporated herein.
+
+
+Item 11.  EXECUTIVE COMPENSATION
+
+     Pursuant to General Instruction G(3), reference is made to the information
+contained under the caption "Executive Compensation" (except for the
+information set forth under the subcaption "Compensation and Organization
+Committee Report on Executive Compensation," which is not incorporated herein)
+in the Company's definitive proxy statement for its 1996 Annual Meeting of
+Shareholders to be filed with the Securities and Exchange Commission on or
+before February 27, 1996, which information is incorporated herein.
+
+
+Item 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+          AND MANAGEMENT
+
+     Pursuant to General Instruction G(3), reference is made to the information
+contained under the caption "Security Ownership of Certain Beneficial Owners
+and Management" in the Company's definitive proxy statement for its 1996 Annual
+Meeting of Shareholders to be filed with the Securities and Exchange Commission
+on or before February 27, 1996, which information is incorporated herein.
+
+
+Item 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Pursuant to General Instruction G(3), reference is made to the information
+contained in the last paragraph under the caption "Election of Directors --
+Compensation of Directors" in the Company's definitive proxy statement for its
+1996 Annual Meeting of Shareholders to be filed with the Securities and
+Exchange Commission on or before February 27, 1996, which information is
+incorporated herein.
+
+<PAGE>
+                                    PART IV
+
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND
+          REPORTS ON FORM 8-K
+
+(a) 1.    FINANCIAL STATEMENTS
+
+     The following consolidated financial statements of the Company are
+included in Part II, Item 8 of this Annual Report on Form 10-K:
+
+     Report of Independent Public Accountants.
+     Consolidated Statements of Income for the years ended October 31,
+       1995, 1994 and 1993.
+     Consolidated Balance Sheets as of October 31, 1995 and 1994.
+     Consolidated Statements of Changes in Stockholders' Investment for
+       the years ended October 31, 1995, 1994 and 1993.
+     Consolidated Statements of Cash Flows for the years
+       ended October 31, 1995, 1994 and 1993.
+     Notes to Consolidated Financial Statements.
+     Supplemental Financial Information (Unaudited).
+
+     2.   FINANCIAL STATEMENT SCHEDULES
+
+     All schedules for which provision is made in the applicable accounting
+regulations of the Securities and Exchange Commission have been omitted as not
+required or not applicable, or the information required has been included
+elsewhere in the financial statements and related notes.
+
+     3.   LISTING OF EXHIBITS
+
+Exhibit
+Number    Description
+  3-a     Restated Articles of Incorporation of ADC Telecommunications, Inc.,
+as amended to date.  (Incorporated by reference to Exhibit 4(b) of the
+Company's Registration Statement on Form S-8 dated March 11, 1994, for the
+Company's 1994 Employee Stock Purchase Plan.)
+
+   3-b    Composite Restated Bylaws of ADC Telecommunications, Inc., as amended
+to date.  (Incorporated by reference to Exhibit 3-b to the Company's Annual
+Report on Form 10-K for the fiscal year ended October 31, 1989.)
+
+   4-a    Specimen certificate for shares of Common Stock of ADC
+Telecommunications, Inc. (Incorporated by reference to Exhibit 4-a to the
+Company's Quarterly Report on  Form 10-Q for the quarter ended July 31, 1989.)
+<PAGE>
+Exhibit
+Number    Description
+   4-b    Restated Articles of Incorporation of ADC Telecommunications, Inc.,
+as amended to date.  (Incorporated by reference to Exhibit 4(b) of the
+Company's Registration Statement on Exhibit Form S-8 dated March 11, 1994, for
+the Company's 1994 Employee Stock Purchase Plan.)
+
+   4-c    Composite Restated Bylaws of ADC Telecommunications, Inc., as amended
+to date  (Incorporated by reference to Exhibit 3-b to the Company's Annual
+Report on Form 10-K for the fiscal year ended October 31, 1989.)
+
+   4-d    Second Amended and Restated Rights Agreement, amended and restated as
+of November 28, 1995, between ADC Telecommunications, Inc. and Norwest Bank
+Minnesota, N.A. (amending and restating the Rights Agreement dated as of
+September 23, 1986, as amended and restated as of August 16, 1989), which
+includes as Exhibit A thereto the form of Right Certificate.  (Incorporated by
+reference to Exhibit 4 to the Company's Form 8-K dated December 11, 1995.)
+
+  10-a*   Stock Option and Restricted Stock Plan, restated as of January 26,
+1988.  (Incorporated by reference to Exhibit 10-a to the Company's Quarterly
+Report on Form 10-Q for the quarter ended April 30, 1988.)
+
+  10-b*   Amendment to Stock Option and Restricted Stock Plan dated as of
+September 26, 1989.  (Incorporated by reference to Exhibit 10-e to the
+Company's Annual Report on Form 10-K for the fiscal year ended October 31,
+1989.)
+
+  10-c*   The ADC Telecommunications, Inc. 1991 Stock Incentive Plan, as
+amended.  (Incorporated by reference to Exhibit 10-a to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1993.)
+
+  10-d*   Access Platform System Management Incentive Plan for the fiscal year
+ended October 31, 1994.  (Incorporated by reference to Exhibit 10-a to the
+Company's Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-e*   ALS Management Incentive Plan for the fiscal year ended October 31,
+1994.  (Incorporated by reference to Exhibit 10-b to the Company's Quarterly
+Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-f*   Business Development Management Incentive Plan for the fiscal year
+ended October 31, 1994.  (Incorporated by reference to Exhibit 10-c to the
+Company's Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-g*   Cable Management Management Incentive Plan for the fiscal year ended
+October 31, 1994.  (Incorporated by reference to Exhibit 10-d to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+<PAGE>
+Exhibit
+Number    Description
+  10-h*   Corporate Management Incentive Plan for the fiscal year ended October
+31, 1994.  (Incorporated by reference to Exhibit 10-e to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-i*   Fibermux Management Incentive Plan for the fiscal year ended October
+31, 1994.  (Incorporated by reference to Exhibit 10-f to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-j*   International Management Incentive Plan for the fiscal year ended
+October 31, 1994.  (Incorporated by reference to Exhibit 10-g to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-k*   Kentrox Management Incentive Plan for the fiscal year ended October
+31, 1994.  (Incorporated by reference to Exhibit 10-h to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-l*   Vice President of Sales and Customer Service Management Incentive
+Plan for the fiscal year ended October 31, 1994.  (Incorporated by reference to
+Exhibit 10-i to the Company's Quarterly Report on Form 10-Q for the quarter
+ended July 31, 1994.)
+
+  10-m*   Senior Vice President Transmission Group Management Incentive Plan
+for the fiscal year ended October 31, 1994.  (Incorporated by reference to
+Exhibit 10-j to the Company's Quarterly Report on Form 10-Q for the quarter
+ended July 31, 1994.)
+
+  10-n*   Transmission Management Incentive Plan for the fiscal year ended
+October 31, 1994.  (Incorporated by reference to Exhibit 10-k to the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-o*   Transmission Product and Marketing Management Management Incentive
+Plan for the fiscal year ended October 31, 1994.  (Incorporated by reference to
+Exhibit 10-l to the Company's Quarterly Report on Form 10-Q for the quarter
+ended July 31, 1994.)
+
+  10-p*   Transmission Product and Marketing Management (International)
+Management Incentive Plan for the fiscal year ended October 31, 1994.
+(Incorporated by reference to Exhibit 10-m to the Company's Quarterly Report on
+Form 10-Q for the quarter ended July 31, 1994.)
+
+  10-q*   Access Platform Systems Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-b to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+<PAGE>
+Exhibit
+Number    Description
+  10-r*   ALS Management Incentive Plan Fiscal Year 1995.  (Incorporated by
+reference to Exhibit 10-c to the Company's Quarterly Report on Form 10-Q for
+the quarter ended January 31, 1995.)
+
+  10-s*   Broadband Connectivity Copper Management Incentive Plan Fiscal Year
+1995.  (Incorporated by reference to Exhibit 10-d to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-t*   Broadband Connectivity Fiber Management Incentive Plan Fiscal Year
+1995.  (Incorporated by reference to Exhibit 10-e to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-u*   Broadband Connectivity Management Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-f to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-v*   Corporate Management Incentive Plan Fiscal Year 1995.  (Incorporated
+by reference to Exhibit 10-g to the Company's Quarterly Report on Form 10-Q for
+the quarter ended January 31, 1995.)
+
+  10-w*   Fibermux President Management Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-h to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-x*   International Management Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-i to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-y*   Kentrox Management Incentive Plan Fiscal Year 1995.  (Incorporated by
+reference to Exhibit 10-j to the Company's Quarterly Report on Form 10-Q for
+the quarter ended January 31, 1995.)
+
+  10-z*   Network Services Management Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-k to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-aa*  Transmission Group Management Incentive Plan Fiscal Year 1995.
+(Incorporated by reference to Exhibit 10-l to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+  10-bb*  Vice President of Sales and Customer Service Management Incentive
+Plan Fiscal Year 1995.  (Incorporated by reference to Exhibit 10-m to the
+Company's Quarterly Report on Form 10-Q for the quarter ended January 31,
+1995.)
+<PAGE>
+Exhibit
+Number    Description
+  10-cc*  Wireless Management Incentive Plan Fiscal Year 1995.  (Incorporated
+by reference to Exhibit 10-n to the Company's Quarterly Report on Form 10-Q for
+the quarter ended January 31, 1995.)
+
+  10-dd*  Supplemental Executive Retirement Plan Agreement for William J.
+Cadogan, dated as of November 1, 1990, between ADC Telecommunications, Inc. and
+William J. Cadogan.  (Incorporated by reference to Exhibit 10-ee to the
+Company's Annual Report on Form 10-K for the fiscal year ended October 31,
+1993.)
+
+  10-ee*  ADC Telecommunications, Inc. Change in Control Severance Pay Plan
+Statement and Summary Plan Description.  (Incorporated by reference to Exhibit
+10-q to the Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1989.)
+
+  10-ff*  Compensation Plan for Directors of ADC Telecommunications, Inc.,
+restated as of December 31, 1988.  (Incorporated by reference to Exhibit 10-b
+to the Company's Quarterly Report on Form 10-Q for the quarter ended January
+31, 1989.)
+
+  10-gg*  First Amendment of the Compensation Plan for Directors of ADC
+Telecommunications, Inc. restated as of December 31, 1988.  (Incorporated by
+reference to Exhibit 10-s to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1989.)
+
+  10-hh*  ADC Telecommunications, Inc. Directors' Supplemental Retirement Plan
+dated as of January 23, 1990.  (Incorporated by reference to Exhibit 10-m to
+the Company's Annual Report on Form 10-K for the fiscal year ended October 31,
+1990.)
+
+  10-ii*  ADC Telecommunications, Inc. Nonemployee Director Stock Option Plan.
+(Incorporated by reference to Exhibit 19-b of the Company's Quarterly Report on
+Form 10-Q for the quarter ended April 30, 1991.)
+
+  10-jj*  ADC Telecommunications, Inc. Deferred Compensation Plan, dated as of
+November 1, 1978.  (Incorporated by reference to Exhibit 10-n to the Company's
+Annual Report on Form 10-K  for the fiscal year ended October 31, 1990.)
+
+  10-kk*  ADC Telecommunications, Inc. Excess Benefits Plan, dated as of
+January 1, 1985.  (Incorporated by reference to Exhibit 10-o to the Company's
+Annual Report on Form 10-K for the fiscal year ended October 31, 1990.)
+
+  10-ll*  ADC Telecommunications, Inc. 401(k) Excess Plan, dated as of
+September 1, 1990.  (Incorporated by reference to Exhibit 10-p to the Company's
+Annual Report on Form 10-K for the fiscal year ended October 31, 1990.)
+<PAGE>
+Exhibit
+Number    Description
+  10-mm   Lease, dated March 1, 1986, between ADC Telecommunications, Inc. and
+Metro International Ltd. as amended.  (Incorporated by reference to Exhibit 10-
+w to the Company's Annual Report on Form 10-K for the fiscal year ended October
+31, 1991.)
+
+  10-nn   Renewal of Lease, dated July 9, 1990, between ADC Telecommunications,
+Inc. and Metro International General Partner Canada, Inc.  (Incorporated by
+reference to Exhibit 10-z to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1990.)
+
+  10-oo   Lease Agreement, dated August 21, 1990, between Minnetonka Corporate
+Center I Limited Partnership and ADC Telecommunications, Inc.  (Incorporated by
+reference to Exhibit 10-x to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1990.)
+
+  10-pp   Lease Agreement, dated October 26, 1990, between Lutheran Brotherhood
+and ADC Telecommunications, Inc.  (Incorporated by reference to Exhibit 10-w to
+the Company's Annual Report on Form 10-K for the fiscal year ended October 31,
+1990.)
+
+  10-qq   Sublease Agreement, dated October 31, 1990, between Seagate
+Technology, Inc. and ADC Telecommunications, Inc.  (Incorporated by reference
+to Exhibit 10-y to the Company's Annual Report on Form 10-K for the fiscal year
+ended October 31, 1990.)
+
+  10-rr   Lease, dated February 25, 1991, between American Lightwave Systems,
+Inc. and 999 Research Parkway, Inc.  (Incorporated by reference to Exhibit 10-t
+to the Company's Annual Report on Form 10-K for the fiscal year ended October
+31, 1991.)
+
+  10-ss   Lease, dated December 18, 1992, between Fibermux Corporation and
+Greenville Dallas Delaware, Inc.  (Incorporated by reference to Exhibit 10-dd
+to the Company's Annual Report on Form 10-K for the fiscal year ended October
+31, 1993.)
+
+  10-tt   Lease, dated August 2, 1993, between ADC Telecommunications, Inc. and
+Engelsma Limited Partnership.  (Incorporated by reference to Exhibit 10-cc to
+the Company's Annual Report on Form 10-K for the fiscal year ended October 31,
+1993.)
+
+10-uu     Lease, dated September 30, 1993, between American Lightwave Systems,
+Inc. and 999 Research Parkway, Inc.  (Incorporated by reference to Exhibit 10-
+bb to the Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1993.)
+<PAGE>
+Exhibit
+Number    Description
+  10-vv   Sublease, dated as of February 21, 1995, between Seagate Technology,
+Inc. and ADC Telecommunications, Inc.  (Incorporated by reference to Exhibit
+10-a of the Company's Quarterly Report on Form 10-Q for the quarter ended April
+30, 1995.)
+
+  10-ww   Lease, dated July 17, 1995, between Centract VI LLC and ADC Video
+Systems, Inc.  (Incorporated by reference to Exhibit 10-a of the Company's
+Quarterly Report on Form 10-Q for the quarter ended July 31, 1995.)
+
+  21-a    Subsidiaries of the Company.
+
+  23-a    Consent of Independent Public Accountants to the incorporation of
+their report dated December 13, 1995, included in this Form 10-K, into the
+Company's previously filed Registration Statements, File Nos. 2-83584,
+33-22654, 33-40356, 33-40357, 33-52635, 33-52637, 33-58407, 33-58409 and
+33-59445.
+
+  24-a    Powers of attorney.
+
+  27-a    Financial Data Schedule.
+
+There have been excluded from the exhibits filed with this report instruments
+defining the rights of holders of long-term debt of the Company where the total
+amount of the securities authorized under such instruments does not exceed 10%
+of the total assets of the Company.  The Company hereby agrees to furnish a
+copy of any such instruments to the Commission upon request.
+
+(b)     Reports on Form 8-K
+
+        No reports on Form 8-K were filed by the Company during the quarter
+        ended October 31, 1995.
+
+(c)     See Exhibit Index and Exhibits attached to this report.
+
+(d)     See Financial Statement Schedules included in Part II, Item 8 of this
+report.
+
+__________________
+* Management contract or compensatory plan or arrangement required to be filed
+as an Exhibit to the Annual Report on Form 10-K.
+<PAGE>
+                                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                   ADC TELECOMMUNICATIONS, INC.
+
+Dated: December 28, 1995           By:  /s/ William J. Cadogan
+                                      William J. Cadogan
+                                      Chairman of the Board, President,
+                                      Chief Executive Officer and
+                                      Chief Operating Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+/s/ William J. Cadogan             Chairman of the Board, President,
+William J. Cadogan                 Chief Executive Officer and Chief
+                                   Operating Officer (principal executive
+                                   officer)
+
+/s/ Robert E. Switz                Vice President, Chief Financial Officer
+Robert E. Switz                    (principal financial officer)
+
+/s/ Charles T. Roehrick            Vice President and Controller
+Charles T. Roehrick                (principal accounting officer)
+
+Dated: December 28, 1995
+
+James C. Castle, Ph.D.*  Director
+Thomas E. Holloran*      Director
+B. Kristine Johnson*     Director
+Charles W. Oswald*       Director
+Alan E. Ross*            Director
+Jean-Pierre Rosso*       Director
+Donald M. Sullivan*      Director
+Warde F. Wheaton*        Director
+John D. Wunsch*          Director
+
+
+
+
+*By  /s/ David F. Fisher
+     David F. Fisher
+     Attorney-in-fact
+<PAGE>
+                         ADC TELECOMMUNICATIONS, INC.
+                          Annual Report on Form 10-K
+                  For the Fiscal Year Ended October 31, 1995
+                                       
+                                 EXHIBIT INDEX
+
+Exhibit
+Number    Description                                                   Page
+3-a    Restated Articles of Incorporation of ADC Telecommunications,     N/A
+Inc., as amended to date.  (Incorporated by reference to Exhibit
+4(b) of the Company's Registration Statement on Form S-8 dated
+March 11, 1994, for the Company's 1994 Employee Stock Purchase Plan.)
+
+3-b    Composite Restated Bylaws of ADC Telecommunications, Inc.,        N/A
+as amended to date  (Incorporated by reference to Exhibit 3-b to the
+Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1989.)
+
+4-a    Specimen certificate for shares of Common Stock of ADC           N/A
+Telecommunications, Inc. (Incorporated by reference to Exhibit 4-a
+to the Company's Quarterly Report on  Form 10-Q for the quarter
+ended July 31, 1989.)
+
+4-b    Restated Articles of Incorporation of ADC Telecommunications,     N/A
+Inc., as amended to date.  (Incorporated by reference to Exhibit
+4(b) of the Company's Registration Statement on Form S-8 dated March
+11, 1994, for the Company's 1994 Employee Stock Purchase Plan.)
+
+4-c    Composite Restated Bylaws of ADC Telecommunications, Inc., as     N/A
+amended to date  (Incorporated by reference to Exhibit 3-b to the
+Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1989.)
+
+4-d    Second Amended and Restated Rights Agreement, amended and         N/A
+restated as of November 28, 1995, between ADC Telecommunications,
+Inc. and Norwest Bank Minnesota, N.A. (amending and restating the
+Rights Agreement dated as of September 23, 1986, as amended and
+restated as of August 16, 1989), which includes as Exhibit A thereto
+the form of Right Certificate.  (Incorporated by reference to
+Exhibit 4 to the Company's Form 8-K dated December 11, 1995.)
+
+10-a   Stock Option and Restricted Stock Plan, restated as of            N/A
+January 26, 1988.  (Incorporated by reference to Exhibit 19-a to
+the Company's Quarterly Report on Form 10-Q for the quarter ended
+April 30, 1988.)
+
+<PAGE>
+Exhibit
+Number Description                                                      Page
+10-b   Amendment to Stock Option and Restricted Stock Plan dated as      N/A
+of September 26, 1989.  (Incorporated by reference to Exhibit 10-e
+to the Company's Annual Report on Form 10-K for the fiscal year
+ended October 31, 1989.)
+
+10-c   The ADC Telecommunications, Inc. 1991 Stock Incentive Plan,       N/A
+as amended.  (Incorporated by reference to Exhibit 10-a to the
+Company's Quarterly Report on Form 10-Q for the quarter ended
+January 31, 1993.)
+
+10-d   Access Platform System Management Incentive Plan for the          N/A
+fiscal year ended October 31, 1994.  (Incorporated by reference to
+Exhibit 10-a to the Company's Quarterly Report on Form 10-Q for the
+quarter ended July 31, 1994.)
+
+10-e   ALS Management Incentive Plan for the fiscal year ended           N/A
+October 31, 1994.  (Incorporated by reference to Exhibit 10-b to
+the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1994.)
+
+10-f   Business Development Management Incentive Plan for the fiscal     N/A
+year ended October 31, 1994.  (Incorporated by reference to Exhibit
+10-c to the Company's Quarterly Report on Form 10-Q for the quarter
+ended July 31, 1994.)
+
+10-g   Cable Management Management Incentive Plan for the fiscal         N/A
+year ended October 31, 1994.  (Incorporated by reference to Exhibit
+10-d to the Company's Quarterly Report on Form 10-Q for the quarter
+ended July 31, 1994.)
+
+10-h   Corporate Management Incentive Plan for the fiscal year ended     N/A
+October 31, 1994.  (Incorporated by reference to Exhibit 10-e to the
+Company's Quarterly Report on Form 10-Q for the quarter ended July
+31, 1994.)
+
+10-i   Fibermux Management Incentive Plan for the fiscal year ended      N/A
+October 31, 1994.  (Incorporated by reference to Exhibit 10-f to the
+Company's Quarterly Report on Form 10-Q for the quarter ended July
+31, 1994.)
+
+10-j   International Management Incentive Plan for the fiscal year       N/A
+ended October 31, 1994.  (Incorporated by reference to Exhibit 10-g
+to the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1994.)
+
+10-k   Kentrox Management Incentive Plan for the fiscal year ended       N/A
+October 31, 1994.  (Incorporated by reference to Exhibit 10-h to
+the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1994.)
+<PAGE>
+Exhibit
+Number Description                                                      Page
+10-l   Vice President of Sales and Customer Service Management           N/A
+Incentive Plan for the fiscal year ended October 31, 1994.
+(Incorporated by reference to Exhibit 10-i to the Company's Quarterly
+Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+10-m   Senior Vice President Transmission Group Management Incentive     N/A
+Plan for the fiscal year ended October 31, 1994.  (Incorporated by
+reference to Exhibit 10-j to the Company's Quarterly Report on Form
+10-Q for the quarter ended July 31, 1994.)
+
+10-n   Transmission Management Incentive Plan for the fiscal year        N/A
+ended October 31, 1994.  (Incorporated by reference to Exhibit 10-k
+to the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1994.)
+
+10-o   Transmission Product and Marketing Management Management          N/A
+Incentive Plan for the fiscal year ended October 31, 1994.
+(Incorporated by reference to Exhibit 10-l to the Company's Quarterly
+Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+10-p   Transmission Product and Marketing Management (International)     N/A
+Management Incentive Plan for the fiscal year ended October 31, 1994.
+(Incorporated by reference to Exhibit 10-m to the Company's Quarterly
+Report on Form 10-Q for the quarter ended July 31, 1994.)
+
+10-q   Access Platform Systems Incentive Plan Fiscal Year 1995.          N/A
+(Incorporated by reference to Exhibit 10-b to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-r   ALS Management Incentive Plan Fiscal Year 1995.  (Incorporated   N/A
+by reference to Exhibit 10-c to the Company's Quarterly Report on
+Form 10-Q for the quarter ended January 31, 1995.)
+
+10-s   Broadband Connectivity Copper Management Incentive Plan Fiscal    N/A
+Year 1995.  (Incorporated by reference to Exhibit 10-e to the Company's
+Quarterly Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-t   Broadband Connectivity Fiber Management Incentive Plan Fiscal     N/A
+Year 1995.  (Incorporated by reference to Exhibit 10-e to the Company's
+Quarterly Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-u   Broadband Connectivity Management Incentive Plan Fiscal Year      N/A
+1995. (Incorporated by reference to Exhibit 10-g to the Company's
+Quarterly Report on Form 10-Q for the quarter ended January 31, 1995.)
+<PAGE>
+Exhibit
+Number Description                                                      Page
+10-v   Corporate Management Incentive Plan Fiscal Year 1995.             N/A
+(Incorporated by reference to Exhibit 10-g to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-w   Fibermux President Management Incentive Plan Fiscal Year 1995.    N/A
+(Incorporated by reference to Exhibit 10-h to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-x   International Management Incentive Plan Fiscal Year 1995.         N/A
+(Incorporated by reference to Exhibit 10-i to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-y   Kentrox Management Incentive Plan Fiscal Year 1995.               N/A
+(Incorporated by reference to Exhibit 10-j to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-z   Network Services Management Incentive Plan Fiscal Year 1995.      N/A
+(Incorporated by reference to Exhibit 10-k to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-aa  Transmission Group Management Incentive Plan Fiscal Year 1995.    N/A
+(Incorporated by reference to Exhibit 10-l to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-bb  Vice President of Sales and Customer Service Management           N/A
+Incentive Plan Fiscal Year 1995.  (Incorporated by reference to Exhibit
+10-m to the Company's Quarterly Report on Form 10-Q for the quarter
+ended January 31, 1995.)
+
+10-cc  Wireless Management Incentive Plan Fiscal Year 1995.              N/A
+(Incorporated by reference to Exhibit 10-n to the Company's Quarterly
+Report on Form 10-Q for the quarter ended January 31, 1995.)
+
+10-dd  Supplemental Executive Retirement Plan Agreement for William      N/A
+J. Cadogan, dated as of November 1, 1990, between ADC Telecommuni-
+cations, Inc. and William J. Cadogan.  (Incorporated by reference to
+Exhibit 10-ee to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1993.)
+
+10-ee  ADC Telecommunications, Inc. Change in Control Severance Pay      N/A
+Plan Statement and Summary Plan Description.  (Incorporated by
+reference to Exhibit 10-q to the Company's Annual Report on Form 10-K
+for the fiscal year ended October 31, 1989.)
+<PAGE>
+Exhibit
+Number Description                                                      Page
+10-ff  Compensation Plan for Directors of ADC Telecommunications,        N/A
+Inc., restated as of December 31, 1988.  (Incorporated by reference
+to Exhibit 19-b to the Company's Quarterly Report on Form 10-Q for the
+quarter ended January 31, 1989.)
+
+10-gg  First Amendment of the Compensation Plan for Directors of ADC     N/A
+Telecommunications, Inc. restated as of December 31, 1988.
+(Incorporated by reference to Exhibit 10-s to the Company's Annual
+Report on Form 10-K for the fiscal year ended October 31, 1989.)
+
+10-hh  ADC Telecommunications, Inc. Directors' Supplemental Retirement   N/A
+Plan dated as of January 23, 1990.  (Incorporated by reference to
+Exhibit 10-m to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1990.)
+
+10-ii  ADC Telecommunications, Inc. Nonemployee Director Stock Option    N/A
+Plan.  (Incorporated by reference to Exhibit 19-b of the Company's
+Quarterly Report on Form 10-Q for the quarter ended April 30, 1991.)
+
+10-jj  ADC Telecommunications, Inc. Deferred Compensation Plan, dated    N/A
+as of November 1, 1978.  (Incorporated by reference to Exhibit 10-n
+to the Company's Annual Report on Form 10-K  for the fiscal year
+ended October 31, 1990.)
+
+10-kk  ADC Telecommunications, Inc. Excess Benefits Plan, dated as of    N/A
+January 1, 1985.  (Incorporated by reference to Exhibit 10-o to the
+Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1990.)
+
+10-ll  ADC Telecommunications, Inc. 401(k) Excess Plan, dated as of      N/A
+September 1, 1990.  (Incorporated by reference to Exhibit 10-p to the
+Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 1990.)
+
+10-mm  Lease, dated March 1, 1986, between ADC Telecommunications,       N/A
+Inc. and Metro International Ltd. as amended.  (Incorporated by
+reference to Exhibit 10-w to the Company's Annual Report on Form 10-K
+for the fiscal year ended October 31, 1991.)
+
+10-nn  Renewal of Lease, dated July 9, 1990, between ADC Telecom-        N/A
+munications, Inc. and Metro International General Partner Canada, Inc.
+(Incorporated by reference to Exhibit 10-z to the Company's Annual
+Report on Form 10-K for the fiscal year ended October 31, 1990.)
+
+<PAGE>
+Exhibit
+Number Description                                                      Page
+10-oo  Lease Agreement, dated August 21, 1990, between Minnetonka        N/A
+Corporate Center I Limited Partnership and ADC Telecommunications,
+Inc.  (Incorporated by reference to Exhibit 10-x to the Company's
+Annual Report on Form 10-K for the fiscal year ended October 31, 1990.)
+
+10-pp  Lease Agreement, dated October 26, 1990, between Lutheran         N/A
+Brotherhood and ADC Telecommunications, Inc.  (Incorporated by
+reference to Exhibit 10-w to the Company's Annual Report on Form 10-K
+for the fiscal year ended October 31, 1990.)
+
+10-qq  Sublease Agreement, dated October 31, 1990, between Seagate       N/A
+Technology, Inc. and ADC Telecommunications, Inc.  (Incorporated by
+reference to Exhibit 10-y to the Company's Annual Report on Form 10-K
+for the fiscal year ended October 31, 1990.)
+
+10-rr  Lease, dated February 25, 1991, between American Lightwave        N/A
+Systems, Inc. and 999 Research Parkway, Inc.  (Incorporated by
+reference to Exhibit 10-t to the Company's Annual Report on Form
+10-K for the fiscal year ended October 31, 1991.)
+
+10-ss  Lease, dated December 18, 1992, between Fibermux Corporation      N/A
+and Greenville Dallas Delaware, Inc.  (Incorporated by reference to
+Exhibit 10-dd to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1993.)
+
+10-tt  Lease, dated August 2, 1993, between ADC Telecommunications,      N/A
+Inc. and Engelsma Limited Partnership.  (Incorporated by reference
+to Exhibit 10-cc to the Company's Annual Report on Form 10-K for the
+fiscal year ended October 31, 1993.)
+
+10-uu  Lease, dated September 30, 1993, between American Lightwave       N/A
+Systems, Inc. and 999 Research Parkway, Inc.  (Incorporated by
+reference to Exhibit 10-bb to the Company's Annual Report on Form
+10-K for the fiscal year ended October 31, 1993.)
+
+10-vv  Sublease, dated as of February 21, 1995, between Seagate          N/A
+Technology, Inc. and ADC Telecommunications, Inc.  (Incorporated by
+reference to Exhibit 10-a of the Company's Quarterly Report on Form
+10-Q for the quarter ended April 30, 1995.)
+
+10-ww  Lease, dated July 17, 1995, between Centract VI LLC and           N/A
+ADC Video Systems, Inc.  (Incorporated by reference to Exhibit 10-a
+of the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1995.)
+<PAGE>
+Exhibit
+Number Description                                                      Page
+21-a   Subsidiaries of the Company                                        xx
+
+23-a   Consent of Independent Public Accountants to the incorporation     xx
+of their report dated December 13, 1995, included in this Form 10-K,
+into the Company's previously filed Registration Statements, File Nos.
+2-83584, 33-22654, 33-40356, 33-40357, 33-52635, 33-52637, 33-58407,
+33-58409 and 33-59445.
+
+24-a   Powers of attorney.                                                xx
+
+27-a   Financial Data Schedule.                                           xx
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES OF THE COMPANY
+<TEXT>
+
+                                                                 Exhibit 21-a
+
+                          SUBSIDIARIES OF THE COMPANY
+
+The following list of subsidiaries of the Company identifies the name of the
+subsidiary, the state or other jurisdiction of incorporation or organization
+and the name under which such subsidiaries do business:
+
+                            ADC VIDEO SYSTEMS, INC.
+                   formerly American Lightwave Systems, Inc.
+                            A Delaware corporation
+                            AVS, ADC Video Systems
+                                       
+                             FIBERMUX CORPORATION
+                           A California corporation
+                            Fibermux, ADC Fibermux
+                                       
+                           KENTROX INDUSTRIES, INC.
+                            A Delaware corporation
+                             Kentrox, ADC Kentrox
+                                       
+                                 ADC EUROPE NV
+                                    Belgium
+                                ADC, ADC Europe
+                                       
+                           ADC INTERNATIONAL LIMITED
+                                    Jamaica
+                                       
+                          ADC de MEXICO, S.A. de C.V.
+                                    Mexico
+                                       
+                            ADC TELECOM CANADA INC.
+                                    Canada
+                                       
+           ADC TELECOMMUNICATIONS AUSTRALIA (HOLDINGS) PTY. LIMITED
+                                   Australia
+                                       
+                 ADC Telecomunications Australia Pty. Limited
+                                   Australia
+                                       
+                               AOFR Pty. Limited
+                                   Australia
+                                       
+                 ADC TELECOMMUNICATIONS SINGAPORE PTE. LIMITED
+                                   Singapore
+                                       
+                         ADC TELECOMMUNICATIONS UK LTD
+                                United Kingdom
+                          ADC, ADC Telecommunications
+                                       
+                    ADC TELECOMUNICACIONES VENEZUELA, S.A.
+                                   Venezuela
+                                       
+                              AOFR AMERICAS, INC.
+                            A Delaware corporation
+                                       
+                               AOFR EUROPE GmbH
+                                    Germany
+                          ADC, ADC Telecommunications
+                                       
+           SHANGHAI ADC TELECOMMUNICATIONS EQUIPMENT CO. LTD. (50%)
+                          People's Republic of China
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>ACCOUNTANTS CONSENT
+<TEXT>
+
+                                                                 Exhibit 23-a
+
+
+
+
+
+
+
+
+
+
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To ADC Telecommunications, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation of
+our report dated December 13, 1995, included in this Form 10-K, into the
+Company's previously filed Registration Statements, File Nos. 2-83584,
+33-22654, 33-40356, 33-40357, 33-52635, 33-52637, 33-58407, 33-58409 and
+33-59445.
+
+
+
+
+
+
+                                     ARTHUR ANDERSEN LLP
+
+
+Minneapolis, Minnesota
+     January 3, 1996
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>POWERS OF ATTORNEY
+<TEXT>
+
+POA2/10k/10123STC/dkp
+                                                                 Exhibit 24-a
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, James C. Castle, Ph.D., do hereby constitute and appoint William J. Cadogan
+and David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ James C. Castle
+                                           James C. Castle, Ph.D.
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Thomas E. Holloran, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Thomas E. Holloran
+                                           Thomas E. Holloran
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, B. Kristine Johnson, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ B. Kristine Johnson
+                                           B. Kristine Johnson
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Charles W. Oswald, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Charles W. Oswald
+                                           Charles W. Oswald
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Alan E. Ross, do hereby constitute and appoint William J. Cadogan and David
+F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of signing,
+in my name and on my behalf as a Director of ADC Telecommunications, Inc., the
+Annual Report of ADC Telecommunications, Inc. on Form 10-K for its fiscal year
+ended October 31, 1995, and any and all amendments to said Annual Report and
+any and all amendments thereto, as each thereof is so signed, for filing with
+the Securities and Exchange Commission pursuant to the Securities Exchange Act
+of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Alan E. Ross
+                                           Alan E. Ross
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Jean-Pierre Rosso, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Jean-Pierre Rosso
+                                           Jean-Pierre Rosso
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Donald M. Sullivan, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Donald M. Sullivan
+                                           Donald M. Sullivan
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, Warde F. Wheaton, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ Warde F. Wheaton
+                                           Warde F. Wheaton
+
+
+
+
+
+
+
+
+
+                               POWER OF ATTORNEY
+
+
+I, John D. Wunsch, do hereby constitute and appoint William J. Cadogan and
+David F. Fisher, or any one of them, my Attorney-in-Fact for the purpose of
+signing, in my name and on my behalf as a Director of ADC Telecommunications,
+Inc., the Annual Report of ADC Telecommunications, Inc. on Form 10-K for its
+fiscal year ended October 31, 1995, and any and all amendments to said Annual
+Report and any and all amendments thereto, as each thereof is so signed, for
+filing with the Securities and Exchange Commission pursuant to the Securities
+Exchange Act of 1934, as amended.
+
+
+December 28, 1995
+
+
+
+                                        /s/ John D. Wunsch
+                                           John D. Wunsch
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from the
+financial statements for ADC Telecommunications, Inc. and Subsidiaries, for the
+fiscal year ended October 31, 1995, and is qualified in its entirety by
+reference to such financial statements.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          OCT-31-1995
+<PERIOD-END>                               OCT-31-1995
+<CASH>                                         238,491
+<SECURITIES>                                         0
+<RECEIVABLES>                                  107,255<F1>
+<ALLOWANCES>                                     4,258
+<INVENTORY>                                     86,559<F2>
+<CURRENT-ASSETS>                               447,747
+<PP&E>                                         191,537
+<DEPRECIATION>                               (112,851)
+<TOTAL-ASSETS>                                 601,083
+<CURRENT-LIABILITIES>                           88,961
+<BONDS>                                              0
+<COMMON>                                        12,547
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     498,319
+<TOTAL-LIABILITY-AND-EQUITY>                   601,083
+<SALES>                                        586,222
+<TOTAL-REVENUES>                               586,222
+<CGS>                                          302,094
+<TOTAL-COSTS>                                  302,094
+<OTHER-EXPENSES>                               203,804
+<LOSS-PROVISION>                                   784
+<INTEREST-EXPENSE>                                 275
+<INCOME-PRETAX>                                 86,229
+<INCOME-TAX>                                    31,043
+<INCOME-CONTINUING>                             55,186
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    55,186
+<EPS-PRIMARY>                                     0.94
+<EPS-DILUTED>                                     0.94
+<FN>
+<F1>Amount is net of allowance for bad debts and returns and allowances.
+<F2>Amount is net of obsolescence reserves.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

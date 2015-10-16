@@ -1,0 +1,44 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2000, 1999 AND 1998
+
+<TABLE>
+<CAPTION>
+
+                                                                          2000           1999           1998
+                                                                      -----------    -----------    -----------
+<S>                                                                  <C>            <C>            <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net loss                                                           $  (807,882)   $(2,206,942)   $(3,327,565)
+   Adjustments to reconcile net loss to net cash provided by (used
+     in) operating activities-
+       Non-cash charges                                                   354,882        750,000      2,991,983
+       Accretion of imputed interest on note payable                         --          154,927         82,451
+       Gain on sale of equipment                                             --          (60,037)          --
+       Depreciation and amortization                                      713,612        707,635        869,304
+       Provision for losses on accounts receivable                         87,049        260,506        215,797
+       Change in assets and liabilities:
+         Decrease in accounts receivable                                  592,252        491,573        911,241
+         Decrease (increase) in inventories                             1,016,755        664,573       (330,018)
+         (Increase) decrease in prepaid expenses and other                (38,057)       204,031         52,543
+         (Increase) decrease in other assets                              (70,239)       183,157       (357,637)
+         Increase (decrease) in accounts payable                          199,067       (300,182)      (807,001)
+         Decrease in accrued expenses                                    (180,649)      (718,866)      (906,152)
+         (Decrease) increase in accrued payroll expenses                 (310,624)       192,178        (52,806)
+                                                                      -----------    -----------    -----------
+
+                Total adjustments                                       2,364,048      2,529,495      2,669,705
+                                                                      -----------    -----------    -----------
+
+                Net cash provided by (used in) operating activities     1,556,166        322,553       (657,860)
+                                                                      -----------    -----------    -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Investment in ProDen Systems, Inc.                                        --             --       (1,030,100)
+   Proceeds from collection of notes receivable                              --             --          310,000
+   Capital expenditures                                                  (138,626)      (169,357)      (479,971)
+                                                                      -----------    -----------    -----------
+
+                Net cash used in investing activities                    (138,626)      (169,357)    (1,200,071)
+                                                                      -----------    -----------    -----------
+
+</TABLE>

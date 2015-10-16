@@ -1,0 +1,42 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2001, 2000 AND 1999
+
+<TABLE>
+<CAPTION>
+
+                                                                                2001             2000           1999
+                                                                            -----------     -----------     -----------
+<S>                                                                         <C>             <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net loss                                                                 $(1,738,346)    $  (807,882)    $(2,206,942)
+   Adjustments  to  reconcile  net loss to net cash  provided by
+     (used in) operating activities-
+       Non-cash special charges                                                 846,000        (100,000)        400,000
+       Accretion of imputed interest on note payable                                  -               -         154,927
+       Gain on sale of equipment                                                      -               -         (60,037)
+       Depreciation and amortization                                            761,233         713,612         707,635
+       Provision for losses on accounts receivable                               99,356          87,049         260,506
+       Change in assets and liabilities:
+         Decrease in accounts receivable                                        468,311         592,252         491,573
+         Decrease in inventories                                                589,856       1,471,637       1,014,573
+         (Increase) decrease in prepaid expenses and other                       (2,705)        (38,057)        204,031
+         Decrease (increase) in other assets                                    178,264         (70,239)        183,157
+         (Decrease) increase in accounts payable                               (182,187)        199,067        (300,182)
+         Decrease in accrued expenses                                           (30,540)       (180,649)       (718,866)
+         Increase (decrease) in accrued payroll expenses                         32,665        (310,624)        192,178
+                                                                            -----------     -----------     -----------
+
+                Total adjustments                                             2,760,253       2,364,048       2,529,495
+                                                                            -----------     -----------     -----------
+
+                Net cash provided by operating activities                     1,021,907       1,556,166         322,553
+                                                                            -----------     -----------     -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Capital expenditures                                                        (202,968)       (138,626)       (169,357)
+                                                                            -----------     -----------     -----------
+
+                Net cash used in investing activities                          (202,968)       (138,626)       (169,357)
+                                                                            -----------     -----------     -----------
+
+</TABLE>

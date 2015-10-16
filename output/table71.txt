@@ -1,0 +1,506 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS<BR>
+</B><I><U>(In thousands)</I></U><BR>
+</P></FONT>
+<P ALIGN="LEFT"><TABLE CELLSPACING=0 BORDER=0 WIDTH=580>
+<TR><TD WIDTH="53%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="47%" VALIGN="TOP" COLSPAN=5>
+<U><FONT SIZE=2><P ALIGN="CENTER">Years Ended December 31,</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="CENTER">2005</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="CENTER">2004</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="CENTER">2003</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Operating activities:</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp; Net income (loss) </FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">$133,769</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$(314,737)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$13,833</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp; Adjustments to reconcile net income<BR>
+&nbsp;&nbsp;&nbsp;      to net cash provided by operating&nbsp;activities:</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp; &nbsp;Depreciation and amortization</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">91,194</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">96,403</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">95,201</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;Interest accretion on convertible debt</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">7,055</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,572</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,141</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;Amortization of loan costs</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">2,168</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">2,736</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">3,941</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;Gain on sale of property</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(2,294)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;(Gain)/loss on disposal of discontinued operations</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(35,259)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">4,041</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp; Deferred income taxes</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(38,070)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">31,144</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(7,277)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp; Other non-cash items</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">15,756</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">308,003</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">7,157</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;Change in assets and liabilities:</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease (increase) in accounts receivable</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">9,210</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">25,908</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(12,426)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease (increase) in inventory</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">71,793</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(529)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">51,942</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Increase) decrease in prepaid <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expenses and other current assets</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+(15,689)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+11,584</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+6,308</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase (decrease) in accounts payable, accrued<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expenses and accrued income taxes</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+3,696</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+3,060</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+(18,938)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;Other, net </FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">1,658</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">  16,018</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">    7,441</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net cash provided by operating&nbsp;activities</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">247,281</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">186,162</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">155,070</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Investing activities:</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Capital expenditures</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(38,939)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(49,306)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(42,619)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Purchase of businesses and intangibles,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;net of cash acquired</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+(5,159)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+(1,787)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT"><BR>
+(5,252)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Proceeds from sale of property</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">    2,355</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>  Purchase of Wynco</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(12,857)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Proceeds from sales of businesses</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">804,421</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">21,400</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">    5,967</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net cash provided (used) in investing activities</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">760,323</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">(42,550)</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">(39,549</U>)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Financing activities:</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Net advances under lines of credit</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">19,636</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,578</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">17,527</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Proceeds of senior long-term debt</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">25,000</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Reduction of long-term debt</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(311,836)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(154,264)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(324,540)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;(Decrease)/Increase in book overdraft</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(12,318)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">19,992</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">1,930</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Dividends paid</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">(9,481)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(9,404)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(9,320)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Issuance of senior unsecured debt</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">220,000</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Net capital contribution from parent</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">--</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">2,267</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Proceeds from issuance of common stock </FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">    11,358</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">      6,909</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">    9,054</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net cash (used in) provided by financing activities</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">(302,641)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">(105,189)</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">(83,082</U>)</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;Net cash flows from exchange rate changes</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">(9,977)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">8,166</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">    2,221</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Increase in cash and cash equivalents</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="RIGHT">694,986</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">46,589</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">34,660</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Cash and cash equivalents at beginning of year</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">105,212</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">58,623</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">23,963</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT SIZE=2><P>Cash and cash equivalents at end of year</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=2>
+<U><FONT SIZE=2><P ALIGN="RIGHT">$800,198*</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">$105,212</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$<U>58,623</U></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>

@@ -1,0 +1,1711 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IpipoS+1k51+uVH2vA94BWefMkKYOAlFWL/eZsdOatFwYECXYgkanM54Fv0xCE2p
+ pBFTdHj2lH2uohRs0FYXAg==
+
+<SEC-DOCUMENT>0000950123-05-005332.txt : 20050429
+<SEC-HEADER>0000950123-05-005332.hdr.sgml : 20050429
+<ACCEPTANCE-DATETIME>20050429170249
+ACCESSION NUMBER:		0000950123-05-005332
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041230
+FILED AS OF DATE:		20050429
+DATE AS OF CHANGE:		20050429
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALPHARMA INC
+		CENTRAL INDEX KEY:			0000730469
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				222095212
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08593
+		FILM NUMBER:		05786981
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE EXECUTIVE DR
+		STREET 2:		P O BOX 1399
+		CITY:			FORT LEE
+		STATE:			NJ
+		ZIP:			07024
+		BUSINESS PHONE:		2019477774
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	A L PHARMA
+		DATE OF NAME CHANGE:	19960513
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	A L LABORATORIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>y08364e10vkza.txt
+<DESCRIPTION>FORM 10-K/A
+<TEXT>
+<PAGE>
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  FORM 10-K/A
+
+<Table>
+<Caption>
+<C>        <S>
+           ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+
+           FOR THE FISCAL YEAR ENDED DECEMBER 31, 2004
+
+</Table>
+
+                           COMMISSION FILE NO. 1-8593
+
+                                 ALPHARMA INC.
+             (Exact name of registrant as specified in its charter)
+
+<Table>
+<S>                                            <C>
+                   DELAWARE                                      22-2095212
+           (State of Incorporation)                 (I.R.S. Employer Identification No.)
+
+             ONE EXECUTIVE DRIVE,                                  07024
+             FORT LEE, NEW JERSEY                                (Zip code)
+   (Address of principal executive offices)
+</Table>
+
+                                 (201) 947-7774
+              (REGISTRANT'S TELEPHONE NUMBER INCLUDING AREA CODE)
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+<Table>
+<Caption>
+             TITLE OF EACH CLASS                 NAME OF EACH EXCHANGE ON WHICH REGISTERED
+             -------------------                 -----------------------------------------
+<S>                                            <C>
+     Class A Common Stock, $.20 par value                 New York Stock Exchange
+   Subordinated Convertible Notes due 2005                New York Stock Exchange
+Convertible Senior Subordinated Notes due 2006            New York Stock Exchange
+</Table>
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: NONE
+
+     Indicate by check mark whether the Registrant (1) has filed all reports to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding twelve months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes [X]     No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [ ]
+
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the act).  Yes [X]     No [ ]
+
+     The aggregate market value of the voting stock of the Registrant (Class A
+Common Stock, $.20 par value) as of June 30, 2003 was $860,227,000 and as of
+March 14, 2005 was $562,405,000.
+
+     The number of shares outstanding of each of the Registrant's classes of
+common stock as of March 14, 2005 was:
+
+           Class A Common Stock, $.20 par value -- 40,961,761 shares;
+           Class B Common Stock, $.20 par value -- 11,872,897 shares.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+                                     None.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+
+     This amendment to the annual report on Form 10-K for the year ended
+December 31, 2004 (this "Form 10-K/A") of Alpharma Inc. (the "Company") is being
+filed solely to include the information required by Part III of Form 10-K
+pursuant to General Instruction G(3) of Form 10-K because the Company's
+definitive proxy statement for its 2005 annual meeting of shareholders to be
+held on June 23, 2005 (the "Proxy Statement") will be filed more than 120 days
+after the end of the Company's fiscal year. The Company currently expects to
+file the Proxy Statement on or about May 20, 2005. The original Form 10-K is
+also amended hereby to delete the reference on the cover page thereof to the
+incorporation by reference of the Proxy Statement in Part III of such report.
+Except as set forth in the remainder of this Explanatory Note, no other
+information in the original filing is amended hereby, and this Form 10-K/A does
+not otherwise reflect events occurring after the original filing date of March
+31, 2005.
+
+     The Company has determined that it was not in compliance at December 31,
+2004 and 2003 with certain debt covenants related to its 8 5/8% Senior Notes due
+2011(the "Senior Notes") relating to the timely payments of liquidated damages
+due to its Senior Note holders and timely filing of certain certificates
+required in the covenants to the Senior Notes at December 31, 2004 and 2003. The
+Company has subsequently cured the defaults relating to the liquidated damages
+and certain of the certificates and intends to cure the remaining certificate
+defaults concurrent with the filing of the 10-K/A discussed below.
+
+     In addition, certain defaults under the Senior Notes were also defaults
+under certain covenants under the Company's Senior Credit Facility ("Senior
+Credit Facility"). However, since these triggering defaults under the Senior
+Notes have now been cured, and the Company has notified the Bank Administrative
+Agent of the existence and subsequent cure of such defaults, these defaults
+under the Senior Credit Facility have been cured and such facility is not
+currently callable.
+
+     In addition, in connection with its April 2005 review of debt covenants,
+the Company discovered that it had not made a timely filing of its December 31,
+2003 compliance certificate with the trustee for the 3.0% Convertible Senior
+Subordinated Notes due 2006 ("06 Notes"). The Company has filed the required
+certificate with the trustee for the 06 Notes and therefore has cured this
+default.
+
+     As a result of these defaults, the Company intends to file, during the week
+of May 2, 2005, a further Form 10-K/A (to amend Item 1 of Part I; Items 6, 7, 8,
+and 9 of Part II; Part IV and such other Items as may be necessary) for the year
+ended December 31, 2004 and amend its reports on Form 10-Q for the quarters
+ended September 30, 2003 and March 31, June 30 and September 30, 2004 to, among
+other things, update disclosures related to internal controls and compliance
+with debt covenants and to revise the financial statements included therein to
+reclassify certain debt as current on the Company's consolidated balance sheet
+at December 31, 2003 and 2004 and at September 30, 2003 and March 31, June 30
+and September 30, 2004 ($503,293,000 at December 31, 2004 and other amounts at
+each of the other balance sheet dates). The Company expects that beginning with
+the filing of the Form 10Q for the period ending March 31, 2005, the balance
+sheet classification of the debt will reflect these debt instruments as
+long-term based on the curing of the defaults described above.
+
+     The Company has concluded that an additional material weakness in internal
+control over financial reporting existed as of December 31, 2004 because it did
+not maintain effective controls to ensure the appropriate review and monitoring
+of compliance with certain of its debt covenants. While the Company has a
+detailed quarterly process for reviewing its compliance with its Senior Credit
+Facility covenants (the Senior Credit Facility contains the most restrictive
+covenants and unlike the Senior Notes imposes "maintenance" covenants), a
+comparable process did not exist as of December 31, 2004 for the Senior Notes
+and the 06 Notes. This control deficiency resulted in the Company failing to
+comply with certain of its debt covenants. As a result of this control
+deficiency the Company will be restating its financial statements to reclassify
+certain debt as current on the Company's consolidated balance sheet at December
+31, 2003 and 2004 and at September 30, 2003 and March 31, June 30 and September
+30, 2004 and to amend its disclosures related to debt covenant compliance. This
+control deficiency could result in a misstatement of debt and the related
+disclosures that would result in a material misstatement to the annual or
+interim financial statements that would not be prevented or detected. Because of
+the existence of other material weaknesses, the Company's management had
+previously concluded that the Company did not maintain effective internal
+control over financial reporting as of December 31, 2004.
+<PAGE>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+CLASS A DIRECTORS:
+
+<Table>
+<Caption>
+             NAME                AGE                   PRINCIPAL BUSINESS EXPERIENCE
+             ----                ---                   -----------------------------
+<S>                              <C>    <C>
+William I. Jacobs..............  63     Director of the Company since May 2002. From 2000 to 2002,
+                                        Managing Director and Chief Financial Officer of NewPower
+                                        Holdings, Inc., a retail energy company that filed a
+                                        Chapter 11 bankruptcy petition in June 2002 and is
+                                        currently liquidating. Senior Executive Vice President of
+                                        MasterCard International, the credit card company, from
+                                        1995 to 2000. Director of Investment Technology Group, an
+                                        electronic trading resources company, Global Payments, a
+                                        payment processing services company, and Asset Acceptance
+                                        Capital Corp., a company that purchases and collects on
+                                        consumer debt from credit issuers. Chairman of the
+                                        Company's Audit and Corporate Governance Committee and
+                                        Member of the Company's Compensation Committee.
+
+Finn Berg Jacobsen.............  64     Director of the Company since April 2005. Senior Advisor
+                                        since 2005 with Bahr Law, the Norwegian law firm. Engaged
+                                        by Telenor, a Norwegian telecom company that is traded on
+                                        the Oslo and NASDAQ Stock Exchanges, to build an internal
+                                        audit function to be compliant with the Sarbanes-Oxley Act
+                                        of 2002. Served as Group Executive Vice President and Chief
+                                        of Corporate Staff of Aker-Kvaerner ASA, the Norwegian oil
+                                        services company, from February 2002 to March 2005, and as
+                                        Acting Chief Financial Officer (from December 2003 to
+                                        November 2004) and Chief Financial Officer (from September
+                                        2001 to January 2002) for such Company. From 1967 to 2000,
+                                        served in a variety of positions, including Country
+                                        Managing Partner in Norway (from 1977 to 1999), for Arthur
+                                        Andersen & Co. Chairman and subsequently member of the
+                                        Accounting Advisory Council with the Oslo Stock Exchange,
+                                        from 1977 to 2000. Chairman and one of the founders of the
+                                        Norwegian Financial Accounting Standards Board, from 1990
+                                        to 2000. Chairman of the Control Committee of the Oslo
+                                        Stock Exchange from 2000 to 2004.
+
+Peter G. Tombros...............  62     Director of the Company since August 1994. Chief Executive
+                                        Officer of VivoQuest, Inc., a private biopharmaceutical
+                                        company, since 2001. Former Director, President and Chief
+                                        Executive Officer of Enzon, Inc., a developer and marketer
+                                        of bio-pharmaceutical products, from April 1994 to June
+                                        2001. Served in a variety of senior management positions at
+                                        Pfizer, Inc., the pharmaceutical company, for 25 years,
+                                        including Vice President of Marketing, Senior Vice
+                                        President and General Manager of the Roerig Pharmaceuticals
+                                        Division, Executive Vice President of Pfizer
+                                        Pharmaceuticals Division, Director, Pfizer Pharmaceuticals
+                                        Division, Vice President-Corporate Strategic Planning, and
+                                        Vice President-Corporate Officer of Pfizer, Inc. Director
+                                        of NPS Pharmaceuticals, Inc., a biotechnology company,
+                                        Icoria, Inc., also a biotechnology company, and Cambrex
+                                        Corp., a supplier of human health and bioscience products
+                                        to the life sciences industry. Member of the Company's
+                                        Audit and Corporate Governance Committee, Executive and
+                                        Finance Committee and Compensation Committee.
+</Table>
+
+                                        1
+<PAGE>
+
+<Table>
+<Caption>
+             NAME                AGE                   PRINCIPAL BUSINESS EXPERIENCE
+             ----                ---                   -----------------------------
+<S>                              <C>    <C>
+
+Farah M. Walters...............  60     Director of the Company since February 2003. Former
+                                        President and Chief Executive Officer of University
+                                        Hospitals Health System, Inc. and University Hospitals of
+                                        Cleveland, from 1992 to 2002. Served as Executive Director,
+                                        Senior Executive Vice President and Member of three person
+                                        "Office of the President" of University Hospitals Health
+                                        System, Inc. and University Hospitals of Cleveland from
+                                        1986 to 2002. Director of Kerr-McGee Corporation, an oil
+                                        and gas exploration and production and chemical company,
+                                        and PolyOne Corporation, a specialty plastics and chemical
+                                        company. Member of the Company's Audit and Corporate
+                                        Governance Committee and Compensation Committee.
+</Table>
+
+CLASS B DIRECTORS:
+
+<Table>
+<Caption>
+             NAME                AGE                   PRINCIPAL BUSINESS EXPERIENCE
+             ----                ---                   -----------------------------
+<S>                              <C>    <C>
+Glen E. Hess...................  63     Director of the Company since October 1983. Partner in the
+                                        law firm of Kirkland & Ellis LLP since 1973. Member of the
+                                        Company's Executive and Finance Committee.
+
+Jill Kanin-Lovers..............  53     Director of the Company since February 2003. From 1998 to
+                                        2004, Senior Vice President, Human Resources of Avon
+                                        Products, Inc., the cosmetics and gifts company, and member
+                                        of Avon Products, Inc.'s Chairman's Council, Avon's
+                                        internal executive committee, and a member of the Board of
+                                        Directors for the Avon Foundation. Vice-President, Human
+                                        Resources, Global Operations from 1997 to 1998 and Vice
+                                        President, Human Resources, U.S. from 1995 to 1997 at IBM
+                                        Corp., the computer company. Senior Vice President,
+                                        Worldwide Compensation and Benefits at American Express,
+                                        the credit card company, from 1991 to 1995. From 1974 to
+                                        1991, held a series of senior positions, including managing
+                                        the Seattle office and serving as the functional head for
+                                        all global consulting and support activities, for the total
+                                        compensation practice of Towers Perrin, a global management
+                                        consulting firm. Director of Heidrick & Struggles
+                                        International, Inc., a global executive search and
+                                        leadership company. Chairman of the Company's Compensation
+                                        Committee.
+
+Ramon M. Perez.................  52     Director of the Company since May 2004. Managing Director
+                                        of Vela Management Group, Ltd., a consulting practice
+                                        focused in the healthcare industry. Formerly served in
+                                        executive and senior management positions at Cardinal
+                                        Health Inc., a global provider of products and services to
+                                        healthcare providers and manufacturers, including
+                                        President, Specialty Pharmaceutical Products & Services
+                                        from 2000 to 2003, Executive Vice President, Supply Chain
+                                        Services from 1996 to 1999, and Senior Vice President,
+                                        Purchasing from 1994 to 1995. Formerly served in senior
+                                        management positions at Baxter International, Inc., a
+                                        global developer, manufacturer and distributor of products
+                                        and services for healthcare and related fields, including
+                                        Vice President, Reengineering Team from 1993 to 1994, Vice
+                                        President, Corporate Alliances from 1991 to 1993, Vice
+                                        President, Purchasing, Hospital Supply Division from 1990
+                                        to 1991, Vice President, Marketing, Hospital Supply
+                                        Division from 1987 to 1990, and various other positions in
+                                        its Dietary Products Division from 1978 to 1987, including
+                                        Director of Marketing. Member of the Company's Executive
+                                        and Finance Committee.
+</Table>
+
+                                        2
+<PAGE>
+
+<Table>
+<Caption>
+             NAME                AGE                   PRINCIPAL BUSINESS EXPERIENCE
+             ----                ---                   -----------------------------
+<S>                              <C>    <C>
+
+Einar W. Sissener..............  76     Chairman of the Board since 1975. Consultant to the Company
+                                        since July 1999. Chief Executive Officer of the Company
+                                        from June 1994 to June 1999. Member of the Office of the
+                                        Chief Executive of the Company from July 1991 to June 1994.
+                                        Chairman of the Office of the Chief Executive from June
+                                        1999 to December 1999. President, Alpharma AS, from October
+                                        1994 to March 2000. President, Apothekernes Laboratorium AS
+                                        (now A. L. Industrier ASA), from 1972 to 1994. Chairman of
+                                        A. L. Industrier ASA since November 1994. Chairman of the
+                                        Company's Executive and Finance Committee.
+
+Robert Thong...................  44     Director of the Company since February 2003. Managing
+                                        Director of Datamonitor Healthcare, a division of
+                                        Datamonitor plc, a global strategic market analysis
+                                        company, since June 2004. Co-Founder, Director and Officer
+                                        of NovaSecta, a management advisory and executive coaching
+                                        group, since 2002. Since 1999, Managing Director of Phizz
+                                        Rx Limited, a provider of executive advice and consulting
+                                        to the life sciences, medical technology and fine chemicals
+                                        sectors in the U.K. and the U.S. Vice President of
+                                        Renaissance Worldwide Strategy Limited, a global consulting
+                                        company, and its subsidiary COBA Consulting Limited and
+                                        leader of the European Biosciences Consulting Team, from
+                                        1997 to 1999. Vice President of Gemini Consulting (now Cap
+                                        Gemini Ernst & Young), providers of information technology
+                                        consulting services, from 1990 to 1997. Member of the
+                                        Company's Executive and Finance Committee.
+
+Ingrid Wiik....................  60     Vice Chairman of the Board since May 2004 and President,
+                                        Chief Executive Officer and Director of the Company since
+                                        January 2000. President of Alpharma's International
+                                        Pharmaceuticals Division from 1994 to January 2000.
+                                        President, Pharmaceutical Division of Apothekernes
+                                        Laboratorium A.S. (now A. L. Industrier ASA) from 1986 to
+                                        1994. Director of A. L. Industrier ASA since June 2004.
+</Table>
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+     Section 16(a) of the Securities Exchange Act of 1934, as amended, requires
+the Company's executive officers and directors, and persons who own more than
+10% of a registered class of the Company's equity securities, to file reports of
+ownership and changes in ownership of the Company's stock on Forms 3, 4 and 5
+with the Securities and Exchange Commission (the "Commission") and the New York
+Stock Exchange. Executive officers, directors and greater than 10% beneficial
+stockholders are required by Commission regulation to furnish the Company with
+copies of all Forms 3, 4 and 5 that they file. The Company is not aware of any
+late or missed filings (or other noncompliance), during the 2004 fiscal year, by
+any of its executive officers, directors and greater than 10% beneficial
+stockholders with the Section 16(a) filing requirements.
+
+                                        3
+<PAGE>
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+DIRECTORS' COMPENSATION
+
+     Pursuant to an agreement between the Company and Mr. Sissener dated July 1,
+1999, as amended in March 2004, in 2004 Mr. Sissener received $200,000 for
+serving as Chairman of the Company's Board of Directors (and as a director of
+certain of the Company's subsidiaries).
+
+     During 2004, each director (except Mr. Sissener and Ms. Wiik) received an
+annual directors' fee of $30,000. Each director (except Ms. Wiik) also received
+a grant of 5,000 Restricted Stock Units (Mr. Sissener received 7,500 Restricted
+Stock Units) pursuant to the Company's 2003 Omnibus Incentive Compensation Plan,
+which entitles each such director to receive one share of the Company's Class A
+Stock upon vesting of each Restricted Stock Unit, one year following the
+director's retirement from the Board of Directors, subject to acceleration,
+forfeiture and deferral as set forth in the grant agreements. In addition, each
+director (except Mr. Sissener and Ms. Wiik) received $1,200 for each meeting of
+Board of Directors and $1,200 for each Committee meeting attended in person or
+by telephone. The Chairman of each of the Audit and Corporate Governance and
+Compensation Committees received an additional payment of $7,500.
+
+     Directors have the ability to participate in the Company's Amended and
+Restated Deferred Compensation Plan, dated October 12, 1994, through which they
+may defer receipt of cash compensation, and earn interest quarterly on such
+deferred amounts, at the rate of two percentage points below the prime rate (as
+published in the Wall Street Journal), provided such amount shall not exceed 12%
+or be less than 4%.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+     During fiscal year 2004, Messrs. Jacobs and Tombros, Ms. Kanin-Lovers and
+Ms. Walters served on the Compensation Committee. None of these directors have
+ever been an officer or employee of the Company or any of its subsidiaries or
+any other company for which an executive officer of the Company serves as a
+director, nor have they engaged during 2004 in any transaction, had any business
+relationship, or incurred any indebtedness that would require disclosure in this
+Form 10-K/A.
+
+                                        4
+<PAGE>
+
+SUMMARY OF EXECUTIVE COMPENSATION
+
+     The following table (the "Summary Compensation Table") sets forth annual
+and long-term compensation paid to, or accrued for, the executive officers named
+below (the "named executive officers") by the Company or its subsidiaries during
+2004, 2003 and 2002:
+
+                           SUMMARY COMPENSATION TABLE
+
+<Table>
+<Caption>
+                                                                                         LONG TERM COMPENSATION
+                                                                                                 AWARDS
+                                                                                        -------------------------
+                                                   ANNUAL COMPENSATION                  RESTRICTED    SECURITIES
+                                                   -------------------   OTHER ANNUAL     STOCK       UNDERLYING     ALL OTHER
+                                                    SALARY     BONUS     COMPENSATION    AWARD(S)    OPTION/SARS    COMPENSATION
+NAME AND PRINCIPAL POSITION DURING 2004(1)  YEAR    ($)(2)      ($)         ($)(4)        ($)(5)        (#)(6)         ($)(7)
+- ------------------------------------------  ----   --------   --------   ------------   ----------   ------------   ------------
+<S>                                         <C>    <C>        <C>        <C>            <C>          <C>            <C>
+Ingrid Wiik............................     2004    732,443    284,000           *       891,000        75,000         51,830
+  Vice Chairman of the Board,               2003    754,609    213,000           *       965,000       100,000         38,702
+  President & Chief Executive Officer       2002    705,000    290,000           *            --       100,000         37,915
+
+Carol A. Wrenn.........................     2004    379,500    190,000           *            --            --         18,005
+  President, Animal Health                  2003    368,250    215,000           *       674,188            --         16,774
+                                            2002    325,000     80,000           *            --        69,668          7,960
+
+Matthew T. Farrell.....................     2004    450,000    100,000           *       178,200        35,500         17,868
+  Executive Vice President &                2003    467,308    115,000           *       216,353        75,000         18,747
+  Chief Financial Officer                   2002    305,888    175,000           *            --       100,000         12,136
+
+Ronald N. Warner.......................     2004    338,462    155,000(3)         *      178,200        18,000         17,556
+  President,                                2003    300,000    100,000      60,600            --            --          8,991
+  Branded Products &                        2002     19,615     75,000           *            --        40,000             24
+  Executive Vice President, Compliance,
+  Intellectual Property & Human
+  Pharmaceuticals Medical & Regulatory
+  Affairs
+
+Robert F. Wrobel.......................     2004    410,000     80,000           *            --        25,000         29,845
+  Executive Vice President,                 2003    425,769     61,500           *            --            --         26,037
+  Chief Legal Officer &                     2002    407,310     90,200           *            --        67,334         22,472
+  Secretary
+</Table>
+
+- ---------------
+(1) Includes those persons who, in fiscal year 2004, were the Chief Executive
+    Officer or one of the four most highly compensated executive officers, as
+    measured by salary and bonus. Dr. Warner served as Senior Vice President,
+    Compliance and Human Pharmaceuticals Scientific Affairs during 2004 and
+    assumed his current position in January 2005.
+
+(2) The Company follows a bi-weekly payroll schedule, which results in one
+    additional payroll period every seven years. 2003 was the year in which the
+    Company paid an additional payroll amount, which accounts for the larger
+    salary amounts in 2003 versus 2004 for Ms. Wiik and Messrs. Farrell and
+    Wrobel. Dr. Warner and Ms. Wrenn received salary increases applicable to
+    2004, whereas Ms. Wiik's and Messrs. Farrell's and Wrobel's 2004 salaries
+    remained at 2003 levels. A portion of Ms. Wiik's salary and benefits is paid
+    to her in Norway. Furthermore, a modest amount of Ms. Wiik's compensation is
+    nondeductible compensation under Section 162(m) of the Internal Revenue
+    Code, as amended.
+
+(3) Dr. Warner's bonus includes a $75,000 bonus he was granted in his employment
+    agreement for completion of 18 months of employment (See "Employment
+    Agreements" below).
+
+(4) Dr. Warner's 2003 "Other Annual Compensation" amount reflects his 2003
+    Executive Allowance in the amount of $28,600 and the value of re-location
+    benefits he received from the Company in 2003 in the amount of approximately
+    $32,000.
+
+(5) Reflects the dollar value on the date of grant of restricted stock issued
+    under the Company's 2003 Omnibus Incentive Compensation Plan. On December
+    31, 2004, the named executive officers held an aggregate of 149,353 shares
+    of restricted stock valued at $2,531,533, based upon the closing market
+    price of the Company's Class A Stock at the end of the fiscal year ended
+    December 31, 2004 (Ms. Wiik held 95,000
+
+                                        5
+<PAGE>
+
+    restricted shares with an aggregate market value of $1,610,250; Mr. Farrell
+    held 20,210 restricted shares with an aggregate market value of $342,560;
+    Dr. Warner held 9,000 restricted shares with an aggregate market value of
+    $152,550 and Ms. Wrenn held 25,143 restricted shares with an aggregate
+    market value of $426,174). Ms. Wiik, Mr. Farrell and Dr. Warner's restricted
+    stock granted in 2004 will 100% vest on the five-year anniversary of the
+    grant date; Ms. Wiik's and Mr. Farrell's restricted stock granted in 2003
+    will 100% vest on the five-year anniversary of the grant date; Ms. Wrenn's
+    restricted stock granted in 2003 became 25% vested (in an amount of 8,382
+    shares) on July 15, 2004 at a value of $160,264. Ms. Wrenn's remaining
+    restricted stock will vest at the rate of 25% and 50% on July 15, 2005 and
+    2006, respectively, and shall immediately vest in the event of a closing of
+    a sale of all, or substantially all, of the assets of the Company's Animal
+    Health business. All shares of restricted stock listed above are subject to
+    accelerated vesting upon the executive officer's death or disability (but
+    not upon his or her retirement). Quarterly dividends are paid on all of the
+    restricted stock holdings for the named executive officers.
+
+(6) Reflects the number of options granted under the Company's 2003 Omnibus
+    Incentive Compensation Plan (beginning in March 2004) and 1997 Incentive
+    Stock Option and Stock Appreciation Right Plan (prior to March 2004). The
+    Company has not granted any stock appreciation rights ("SARs") to any of the
+    named executive officers in 2004, 2003 or 2002.
+
+(7) Includes contributions by the Company to various employee profit-sharing,
+    stock purchase and savings plans. The amounts shown for 2004 include: (a)
+    matching contributions under the Employee Stock Purchase Plan (Ms. Wiik
+    $14,200, Mr. Farrell $9,000, Dr. Warner $6,769, Ms. Wrenn $7,590 and Mr.
+    Wrobel $8,200); (b) matching contributions to the Company's Supplemental
+    Savings Plan (Ms. Wiik $30,148, Mr. Farrell $7,061, Dr. Warner $8,123, Ms.
+    Wrenn $9,108 and Mr. Wrobel $12,300); and (c) taxable life insurance
+    premiums (Ms. Wiik $7,482, Mr. Farrell $1,807, Dr. Warner $2,664, Ms. Wrenn
+    $1,307 and Mr. Wrobel $9,345).
+
+ *  The incremental cost of the perquisites for each named executive in each of
+    2004, 2003, and 2002 (unless indicated otherwise) was not in excess of the
+    lesser of (a) $50,000 or (b) 10% of the amounts reported as Salary and Bonus
+    for such year in the Summary Compensation Table. In 2004, the Company
+    provided an Executive Allowance for each of its named executive officers,
+    with the exception of Ms. Wiik, in the amount of $28,600. Ms. Wiik received
+    an automobile allowance, in the amount of $17,771, in addition to other
+    perquisites, including vacation allowance (consistent with the practice of
+    the Company's Norwegian office), insurance and telephone reimbursements.
+
+EMPLOYMENT AGREEMENTS
+
+     The named executive officers are each employed by the Company on an
+"at-will" basis (with the exception of Ms. Wiik), and are parties to the
+following employment agreements:
+
+     Ms. Wiik is a party to an employment agreement with the Company dated
+October 26, 2000. This agreement provides that the Company shall provide Ms.
+Wiik with, or reimburse her for, the use of an automobile in the United States
+and in Norway, plus reimbursement for garaging, insurance and auto maintenance.
+Ms. Wiik is also entitled to receive reimbursement for tax and financial
+services planning and she participates in all of the employee benefits available
+to executives of the Company (except as set forth below) including eligibility
+for participation in the Company's Savings Plans, Employee Stock Purchase Plan,
+group health, dental, life and accidental death and dismemberment insurance
+programs, short-term disability program, tuition reimbursement program and the
+Severance and Change in Control Plans. (See below for a description of the
+Severance and Change in Control Plans.) Ms. Wiik does not receive an Executive
+Allowance separate from the reimbursements set forth above. Ms. Wiik also
+receives payment of certain living expenses while she is working from the
+Company's Oslo, Norway office, in the form of a per diem allowance in an amount
+which is consistent with the Company's business travel policies. Pursuant to her
+employment agreement, Ms. Wiik is entitled to receive an annual cash bonus award
+based on the Company's overall performance and her achievement of individual
+objectives, in a target amount of 100% of her base salary (increased by the
+Compensation Committee from an initial 75%, starting with the 2003 fiscal year).
+Ms. Wiik also does not participate in the Company's Pension Plans (defined
+below). Upon retirement, Ms. Wiik is entitled to receive a defined retirement
+benefit that is primarily based on a percentage of her base salary for the
+twelve months prior to her retirement. (See "Retirement Plans" for further
+information.) In April 2005, Ms. Wiik informed the Company that, consistent with
+her employment agreement, it is her desire to retire as President and Chief
+Executive Officer of the Company (but not as Vice Chairman and a member of the
+
+                                        6
+<PAGE>
+
+Company's Board of Directors) effective on or about December 31, 2005,
+consistent with the timing of the election of her successor.
+
+     Mr. Farrell is a party to an employment agreement with the Company dated
+April 12, 2002, which, upon joining the Company, provided him with 100,000
+options under the Company's 1997 Incentive Stock Option and Stock Appreciation
+Right Plan and a minimum bonus guarantee of $150,000 for the 2002 performance
+year. The agreement also specifies that Mr. Farrell would be provided, in
+addition to his normal annual stock option grants, an additional 20,000 options
+in 2003 and 2004. Mr. Farrell participates in all of the employee benefits
+available to executives of the Company, including the receipt of an Executive
+Allowance in the amount of $28,600 per year, and eligibility for participation
+in the Company's Pension Plans, Savings Plans, Employee Stock Purchase Plan,
+group health, dental, life and accidental death and dismemberment insurance
+programs, short-term disability program, tuition reimbursement program and the
+Severance and Change in Control Plans. (See below for a description of the
+Severance and Change in Control Plans.)
+
+     Dr. Warner is a party to an employment agreement with the Company dated
+November 6, 2002, which is supplemented by an agreement dated February 26, 2003.
+These agreements provided him with a one-time sign-on bonus of $150,000, to be
+paid 50% immediately upon his start date in December 2002 and 50% upon his
+completion of 18 months of employment in 2004. Dr. Warner was also granted, upon
+his start date, 40,000 stock options under the Company's 1997 Incentive Stock
+Option and Stock Appreciation Right Plan. Dr. Warner participates in all of the
+employee benefits available to executives of the Company, including the receipt
+of an Executive Allowance in the amount of $28,600 per year, and eligibility for
+participation in the Company's Pension Plans, Savings Plans, Employee Stock
+Purchase Plan, group health, dental, life and accidental death and dismemberment
+insurance programs, short-term disability program, tuition reimbursement program
+and the Severance and Change in Control Plans. (See below for a description of
+the Severance and Change in Control Plans.)
+
+     Ms. Wrenn is a party to an employment agreement with the Company dated
+October 19, 2001, which is supplemented by agreements dated July 15, 2003 and
+February 11, 2004. Pursuant to these agreements, Ms. Wrenn received a sign-on
+bonus of $65,000 in October 2001. Ms. Wrenn was also granted 33,525 shares of
+restricted stock in July 2003 under the 2003 Omnibus Incentive Compensation
+Plan. 25% of these restricted shares vested on July 15, 2004, and the balance
+shall vest at the rate of 25% and 50% on each of July 15, 2005 and 2006,
+respectively; however, the shares shall vest immediately in the event of a
+closing of a sale of all, or substantially all, of the assets of the Company's
+Animal Health business. Furthermore, if such sale occurs at a purchase price of
+at least a specified minimum amount, Ms. Wrenn shall receive a lump-sum payment
+of $100,000. Ms. Wrenn is required to provide the Company with 90 days' notice
+in the event of her resignation. Ms. Wrenn participates in all of the employee
+benefits available to executives of the Company, including the receipt of an
+Executive Allowance in the amount of $28,600 per year, and eligibility for
+participation in the Company's Pension Plans, Savings Plans, Employee Stock
+Purchase Plan, group health, dental, life and accidental death and dismemberment
+insurance programs, short-term disability program, tuition reimbursement program
+and the Severance and Change in Control Plans. (See below for a description of
+the Severance and Change in Control Plans.) In addition, if Ms. Wrenn is
+terminated as a result of a sale of all, or substantially all, of the assets of
+the Company's Animal Health business, she shall receive her base salary and
+certain benefits for thirty months, subject to certain tax limitations, even
+though such a sale would not otherwise qualify as a "change in control" of the
+Company under the Change in Control Plan.
+
+     Mr. Wrobel is a party to an employment agreement with the Company dated
+October 8, 1997, pursuant to which he received a sign-on bonus in October 1997
+of $25,000 and 5,000 stock options under the Company's 1997 Incentive Stock
+Option and Stock Appreciation Right Plan. Mr. Wrobel participates in all of the
+employee benefits available to executives of the Company, including the receipt
+of an Executive Allowance in the amount of $28,600 per year, and eligibility for
+participation in the Company's Pension Plans, Savings Plans, Employee Stock
+Purchase Plan, group health, dental, life and accidental death and dismemberment
+insurance programs, short-term disability program, tuition reimbursement program
+and the Severance and Change in Control Plans. (See below for a description of
+the Severance and Change in Control Plans.)
+
+                                        7
+<PAGE>
+
+SEVERANCE AND CHANGE IN CONTROL PLANS
+
+     Ms. Wiik, Mr. Farrell, Dr. Warner, Ms. Wrenn and Mr. Wrobel receive
+additional benefits pursuant to the Company's Severance Plan and Change in
+Control Plan, both of which were adopted by the Board of Directors in 2002 and
+amended in February and April 2004 (the "Severance Plan" and "Change In Control
+Plan", respectively).
+
+     Pursuant to the terms of the Severance Plan, in the event Ms. Wiik is
+terminated for any reason other than for cause, she is entitled to receive her
+base salary, bonus and certain benefits for twenty-four months, subject to
+certain tax limitations. Pursuant to the Change in Control Plan, if Ms. Wiik is
+terminated as a result of a change in control of the Company, she is entitled to
+receive her salary and certain benefits for a total of thirty-six months,
+subject to certain tax limitations, and her outstanding stock options shall
+immediately vest. Furthermore, pursuant to the Change in Control Plan, upon
+certain conditions following a "change in control", Ms. Wiik's outstanding
+shares of Restricted Stock and Performance Units, granted pursuant to the
+Company's 2003 Omnibus Incentive Compensation Plan, shall also immediately vest.
+
+     Additionally, the Severance Plan provides that in the event that an
+executive officer, including Mr. Farrell, Dr. Warner, Ms. Wrenn or Mr. Wrobel,
+is terminated for any reason other than for cause, such executive officer is
+entitled to receive his or her base salary, bonus and certain benefits for
+eighteen months, subject to certain tax limitations. The Change in Control Plan
+provides that if such an executive officer is terminated as a result of a change
+in control of the Company, such executive officer is entitled to receive his or
+her base salary and certain benefits for a total of thirty months, subject to
+certain tax limitations, and his or her outstanding stock options shall
+immediately vest. Furthermore, pursuant to the Change in Control Plan, upon
+certain conditions following a "change in control", such executive officer's
+outstanding shares of Restricted Stock and Performance Units, granted pursuant
+to the Company's 2003 Omnibus Incentive Compensation Plan, shall also
+immediately vest.
+
+     The Severance Plan also provides for payments to be made to certain other
+key employees of the Company in the event of termination for any reason other
+than for cause or as a result of a change in control of the Company. The Change
+in Control Plan provides for payments to be made to such key employees upon a
+change in control of the Company, in addition to the potential acceleration of
+vesting of certain stock options, shares of Restricted Stock and Performance
+Units granted pursuant to the Company's 2003 Omnibus Incentive Compensation
+Plan.
+
+PERFORMANCE CASH BONUS INCENTIVE PLAN
+
+     The Compensation Committee of the Company's Board of Directors has approved
+the performance goals underlying the Company's Executive Bonus Plan that shall
+apply to the 2005 fiscal year. The Executive Bonus Plan provides that all
+executive officers (other than Ms. Wiik) and key employees performing services
+for the Company may be entitled to receive a cash bonus at a target level. Each
+of the named executive officers may receive more or less than his or her target
+level bonus, based upon the Company's ability to achieve certain net income and
+cash flow targets for 2005. In addition, for executive officers who are
+responsible for a specific business segment of the Company, a portion of his or
+her bonus will depend on such business segment's achievement of certain income
+and cash flow targets for 2005. As provided in the Executive Bonus Plan, the
+Compensation Committee has the discretion to vary any individual bonus award
+from the amount derived by the application of the criteria described above. Ms.
+Wiik does not participate in the Executive Bonus Plan, but she is entitled to
+receive an annual cash bonus at a target level based on the Company's overall
+performance and her achievement of individual objectives as set forth in her
+employment agreement. (See "Employment Agreements" for further information.) Ms.
+Wiik will have a target bonus for 2005 of 100% of base salary, and Mr. Farrell,
+Dr. Warner, Ms. Wrenn and Mr. Wrobel will have target bonuses for 2005 of 50% of
+base salary.
+
+                                        8
+<PAGE>
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+     The following table discloses, for the named executive officers, certain
+information with respect to options granted during 2004. All grants are options
+under the Company's 2003 Omnibus Incentive Compensation Plan.
+
+<Table>
+<Caption>
+                         NUMBER OF
+                         SHARES OF     % OF TOTAL                                    POTENTIAL REALIZABLE VALUE
+                          CLASS A        SHARES                                        AT ASSUMED ANNUAL RATES
+                        COMMON STOCK   GRANTED TO                                    OF STOCK PRICE APPRECIATION
+                         UNDERLYING    EMPLOYEES                                           FOR OPTION TERM
+                          OPTIONS      IN FISCAL    EXERCISE                         ---------------------------
+NAME                      GRANTED         YEAR       PRICE     EXPIRATION DATE(1)        5%             10%
+- ----                    ------------   ----------   --------   ------------------    -----------   -------------
+<S>                     <C>            <C>          <C>        <C>                   <C>           <C>
+Ingrid Wiik............    75,000        20.07%      $19.80        March 8, 2014      $933,909      $2,366,708
+Matthew T. Farrell.....    35,500         9.50%      $19.80        March 8, 2014      $442,050      $1,120,242
+Ronald N. Warner.......    18,000         4.82%      $19.80        March 8, 2014      $224,138      $  568,010
+Robert F. Wrobel.......    25,000         6.69%      $19.80        March 8, 2014      $311,303      $  788,903
+</Table>
+
+- ---------------
+
+(1) Options vest at the rate of 25% on each of the first four anniversaries of
+    the date of grant, and become 100% vested on March 8, 2008. Options shall
+    continue to vest in accordance with this schedule in the event of the
+    retirement of a named executive officer.
+
+AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION
+VALUES
+
+     The following table discloses, for the named executive officers, (a) the
+number of shares acquired upon the exercise of options or with respect to which
+such options were exercised, and the aggregate dollar value realized upon such
+exercise, and (b) the number and value of unexercised options, in each case as
+of December 31, 2004.
+
+<Table>
+<Caption>
+                                                           NUMBER OF SHARES               VALUE OF UNEXERCISED
+                        NUMBER OF                       UNDERLYING UNEXERCISED                IN-THE-MONEY
+                         SHARES                           OPTIONS AT 12/31/04            OPTIONS AT 12/31/04(1)
+                       ACQUIRED ON                    ---------------------------   ---------------------------------
+NAME                    EXERCISE     VALUE REALIZED   EXERCISABLE   UNEXERCISABLE   EXERCISABLE(2)   UNEXERCISABLE(2)
+- ----                   -----------   --------------   -----------   -------------   --------------   ----------------
+<S>                    <C>           <C>              <C>           <C>             <C>              <C>
+Ingrid Wiik..........       0              $0           207,750        192,250         $ 93,294          $117,794
+Matthew T. Farrell...       0              $0            68,750        141,750         $ 54,188          $ 72,563
+Ronald N. Warner.....       0              $0            20,000         38,000         $ 83,800          $ 83,800
+Carol A. Wrenn.......       0              $0            57,334         31,500         $129,710          $129,710
+Robert F. Wrobel.....       0              $0           114,334         50,000         $201,922          $ 99,830
+</Table>
+
+- ---------------
+(1) All grants are options under the Company's 1997 Incentive Stock Option and
+    Appreciation Right Plan, and 2003 Omnibus Incentive Compensation Plan.
+
+(2) Value is based on the closing price of a share of Class A Stock on December
+    31, 2004 ($16.95) minus the exercise price.
+
+                                        9
+<PAGE>
+
+LONG-TERM INCENTIVE PLANS -- AWARDS IN LAST FISCAL YEAR
+
+     The following table discloses, for the named executive officers, certain
+information with respect to Performance Units granted on March 8, 2004 for the
+2004-2006 performance period. All grants were made pursuant to the Company's
+2003 Omnibus Incentive Compensation Plan.
+
+<Table>
+<Caption>
+                                                                         ESTIMATED FUTURE PAYOUTS UNDER
+                                                                           NON-STOCK PRICE-BASED PLANS
+                                                PERFORMANCE OR        -------------------------------------
+                                NUMBER OF     OTHER PERIOD UNTIL       THRESHOLD      TARGET      MAXIMUM
+NAME                            UNITS(1)    MATURATION OR PAYOUT(2)     ($)(3)        ($)(3)       ($)(3)
+- ----                            ---------   -----------------------   -----------   ----------   ----------
+<S>                             <C>         <C>                       <C>           <C>          <C>
+Ingrid Wiik...................   10,000     3 years (2004-2006)        $500,000     $1,000,000   $2,000,000
+Matthew T. Farrell............    2,000     3 years (2004-2006)        $100,000     $  200,000   $  400,000
+Ronald N. Warner..............    2,000     3 years (2004-2006)        $100,000     $  200,000   $  400,000
+</Table>
+
+- ---------------
+
+(1) Each named executive officer has been granted a Performance Unit Award,
+    consisting of the number of Performance Units shown. Performance Units
+    become 100% vested on the last day of the three-year performance period, at
+    which time their value is determined based upon total shareholder return
+    (TSR) of the Company as compared to competitor companies over the three-year
+    performance period, and the Company's achievement of a minimum free cash
+    flow target. Competitor companies are those small-cap and mid-cap companies
+    included in the Dow Jones U.S. Pharmaceuticals Index.
+
+(2) In the event of the retirement, disability or death of a named executive
+    officer, awards of Performance Units shall be prorated up to the date of
+    retirement, disability or death and paid at the end of the performance
+    period.
+
+(3) "Threshold" amounts shown assume the Company's TSR as compared to its
+    competitors ranks between the 50th and 59th percentiles. However, the value
+    of Performance Units could be $0, if the Company's TSR relative to its
+    competitors falls below the 50th percentile. "Target" amounts shown assume
+    the Company's TSR relative to its competitors ranks between the 60th and
+    74th percentiles, and "Maximum" amounts may be achieved above the 90th
+    percentile. (Between the 75th and 89th percentiles, payouts will be $150 per
+    Performance Unit.) If the Company had computed its TSR as of December 31,
+    2004, the value of all Performance Units would have been $0.
+
+RETIREMENT PLANS
+
+     Ms. Wiik is not a participant in the Company's Pension Plan (as defined
+below) pursuant to the terms of her employment agreement. (See "Employment
+Agreements" for further information.) Upon Ms. Wiik's retirement as President
+and Chief Executive Officer of the Company (which she has informed the Company
+shall be on or about December 31, 2005, consistent with the election of her
+successor), she is entitled to receive from the Company an annual retirement
+benefit for each calendar year following retirement equal to (i) 30% of her Base
+Compensation (defined below) plus (ii) inflationary adjustments (which shall be
+the same as the adjustment for inflation provided in the retirement plan for
+Alpharma AS for Norwegian employees) minus (iii) "Other Retirement Benefits"
+(defined below). "Base Compensation" means her annual base salary during the
+twelve month period ending on the last day of the month preceding retirement or
+disability (provided that, if base salary shall have changed during such twelve
+month period, Base Compensation shall mean the average annual base salary
+weighted to reflect the number of days during which each varying base salary was
+in effect). "Other Retirement Benefits" means amounts Ms. Wiik is entitled to
+receive as retirement benefits under Norwegian pension plans, but does not
+include (i) payments received under the Company Savings Plans or the deferred
+compensation plan maintained by the Company, or (ii) retirement benefits
+received under any governmental program or under any insurance program funded by
+the Company or any of its subsidiaries or their predecessors. All amounts not
+payable in Norwegian Kroner shall be subject to a fixed currency conversion rate
+of one United States dollar equal to NOK 9.60. (As compared to the March 31,
+2005 exchange rate of approximately NOK 6.34 per 1 USD.)
+
+     Mr. Farrell, Dr. Warner, Ms. Wrenn and Mr. Wrobel are participants in the
+Alpharma Inc. Pension Plan (a qualified defined benefit plan) (the "Pension
+Plan"). Under the Pension Plan, both salaried and hourly employees are eligible
+for benefits. Participants who have at least five years of vested service with
+the
+
+                                        10
+<PAGE>
+
+Company are entitled to receive their specified annual benefit, in the form of a
+life annuity or, at the election of participants, its actuarial equivalent in
+certain other forms, commencing within one month of their 65th birthday. The
+specified annual benefit is equal to (x) the sum of (i) 0.8% of the
+participant's highest five-year Final Average Compensation (as defined below) up
+to "covered compensation" ($41,000 for 2004) plus (ii) 1.45% of the
+participant's highest five-year Final Average Compensation in excess of "covered
+compensation", multiplied by (y) the number of years of benefit service (up to a
+maximum of 30 years). The Pension Plan also provides for an early retirement
+benefit which is equal to the specified annual benefit described above, reduced
+actuarially for each year by which the early retirement date precedes the normal
+retirement date. Participants are eligible for early retirement upon attainment
+of age 55 and completion of at least five years of vested service with the
+Company.
+
+     The following table sets forth the approximate annual retirement benefit
+under the Pension Plan based on years of service and Final Average Compensation.
+
+                               PENSION PLAN TABLE
+
+<Table>
+<Caption>
+                              YEARS OF SERVICE
+                  -----------------------------------------
+REMUNERATION(1)      15         20         25       30(2)
+- ---------------   --------   --------   --------   --------
+<S>               <C>        <C>        <C>        <C>
+$250,000            50,378     67,170     83,963    100,755
+$275,000            55,815     74,420     93,025    111,630
+$300,000            61,253     81,670    102,088    122,505
+$325,000            66,690     88,920    111,150    133,380
+$350,000            72,128     96,170    120,213    144,255
+$375,000            77,565    103,420    129,275    155,130
+$400,000            83,003    110,670    138,338    166,005
+$425,000            88,440    117,920    147,400    176,880
+$450,000            93,878    125,170    156,463    187,755
+$475,000            99,315    132,420    165,525    198,630
+$500,000           104,753    139,670    174,588    209,505
+$525,000           110,190    146,920    183,650    220,380
+$550,000           115,628    154,170    192,713    231,255
+$575,000           121,065    161,420    201,775    242,130
+$600,000           126,503    168,670    210,838    253,005
+$625,000           131,940    175,920    219,900    263,880
+$650,000           137,378    183,170    228,963    274,755
+$675,000           142,815    190,420    238,025    285,630
+$700,000           148,253    197,670    247,088    296,505
+</Table>
+
+- ---------------
+
+(1) Final average compensation. Current Federal pension law limits average
+    annual compensation considered for benefit purposes to $205,000 for 2004.
+
+(2) The Plan provides that there is a maximum of 30 years of service for
+    computation of benefits.
+
+     For purposes of the Pension Plan, an employee's "Final Average
+Compensation" generally is his or her regular cash salary (excluding bonuses)
+for the five consecutive years of service in which his or her compensation was
+highest during the ten years of service immediately preceding his or her
+retirement. In 2004, the amounts of the compensation of Mr. Farrell, Dr. Warner,
+Ms. Wrenn and Mr. Wrobel would have been $407,732 $319,231, $357,500, and
+$398,618, respectively, under the Pension Plan if there were no limitations
+under Federal pension law. However, due to the Federal pension law, the
+respective amounts of compensation of Mr. Farrell, Dr. Warner, Ms. Wrenn and Mr.
+Wrobel, under the Pension Plan in 2004 were limited to $205,000. Pursuant to the
+Company's Supplemental Pension Plan, Mr. Farrell, Dr. Warner, Ms. Wrenn and Mr.
+Wrobel are each entitled to receive a supplemental benefit, calculated above
+such $205,000 Federal limit, based upon a maximum base compensation of $235,000
+per annum. The years of service credited under the Pension Plan as of December
+31, 2004 to the named executive officers were as follows: Mr. Farrell -- 3
+years, Dr. Warner -- 2 years, Ms. Wrenn -- 3 years and Mr. Wrobel -- 7 years.
+
+     Under the Pension Plan, in the event of the termination of employment prior
+to retirement, part of the employee's benefit may be forfeited. A retirement
+benefit, payable in the form of a life annuity following the
+
+                                        11
+<PAGE>
+
+employee's 55th birthday, is equal to an accrued percentage of the normal
+retirement benefit, actuarially reduced to reflect commencement of payments
+prior to the normal retirement date. As to employees hired on or after January
+1, 1989, pension benefits under the Pension Plan vest after five years of
+credited service with the Company.
+
+COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION
+
+     The Compensation Committee of the Company's Board of Directors has
+consisted of Mr. William I. Jacobs, Ms. Jill Kanin-Lovers, Mr. Peter G. Tombros
+and Ms. Farah M. Walters since May 2004. Mr. Tombros served as Chairman through
+May 2004, at which point Ms. Kanin-Lovers assumed the role of Chairman.
+
+     Pursuant to its charter, the Compensation Committee is responsible for
+reviewing the performance and total compensation of the Company's Chief
+Executive Officer (the "CEO"), reviewing and approving the compensation and
+benefits of other executive officers and highly paid personnel, reviewing the
+general compensation and employment policies for management personnel, reviewing
+management development and succession matters, and approving any material new
+benefit plan or material amendment to such plan.
+
+     In general, the Compensation Committee has sought to meet the objectives of
+its compensation philosophy by making compensation decisions and recommendations
+for executive officers and other key personnel in a manner which: (1) provides
+overall compensation that is competitive in its ability to attract and retain
+highly qualified personnel; (2) relates compensation to the degree to which the
+Company (and/or the specific business unit in which an executive has
+responsibility) attains its annual financial performance targets; (3) rewards
+excellent individual performance and teamwork, with consideration for specific
+projects completed or adverse conditions overcome to achieve results; and (4)
+provides an incentive to contribute to the long-term growth of the Company's
+businesses and stockholder value. In making compensation recommendations, the
+Committee is mindful of Section 162(m) of the Internal Revenue Code of 1986, as
+amended, and consults with tax advisors as necessary to minimize any
+nondeductible compensation under Section 162(m).
+
+     During 2004, the Compensation Committee: (1) initiated a process to plan
+for CEO succession; (2) developed and approved a competency model identifying
+the leadership attributes required to take the Company forward; (3) monitored
+ongoing efforts to address various employment and benefits related issues; (4)
+took action to address retention concerns; (5) approved modifications to the
+Board of Directors compensation program to align with competitive practice; (6)
+approved amendments to clarify the Change in Control Plan and Severance Plan;
+(7) approved compensation arrangements for various new executives; and (8)
+continued efforts to implement a new compensation philosophy that places more
+emphasis on Company results and individual performance and decreases reliance on
+salary and other fixed elements of pay.
+
+     In March 2004, the Compensation Committee set various company-wide and
+divisional targets for income from operations and cash flow from operations for
+2004 under the Company's Executive Bonus Plan (applicable to employees at the
+Vice President level and above other than Ms. Wiik) and Performance Incentive
+Plan (applicable to employees below the Vice President level). (See "Performance
+Cash Bonus Incentive Plan" for a discussion of Ms. Wiik's annual cash bonus
+award.) In addition, target awards for 2004 were established for each named
+executive officer (100% of base salary for Ms. Wiik and 50% of base salary for
+all other named executive officers).
+
+     Also in March 2004, the CEO received awards under the 2003 Omnibus
+Incentive Compensation Plan, consisting of 75,000 stock options, 45,000 shares
+of restricted stock, and 10,000 performance units. The options have an exercise
+price equal to the market price of the Company's common stock on the date of
+grant, vest over four years and have a term of ten years (with the same vesting
+schedule and term in the event of retirement). The shares of restricted stock
+vest on the fifth anniversary of the date of grant (and shall vest immediately
+upon Ms. Wiik's retirement, death or disability). The performance units have a
+face value of $100 per unit at target performance, as measured by relative total
+stockholder return over a three year performance period (with any payout
+pro-rated for the portion of the performance period employed, in the event of
+Ms. Wiik's death, disability or retirement), and the achievement of a minimum
+free cash flow target.
+
+                                        12
+<PAGE>
+
+     In February and March 2005, the Compensation Committee reviewed the CEO's
+performance during 2004 and recommended several compensation actions with
+respect to Ms. Wiik. The Committee's review of Ms. Wiik's performance in 2004
+focused on Company financial and operating performance, strategic planning,
+internal and external leadership, management succession, and her relationship
+with the Board of Directors and stockholders. The Committee discussed the
+significant developments affecting the Company, the strategic value of
+restructuring the Company, increased cash flow and debt repayment under the
+deleveraging initiative, and the CEO's energy and work ethic. In recommending
+compensation for the CEO, the Committee was guided by her employment contract
+and the performance matters discussed by the Committee, as well as the Company's
+overall compensation philosophy and competitive data provided by an independent
+consultant. The Committee determined in March 2005 that Ms. Wiik's base salary
+for 2005 shall remain at the 2004 level, and it approved a bonus to Ms. Wiik for
+2004 that was approximately 39% of her target for 2004, reflects the Committee's
+assessment of overall achievement of the Company's and the CEO's objectives, and
+is consistent with bonuses received by Alpharma corporate executives generally.
+
+     The Committee also approved, in March 2005, the annual base salaries for
+2005 for the named executive officers (other than Ms. Wiik), based on the
+compensation philosophy discussed above. Each of the named executive officers
+shall receive the same salary in 2005 as in 2004 with the exception of Dr.
+Warner, whose base salary effective January 2005 shall be $400,000, as a result
+of the increased responsibilities he assumed with his new position.
+
+     In April 2005, Ms. Wiik informed the Committee that, consistent with the
+terms of her employment agreement (see "Employment Agreements"), it was her
+desire to retire as the President and Chief Executive Officer of the Company
+(but not as Vice Chairman and a member of the Company's Board of Directors),
+effective on or about December 31, 2005. The Committee and Ms. Wiik agreed that
+the exact date of her retirement, and all other related terms and conditions,
+would be subject to further discussions and the timing of the election of her
+successor.
+                                          By the Compensation Committee:
+
+
+
+                                          Jill Kanin-Lovers (Chairman)
+                                          William I. Jacobs
+                                          Peter G. Tombros
+                                          Farah M. Walters
+
+                                        13
+<PAGE>
+
+PERFORMANCE GRAPH
+
+     The following graph compares the Company's cumulative total Stockholder
+return during the last five calendar years with the composite of the Coredata,
+Inc. Index (formerly known as the Media General Financial Services Index) for
+Drug Manufacturers -- Other, Drug-Generic and Drug Delivery Industry Groups
+(which index includes 136 corporations that describe themselves as drug
+manufacturers and are publicly traded) and The New York Stock Exchange Market
+Index. The graph assumes $100 invested as of the end of the day on December 31,
+1999 in the Company's Class A Stock and $100 invested at that time in each of
+the selected indices. The comparison assumes that all dividends are reinvested.
+
+                                 ALPHARMA INC.
+                           5-YEAR CUMULATIVE RETURNS
+                        VERSUS PEER GROUP AND NYSE INDEX
+
+                                  [LINE GRAPH]
+
+<Table>
+<Caption>
+                                                             FISCAL YEAR ENDED
+                          ---------------------------------------------------------------------------------------
+                          DECEMBER 31,   DECEMBER 31,   DECEMBER 29,   DECEMBER 31,   DECEMBER 31,   DECEMBER 31,
+COMPANY, INDEX, MARKET        1999           2000           2001           2002           2003           2004
+- ----------------------    ------------   ------------   ------------   ------------   ------------   ------------
+<S>                       <C>            <C>            <C>            <C>            <C>            <C>
+Alpharma Inc. ..........     100.00         143.27          86.91          39.66          67.62          57.55
+Peer Group Index........     100.00         165.25         153.53         100.41         141.84         150.69
+NYSE Market Index.......     100.00         102.38          93.26          76.18          98.69         111.45
+</Table>
+
+                                        14
+<PAGE>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+OWNERSHIP OF COMMON STOCK
+
+     The following table sets forth, as of March 31, 2005 (unless otherwise
+noted), certain information regarding the beneficial ownership of the Class A
+Stock and the Class B Stock of (a) each person who is known to the Company to be
+the beneficial owner of more than 5% of the outstanding shares of either of such
+classes, (b) each director and each nominee for director of the Company, (c) the
+Chief Executive Officer and the four other most highly compensated executive
+officers, and (d) all directors and executive officers of the Company as a
+group. Unless otherwise indicated, (i) each beneficial owner possesses sole
+voting and dispositive power with respect to the shares listed for such
+beneficial owner in this table, and (ii) the address of such beneficial owner is
+the Company's offices at One Executive Drive, Fort Lee, New Jersey 07024.
+
+<Table>
+<Caption>
+                                                               AMOUNT AND                   PERCENT OF
+                                                               NATURE OF    PERCENT OF     COMMON STOCK
+                                                               BENEFICIAL      CLASS      (BOTH CLASSES)
+TITLE OF CLASS OF STOCK        NAME OF BENEFICIAL OWNER        OWNERSHIP    OUTSTANDING    OUTSTANDING
+- -----------------------        ------------------------        ----------   -----------   --------------
+<S>                      <C>                                   <C>          <C>           <C>
+Class B Common Stock     A. L. Industrier ASA(1)(2)            11,872,897     100.00%          22.45%
+Class A Common Stock     A. L. Industrier ASA(1)(2)                     0         --              --
+Class B Common Stock     Einar W. Sissener(3)                  11,872,897     100.00           22.45
+Class A Common Stock     Einar W. Sissener(3)(4)(5)               401,167          *               *
+Class A Common Stock     Barclays Global Investors NA(6)        6,049,518      14.75           11.44
+Class A Common Stock     Dimensional Fund Advisors Inc.(7)      3,181,903       7.76            6.02
+Class A Common Stock     LSV Asset Management(8)                2,750,210       6.70            5.20
+Class A Common Stock     Ingrid Wiik(4)(9)                        404,489          *               *
+Class A Common Stock     Matthew T. Farrell(4)                    158,538          *               *
+Class A Common Stock     Robert F. Wrobel(4)                      128,941          *               *
+Class A Common Stock     Carol A. Wrenn(4)                         87,795          *               *
+Class A Common Stock     Glen E. Hess(4)(10)                       42,342          *               *
+Class A Common Stock     Peter G. Tombros(4)                       38,318          *               *
+Class A Common Stock     Ronald N. Warner(4)                       35,335          *               *
+Class A Common Stock     William I. Jacobs(4)                      18,500          *               *
+Class A Common Stock     Jill Kanin-Lovers(4)                      11,800          *               *
+Class A Common Stock     Robert Thong(4)                           11,800          *               *
+Class A Common Stock     Farah M. Walters(4)                       11,800          *               *
+Class A Common Stock     Finn Berg Jacobsen                             0         --              --
+Class A Common Stock     Ramon M. Perez                                 0         --              --
+Class A Common Stock     All directors and executive officers
+                           as a group (17 persons)(4)           1,560,406       3.80            2.95
+Class B Common Stock     All directors and executive officers
+                           as a group (17 persons)(3)          11,872,897     100.00           22.45
+</Table>
+
+- ---------------
+  *  Indicates ownership of less than 1%.
+
+ (1) The source of this information is Amendment No. 11 to Schedule 13D, dated
+     June 12, 2003, filed with the Securities and Exchange Commission (the
+     "Commission") by A. L. Industrier ASA (formerly known as Apothekernes
+     Laboratorium AS), a corporation organized and existing under the laws of
+     the Kingdom of Norway ("A. L. Industrier"). The shares reflected in the
+     table are held of record by A/S Wangs Fabrik, a wholly owned subsidiary of
+     A. L. Industrier, although A. L. Industrier retains full beneficial
+     ownership and sole power to direct voting and disposition of these shares.
+     The address of A. L. Industrier is Harbitzalleen 3, 0275 Oslo, Norway.
+
+ (2) Shares of Class B Stock are convertible into an equal number of shares of
+     Class A Stock. If all shares of Class B Stock beneficially owned by A. L.
+     Industrier were converted as of March 31, 2005, A. L. Industrier would own
+     approximately 22.45% of the then outstanding shares of Class A Stock
+     (assuming
+
+                                        15
+<PAGE>
+
+     conversion of the Class B Stock and the issuance of no shares of Common
+     Stock pursuant to any outstanding options or convertible securities of the
+     Company).
+
+ (3) Mr. Sissener is Chairman of the Board of A. L. Industrier and together with
+     A/S Swekk (Mr. Sissener's family-controlled private holding company)
+     ("Swekk"), EWS Stiftelsen (a trust established for the benefit of members
+     of the family of Mr. Sissener) ("EWS Stiftelsen"), and certain of his
+     relatives, he beneficially owns approximately 52% of A. L. Industrier's
+     outstanding ordinary shares entitled to vote and, accordingly, may be
+     deemed a controlling person of A. L. Industrier. As a controlling person of
+     A. L. Industrier, the 11,872,897 shares of the Class B Stock of the Company
+     held by A. L. Industrier are also considered to be beneficially owned by
+     Mr. Sissener.
+
+ (4) The shares reflected in the table include shares that the executive officer
+     or director has the right to acquire upon the exercise of stock options
+     granted under the 1997 Incentive Stock Option and Appreciation Right Plan,
+     the Non-Employee Director Option Plan or the 2003 Omnibus Incentive
+     Compensation Plan, which are exercisable as of March 31, 2005 or within 60
+     days thereafter, as follows: Ms. Wiik -- 277,625 shares, Mr.
+     Wrobel -- 123,584 shares, Mr. Farrell -- 121,375 shares, Ms.
+     Wrenn -- 62,334 shares, each of Messrs. Hess and Tombros -- 37,500 shares,
+     Mr. Sissener -- 27,500 shares, Dr. Warner -- 24,500 shares, Mr.
+     Jacobs -- 17,500 shares, and each of Ms. Kanin-Lovers, Mr. Thong and Ms.
+     Walters -- 11,800 shares. All directors and executive officers as a
+     group -- 945,485 shares. The shares in the table also include shares of
+     unvested restricted stock granted under the 2003 Omnibus Incentive
+     Compensation Plan, over which the executive officer or director has voting
+     control as of March 31, 2005 or within 60 days thereafter, as follows: Ms.
+     Wiik -- 95,000 shares, Ms. Wrenn -- 25,143 shares, Mr. Farrell -- 20,210
+     shares and Dr. Warner -- 9,000 shares. All directors and executive officers
+     as a group -- 167,053 shares. (The shares reflected in the table do not
+     include restricted stock units held by the members of the Company's Board
+     of Directors, which convey no voting control prior to vesting.)
+
+ (5) Includes 129,861 shares held by Mr. Sissener, 22,847 shares held by the
+     estate of Mr. Sissener's wife, 186,689 shares held by Swekk, and 34,270
+     shares held by EWS Stiftelsen.
+
+ (6) The source of this information is Schedule 13G dated February 14, 2005,
+     filed with the Commission by Barclay's Global Investors, NA. ("Barclay's").
+     Such Schedule 13G reports that Barclay's holds sole voting power as to
+     4,433,932 shares and sole dispositive power as to 4,820,329 shares. The
+     Schedule 13G further reports that an affiliate of Barclay's, Barclays
+     Global Fund Advisors, holds sole voting power as to 1,227,442 shares and
+     sole dispositive power as to 1,229,189 shares. The address of Barclay's and
+     Barclays Global Fund Advisors is 45 Fremont Street, San Francisco,
+     California 94105.
+
+ (7) The source of this information is Schedule 13G dated February 9, 2005,
+     filed with the Commission by Dimensional Fund Advisors Inc.
+     ("Dimensional"). Such Schedule 13G reports that Dimensional, an investment
+     adviser registered under Section 203 of the Investment Advisers Act of
+     1940, furnishes investment advice to four investment companies registered
+     under the Investment Company Act of 1940, and serves as investment manager
+     to certain other commingled group trusts and separate accounts (the
+     "Funds"). In its role as investment adviser or manager, Dimensional
+     possesses voting and/or investment power over the Company shares that are
+     owned by the Funds, and may be deemed to be the beneficial owner of these
+     shares. No one Fund owns more than 5% of the outstanding Class A Stock of
+     the Company. Dimensional disclaims beneficial ownership of the shares owned
+     by the Funds. The address of Dimensional is 1299 Ocean Ave., 11(th) Floor,
+     Santa Monica, California 90401.
+
+ (8) The source of this information is Schedule 13G dated February 10, 2005,
+     filed with the Commission by LSV Asset Management ("LSV"). Such Schedule
+     13G reports that LSV holds sole voting power as to 1,890,610 shares and
+     sole dispositive power as to 2,685,310 shares. The address of LSV is 1
+     North Wacker Drive, Suite 4000, Chicago, Illinois 60606.
+
+ (9) Ms. Wiik also owns 580 shares of A. L. Industrier.
+
+(10) Includes 3,750 shares held by a private foundation of which Mr. Hess is
+     President; however he has no economic interest in these shares.
+                                        16
+<PAGE>
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+     Mr. Sissener is Chairman of the Board of A. L. Industrier ASA, commonly
+known as A. L. Industrier. Together with certain family-controlled private
+holding companies and certain of his relatives, Mr. Sissener beneficially owns
+approximately 52% of A. L. Industrier's outstanding ordinary shares entitled to
+vote and, accordingly, may be deemed a controlling person of A. L. Industrier.
+
+     A. L. Industrier and Alpharma AS, one of the Company's Norwegian
+subsidiaries, are parties to two leases pursuant to which A. L. Industrier
+leases to Alpharma AS the land and facility in Oslo, Norway where Alpharma AS'
+principal administrative offices and fermentation plant for its bulk antibiotics
+are located, and adjoining land for a parking facility for employees. Both
+leases have terms ending in 2014. The terms are renewable, at the option of
+Alpharma AS, for up to four additional consecutive five year terms. Basic rent
+during the initial terms are $1.00 per year under the office and plant lease and
+NOK 2,400,000 (approximately $379,000) per year under the parking facility lease
+and, during any renewal term thereafter, basic rent under the office and plant
+lease will be the then prevailing fair rental value of the premises and basic
+rent for the parking facility will remain at NOK 2,400,000. In addition to basic
+rent, Alpharma AS pays documented expenses of ownership and operation of such
+facilities, such as taxes and maintenance expenses. Alpharma AS has the right to
+terminate the office and plant lease at any time during its term upon twelve
+months' written notice to A. L. Industrier and the parking facility lease at any
+time during its term upon twenty-four months' written notice to A. L.
+Industrier. These leases were entered into on an arm's length basis, and on
+terms as favorable as could have been obtained from unrelated third parties.
+
+     During 2004, Alpharma AS was a party to an administrative services
+agreement with A. L. Industrier, dated January 1, 2004, pursuant to which
+Alpharma AS provided certain administrative services to A. L. Industrier, at a
+fixed yearly fee of NOK 1,000,000, or approximately $158,000. This agreement was
+superseded by a new administrative services agreement, effective as of January
+1, 2005. Under this new agreement, A. L. Industrier shall pay Alpharma AS a
+fixed yearly fee of NOK 400,000, or approximately $63,000, for certain, limited,
+administrative services. Both of the administrative service agreements described
+above were made on an arm's length basis, and were/are on terms as favorable as
+could have been obtained from unrelated third parties.
+
+     All transactions with A. L. Industrier are subject to review by, and in
+some circumstances prior approval of, the Company's Audit and Corporate
+Governance Committee. (See "Board of Directors and Committees -- Committees of
+the Board" above.)
+
+CERTAIN OTHER RELATIONSHIPS AND TRANSACTIONS
+
+     Mr. Einar W. Sissener, who as of June 30, 1999, ceased acting as President
+and Chief Executive Officer of the Company, is party to an agreement with the
+Company, effective July 1, 1999, as amended March 23, 2004, pursuant to which he
+receives an annual fee of $200,000 for serving as Chairman of the Board of
+Directors of the Company (and director of certain of the Company's
+subsidiaries). Mr. Sissener receives fringe benefits substantially equal to
+those received by executive officers of the Company, in the form of automobile
+allowances, telephone and travel reimbursements, and tax and financial planning
+and tax preparation reimbursements. In addition, the Company provides Mr.
+Sissener with a monthly allowance intended to cover the cost of certain living
+expenses he incurs while working out of the Company's Fort Lee, New Jersey
+offices. Mr. Sissener has agreed to provide consulting services to the Company's
+management for a ten year term for an initial rate of $12,000 per month (in
+addition to the payment of reasonable expenses incurred in connection with the
+performance of such consulting services, as described above). The consulting fee
+rate is adjusted annually for inflation and is currently $12,390 per month. In
+addition to the amounts described above, Mr. Sissener is entitled to all
+benefits available under applicable plans and policies in Norway arising from
+retirement from employment by Alpharma AS and is entitled to receive from
+Alpharma AS an amount which, when added to amounts he is entitled to receive
+under Norwegian Social Security, Alpharma AS's pension plan and his individual
+retirement benefits, equals NOK 900,000 (approximately $142,000). The current
+annual retirement benefit that Mr. Sissener is receiving directly from the
+Company is NOK 423,312 (approximately $67,000).
+
+                                        17
+<PAGE>
+
+     Mr. Glen E. Hess' professional corporation is a partner of Kirkland & Ellis
+LLP, a law firm that, since 1978, has performed and continues to perform
+significant legal services for the Company. In addition, Mr. Hess received, in
+January 2004, a distribution from the Company's Amended and Restated Deferred
+Compensation Plan, dated October 14, 1994 (the "Deferred Compensation Plan"), in
+an amount of approximately $200,000. This distribution represented previous
+years' payments of directors' cash compensation to Mr. Hess that he had deferred
+pursuant to the plan. Mr. Hess received an additional distribution from the plan
+in a similar amount in January 2005, representing a total distribution under the
+plan.
+
+     Mr. Peter G. Tombros received, in January 2004, a distribution from the
+Company's Deferred Compensation Plan in an amount of approximately $432,000.
+This distribution represented a total distribution of previous years' payments
+of directors' cash compensation to Mr. Tombros that he had deferred pursuant to
+the plan.
+
+     Ms. Farah M. Walters received, in January 2005, a distribution from the
+Company's Deferred Compensation Plan in an amount of approximately $110,000.
+This distribution represented a total distribution of previous years' payments
+of directors' compensation deferred pursuant to the plan.
+
+                                        18
+<PAGE>
+
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+     The following table sets forth the aggregate fees billed or expected to be
+billed by PricewaterhouseCoopers LLP, the Company's independent accountants for
+fiscal year ending December 31, 2004, for professional services rendered in
+connection with the Company's financial statements and reports for fiscal year
+2004 and for other services rendered during fiscal year 2004 on behalf of the
+Company and its subsidiaries, as well as all "out-of-pocket" costs incurred in
+connection with these services, which have been or will be billed to the
+Company:
+
+<Table>
+<Caption>
+                                                                 2004         2003
+                                                              ----------   ----------
+<S>                                                           <C>          <C>
+Audit Fees(1)...............................................  $5,367,000   $1,982,000
+Audit-Related Fees(2).......................................   1,226,000      389,000
+Tax Fees(3).................................................     100,000      477,000
+All Other Fees..............................................           0            0
+Total(4)....................................................  $6,693,000   $2,848,000
+</Table>
+
+- ---------------
+
+(1) Audit Fees for fiscal years 2004 and 2003 were for professional services
+    rendered by the auditor for the audit of the Company's annual and quarterly
+    financial statements and services provided in connection with statutory and
+    regulatory filings or engagements.
+
+(2) Audit-Related Fees for fiscal years 2004 and 2003 were for assurance and
+    related services rendered by the auditor that were reasonably related to the
+    performance of the audit or review of the Company's financial statements,
+    but not included in Audit Fees above. These services related primarily to
+    providing assistance with the Company's debt placement filings, auditing of
+    employee benefit plans, auditing of "carve-out" financial statements of a
+    business segment, providing due diligence assistance and providing advisory
+    services relating to the Sarbanes-Oxley Act of 2002.
+
+(3) Tax Fees for fiscal years 2004 and 2003 were for professional services
+    rendered by the auditor primarily for tax compliance, and also for tax
+    advice and tax planning.
+
+(4) With the adoption of its Audit & Non-Audit Services Pre-Approval Policy in
+    May 2003, the Audit and Corporate Governance Committee commenced
+    pre-approval of fees and services included within the scope of its policy.
+    (See "Auditors" above for further information). During 2004, the Audit and
+    Corporate Governance Committee did not utilize the de minimis exception to
+    pre-approval offered by the Securities and Exchange Commission.
+
+                                        19
+<PAGE>
+
+                                    PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+     The following documents are filed as exhibits to this Form 10-K/A.
+
+LIST OF EXHIBITS (NUMBERED IN ACCORDANCE WITH ITEM 601 OF REGULATION SK).
+
+<Table>
+<C>    <S>
+31.1   Certification of the Chief Executive Officer pursuant to
+       Section 302 of the Sarbanes-Oxley Act of 2002 is filed as an
+       Exhibit to this 10K/A.
+31.2   Certification of the Chief Financial Officer to Section 302
+       of the Sarbanes-Oxley Act of 2002 is filed as an Exhibit to
+       this 10K/A.
+32     Certification of the Principal Executive Officer and the
+       Principal Financial Officer pursuant to Section 906 of the
+       Sarbanes-Oxley Act of 2002 is filed as an Exhibit to this
+       10K/A.
+</Table>
+
+                                        20
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 of the Securities and Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+                                      Alpharma Inc.
+
+                                      By       /s/ Matthew T. Farrell
+                                        ----------------------------------------
+                                      Name: Matthew T. Farrell
+                                      Title:  Executive Vice President and Chief
+                                      Financial Officer
+
+Date: April 29, 2005
+
+                                        21
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>y08364exv31w1.txt
+<DESCRIPTION>CERTIFICATION
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 31.1
+
+                           SARBANES-OXLEY ACT OF 2002
+                           SECTION 302 CERTIFICATION
+
+I, INGRID WIIK, CHIEF EXECUTIVE OFFICER of Alpharma Inc., certify that:
+
+     1. I have reviewed this annual report on Form 10-K/A of Alpharma Inc.;
+
+     2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this report;
+
+     3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+     4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and we have:
+
+          (a) Designed such disclosure controls and procedures, or caused such
+     disclosure controls and procedures to be designed under our supervision, to
+     ensure that material information relating to the registrant, including its
+     consolidated subsidiaries, is made known to us by others within those
+     entities, particularly during the period in which this report is being
+     prepared;
+
+          (b) Designed such internal control over financial reporting, or caused
+     such internal control over financial reporting to be designed under our
+     supervision, to provide reasonable assurance regarding the reliability of
+     financial reporting and the preparation of financial statements for
+     external purposes in accordance with generally accepted accounting
+     principles;
+
+          (c) Evaluated the effectiveness of the registrant's disclosure
+     controls and procedures and presented in this report our conclusions about
+     the effectiveness of the disclosure controls and procedures, as of the end
+     of the period covered by this report based on such evaluation; and
+
+          (d) Disclosed in this report any change in the registrant's internal
+     control over financial reporting that occurred during the registrant's most
+     recent fiscal quarter (the registrant's fourth fiscal quarter in the case
+     of an annual report) that has materially affected, or is reasonably likely
+     to materially affect, the registrant's internal control over financial
+     reporting; and
+
+     5. The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent function):
+
+          (a) All significant deficiencies and material weaknesses in the design
+     or operation of internal control over financial reporting which are
+     reasonably likely to adversely affect the registrant's ability to record,
+     process, summarize and report financial information; and
+
+          (b) any fraud, whether or not material, that involves management or
+     other employees who have a significant role in the registrant's internal
+     control over financial reporting.
+
+                                          /s/ Ingrid Wiik
+                                          --------------------------------------
+                                          Ingrid Wiik
+                                          Chief Executive Officer
+
+Date: April 29, 2005
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>3
+<FILENAME>y08364exv31w2.txt
+<DESCRIPTION>CERTIFICATION
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 31.2
+
+                           SARBANES-OXLEY ACT OF 2002
+                           SECTION 302 CERTIFICATION
+
+I, MATTHEW FARRELL, Chief Financial Officer of Alpharma Inc., certify that:
+
+     1. I have reviewed this annual report on Form 10-K/A of Alpharma Inc.;
+
+     2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this report;
+
+     3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+     4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and we have:
+
+          (a) Designed such disclosure controls and procedures, or caused such
+     disclosure controls and procedures to be designed under our supervision, to
+     ensure that material information relating to the registrant, including its
+     consolidated subsidiaries, is made known to us by others within those
+     entities, particularly during the period in which this report is being
+     prepared;
+
+          (b) Designed such internal control over financial reporting, or caused
+     such internal control over financial reporting to be designed under our
+     supervision, to provide reasonable assurance regarding the reliability of
+     financial reporting and the preparation of financial statements for
+     external purposes in accordance with generally accepted accounting
+     principles;
+
+          (c) Evaluated the effectiveness of the registrant's disclosure
+     controls and procedures and presented in this report our conclusions about
+     the effectiveness of the disclosure controls and procedures, as of the end
+     of the period covered by this report based on such evaluation; and
+
+          (d) Disclosed in this report any change in the registrant's internal
+     control over financial reporting that occurred during the registrant's most
+     recent fiscal quarter (the registrant's fourth fiscal quarter in the case
+     of an annual report) that has materially affected, or is reasonably likely
+     to materially affect, the registrant's internal control over financial
+     reporting; and
+
+     5. The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent function):
+
+          (a) All significant deficiencies and material weaknesses in the design
+     or operation of internal control over financial reporting which are
+     reasonably likely to adversely affect the registrant's ability to record,
+     process, summarize and report financial information; and
+
+          (b) any fraud, whether or not material, that involves management or
+     other employees who have a significant role in the registrant's internal
+     control over financial reporting.
+
+                                          /s/ Matthew Farrell
+                                          --------------------------------------
+                                          Matthew Farrell
+                                          Executive Vice President and Chief
+                                          Financial Officer
+
+Date: April 29, 2005
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>y08364exv32.txt
+<DESCRIPTION>CERTIFICATIONS
+<TEXT>
+<PAGE>
+
+                                                                      EXHIBIT 32
+
+                           CERTIFICATION PURSUANT TO
+
+                            18 U.S.C. SECTION 1350,
+
+                             AS ADOPTED PURSUANT TO
+
+                 SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+     In connection with the Annual Report of Alpharma Inc. (the "Company") on
+Form 10-K/A for the period ended December 31, 2004 as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), each of the
+undersigned, in the capacities and on the dates indicated below, hereby
+certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+          (1) The Report fully complies with the requirements of Section 13(a)
+     or 15(d) of the Securities Exchange Act of 1934; and
+
+          (2) The information contained in the Report fairly presents, in all
+     material respects, the financial condition and result of operations of the
+     Company.
+
+                                          /s/ Ingrid Wiik
+                                          --------------------------------------
+                                          Ingrid Wiik
+                                          Chief Executive Officer
+
+                                          /s/ Matthew T. Farrell
+                                          --------------------------------------
+                                          Matthew T. Farrell
+                                          Chief Financial Officer
+
+Dated: April 29, 2005
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

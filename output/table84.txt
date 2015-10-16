@@ -1,0 +1,55 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                      TWELVE MONTHS ENDED
+                                                         ---------------------------------------------
+                                                         JULY 31, 1999   JULY 31, 1998   JULY 31, 1997
+                                                         -------------   -------------   -------------
+<S>                                                      <C>             <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+NET INCOME (LOSS)......................................   $     (138)     $    1,071      $      103
+ADJUSTMENTS TO RECONCILE NET INCOME TO CASH FLOW
+ FROM OPERATING ACTIVITIES:
+                                                          ----------      ----------      ----------
+Depreciation of property, plant and equipment..........        1,870           1,859           1,836
+Amortization of goodwill...............................          154              42               -
+Benefit from operating loss carryforwards..............            -             646               -
+Change in assets and liabilities:
+Accounts receivables, net..............................       (1,261)             27           9,028
+Inventory, net.........................................        2,241           1,750            (291)
+Prepaid expenses and other assets......................          144             193             858
+Accounts payable.......................................        3,635          (1,802)        (10,218)
+Deferred service revenue...............................       (1,288)            232          (1,186)
+Other current liabilities..............................       (3,049)         (5,064)        (14,728)
+Other, net.............................................         (924)         (1,718)         (1,041)
+                                                          ----------      ----------      ----------
+
+CASH FLOW FROM OPERATING ACTIVITIES....................        1,384          (2,764)        (15,639)
+                                                          ----------      ----------      ----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Acquisition Activities................................         (462)         (6,873)              -
+ Capital expenditures..................................         (757)           (638)         (1,862)
+ Proceeds from Divested Operations.....................            -               -          50,638
+ Proceeds from disposition of PP&E.....................           88               -             149
+                                                          ----------      ----------      ----------
+CASH FLOW FROM INVESTING ACTIVITIES....................       (1,131)         (7,511)         48,925
+                                                          ----------      ----------      ----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net borrowings (payments) under revolving
+ credit facilities.....................................        2,056           7,768          (5,430)
+Payment of Bankruptcy Claims...........................       (3,060)         (4,285)         (5,318)
+Payments under capital lease arrangements..............         (580)           (715)           (642)
+Payment of special dividend............................            -               -         (14,080)
+                                                          ----------      ----------      ----------
+CASH FLOW FROM FINANCING ACTIVITIES....................       (1,584)          2,768         (25,470)
+                                                          ----------      ----------      ----------
+
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS.......        (1,331)         (7,507)          7,816
+Cash and cash equivalents at beginning of period.......         2,869          10,376           2,560
+                                                           ----------      ----------      ----------
+
+CASH AND CASH EQUIVALENTS AT END OF PERIOD.............    $    1,538      $    2,869      $   10,376
+                                                           ==========      ==========      ==========
+</TABLE>

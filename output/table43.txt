@@ -1,0 +1,42 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                 FOR THE YEARS ENDED JUNE 30, 1997 1996 AND 1995
+
+<TABLE>
+<CAPTION>
+                                                                   1997             1996             1995
+                                                                -----------      -----------      -----------
+<S>                                                             <C>              <C>              <C>        
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net Income                                                   $ 1,548,597      $   700,528      $   923,999
+   Adjustments to reconcile net income to net cash provided
+     by (used in) operating activities-
+       (Gain) loss on sale of equipment                               3,396              -            (31,719)
+       Depreciation and amortization                                891,370          969,439          761,475
+       Provision for losses on accounts receivable                   93,463          131,280           65,650
+       Change in assets and liabilities:
+         (Increase) decrease in accounts receivable                 567,560         (842,774)        (539,008)
+         (Increase) decrease in inventories                       1,859,800          (26,956)       1,680,364
+         (Increase) decrease in prepaid expenses and other         (167,221)         124,917          (12,723)
+         Increase (decrease) in other assets                         (2,636)        (223,877)         (65,334)
+         Increase (decrease) in accounts payable                   (302,565)      (1,564,700)          97,127
+         Increase (decrease) in accrued expenses                    955,898         (578,856)         (64,860)
+         Increase (decrease) in accrued payroll expenses             24,966          107,153           97,578
+                                                                -----------      -----------      -----------
+                Total adjustments                                 3,924,031       (1,904,374)       1,988,550
+                                                                -----------      -----------      -----------
+                Net cash provided by (used in) operating
+                   activities                                     5,472,628       (1,203,846)       2,912,549
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Investment in Regam Medical Systems
+          International AB                                       (1,561,293)             -                -
+   Investment in Visiplex Instruments, Ltd.                             -         (3,554,367)             -
+   Issuance of notes receivable                                    (310,000)             -                -
+   Acquisition of licensing agreement                                   -            (25,000)             -
+   Capital expenditures                                            (217,525)        (197,824)        (131,221)
+   Proceeds from sales of land, building and equipment                  -                -          1,712,124
+                                                                -----------      -----------      -----------
+                Net cash provided by (used in) investing
+                   activities                                    (2,088,818)      (3,777,191)       1,580,903
+</TABLE>

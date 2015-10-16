@@ -1,0 +1,3595 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EGssKe30T2ulrTRNqnDFcsX5iw2oyGmfFWrweLLv6AkCkM2FL3gOPPjUtXCZvT4p
+ Rp6ipKTCS3r8VnAMK96VUA==
+
+<SEC-DOCUMENT>0000002310-98-000013.txt : 19981029
+<SEC-HEADER>0000002310-98-000013.hdr.sgml : 19981029
+ACCESSION NUMBER:		0000002310-98-000013
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	19980731
+FILED AS OF DATE:		19981028
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MULTIGRAPHICS INC
+		CENTRAL INDEX KEY:			0000002310
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTING TRADES MACHINERY & EQUIPMENT [3555]
+		IRS NUMBER:				340054940
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-00683
+		FILM NUMBER:		98732186
+
+	BUSINESS ADDRESS:	
+		STREET 1:		431 LAKEVIEW COURT
+		CITY:			MT PROSPECT
+		STATE:			IL
+		ZIP:			60056
+		BUSINESS PHONE:		7088181294
+
+	MAIL ADDRESS:	
+		STREET 1:		431 LAKEVIEW COURT
+		CITY:			MT PROSPECT
+		STATE:			IL
+		ZIP:			60056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AM INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADDRESSOGRAPH MULTIGRAPH CORP
+		DATE OF NAME CHANGE:	19790322
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+                  SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                              FORM 10-K
+                     FOR ANNUAL AND TRANSITION REPORTS
+                 PURSUANT TO SECTIONS 13 OR 15 (d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+
+   x ANNUAL REPORT  PURSUANT TO SECTION  13 OR 15(d)  OF THE  SECURITIES
+     EXCHANGE ACT OF 1934
+
+                For the fiscal year ended July 31, 1998
+                     Commission File Number 1-683
+
+                          MULTIGRAPHICS, INC.
+        (Exact Name of Registrant as Specified in Its Charter)
+     DELAWARE                           34-0054940
+       (State of Incorporation) (I.R.S. Employer Identification No.)
+     431 Lakeview Court
+     Mt. Prospect, Illinois                               60056
+     (Address of Principal Executive Offices)          (Zip Code)
+
+   Registrant's telephone number, including area code:  (847) 375-1700
+
+   Securities registered pursuant to Section 12(b) of the Act:
+                                             Name of each exchange on
+   Title of each class                          which registered
+
+   Common Stock, $0.025 par value            American Stock Exchange
+
+   Securities registered pursuant to Section 12(g) of the Act:
+                                  None
+
+              Indicate  by check  mark whether  the Registrant  (1)  has
+   filed all reports required to be filed by Section 13 or 15(d) of  the
+   Securities Exchange Act of  1934 during the  preceding 12 months  (or
+   for such shorter period that the Registrant was required to file such
+   reports) and (2) has been subject to such filing requirements for the
+   past 90 days.
+
+                            Yes   X      No
+              Indicate by check mark if disclosure of delinquent  filers
+   pursuant to Item 405 of Regulation  S-K is not contained herein,  and
+   will not  be contained,  to the  best of  Registrant's knowledge,  in
+   definitive proxy or information statements incorporated by  reference
+   in Part III of this Form 10-K or any amendment to this Form 10-K.[X]
+
+              The  aggregate  market  value  of  voting  stock  held  by
+   nonaffiliates of the Registrant as of October 21, 1998:
+
+   Common Stock, $0.025 par value:                    $8.0 million
+
+              Indicate by  check mark whether  the Registrant has  filed
+   all documents and reports required to be filed by Sections 12, 13  or
+   15(d) of  the  Securities Exchange  Act  of 1934  subsequent  to  the
+   distribution of securities under a plan confirmed by a court.
+
+                            Yes   X      No
+ <PAGE>
+
+              Indicate   the  number  of   shares  outstanding  of   the
+   Registrant's classes of common stock as of October 21, 1998:
+
+              2,828,960  shares of Registrant's common stock, par  value
+   $0.025 per share.
+
+   DOCUMENTS INCORPORATED BY REFERENCE
+
+   Portions of Registrant's Annual Report to Stockholders for the fiscal
+   year ended July 31, 1998 (the "1998 Annual Report") are  incorporated
+   by reference into Parts  I, II and  IV of this  report.  Portions  of
+   Registrant's  definitive  proxy  statement  for  Registrant's  Annual
+   Meeting of Stockholders  to be held  on December  3, 1998 (the  "1998
+   Proxy Statement") are incorporated by reference into Part III.
+
+                                  PART I
+
+   ITEM 1. BUSINESS
+
+   (a)  General Development of Business and Recent Events.
+
+        1.  Introduction.
+
+            Multigraphics, Inc. is  incorporated in Delaware.   As  used
+   herein, "Registrant" or the "Company" means Multigraphics, Inc.,  and
+   its subsidiaries, unless the context indicates the contrary.
+
+            Registrant  is  a  distributor  of  an  extensive  range  of
+   equipment and supplies  and a service  provider to  the U.S.  graphic
+   arts industry.    Registrant  has completed  its  transition  from  a
+   manufacturer of  offset  duplicating  machines  to  focus  solely  on
+   distribution of equipment and supplies  and providing service to  the
+   graphic arts industry.  The Registrant sells a variety of  equipment,
+   systems  and  supplies  under  the  Multigraphics  brand  name   and
+   increasingly   is   selling   products   carrying   the    applicable
+   manufacturers' brand names.
+
+            Since  December of  1997,  the  Company  has  acquired  four
+   regional graphic arts dealers  as part of  its strategy of  expanding
+   its target  customer base  in the  in-plant and  smaller to  mid-size
+   commercial printing market segments.  The acquisitions have broadened
+   the Company's product-line, service capabilities and opportunities.
+
+            In  the last  thirty-six  months,  as  previously  reported,
+   Registrant has divested its Sheridan  Systems and AM Multigraphics  -
+   International business  segments.    On  May 28,  1997,  Registrant's
+   stockholders  approved   a  change   in  corporate   name  from   "AM
+   International, Inc."  to "Multigraphics,  Inc." to  reflect the  name
+   known to customers of  Registrant's sole remaining business  segment,
+   and to reflect the fact that the Company has exited its international
+   operations.
+
+            On August  27, 1996,  Registrant sold  substantially all  of
+   the assets  and  liabilities  of the  Sheridan  Systems  division,  a
+   leading supplier of systems and components  to both the printing  and
+   newspaper publishing industries,  to Heidelberger Druckmaschinen  AG.
+   The sale included substantially all of the assets and liabilities  of
+   Registrant's AM Graphics International Limited subsidiary in  Slough,
+   England.
+ <PAGE>
+
+            The disposition  of  the AM  Multigraphics  -  International
+   business segment took  place in  stages, as  Registrant divested  its
+   unprofitable foreign subsidiaries as well as  its 67% interest in  AM
+   Japan Co., Ltd.  In February, 1996, Registrant's AM International  UK
+   Limited  subsidiary  in  England   entered  into  an   Administration
+   Proceeding, which resulted in  the sale of  certain portions of  that
+   business.  In  March, 1996, Registrant  sold its Netherlands  holding
+   company, including its  subsidiaries in the  Netherlands, France  and
+   Belgium, to  a local  management buyout  team.   In September,  1996,
+   Registrant sold its interest  in AM Japan Co.,  Ltd., and on  October
+   17,  1996,  Registrant's  Canadian  subsidiary  initiated  bankruptcy
+   proceedings.
+
+            All financial information has  been restated to reflect  the
+   Sheridan Systems and the AM Multigraphics - International  operations
+   as discontinued operations.
+
+        2.  Bankruptcy Proceedings.
+
+            On   May  17,   1993,   Registrant   and   its   subsidiary,
+   Addressograph-Multigraph Corporation  ("AMC"), filed  for  protection
+   under Chapter 11 of the United States Bankruptcy Code, in The  United
+   States Bankruptcy Court for the District of Delaware (the "Bankruptcy
+   Court")  case  numbers   93-582  through   93-583  (the   "Bankruptcy
+   Proceedings").  Registrant also filed on that date a proposed Plan of
+   Reorganization.   The  Chapter  11  filing  related  to  Registrant's
+   domestic operations and did not include its foreign subsidiaries.
+
+            On August 26,  1993, a hearing  was held  by the  Bankruptcy
+   Court  to  consider  approval  of   a  Disclosure  Statement  to   be
+   distributed to creditors and stockholders of Registrant.  After  that
+   hearing, and by Order of the Bankruptcy Court dated August 26,  1993,
+   the Second Amended Disclosure Statement (hereinafter the  "Disclosure
+   Statement") was approved.  Further  information on the First  Amended
+   Plan of Reorganization as amended by  Amendment No. 1 thereto (as  so
+   amended the  "Reorganization  Plan")  and  the  disclosures  made  in
+   connection therewith, is  available in the  Disclosure Statement  and
+   the Reorganization Plan incorporated herein by reference to  Exhibits
+   28 and 10(A), respectively,  to the Company's  Annual Report on  Form
+   10-K for the fiscal year ended July 31, 1993, File No. 1-683.
+
+        3.  Events Leading to Bankruptcy Proceedings.
+
+            Reference  is  made  to  Section  D  of  Part  III  of   the
+   Disclosure  Statement  (pages  22  to  29),  incorporated  herein  by
+   reference to Exhibit 28 to the  Company's Annual Report on Form  10-K
+   for the  fiscal  year  ended  July 31,  1993,  File  No.  1-683,  for
+   information on the general development of the business of  Registrant
+   and events which led to commencement of the Bankruptcy Proceedings on
+   May 17, 1993.
+
+        4.  Corporate Structure of Registrant.
+ <PAGE>
+            Registrant,    Multigraphics,    Inc.,    was     originally
+   incorporated  in  Delaware  in   1924  as  Addressograph   Securities
+   Corporation.  Registrant has had several  name changes, one of  which
+   was Addressograph-Multigraph Corporation for  the period May 6,  1931
+   to January 2, 1979.  As noted above, Registrant changed its name from
+   "AM International, Inc."  to "Multigraphics, Inc."  on May 28,  1997.
+   Registrant has one active subsidiary, Publishing Solutions Inc.
+
+   (b)  Financial Information About Industry Segments.
+
+            The  information  in  the  section  entitled   "Management's
+   Discussion  and  Analysis  of  Financial  Condition  and  Results  of
+   Operations" and in Note  13 to the  "Notes to Consolidated  Financial
+   Statements"  under   the  section   entitled  "Geographic   Segments"
+   contained in  the  1998  Annual Report  are  incorporated  herein  by
+   reference.
+
+   (c) Narrative Description of Business.
+
+            Registrant is a distributor of equipment and supplies and  a
+   service provider to  the graphic arts  industry, and  has exited  the
+   engineering and  manufacturing of  offset duplicating  equipment  and
+   supplies to focus exclusively  on one business segment,  distributing
+   equipment and supplies, and providing parts and service, to in-plant,
+   franchise, and commercial printers.  The Registrant's strategy is  to
+   achieve growth  within  the  graphic arts  market  by  expanding  its
+   product offerings, enhancing its digital support capabilities, taking
+   advantage of its unique national service capabilities and  increasing
+   market penetration and coverage through a program of acquisitions  of
+   regional dealers that compete in the fragmented graphic arts market.
+
+            Since December 1997, Registrant  has acquired four  regional
+   graphic arts dealers which  serve the same  general customer base  as
+   the Registrant.  In December,  Registrant acquired certain assets  of
+   Hanley Graphic Products Company, a  graphic arts dealer operating  in
+   northern Illinois  with annual  revenues of  over  $18 million.    In
+   December, Registrant also acquired the stock of Publishing  Solutions
+   Inc., a  privately held  Akron, Ohio  based systems  integrator  with
+   annual revenues  of approximately  $9 million.    In June  1998,  the
+   Company  acquired  certain  assets   of  Chicago  based   Progressive
+   Lithoplate  and  Supply  Company,   which  had  annual  revenues   of
+   approximately $5 million.  In September of 1998, the Company acquired
+   certain assets  of Texas  PrePress Systems,  Inc., an  Austin,  Texas
+   based prepress systems integrator  with revenues of approximately  $2
+   million.
+
+            The  acquisitions  complement   the  Registrant's   internal
+   efforts to expand its product  offerings, and bring enhanced  digital
+   sales and support capabilities, as well as an expanded customer  base
+   in the  Registrant's  key markets.    In addition,  the  Company  has
+   undertaken a marketing program focusing on obtaining national service
+   accounts with  manufacturers and national retail outlets.
+<PAGE>
+            In  the  last  three  years,  Registrant  has  divested  its
+   Sheridan Systems and AM Multigraphics - International business  units
+   in previously reported transactions.  In December of 1996, Registrant
+   and Xeikon, N.V. entered into  an agreement, as previously  reported,
+   pursuant to which the  parties agreed not  to renew the  distribution
+   agreement under which the Registrant distributed and serviced  Xeikon
+   digital color presses in North America.
+
+            Registrant currently has approximately 670 employees in  the
+   United States and is headquartered in Mount Prospect, Illinois where,
+   historically, it  has manufactured  and distributed  a broad  product
+   line of equipment and supplies and provided services for the graphic
+   arts industry through its own direct sales and service organizations.
+   The Company's  products  traditionally  have  included  small  offset
+   printing equipment, automated copy/duplicating systems, pre and  post
+   press products and supplies.
+
+            Presently, the  Company  has  completed its  exit  from  the
+   engineering and  manufacturing  of offset  duplicating  equipment  to
+   focus  entirely  on  distribution  of  equipment  and  supplies   and
+   providing services  to  the  graphic  arts  industry.    The  Company
+   primarily  serves  in-plant  printers  and  small  to  medium   sized
+   commercial printers.   Declining market demand  for the  Registrant's
+   traditional offset duplicator products, due to inroads by alternative
+   technologies,  resulted  in  the  re-evaluation  of  its  traditional
+   strategy and the  decision to exit  manufacturing.   The Company  has
+   licensed the rights to manufacture  certain of its offset  duplicator
+   products, and  therefore has  available to  it  and its  customers  a
+   continuing supply of offset duplicator products.
+<PAGE>
+            The Company's supplies  and equipment  offerings consist  of
+   consumable products used in the production of printed materials  such
+   as films, inks, plates, rubber rollers, cleaning solutions and cotton
+   pads, as well  as equipment  products such  as digital  imagesetters,
+   platesetters, presses, folders  and cutters.   The Registrant  tracks
+   various categories of these products, none of which accounts for more
+   than 10% of its revenues.
+
+            The Company's service  and parts  offerings include  service
+   on over 250 models  of printing equipment  installed in in-plant  and
+   small to  medium  sized  commercial  print  shops,  governmental  and
+   educational institutions, as  well as national  retail outlets.   The
+   Company  has  342   service  representatives,   and  offers   service
+   capabilities in all 50 states.
+
+            The following table sets forth the breakdown of revenues
+   among machines, supplies and services in the United States, Canada
+   and Japan for fiscal 1998, 1997 and 1996:
+<TABLE>
+                          1998           1997           1996
+   <S>                 <C>            <C>           <C>
+   UNITED STATES
+        Machines       $12,989        $ 9,407       $ 39,598
+        Supplies        41,189         34,440         40,921
+        Services        41,073         42,618         47,511
+                        95,251         86,465        128,030
+
+   CANADA
+        Machines             -            220          4,352
+        Supplies             -            363          2,312
+        Services             -            462          3,287
+                             -          1,045          9,951
+   JAPAN
+        Machines             -            292         13,574
+        Supplies             -            552         11,361
+        Services             -            307          5,136
+                             -          1,151         30,071
+   TOTAL               $95,251        $88,661       $168,052
+</TABLE>
+
+            Registrant also distributes  products through  approximately
+   51 independent dealers selling in approximately 46 countries.
+
+            The  principal   distribution  and   service  customers   of
+   Registrant include in-plant print  shops, franchised and  independent
+   quick print  shops, small  to medium  sized commercial  printers  and
+   governmental and educational institutions, and its service  customers
+   also include manufacturers and national retail accounts.   Registrant
+   has approximately 20,000  customers.  No  customer accounts for  more
+   than 10% of Registrant's revenues.
+
+   5.  Competition and Competitive Conditions.
+<PAGE>
+            The Company  operates  in  a highly  competitive  market  in
+   which  price,  delivery  and   customer  service  are  key   factors.
+   Historically, the Registrant developed its customer base of in-plant,
+   quick print  and  small  to  medium  size  commercial  printers,  and
+   governmental and  educational institutions  through the  sale of  its
+   proprietary small offset duplicator presses.  Because the market  for
+   such presses  is  mature  and  continues  to  face  competition  from
+   alternative  technologies,  the  Company  has  had  to  refocus   its
+   marketing  approach  to  emphasize   its  distribution  and   service
+   capabilities in continuing to serve its market segments.
+
+            As described above, the Company has completed its exit  from
+   the manufacture  of  offset  duplicators  and  has  divested  certain
+   unprofitable businesses  and product  lines.   These  cost  reduction
+   efforts have contributed  to the Company's  return to  profitability,
+   and the Company has developed strategies for achieving growth in  its
+   traditional markets by expanding its product offerings, enhancing its
+   digital support capabilities, taking advantage of its unique national
+   service organization, and  by acquiring regional  dealers that  serve
+   the same general customer base.   The Company has initiated  internal
+   sales and marketing  programs which have  offset the  decline in  its
+   supplies distribution  operations,  and has  recently  acquired  four
+   regional  dealers   to   expand  its   product   offerings,   digital
+   capabilities and customer base.   The Company  has also undertaken  a
+   marketing program to  reverse the  long-term decline  in its  service
+   operations by  focusing  on  manufacturers,  franchise  accounts  and
+   national   retail   operations   which   prefer   national    service
+   capabilities.
+
+            Gross margins have decreased as  the Company has ceased  its
+   manufacturing operations  and  switched  to  product  lines  obtained
+   through distribution agreements, joint ventures and affiliations with
+   third parties, and  acquisitions.  To  offset the  lower margins  the
+   Company has invested in information systems and has undertaken  other
+   reorganization measures to  increase efficiency  and lower  expenses.
+   These  cost  reduction  efforts  continue.    The  Company  has  also
+   undertaken  marketing  efforts  to  increase  both  its  distribution
+   customer base and its higher margin service revenues.
+
+
+            The  competitive  market  is  also  one  of  heavy  regional
+   competition, with hundreds of regional  dealers.  A consolidation  of
+   dealers, distributors  and suppliers  is  occurring, resulting  in  a
+   consolidation of  buying power  and distribution  cost  efficiencies.
+   The Registrant's  investments  in information  systems,  distribution
+   outlets and other capabilities, its  marketing efforts to expand  its
+   business opportunities with existing customers, its leveraging of its
+   national service capabilities, and the addition of new customers  and
+   capabilities through  acquisitions,  are  intended  to  increase  the
+   Company's profitability  by  increasing  revenues  without  incurring
+   proportionate increases in expense levels.  Registrant believes  that
+   its renewed focus on its traditional customer base, the expansion  of
+   its product lines,  and   its strategy  to make  acquisitions in  the
+   graphic arts industry provide a sound basis for continued growth.
+
+        6.  Cyclical Nature of Business and Liquidity.
+<PAGE>
+            The revenues of Registrant are dependent upon trends in  the
+   printing industry,  which are  a function  of (among  other  factors)
+   overall economic factors and advertising expenditures.   Registrant's
+   backlog is less  than 5%  of annual revenues  and is  not a  material
+   factor in  the conduct  of the  business.   Registrant believes  that
+   substantially all of  this backlog will  be shipped  during the  1999
+   fiscal year.
+
+        7.  Research and Development; Patents and Trademarks.
+
+            Although   Registrant   actively    seeks   new    marketing
+   opportunities, Registrant's  research,  development  and  engineering
+   expenditures  ceased  when  the   Company  exited  manufacturing   of
+   products.
+
+            Registrant owns  or is  licensed under  various patents  and
+   trademarks.  Registrant does not believe that its business as a whole
+   is materially dependent on  any one patent or  trademark or group  of
+   patents or trademarks.
+
+   ITEM 2.  PROPERTIES
+
+            Registrant's principal executive offices are located in  Mt.
+   Prospect, Illinois.  Registrant moved its corporate headquarters from
+   Rosemont, Illinois to  its current headquarters  in September,  1996,
+   following the disposition of Registrant's Sheridan Systems division.
+
+            In 1994  and 1995,  Registrant undertook  the relocation  of
+   its  AM  Multigraphics  operations  from  its  700,000  square   foot
+   manufacturing and office facility in Mt. Prospect to newer, more cost
+   efficient facilities.   The project consisted  of three  parts:   (1)
+   relocation of the business offices to  a 64,400 square foot  facility
+   in Mt.  Prospect; (2)  relocation of  the  distribution center  to  a
+   79,700  square foot complex in nearby Arlington Heights, Illinois  to
+   enhance the Registrant's distribution capabilities; and, (3) the sale
+   of its former Mount  Prospect, Illinois facility.   The Mt.  Prospect
+   and Arlington Heights facilities  are leased until  2005 and are  the
+   Registrant's principal facilities.
+
+
+            Registrant leases  16  additional  distribution,  sales  and
+   service facilities  throughout the  United States  with total  square
+   footage of  94,600.   Registrant  believes  that the  properties  and
+   equipment included  therein are  well maintained,  in good  operating
+   condition and adequate for the current needs of its operations.
+
+   ITEM 3.   LEGAL PROCEEDINGS
+<PAGE>
+             Reference is made to Item 1,  Section (a) Paragraph 2,  for
+   information on Registrant's Bankruptcy Proceedings.  The commencement
+   of the  Bankruptcy  Proceedings  resulted in  an  automatic  stay  of
+   certain litigation against Registrant pursuant to Section 362 of  the
+   Bankruptcy Code  as  of  May  17,  1993.    Therefore,  with  certain
+   exceptions, all legal  proceedings against Registrant  pending as  of
+   May 17,  1993,  will  be resolved  through  the  bankruptcy  process.
+   Although the  vast majority  of the  claims filed  in the  Bankruptcy
+   Proceedings have  been  expunged  or resolved  within  the  Company's
+   reserves, a few  significant disputed  claims remain  pending in  the
+   Bankruptcy Proceeding.  Registrant  believes the resolution of  these
+   legal proceedings and claims will not have a material adverse  effect
+   on the business or the financial position of Registrant.
+
+             Registrant  has  been  notified  of  various  environmental
+   matters in connection  with certain  current or  former locations  in
+   Illinois, Indiana, Ohio, Pennsylvania, and Rhode Island.   Registrant
+   believes that the legal liability relating  to such matters, if  any,
+   will either be resolved consensually between Registrant and  relevant
+   governmental authorities or will be subject to resolution through the
+   bankruptcy  process  as  with  other  disputed  claims.    Registrant
+   believes the resolution  of these matters  will not  have a  material
+   adverse  effect  on  the  business  or  the  financial  position   of
+   Registrant.
+
+             Registrant is involved in various other administrative  and
+   legal proceedings  incidental  to  its  business,  including  product
+   liability and general liability lawsuits against which Registrant  is
+   partially insured.  The resolution of these other proceedings is  not
+   expected to have  a material adverse  effect on the  business or  the
+   financial position of Registrant.
+
+   ITEM 4.   SUBMISSION OF MATTERS TO A
+             VOTE OF SECURITY HOLDERS
+
+             None.
+
+   ITEM 4(A).     EXECUTIVE OFFICERS OF THE REGISTRANT
+
+             The following  is a  list  of the  names  and ages,  as  of
+   October 21, 1998, of all of the executive officers of Registrant  and
+   all positions and offices of Registrant held by each person and  each
+   such person's occupation or  employment on such  date and during  the
+   preceding five years.   All such persons have  been elected to  serve
+   until their successors are elected or until their earlier resignation
+   or retirement.
+<PAGE>
+                                    Positions and Offices Held and
+                                    Principal Occupations or Employment
+
+   Name                    Age      During the Past Five Years
+
+   Thomas D. Rooney        51       President and Chief Executive 
+                                    Officer of the Company since May 
+                                    28, 1997.  Prior to that date,
+                                    Mr. Rooney served as President of 
+                                    the AM Multigraphics business unit 
+                                    since August of 1996, and also held
+                                    the positions of Vice President of
+                                    Registrant since February 1986, 
+                                    Chief Financial Officer since 
+                                    August 1993, and Controller and 
+                                    Chief Accounting Officer of 
+                                    Registrant from September 1989 to 
+                                    August 1993.  From 1986 to 1989,
+                                    Mr. Rooney was President of 
+                                    Registrant's former AM Bruning 
+                                    division, a manufacturer and 
+                                    distributor of equipment, supplies 
+                                    and services for the engineering 
+                                    graphics market.
+
+   Steven R. Andrews       45       Vice President, General Counsel  and
+                                    Secretary of  Registrant since  June
+                                    1994.     Mr.   Andrews   was   Vice
+                                    President,   General   Counsel   and
+                                    Secretary  of  Amana  Refrigeration,
+                                    Inc.,   a  manufacturer   of   major
+                                    household appliances, from  February
+                                    1993 to June 1994 and Senior  Deputy
+                                    General Counsel  of Registrant  from
+                                    January  1992   to  February   1993.
+                                    From 1988  to 1991  Mr. Andrews  was
+                                    Associate   General   Counsel    and
+                                    Assistant   Secretary    of    Tonka
+                                    Corporation,    an     international
+                                    manufacturer  and marketer  of  toys
+                                    and games.
+                                    
+
+                                    Positions and Offices Held and 
+                                    Principal Occupations or Employment
+<PAGE>
+   Name                    Age      During the Past Five Years
+
+   Mark F. Duchesne        41       Vice President, Distribution 
+                                    Operations since May 27, 1997.   Mr.
+                                    Duchesne joined Multigraphics in 
+                                    January, 1995 as Vice President of 
+                                    Marketing and Business Development 
+                                    and was assigned the  responsibility
+                                    for distribution operations in 
+                                    January, 1996.  From January, 1994 
+                                    to January, 1995 he served as Vice 
+                                    President of Engineering and 
+                                    Customer Service for Sheridan 
+                                    Systems, Dayton, Ohio, formerly a 
+                                    sister company of Multigraphics 
+                                    serving the high end newspaper and 
+                                    publications market.  From 1987 to 
+                                    1994 Mr. Duchesne served as 
+                                    Director of Engineering and 
+                                    Customer Satisfaction for the 
+                                    Advanced Imaging Products Business 
+                                    Unit of AM Graphics in Dayton, OH.
+
+   Donald W. Hanigan       60       Vice  President  of  Registrant  and
+                                    President, Hanley  Graphic  Products
+                                    Division  since  December 11,  1997.
+                                    Prior to that,  Mr. Hanigan was  CEO
+                                    and  President  of  Hanley   Graphic
+                                    Products Company,  a privately  held
+                                    graphic   arts   dealer   based   in
+                                    Itasca, Illinois.
+
+   Gregory T. Knipp        43       Vice President  and Chief  Financial
+                                    Officer since  May  27, 1997.    Mr.
+                                    Knipp  was Treasurer  of  Registrant
+                                    from September,  1995 to May,  1997.
+                                    From 1987  to 1994,  Mr. Knipp  held
+                                    several treasury-related  management
+                                    positions of  Registrant,  including
+                                    that  of  Assistant  Treasurer  from
+                                    1994 to  1995.  From  1981 to  1987,
+                                    Mr. Knipp  was the  Cash Manager  of
+                                    Woodland  Services Co.,  a  spin-off
+                                    company  of  Masonite   Corporation.
+                                    Prior  to 1981,  Mr.  Knipp  was  an
+                                    auditor with  Peat Marwick  Mitchell
+                                    & Co.
+
+   Raymond T. Leach        32       Vice President since December 18, 
+                                    1997 and President, Publishing 
+                                    Solutions Inc. since July, 1988, 
+                                    when Mr. Leach and Mr. Stewart 
+                                    founded Publishing Solutions.  Mr. 
+                                    Leach is primarily responsible for 
+                                    Publishing Solutions' national 
+                                    electronic sales and product 
+                                    research.
+  <PAGE>
+
+                                    Positions and Offices Held and
+                                    Principal Occupations or Employment
+   Name                    Age      During the Past Five Years
+
+   Charles T. Richards     54       Vice President, Service Operations 
+                                    since May 27, 1997.  Mr. Richards 
+                                    served as Vice President of 
+                                    Manufacturing from September 1994 
+                                    to April 1996, and then as Vice 
+                                    President, Service Business until 
+                                    May, 1997.  Prior to 1994, Mr. 
+                                    Richards held a number of  technical
+                                    and commercial positions with the 
+                                    Company.  He joined the Company in 
+                                    1960.
+
+   Keith E. Stewart        32       Vice President since December 18, 
+                                    1997 and CEO, Publishing Solutions 
+                                    Inc. since July 1988, when 
+                                    Mr. Stewart and Mr. Leach founded
+                                    Publishing Solutions.  Mr. Stewart 
+                                    is primarily responsible for 
+                                    management of Publishing  Solutions'
+                                    general operations and its national
+                                    electronic services.
+    
+                                PART II
+
+   ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY  AND RELATED
+             STOCKHOLDER MATTERS
+
+        (a)   Market and Other Information.
+
+             At the Annual Meeting of Stockholders held on May 28, 1997,
+   Registrant's  stockholders  approved  an  amendment  to  the   Second
+   Restated Certificate  of  Incorporation to  change  the  Registrant's
+   corporate name and to reduce the  authorized number of shares of  all
+   classes of  capital stock  the Company  shall have  the authority  to
+   issue from fifty million (50,000,000) to ten million (10,000,000), of
+   which five  hundred thousand  (500,000) may  be issued  as  preferred
+   shares.  Registrant's stockholders also approved an amendment to  the
+   Second Restated Certificate  of Incorporation to  effect a 1 for 2 1/2
+   share reverse stock split (the "Reverse  Stock Split") of the  issued
+   and outstanding  shares of  the Registrant's  Common Stock,  with  an
+   increase of the par value from $0.01 per share to $0.025 per share.
+
+             Following  the  Reverse  Stock  Split  and  the  change  in
+   Registrant's corporate name,  Registrant's new  Common Stock,  $0.025
+   par value, commenced trading  on the American  Stock Exchange on  May
+   29, 1997 under the ticker symbol "MTI."
+<PAGE>
+
+             Registrant's  Plan  of  Reorganization  provided  for   the
+   amendment   and   restatement   of   Registrant's   Certificate    of
+   Incorporation and  Bylaws.   The new  charter authorized  50  million
+   shares of stock of which 40 million shares were reserved for issuance
+   as new Common Stock and 10 million shares were reserved for  issuance
+   as new Preferred Stock.  On the Effective Date of the Plan, the Board
+   of Directors  authorized the  issuance of  7  million shares  of  new
+   Common Stock, $0.01 par value, to holders of claims and interests  as
+   described in Note 4 of  "Notes to Consolidated Financial  Statements"
+   contained in  the  1997  Annual Report  and  incorporated  herein  by
+   reference.  On the Effective  Date, Registrant also issued  1,095,000
+   new Warrants to Purchase Common Stock at an exercise price of  $18.00
+   per share which expired  on October 15, 1996,  and are of no  further
+   effect.
+
+             At the Annual Meeting of  Stockholders held on December  8,
+   1994, Registrant's stockholders approved the 1994 Long-Term Incentive
+   Plan (the "Plan").  In conjunction therewith, an additional aggregate
+   of 1,400,000 Common Stock shares were made available pursuant to  and
+   in accordance with the terms of  the Plan, subject to adjustments  as
+   provided in Section 6.7 of the Plan.  The shares available under  the
+   Plan, as well as all awards thereunder, have been adjusted to 560,000
+   common shares to reflect  the 1 for 2-1/2  share Reverse Stock  Split
+   effected on May 28, 1997.
+
+             On October 20,  1998, the Registrant's  Board of  Directors
+   adopted the  1998  Stock  Incentive  Plan  for  Directors,  which  is
+   intended to align the interests of the Registrant's stockholders  and
+   non-employee directors  by increasing  the proprietary  interests  of
+   non-employee directors in the Registrant's growth and success, and to
+   enable the Company to attract and  retain non-employee directors.   A
+   total of 140,000 Common Stock shares are available under the plan for
+   option grants and  other stock incentives  for the Registrant's  non-
+   employee directors.
+
+             For information regarding  quarterly stock  prices for  the
+   Common Stock, see  Note 14 to  the "Notes  to Consolidated  Financial
+   Statements" in Registrant's 1998  Annual Report, incorporated  herein
+   by reference.
+
+        (b)  Holders.
+
+             As of  October 21, 1998, Registrant had approximately  1000
+   stockholders of record.
+
+        (c)  Dividends.
+
+             On May  27, 1997,  Registrant paid  a special  dividend  of
+   $2.00 per share to holders of record as of   May 13, 1997.  Prior  to
+   that time, Registrant had not paid cash dividends on its Common Stock
+   since August  15,  1981.   Registrant's  current  Loan  and  Security
+   Agreement restricts the  payment of  dividends.   See Note  3 to  the
+   "Notes to  Consolidated Financial  Statements" in  Registrant's  1998
+   Annual Report, incorporated herein by reference.
+
+   ITEM 6.   SELECTED FINANCIAL DATA
+<PAGE>
+
+             The  information  in  the   section  entitled  "Five   Year
+   Financial  Summary"   contained  in   the  1998   Annual  Report   is
+   incorporated herein by reference.
+
+   ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+             AND RESULTS OF OPERATIONS
+
+             The   information   in   the   section   entitled
+   "Management's Discussion  and  Analysis of  Financial  Condition  and
+   Results of  Operations" of  the 1998  Annual Report  is  incorporated
+   herein by reference.
+
+   ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+             The "Consolidated Financial Statements", including the Notes
+   thereto and the Report of Arthur Andersen LLP, included in the 1998
+   Annual Report are incorporated herein by reference.
+
+   ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+             AND FINANCIAL DISCLOSURE
+
+             None.
+                                 PART III
+
+   ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+             See the information  with respect to  the Directors of  the
+   Registrant which is set  forth in the  section entitled "Election  of
+   Directors" of the 1998  Proxy Statement.   Except for the  paragraphs
+   relating  to  the   remuneration  of  directors,   this  section   is
+   incorporated herein by reference.
+
+             For information regarding Executive Officers of Registrant,
+   see Item  4(A)  of  this  Report  which  is  incorporated  herein  by
+   reference.
+
+
+   ITEM 11.  EXECUTIVE COMPENSATION
+
+             See the  information set  forth  in the  sections  entitled
+   "Remuneration of Directors" and "Executive Compensation" in the  1998
+   Proxy Statement which is incorporated herein by reference.
+
+
+   ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+             MANAGEMENT
+
+             See the  information set  forth  in the  sections  entitled
+   "Principal Stockholders"  and "Security  Ownership of  Directors  and
+   Executive  Officers"   in  the   1998  Proxy   Statement,  which   is
+   incorporated herein by reference.
+
+
+   ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+             See the section entitled "Compensation Committee Interlocks
+   and Insider  Participation" in  the 1998  Proxy Statement,  which  is
+   incorporated herein by reference.
+<PAGE>
+
+                                PART IV
+
+   ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+            FORM 8-K
+
+   (1)      Financial Statements.
+
+            The "Consolidated Financial Statements" including the  Notes
+            thereto  and  the  Report  of  Arthur  Andersen  LLP   dated
+            September 25, 1998  included in the  1998 Annual Report  are
+            incorporated herein by reference.
+
+   (2)      Financial Statement Schedule.
+
+            The financial  statement  schedule listed  below  should  be
+            read  in   conjunction   with   Registrant's   "Consolidated
+            Financial Statements"  including the  Notes thereto
+            incorporated herein  by reference  from  the 1998 Annual  Report.
+            Schedules not  listed here  have been  omitted because  they
+            are not applicable  or they are  immaterial or the required
+            information  is  included   in  Registrant's "Consolidated
+            Financial Statements" including the Notes thereto.
+
+                                    Schedule                   Page
+                                        No.                     No.
+
+            Valuation and 
+              Qualifying Accounts       II                        17
+
+
+
+   (3)      Exhibits.
+
+            Reference is made  to the separate  exhibit index  contained
+   on page 19 hereof.
+
+    (b)     Reports on Form 8-K
+
+            None.
+                              SIGNATURES
+
+            Pursuant to the requirements of  Section 13 or 15(d) of  the
+   Securities Exchange  Act of  1934, Registrant  has duly  caused  this
+   report to be signed on its behalf by the undersigned, thereunto  duly
+   authorized.
+
+   Dated:  October 27, 1998
+
+                                    MULTIGRAPHICS, INC.
+                                         (Registrant)
+
+
+                                    By  /s/Thomas D. Rooney
+                                    Thomas D. Rooney, President and
+                                    Chief Executive Officer
+<PAGE>
+
+            Pursuant to the requirements of the Securities Exchange  Act
+   of 1934,  this report  has been  signed on  October 27,  1998 by  the
+   following persons on behalf of the  Registrant and in the  capacities
+   indicated.
+
+                 Signature                           Title
+
+   /s/Jeff M. Moore                        Chairman  of  the  Board
+   Jeff Moore                              and Director
+
+
+   /s/Thomas D. Rooney                     President,  Chief   Executive
+   Thomas D. Rooney                        Officer and Director
+
+   /s/Gregory T. Knipp                     Chief    Financial    Officer
+   Gregory T. Knipp                        (principal accounting &
+                                           financial officer)
+
+
+   /s/Robert E. Anderson III               Director
+   Robert E. Anderson III 
+
+   /s/Jeffrey D. Benjamin                  Director
+   Jeffrey D. Benjamin
+
+   /s/Robert N. Dangremond                 Director
+   Robert N. Dangremond
+
+ <TABLE>
+
+                                SCHEDULE II
+
+                            MULTIGRAPHICS, INC.
+                      VALUATION & QUALIFYING ACCOUNT
+                  FOR THE THREE YEARS ENDED JULY 31, 1998
+                          (Dollars in Thousands)
+
+     
+                                                   Accounts
+                                                  Receivable
+                                                   Reserves
+   <S>                                            <C>
+   Balance July 31, 1995                          $ 1,312
+       Additions Charged to Cost & Expenses           193
+       Reclassification to Assets Held for Sale      (171)
+       Deductions from Reserve                       (512)
+                                                 
+   Balance July 31, 1996                              822
+       Additions Charged to Cost & Expenses           150
+       Deductions from Reserve                       (637)
+
+  Balance July 31, 1997                               335
+          Additions Charged to Cost & Expenses        175
+          Deductions From Reserve                    (210)
+                                   
+   Balance July 31, 1998                          $   300
+</TABLE>
+<PAGE>
+
+      REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON SCHEDULE
+                                                   
+   To Multigraphics, Inc.:
+
+   We have  audited,  in  accordance with  generally  accepted  auditing
+   standards,  the   consolidated  financial   statements  included   in
+   Multigraphics, Inc.'s Annual Report  to Stockholders incorporated  by
+   reference in this Form 10-K, and have issued our report thereon dated
+   September 25, 1998.  Our audit was made for the purpose of forming an
+   opinion on those statements taken as a whole.  The schedule listed in
+   Part IV,  Item  14(a)(2)  is  the  responsibility  of  the  Company's
+   management and is presented  for the purposes  of complying with  the
+   Securities and Exchange  Commission's rules and  is not  part of  the
+   basic financial statements.  This schedule has been subjected to  the
+   auditing procedures  applied  in the  audit  of the  basic  financial
+   statements and,  in  our  opinion,  fairly  states  in  all  material
+   respects the financial data required to  be set forth therein in  re-
+   lation to the basic financial statements taken as a whole.
+
+
+   ARTHUR ANDERSEN LLP
+
+
+
+   Chicago, Illinois,
+   September 25, 1998
+
+
+
+
+                               EXHIBIT INDEX
+   No.      Description
+
+   3        Certificate of Incorporation and By-laws
+            (A)Second   Restated   Certificate   of   Incorporation   of
+               Registrant.*
+            (B)By-laws of Registrant effective as of October 13, 1993.*
+            (C)Certificate   of  Amendment   to  the   Second   Restated
+               Certificate of Incorporation of Registrant  (incorporated
+               by reference  to Exhibit 3(B)  to Registrant's Report  on
+               Form 10-Q filed with the Commission on May 3, 1997).
+            (D)Amendment to  Bylaws Of  Registrant effective  as of  May
+               27, 1997  (incorporated by reference  to Exhibit 3(D)  to
+               Registrant's Form 10-K for the year ended July 31,  1997,
+               filed with the Commission October 22, 1997).
+
+   10       Material Contracts
+            (A)AM  International,  Inc. 401(k)  Employees'  Savings  and
+               Investment Plan, Amendment 1995-1.* **
+            (B)Multigraphics,  Inc. Executive Incentive  Compensation
+               Plan Fiscal Year 1999.**
+            (C)AM  International, Inc.  Retirement  Accumulation  Plan.*
+               **
+<PAGE>
+            (D)Letter   Agreement  dated   December  8,   1994   between
+               Registrant  and   Steven  R.  Andrews  (incorporated   by
+               reference  to Exhibit  10(B)  to Registrant's  Report  on
+               Form  10-Q  filed  with  the  Commission  on  March   13,
+               1995).**
+            (E)Change-In-Control  and  Termination  Benefits  Agreements
+               dated  July  7,  1995  between  Registrant  and   Messrs.
+               Andrews and Rooney (incorporated by reference to  Exhibit
+               10(H) to Registrant's Annual Report on Form 10-K for  the
+               year ended  July 31, 1995, filed  with the Commission  on
+               October 26, 1995.**
+            (F)AM  International,  Inc. 1994  Long-Term  Incentive  Plan
+               (incorporated   by   reference  to   Exhibit   10(A)   to
+               Registrant's  Annual Report  on Form  10-K for  the  year
+               ended  July  31,  1994,  filed  with  the  Commission  on
+               October 27, 1994).**
+            (G)Engagement  Letter   dated  January   27,  1994   between
+               Registrant  and Jay  Alix &  Associates (incorporated  by
+               reference to Exhibit 10(B) to Registrant's Annual  Report
+               on Form  10-K for  the year  ended July  31, 1994,  filed
+               with the Commission on October 27, 1994).**
+            (H)AM  International,  Inc. 401(k)  Employees'  Savings  and
+               Investment Plan  (Restated December  17, 1993,  effective
+               January 1,  1989) (incorporated by  reference to  Exhibit
+               10(F) to Registrant's Annual Report on Form 10-K for  the
+               year ended  July 31, 1994, filed  with the Commission  on
+               October 27, 1994).**
+            (I)First  Amended   Plan  of   Reorganization,  as   amended
+               September 29, 1993 (incorporated by reference to  Exhibit
+               10(A) to Registrant's Annual Report on Form 10-K for  the
+               year ended  July 31, 1993, filed  with the Commission  on
+               October 29, 1993).*
+            (J)Amendment   1991-1   to  the   AM   International,   Inc.
+               Supplemental Executive  Retirement Plan (incorporated  by
+               reference to Exhibit 10(M) to Registrant's Annual  Report
+               on Form  10-K for  the year  ended July  31, 1991,  filed
+               with the Commission on October 29, 1991).**
+            (K)AM International, Inc. Supplemental Executive  Retirement
+               Plan  (incorporated  by reference  to  Exhibit  10(N)  to
+               Registrant's  Annual Report  on Form  10-K for  the  year
+               ended  July  31,  1987,  filed  with  the  Commission  on
+               October 28, 1987).**
+            (L)Retirement   Plan    for   Outside   Directors   of    AM
+               International,   Inc.  (incorporated   by  reference   to
+               Exhibit 10(Q) to Registrant's Annual Report on Form  10-K
+               for  the  year  ended  July  31,  1987,  filed  with  the
+               Commission on October 28, 1987).**
+            (M)Amendment to Retirement Plan for Outside Directors of  AM
+               International,   Inc.  (incorporated   by  reference   to
+               Exhibit 10(M) to Registrant's Annual Report on Form  10-K
+               for  the  year  ended  July  31,  1988,  filed  with  the
+               Commission on October 25, 1988).**
+            (N)Letter  Agreement  dated as  of  March  3,  1997  between
+               Registrant and Steven R. Andrews, filed as Exhibit  10(T)
+               to Registrant's  Report on Form 10-K  for the year  ended
+               July 31, 1997, filed  with the Commission on October  22,
+               1997.**
+<PAGE>
+            (O)Letter Agreement dated April 10, 1997 between  Registrant
+               and  Thomas  D.   Rooney,  filed  as  Exhibit  10(U)   to
+               Registrant's  Report on  Form  10-K for  the  year  ended
+               July 31, 1997, filed  with the Commission on October  22,
+               1997.**
+            (P)Letter   Agreement  dated   October  29,   1996   between
+               Registrant  and   Thomas  D.   Rooney  (incorporated   by
+               reference to Exhibit 10.1 of Registrant's Report on  Form
+               10-Q filed with the Commission on December 17, 1996).**
+            (Q)Amended and  Restated Loan and  Security Agreement  dated
+               as of  February 19, 1998  between Registrant,  Publishing
+               Solutions   Inc.   and   Foothill   Capital   Corporation
+               (incorporated   by  reference   to  Exhibit   10(.1)   to
+               Registrant's  Report   on  Form  10-Q   filed  with   the
+               Commission on March 17, 1998).
+            (R)Amendment to Registrant's  1994 Long Term Incentive  Plan
+               dated May 1,  1997 (incorporated by reference to  Exhibit
+               10(X) to Registrant's Report Form 10K for the year  ended
+               July 31,  1997 field with the  commission on October  22,
+               1997).**
+            (S)Employment Agreements  between Registrant  and Donald  W.
+               Hanigan,  Keith   E.  Stewart  and   Raymond  T.   Leach,
+               respectively (incorporated  by reference to Exhibit  10.2
+               to  Registrant's  Report on  Form  10-Q  filed  with  the
+               commission on March 17, 1998).**
+            (T)First Amendment  to Amended and  Restated Loan  Agreement
+               between Registrant,  Publishing Solutions  Inc. and Foothill
+               Capital Corporation dated as of July 30, 1998.
+
+   13       Annual Report to Stockholders for the year ended July 31, 
+            1998.
+
+   23       Consent of Arthur Andersen LLP
+
+   24       Powers of Attorney
+
+   99       Additional exhibits
+               Second  Amended  Disclosure Statement  dated  August  26,
+               1993 (incorporated  by reference  to Registrant's  Annual
+               Report  for  the  year ended  July  31,  1993,  filed  as
+               Exhibit 28 with the Commission on October 29, 1993).
+
+   *         Incorporated herein by reference to exhibit of the same
+   number filed with the Registrant's Annual Report for the year ended
+   July 31, 1993, as filed with the Commission on October 29, 1993.
+
+   **        Management contract or compensatory plan, contract or
+   arrangement.
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.B
+<SEQUENCE>2
+<TEXT>
+
+   <PAGE>
+                               EXHIBIT 10B
+                            MULTIGRAPHICS, INC.
+
+                   EXECUTIVE INCENTIVE COMPENSATION PLAN
+
+                             FISCAL YEAR 1999
+
+
+   I.   PLAN OBJECTIVES
+
+   A.   To provide competitive levels of compensation to enable
+   Multigraphics, Inc. (the "Company") to attract and retain the people
+   needed to successfully manage the business.
+
+   B.   To provide a financial incentive for selected employees upon
+   achievement of key performance goals, consisting both of financial
+   and operating objectives set by the Compensation and Management
+   Committee of the Board of Directors (the "Committee").
+
+   II.  POLICY
+
+   It is the Company's policy to pay base salaries and annual Executive
+   Incentive Compensation Plan ("EICP") awards which are competitive and
+   which promote the objectives set by the committee for the plan year.
+
+   Under this policy, each participant's annual EICP award will be based
+   on the degree to which the Company achieves specific financial and
+   operating goals.
+
+   III. ELIGIBILITY AND PARTICIPATION
+
+   In general, participants in the EICP are to be selected from that
+   group of employees whose activities are determined by the Committee
+   to have significant impact on business results and whose base
+   compensation is in excess of $50,000 annually.
+
+   Categories of participants will be established with target and
+   maximum award potential as follows:
+
+       Category       Threshold       Target         Maximum
+          A                  10.0           40.0           80.0
+          B                  7.5%            30%            60%
+          C                 6.25%            25%            50%
+          D                    5%            20%            40%
+          E                 3.75%            15%            30%
+          F                  2.5%            10%            20%
+
+   IV.  PERFORMANCE GOALS
+
+   Each participant will be measured based on the achievement of pre-
+   established financial goals: profitability, cash flow and revenue
+   growth; and pre-established operational objectives: identification
+   and achievement of an average transaction cost index and the
+   attainment of a customer satisfaction index as defined.  Goals
+   (threshold, target and maximum) will be suggested by the Chief
+   Executive Officer and approved by the Committee.
+
+   Performance goals for FY99, both financial and operational, are shown
+   on Attachment A.
+<PAGE>
+   V.   TARGET BONUS POOL
+
+   A participant's Target Bonus equals a percentage (generally 10
+   percent to 40 percent) of the base annual salary at the target level
+   set by the Committee.   The Target Bonus Pool is the sum of the
+   Target Bonuses for all participants.  The Target Bonus Pool is
+   reached based upon satisfaction or attainment of performance goals
+   set up by the Committee.  The Actual Bonus Pool will vary depending
+   upon the relationship of achievement of performance goals (for example,
+   profitability, cash flow) to target performance.
+
+   VI.  INDIVIDUAL AWARDS
+
+   NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS PLAN, ALL AWARDS ARE
+   DISCRETIONARY WITH THE COMMITTEE, WHETHER PERFORMANCE GOALS HAVE BEEN
+   MET OR NOT.
+
+   The payout of individual awards shall be based on the attainment of
+   the performance goals set by the Committee.
+
+   A participant's share of the Bonus Pool will be based on the category
+   or target bonus set for the individual by the Committee and on
+   achievement of performance goals, unless the Committee sets other
+   criteria.  Actual bonus payouts will not exceed 200% of the Target
+   Bonus.
+
+   VII. DISCRETIONARY AWARDS
+
+   An amount equal to three (3) percent of the Actual Bonus Pool may be
+   made available for discretionary bonuses to non-participants in the
+   Plan, but shall be subject to the approval of the Committee.
+
+   VIII.     APPROVAL AND TIMING OF AWARD PAYMENTS
+
+   No participant shall have any claim or right to be granted an award
+   under the Plan.  The Plan may be amended by the Company at any time
+   and from time to time.  Neither the Plan nor any action taken
+   pursuant to the Plan shall be construed as giving to any  employee
+   the right to be retained in the employ of the Company.  Except as
+   otherwise provided herein, the Committee of the Company's Board of
+   Directors shall have full power and authority to interpret, construe
+   and administer the Plan, including the right to adjust the amount
+   payable to you under any award to reflect any special circumstances
+   that the Committee deems relevant or to terminate it at any time.
+   All approved award payments will be made not later than ninety (90)
+   days after the end of the award fiscal year, provided, however, upon
+   receipt of a written request from any participant delivered before
+   the end of the year, the Committee may defer payment for a period not
+   to exceed one year.
+
+   IX.  COMMUNICATION
+
+   In order for the plan to be effective, it is essential that each
+   participant have a clear understanding of how the plan operates and
+   that each participant be informed of his or her inclusion shortly
+   after the beginning of the plan year.
+
+   X.   ADMINISTRATIVE DECISIONS AND PROCEDURES
+<PAGE>
+   A.   The Plan Year will be the same as the Company's fiscal year,
+   i.e. August 1, 1998 through July 31, 1999.
+
+   B.   Current Awards
+
+   All awards will be paid in cash as soon as practical after approval
+   (no later than 90 days after the end of the award fiscal year).  The
+   amounts required by law to be withheld for income tax and Social
+   Security taxes will be deducted from the award payments.
+
+   C.   Eligible Participants and Salary
+   The salary of each participant on September 1 of the Plan Year will
+   be used as the salary of record for all calculations.  Initial
+   calculations will be based upon an estimate of September 1 salaries
+   for those employees who would be eligible for September increases,
+   and would be finalized after the September increases have become
+   effective.
+
+   D.   Change in Status During the Year
+
+   1.   New Hire, Transfer, Promotion
+
+   A newly hired employee or an employee transferred or promoted during
+   the Plan Year to a position qualifying for participation may receive
+   a pro rata award based on the percentage of the Plan Year (actual
+   months/full year times the amount granted for a full-year award for
+   that position) the employee is in the participating position.
+
+   2.   Demotion
+
+   No award will be paid to an employee who has been demoted during the
+   Plan Year to a position not eligible for participation.
+
+   3.   Discharge
+
+   An employee discharged during the Plan Year shall not be eligible to
+   be paid for an award, even if his or her severance agreement extends
+   past year-end.
+
+   4.   Resignation
+
+   An employee must be an active employee as of the bonus payment date
+   to be eligible to be paid an award.  An employee who resigns or is
+   terminated prior to the payment date will not be entitled to be paid
+   for an award.
+
+   5.   Death, Disability, Retirement, Leave of Absence
+
+   An employee whose status as an active employee is changed during the
+   Plan Year for any of the reasons cited in the heading of this section
+   may, at the discretion of the Committee, be eligible to be paid for a
+   pro rata award.
+
+   E.   Miscellaneous
+
+   1.   The Committee shall have the right, in its sole discretion, to
+   modify the Plan from time to time or to terminate the Plan or to
+   remove any participant from the Plan.
+<PAGE>
+   2.   The decision of the Committee with respect to any issues
+   concerning individuals selected for award, the amount, terms, form
+   and time of payment of awards and interpretation of any Plan
+   guidelines or requirements shall be final and binding.
+
+   3.   By acceptance of an award, each employee agrees that such award
+   is special additional compensation and that it will not affect any
+   employee benefit, e.g. life insurance, savings plan, etc. in which
+   the employee participates except as provided in paragraph 4 below.
+
+   4.   Payments of awards made under the Plan shall be included in the
+   employee's compensation for purposes of the Company's retirement
+   programs.
+
+   5.   The receipt of an award shall not give an employee any right to
+   continued employment and the right and power to dismiss any employee
+   is specifically reserved to the Company.  The receipt of an award
+   shall not entitle an employee to an award with respect to any
+   subsequent Plan Year.
+
+   6.   When a performance goal is based on income, it may be necessary
+   to exclude significant non-budgeted or not-controllable gains or
+   losses from actual results in order to properly measure performance.
+   The Committee will decide those items that shall be considered for
+   exclusion.  Examples are:
+
+        a.   Any gains or losses which will be treated as extraordinary
+   in the Company's published financial statements.
+
+        b.   Profits or losses of companies acquired during the Plan
+   Year, assuming they were not included in the budget and/or the goal.
+
+        c.   Material gains or losses not in the budget and/or which are
+   of a nonrecurring nature and are not considered to be in the ordinary
+   course of business.  Some of these would be as follows:
+
+             . Gains or losses from the sale or disposal of real estate
+               or property.
+
+             . Gains resulting from insurance recoveries when such
+               gains relate to claims filed in previous years.
+
+             . Losses resulting from natural catastrophes, when the
+               cause of the catastrophe is beyond the control of the
+               Company and did not result from any failure or
+               negligence on the Company's part.
+
+        d.   In the event of an acquisition or divestiture of a
+   business, product line or other similar transaction that would affect
+   the attainment of performance goals, the Committee will endeavor to
+   adjust the performance goals to reflect the expected impact of the
+   transaction preferably at the time the transaction is approved.
+
+   XI.  BASIS FOR DETERMINING MEASUREMENT OF RECOMMENDED AWARDS:
+
+
+   Award payouts will be determined upon attainment of performance goals
+   set by the Committee, which may consist of financial and operational
+   performance objectives.  Payments for the attainment of performance
+   goals will be weighted at the levels set forth on the plan summary
+   attached hereto.
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.T
+<SEQUENCE>3
+<TEXT>
+
+<PAGE>
+
+                          EXHIBIT 10T
+                        FIRST AMENDMENT TO
+            AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT
+
+            THIS FIRST  AMENDMENT TO  AMENDED AND  RESTATED  LOAN AND
+   SECURITY AGREEMENT (this "Amendment")  is entered into  as of July
+   30, 1998, among MULTIGRAPHICS, INC. f/k/a  AM INTERNATIONAL, INC.,
+   a Delaware  corporation  ("Multigraphics"),  PUBLISHING  SOLUTIONS
+   INC., an Ohio corporation ("PSI") and FOOTHILL CAPITAL CORPORATION
+   ("Lender").
+
+            WHEREAS, Multigraphics,  PSI  and Lender  are  parties to
+   that certain  Amended  and Restated  Loan  and Security  Agreement
+   dated as of February 19, 1998  (as amended, the "Loan Agreement");
+   and
+
+            WHEREAS,    Multigraphics    and    PSI    (collectively,
+   "Borrowers") have requested  that Lender amend  various provisions
+   of the Loan Agreement, and Lender  has agreed to do  so subject to
+   the terms and conditions contained herein;
+
+            NOW THEREFORE,  in  consideration  of  the  premises  and
+   mutual agreements herein  contained, the  parties hereto  agree as
+   follows:
+
+             1.   Defined Terms.   Unless  otherwise  defined herein,
+   capitalized terms used herein shall have  the meanings ascribed to
+   such terms in the Loan Agreement.
+
+             2.   Amendments to Loan Agreement.
+
+             (a)  Section 1.1.
+
+             (i)  A new  definition of  the term  "EBITDA"  is hereby
+        added  to  Section  1.1   of  the  Loan   Agreement,  in  the
+        appropriate alphabetical order, as follows:
+
+                  "'EBITDA' means,  for any  period, the  sum of
+             net income  (or net  loss) before  interest, taxes,
+             depreciation and amortization for  such period, all
+             as determined for Borrowers on a consolidated basis
+             in accordance with GAAP."
+
+             (ii) The  definition  of  the  term  "Maximum  Revolving
+        Amount" contained  in Section  1.1 of  the Loan  Agreement is
+        hereby amended and restated in its entirety, as follows:
+<PAGE>
+                  "'Maximum     Revolving     Amount'     means
+             $10,000,000; provided,  that  from  time  to  time
+             Borrowers  may  increase  the   Maximum  Revolving
+             Amount in increments  of $1,000,000,  by providing
+             Foothill with written  notice thereof  at least  3
+             Business Days prior to the effective  date of such
+             increase as  specified in  such notice;  provided,
+             further,  that  (i)  no  such  increase  shall  be
+             effective at any time  that a Default or  an Event
+             of Default  is  in  effect and  (ii)  the  Maximum
+             Revolving  Amount   shall   at  no   time   exceed
+             $15,000,000.  Each  such notice of  increase shall
+             be irrevocable when  given by Borrowers  and shall
+             be accompanied  by the  appropriate line  increase
+             fee set forth in Section 2.11 (a)."
+
+           (iii)  A  new definition  of  the term  "Renewal  Date" is
+        hereby added to  Section 1.1  of the  Loan Agreement,  in the
+        appropriate alphabetical order, as follows:
+
+       "'Renewal Date' has the meaning set forth in Section 3.4."
+
+
+
+            (iv)  The  definition  of  the  term  "Termination  Date"
+        contained in  Section 1.1  of  the Loan  Agreement  is hereby
+        deleted.
+
+             (b)  Section 2.1(a).    Clause  (y) of the definition of
+   the term "Borrowing Base" applicable to  each of Multigraphics and
+   PSI, respectively,  and contained  in Section  2.1(a) of  the Loan
+   Agreement, is  hereby  amended by  deleting  therefrom the  amount
+   "$5,000,000" and inserting in its place the amount "$7,000,000".
+
+             (c)  Section  2.6(b).   Section  2.6(b)   of   the  Loan
+   Agreement is  hereby  amended and  restated  in  its entirety,  as
+   follows:
+
+                  "(b)    Letter of Credit Fee.  Each Borrower
+             shall pay  Foothill a  fee  (in addition  to  the
+             charges, commissions, fees,  and costs set  forth
+             in Section 2.2(d)) equal to 0.75% per annum times
+             the aggregate undrawn  amount of all  outstanding
+             Letters of Credit issued for the account  of such
+             Borrower;  provided,  that  such  fee  shall   be
+             prospectively reduced  by one-quarter  percentage
+             point  one  day  after   receipt  by  Lender   of
+             Borrowers' unqualified  annual audited  financial
+             statements for  the  1998 fiscal  year  delivered
+             pursuant to Section 6.3(b), if the  interest rate
+             applicable to the Obligations is being reduced on
+             such date pursuant to Section 2.6(a)."
+
+             (d)  Section 2.6(c).    Clause (ii) of Section 2.6(c) of
+   the Loan Agreement is hereby amended and restated in its entirety,
+   as follows:
+<PAGE>
+                  "(ii)     the Letter of  Credit fee provided
+             in  Section   2.6(b)   shall   be   prospectively
+             increased to  a  per  annum  rate  equal to  2.00
+             percentage points above  the otherwise applicable
+             Letter of Credit fee provided in Section 2.6(b)."
+
+             (e)  Section 2.11(a).    Section  2.11(a)  of  the  Loan
+   Agreement is  hereby  amended and  restated  in  its entirety,  as
+   follows:
+
+                  "(a)     Line  Increase Fee.   A fee  equal to
+             1.00% of the amount of each increase in the Maximum
+             Revolving Amount, payable on the  effective date of
+             such increase."
+
+            (f)   Section  2.11(d).    The  last  clause  of  Section
+   2.11(d) is  hereby  amended  and  restated  in  its  entirety,  as
+   follows:
+
+                  "and, on  each  anniversary  of  May 30,  1997
+             prior to the  date that this  Agreement terminates,
+             Foothill's customary fee of $1,000 per year for its
+             loan documentation review."
+
+             (g)        Section  3.4.      Section  3.4  of the  Loan
+   Agreement is hereby amended and restated in its entirety, as follows:
+
+                  "3.4       Term; Automatic Renewal.
+
+                  This Agreement shall become effective upon the
+             execution and delivery hereof by  each Borrower and
+             Foothill and  shall  continue  in  full  force  and
+             effect for  a  term ending  on  May  30, 2002  (the
+             "Renewal Date") and automatically  shall be renewed
+             for one additional  year period  thereafter, unless
+             terminated pursuant  to the  terms hereof.   Either
+             party may terminate this Agreement effective on the
+             Renewal Date  or on  the first  anniversary  of the
+             Renewal Date by giving the other  party at least 60
+             days  prior   written   notice.     The   foregoing
+             notwithstanding, Foothill shall  have the  right to
+             terminate  its  obligations  under  this  Agreement
+             immediately and without notice  upon the occurrence
+             and during the continuance of an Event of Default."
+
+             (h)  Section 3.5. Section  3.5 of the  Loan Agreement is
+   hereby amended by adding the following at the end thereof:
+
+                  "If  Borrowers   have   sent   a   notice   of
+             termination pursuant to  the provisions  of Section
+             3.4 for a termination on the Renewal Date, but fail
+             to pay  the Obligations  in  full on  the  date set
+             forth in said notice, then Foothill  may, but shall
+             not be  required to,  renew this  Agreement  for an
+             additional term of one year."
+
+             (i)  Section 3.6. Section  3.6 of the  Loan Agreement is
+   hereby amended and restated in its entirety, as follows:
+<PAGE>
+
+                  "3.6      Early Termination by Borrowers.
+
+                  The  provisions  of  Section  3.4  that  allow
+                  termination of this Agreement by   Borrowers
+                  only  on   the   Renewal   Date  and   certain
+                  anniversaries     thereof     notwithstanding,
+                  Borrowers have the option, at any time upon 60
+                  days prior  written  notice  to  Foothill,  to
+                  terminate  this   Agreement   by   paying   to
+                  Foothill, in  cash, the  Obligations,  in full
+                  (provided, that  any  contingent reimbursement
+                  obligations of either Borrower with respect to
+                  outstanding  Letters   of   Credit  shall   be
+                  satisfied in the  manner set forth  in Section
+                  2.2(e)), together with  a premium  (the "Early
+                  Termination Premium") equal  to (a) 2%  of the
+                  Maximum Revolving  Amount if  such termination
+                  occurs on or before November 30,  1998, (b) 3%
+                  of  the  Maximum  Revolving   Amount  if  such
+                  termination occurs  after  November 30,  1998,
+                  but on or before November 30,  1999, (c) 2% of
+                  the   Maximum   Revolving   Amount   if   such
+                  termination occurs after November 30, 1999 but
+                  on or before November 30, 2000,  (d) 1% of the
+                  Maximum Revolving  Amount if  such termination
+                  occurs after November 30, 2000  but before May
+                  30, 2002 and (e) if this  Agreement is renewed
+                  pursuant to  Section  3.4, 1%  of  the Maximum
+                  Revolving Amount if such termination occurs on
+                  or after the  Renewal Date but  before May 30,
+                  2003; provided,  that  if Borrowers  terminate
+                  this Agreement  due to  Foothill's  refusal to
+                  consent to a  proposed acquisition  that would
+                  violate Section  7.13(a)  or (c)    below, the
+                  applicable Early Termination  Premium shall be
+                  reduced by  one-half of  the  amount otherwise
+                  payable hereunder."
+
+             (j)  Section 7.20(c).  A  new Section  7.20(c)  is
+             hereby added to the Loan Agreement, as follows:
+
+                  "(c)     EBITDA.  EBITDA  of at least $1,300,000 on
+             the last day of each fiscal  quarter commencing with the
+             first fiscal quarter of the 1999 fiscal year, for the 12
+             month period ending on such day."
+
+             (k)  Section 7.21. Section 7.21 of the Loan Agreement is
+   hereby amended and restated in its entirety, as follows:
+
+                  "7.21     Capital Expenditures.
+
+                  Make capital expenditures  in any  fiscal year
+             in excess of $ 1,000,000 in  the aggregate for both
+             Borrowers."
+<PAGE>
+            3.  Ratification and Effectiveness.  This Amendment shall
+   constitute an amendment to the Loan Agreement  and all of the Loan
+   Documents as  appropriate  to  express  the  agreements  contained
+   herein.   Upon  proper  execution  by  Borrowers  and  Lender  and
+   satisfaction of the  conditions set  forth herein,  this Amendment
+   shall be deemed to have been effective as of July _, 1998.  In all
+   other respects, the  Loan Agreement  and the Loan  Documents shall
+   remain unchanged and in  full force and effect  in accordance with
+   their original terms.
+
+            4.    Miscellaneous.
+
+            (a)   Warranties and Absence  of Defaults.   In  order to
+   induce Lender to enter  into this Amendment,  each Borrower hereby
+   warrants to Lender, as of the date hereof, that:
+
+             (i)  The warranties  of each  Borrower contained  in the
+        Loan Agreement, as herein amended, are true and correct as of
+        the date hereof as if made on the date hereof.
+
+             (ii) All information, reports and other  papers and data
+        heretofore  furnished  to   Lender  by  either   Borrower  in
+        connection with this  Amendment, the  Loan Agreement  and the
+        other Loan Documents are accurate and correct in all material
+        respects and  complete insofar  as may  be necessary  to give
+        Lender true  and  accurate knowledge  of  the subject  matter
+        thereof.  Each Borrower has disclosed to Lender every fact of
+        which it  is  aware which  would  reasonably  be expected  to
+        materially and adversely  affect the business,  operations or
+        financial condition  of  either Borrower  or  the ability  of
+        either  Borrower  to  perform  its   obligations  under  this
+        Amendment, the Loan Agreement or under  any of the other Loan
+        Documents.  None of the information furnished to Lender by or
+        on  behalf   of  either   Borrower  contained   any  material
+        misstatement of fact or  omitted to state a  material fact or
+        any fact necessary to make the statements contained herein or
+        therein not materially misleading.
+
+             (iii)     No Event  of  Default  or  event  which,  with
+        giving of notice or the passage of time, or both would become
+        an Event of Default, exists a of the date hereof.
+
+             (b)  Expenses.  Borrowers jointly and severally agree to
+   pay on  demand all  costs and  expenses of  Lender  (including the
+   reasonable fees  and expenses  of outside  counsel for  Lender) in
+   connection with the preparation,  negotiation, execution, delivery
+   and administration of this Amendment and  all other instruments or
+   documents provided  for herein  or  delivered or  to  be delivered
+   hereunder or  in  connection  herewith.    In addition,  Borrowers
+   jointly and severally agree to pay,  and save Lender harmless from
+   all liability for, any stamp  or other taxes which  may be payable
+   in connection with the execution or  delivery of this Amendment or
+   the Loan  Agreement,  as amended  hereby,  and  the execution  and
+   delivery of any  instruments or  documents provided for  herein or
+   delivered or to be delivered hereunder  or in connection herewith.
+   All obligations provided  in this  Section 4(b) shall  survive any
+   termination of this  Amendment and  the Loan Agreement  as amended
+   hereby.
+<PAGE>
+             (c)  Governing Law.  This Amendment shall  be a contract
+   made under  and governed  by the  internal  laws of  the  State of
+   California.
+
+             (d)  Counterparts.   This Amendment  may be  executed in
+   any number of counterparts, and by the  parties hereto on the same
+   or separate counterparts, and each such counterpart, when executed
+   and delivered, shall  be deemed  to be an  original, but  all such
+   counterparts shall  together  constitute  but  one  and  the  same
+   Amendment.
+
+             (e)  Reference to  Loan  Agreement.   On  and after  the
+   effectiveness of the amendment to the  Loan Agreement accomplished
+   hereby, each reference in  the Loan Agreement  to "this Agreement",
+   "hereunder," "hereof," "herein" or words of  like import, and each
+   reference to the  Loan Agreement in  any Loan Documents,  or other
+   agreements, documents or other instruments  executed and delivered
+   pursuant to the Loan Agreement,  shall mean and be  a reference to
+   the Loan Agreement, as amended by this Amendment.
+
+             (f)  Successors.  This  Amendment shall be  binding upon
+   each Borrower, Lender and their respective successors and assigns,
+   and shall inure to the benefit of  each Borrower, Lender and their
+   respective successors and assigns.
+
+               IN WITNESS  WHEREOF, the  parties hereto  have  caused
+   this  Amendment  to  be  executed  by  their  respective  officers
+   thereunto duly authorized and delivered as of the date first
+   above written.
+
+                                                                    
+   MULTIGRAPHICS, INC. f/k/a
+   AM INTERNATIONAL, INC.
+
+   By ___________________________________
+
+   Its  _________________________________
+
+   
+   PUBLISHING SOLUTIONS INC.
+
+   By  __________________________________
+
+   Its  __________________________________
+
+
+   FOOTHILL CAPITAL CORPORATION
+
+   By  __________________________________
+
+   Its   __________________________________
+
+         
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<TEXT>
+
+   <PAGE>
+                               EXHIBIT 13
+                   MANAGEMENT'S DISCUSSION AND ANALYSIS
+             OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+       
+   The following table sets forth for the years indicated certain items
+   from the Condensed Consolidated Statements of Operations (expressed
+   in millions of dollars). The operating results for the years ended
+   July 31, 1997 and 1996 include the results of two foreign
+   subsidiaries which have been divested.  The Company sold its interest
+   in AM Japan Co., Ltd. in September, 1996, and on October 17, 1996,
+   the Company's Canadian subsidiary filed a voluntary assignment in
+   bankruptcy.
+
+   During the fiscal year ended July 31, 1998, the Company acquired
+   certain assets of Hanley Graphic Products Company and Progressive
+   Lithoplate and Supply Company, both graphic arts dealers competing in
+   Northern Illinois, and purchased all of the outstanding shares of
+   capital stock of Akron, Ohio based Publishing Solutions Inc., a
+   systems integrator.  All acquisitions have been accounted for as
+   purchases and, accordingly, the Company's consolidated financial
+   statements include the post-acquisition results of these operations
+   since their respective acquisition dates. All per share data is
+   presented on a diluted basis.
+<TABLE>
+   OPERATING RESULTS (Continuing Operations)
+
+   Years ended July 31,               1998           1997        1996
+   <S>                               <C>            <C>        <C>
+   Revenues                          $95.3          $88.7      $168.1
+   Gross margin                       25.2           24.8        37.6
+   Operating expenses                 21.9           23.5        54.0
+   Operating income (loss)             3.3            1.3       (16.4)
+   Non-operating expenses              1.6            1.2         3.8
+   Income (loss) before taxes         $1.7           $0.1      ($20.2)
+   Net income (loss)                  $1.1           $0.1      ($20.1) 
+</TABLE>
+
+   Comparison of 1998 to 1997  
+
+   Net income in 1998 of $1.1 million ($0.37 per common share) improved
+   by $1.0 million over the prior year net income of $0.1 million ($0.04
+   per common share). In the prior year, the Company had a gain of $2.6
+   million on the divestiture of its interest in AM Japan Co., Ltd.
+   Excluding the gain on the divestiture, net income improved by $3.6
+   million from the prior year. The improved result in 1998 was
+   primarily due to a reduction in operating expense levels which
+   resulted from the Company's elimination of unprofitable product
+   lines, its exit from machine manufacturing,  efficiency improvements
+   in distribution and service activities, and increased gross margins
+   on higher revenue levels attributable to the acquisitions made in the
+   current year.
+ <PAGE>
+   Revenues in 1998 of $95.3 million increased by $6.6 million over the
+   prior year.  The 7% growth in revenues was largely attributable to
+   the acquisitions of the three regional graphic arts dealers over the
+   last eight months of the fiscal year.  The acquired businesses serve
+   the same customer base as the Company.  The acquisitions complement
+   the Company's internal efforts to expand its product offerings, and
+   bring enhanced digital sales and support capabilities as well as an
+   expanded customer base in the Company's traditional markets.  In
+   addition, the Company has undertaken marketing programs focusing on
+   obtaining national service accounts with manufacturers and national
+   retail outlets.  Market demand for the Company's manufactured
+   duplicator press products, particularly in the in-plant market
+   segment, has experienced long term decline due in part to inroads
+   from competing printing technologies.  As a result, the installed
+   base of the Company's duplicator press equipment has declined which
+   has led to decreased sales of duplicator supplies and services.
+   Revenues from acquisitions, new products and increased service
+   offerings collectively were more than sufficient to offset the
+   decline in revenues from the prior year divestitures of operations in
+   Japan and Canada, the discontinuance of unprofitable product lines,
+   and the exit from manufacturing duplicator presses which,
+   collectively, had contributed revenues of $7.5 million to the prior
+   year.
+
+   Gross margin of $25.2 million was $0.4 million higher than the prior
+   year largely as a result of increased revenue volume.  The overall
+   gross margin rate declined 1.6 percentage points to 26.4%.  The lower
+   margin rate largely resulted from the shift in revenue mix from the
+   Company's traditional higher margin manufactured products and service
+   offerings, the demand for which has been in long term decline, to
+   revenues derived from product lines added through distribution
+   agreements, affiliations with third parties, and acquisitions of
+   graphic arts dealers.  In anticipation of the decline in margins, the
+   Company invested in information systems and instituted various
+   reorganization measures which increased operational efficiency and
+   lowered expense levels.
+
+   Operating expenses decreased by $4.2 million in 1998 from 1997, after
+   adjusting 1997 to exclude the $2.6 million gain from the divestiture
+   of AM Japan Co. Ltd.  The decrease in expenses was largely due to the
+   divestiture of foreign operations, discontinued product lines and
+   elimination of costs associated with the Company's exited
+   manufacturing operation which collectively added $2.4 million in the
+   prior year.  The remainder of the decrease in expenses resulted from
+   reductions in selling, general and administrative expenses as the
+   Company transitioned to a distribution and service organization.
+
+   Non-operating expenses increased $0.4 million in 1998, largely due to
+   a $1.1 million reduction in interest income due to lower investment
+   balances in 1998 following the $14.1 million dividend in May, 1997,
+   offset by a $0.7 million reduction in interest expense. The decrease
+   in interest expense was primarily due to lower prepetition debt
+   obligations, which have been reduced by scheduled payments, and lower
+   interest costs on post retirement benefit obligations.
+ <PAGE>
+   The Company recorded income tax expense of $0.6 million during 1998.
+   Fresh start reporting rules require recognition of tax expense
+   although the Company had no requirement to pay U.S. Federal taxes due
+   to utilization of net operating loss carry forwards available to the
+   Company.  Net income from continuing operations improved by $1.0
+   million over 1997 due to the factors cited above.
+
+
+   Comparison of 1997 to 1996
+
+   Net income in 1997 of $0.1 million ($0.04 per common share) improved
+   significantly over the net loss of $20.2 million from continuing
+   operations in 1996.  The improved results in 1997 was primarily due
+   to restructuring initiatives the Company had formulated and executed
+   during 1995 and 1996.
+
+   Declining market demand for the Company's traditional offset
+   duplicator products, due to inroads by alternative technologies,
+   resulted in the re-evaluation of its traditional strategy and the
+   decision to exit manufacturing.  The Company's growth strategy in the
+   graphic arts market is focused on expanding its product offering,
+   enhancing its digital support capabilities, taking advantage of
+   unique national service capabilities and increasing market
+   penetration and coverage through acquisitions of regional dealers.
+
+   Revenues in 1997 of $88.7 million decreased by $79.4 million from
+   1996.  The revenue decrease was primarily the result of: 1) the
+   divestitures of foreign subsidiaries in Japan and Canada which
+   accounted for a revenue decline of $37.8 million, and 2) a $35.0
+   million decrease due to the discontinuance of certain unprofitable
+   product lines, including manufactured offset duplicator presses.
+
+   Gross margin decreased in 1997 from 1996 due largely to the lower
+   revenue level; however, the gross margin rate improved by 5.6
+   percentage points over the previous year due to a more favorable
+   product mix and the elimination of manufacturing overhead costs.
+
+   Operating expenses decreased by $30.5 million in 1997 from 1996.  The
+   decrease in expenses was due to: 1) a $12.0 million reduction in
+   selling, general and administrative expenses which reflected improved
+   efficiencies as the business transitioned to a distribution and
+   service organization, and a reduction in corporate expenses; 2) the
+   elimination of foreign operations, which accounted for $12.5 million
+   of the reduction, including a $2.6 million gain on the divestiture of
+   AM Japan Co., Ltd.; and 3) a reduction of $6.4 million in
+   restructuring charges as compared with the prior year.
+
+   Non-operating expenses decreased in 1997 by $2.6 million due to the
+   elimination in 1997 of borrowings under the revolving credit
+   agreement, lower interest costs on general unsecured claims, and
+   interest income which was earned on divestiture proceeds received in
+   1997 from the sales of the Sheridan Systems segment and the Company's
+   interest in AM Japan Co., Ltd.  Net income of $0.1 million in 1997
+   improved by $20.3 million over 1996 due to improved gross margin
+   rates and lower expenses as described.
+ <PAGE>
+   LIQUIDITY AND CAPITAL RESOURCES (three years ended July 31, 1998)
+
+   The Company's total cash and cash equivalents of $2.9 million as of
+   July 31, 1998 decreased by $7.5 million during the fiscal year,
+   following an increase in cash balances of $7.8 million in 1997, and a
+   $10.0 million decrease in cash in 1996.
+
+
+   Operating Activities
+
+   In 1998, the Company had a cash outflow from operating activities of
+   $2.8 million.  The 1998 cash outflow was primarily due to a $5.1
+   million reduction in accrued liabilities largely from restructuring
+   payments which included payments for severance, accrued vacation and
+   the settlement of a lease recourse obligation from a discontinued
+   business, and a $1.8 million reduction in trade payables primarily
+   due to lower inventory purchases.  A $1.8 million reduction in
+   inventories partially offset other outflows and was due to lower
+   stocking levels of machines resulting from an increase in drop
+   shipment sales, and improved supplies and parts turnover rates
+   reflective of the transition from a manufacturing to a distribution
+   and service operation.
+
+   In 1997, the Company had a cash outflow from operating activities of
+   $15.6 million. The 1997 cash outflow was primarily due to a $10.2
+   million reduction in trade payables as extended credit terms were
+   reduced with vendors, and a $14.7 million reduction in accrued
+   liabilities primarily due to restructuring payments which included
+   payments for severance, accrued vacation and the settlement of a
+   lease obligation.  A $9.0 million reduction in accounts receivable
+   partially offset other outflows and was due to improved collection
+   rates, the collection of receivables from the phased out manufactured
+   machine product line, and a lower revenue level.  Inventories
+   increased $0.3 million in supplies and parts to improve product
+   availability.
+
+   In 1996, the Company had a cash outflow of $3.9 million, which
+   improved by $1.0 million over 1995.  The net loss of $45.5 million in
+   1996 was largely offset by a $26.3 million reduction in the net
+   assets of discontinued operations, primarily accounts receivable and
+   leases receivables, and reductions in the accounts receivable and
+   inventories of the continuing business.  The inventory reduction was
+   the result of the phase out of machine manufacturing and general
+   reductions in stock levels due to liquidity problems.
+
+   Depreciation and amortization remained flat from 1997 to 1998 at $1.9
+   million, but 1997 decreased by $2.3 million from 1996.  In 1996 an
+   additional $2.0 million was provided against certain manufacturing
+   assets following the decision to phase out manufacturing. The
+   Company's fixed assets consist primarily of leasehold improvements
+   and computer systems.
+ <PAGE>
+   Investing Activities
+
+   In 1998, the Company invested $6.9 million in the acquisitions of
+   three regional graphic arts equipment and supply dealers.  In 1997,
+   the Company received net proceeds of $50.6 million from the
+   divestitures of Sheridan Systems and AM Japan Co., Ltd.  In 1996, the
+   Company received  $6.8 million from the disposition of property,
+   primarily from the sale of its Mt. Prospect, IL manufacturing and
+   headquarters facility.  Capital expenditures of $0.6 million in 1998
+   and $1.9 million in 1997 were made to upgrade information systems and
+   customer service capabilities, and to maintain facilities.  Capital
+   expenditures in 1996 of $9.0 million were primarily for leasehold
+   improvements of new facilities in conjunction with the planned exit
+   from the Company's manufacturing facilities, and to upgrade
+   information systems equipment.
+
+   Financing Activities
+
+   In 1998 the Company had a net inflow of $2.8 million from financing
+   activities, as compared to net outflows in 1997 and 1996 of $25.5
+   million and $2.7 million, respectively.  In 1998 the Company borrowed
+   $7.8 million under its revolving credit agreement to finance the
+   operating and investing activities noted above.  In 1997 the Company
+   repaid its outstanding balance under its revolving credit agreement
+   of $5.4 million with the proceeds from divestitures.   The borrowings
+   in 1996 were necessitated by operating losses.  The Company has made
+   payments of $4.3 million, $5.3 million and $5.1 million in 1998, 1997
+   and 1996, respectively, to resolve unsecured claims and priority tax
+   claims in accordance with the Reorganization Plan of 1993.  In 1997
+   the Board of Directors declared a $2.00 per share special dividend to
+   holders of record as of May 13, 1997.  The dividend totaling $14.1
+   million was paid on May 27, 1997.  In 1996 the Company received $4.0
+   million, primarily from capital lease agreements, which was utilized
+   to fund leasehold improvements and computer system upgrades.  In 1996
+   discontinued operations had a $6.7 million outflow which resulted
+   primarily from reductions in long term debt and capital lease
+   obligations.
+
+   The Company's primary source of financing is its revolving credit
+   facility which was established in May, 1997 and which has
+   subsequently been amended to provide liquidity needed to execute the
+   Company's growth strategy.  The Company believes that its existing
+   cash reserves and the liquidity provided by the credit facility are
+   sufficient to finance current operations and support future growth
+   strategies, which may include the acquisitions of other regional
+   dealers or distributors in the graphic arts industry. The Company may
+   also seek to increase its capital availability to expand its growth
+   strategy beyond its current sources of liquidity.
+ <PAGE>
+   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+   The Company is exposed to market risk related to change in interest
+   rates.  At July 31, 1998, the Company had approximately $7.8 million
+   of debt outstanding on a revolving credit facility with floating
+   interest rates tied to the prime rate.  If this rate was to increase
+   10 percent, the increase in interest payments would not have a
+   material impact on the Company's net income or cash flows.  In
+   addition, the Company has fixed rate financing arrangements under
+   capital lease obligations in the amount of $1.7 million.  A 10
+   percent change in interest rates would not have a material impact on
+   the fair market value of this debt.
+
+   YEAR 2000 DISCLOSURE
+
+   The Company's information systems will require certain modifications
+   to enable them to be able to process information without regard to
+   whether the date occurs prior to or after the year 2000.  Currently,
+   some information systems do not properly identify a year that begins
+   with "20" instead of the familiar "19".   These and similar issues
+   are generally referred to as "Year 2000" issues.  The Company's
+   information systems are relatively new, and its recent systems
+   implementation in the Fall of 1997 achieved near compliance in the
+   Company's operating systems and full compliance in its host hardware.
+   Based on the Company's experience in the new system implementation
+   and its analysis of the work remaining, the Company anticipates that
+   expenditures for modifying the systems will be approximately $0.2
+   million, and the work necessary to complete all modifications will be
+   complete by mid 1999.  The Company is working with its software and
+   systems licensor in completing this project.  Accordingly, the
+   Company does not believe that the remaining actions or the associated
+   costs will be material to the Company's operating results.
+
+   The Company has also undertaken a review of its other equipment and
+   operating systems, and has begun the process of contacting its
+   significant vendors and service providers to assess the possible
+   impact on the Company of such third parties' failure to address Year
+   2000 issues.  Although the Company cannot verify the results of its
+   inquiries of third parties, it has not received any information which
+   would lead it to believe that there will be material problems in
+   obtaining products, supplies and services from its third party
+   service providers and vendors.  Nevertheless, any significant or
+   prolonged interruption in the supply of essential services or
+   products could adversely effect the Company's revenues and financial
+   results.  Similarly, problems with any significant portion of the
+   Company's 20,000 customers in processing and paying invoices from the
+   Company could result in cash flow shortages and liquidity problems.
+ <PAGE>
+   The Company is undertaking a number of steps to address potential
+   Year 2000 problems.  The systems issues and supplier contacts
+   described above are a part of those efforts.  In the event that the
+   Company identifies potential problems with a service provider or
+   other vendor, it will attempt to obtain services and products from
+   other sources.  The Company has available to it a broad range of
+   products, however, and it is unlikely that serious shortages will
+   materialize.  Similarly, although the Company will have completed and
+   tested its systems capabilities in advance of the year 2000, the
+   Company is preparing to operate without significant portions of its
+   operating and information systems.  Customer service representatives
+   are trained to take orders without access to the information systems,
+   purchasing representatives are trained to purchase parts without
+   access to the information systems, and the Company's finance
+   department is preparing to invoice and bill customers without access
+   to the information systems, if necessary.  The Company is unable to
+   anticipate whether significant customers or significant numbers of
+   its customers will have difficulty processing and paying its
+   invoices.
+
+   FORWARD LOOKING STATEMENTS
+
+   This document contains certain forward-looking statements and other
+   statements that are not historical facts concerning, among other
+   things, market conditions and the Company's strategies for growth and
+   expansion.  These statements are highly dependent upon a variety of
+   important factors that could cause such results or events to differ
+   materially.  These factors include, but are not limited to, changing
+   market conditions, the availability and cost of products, maintenance
+   of principal vendor relations, the impact of competitive products and
+   pricing, the Company's ability to execute its strategic plans, the
+   continued availability of sources of financing to assist in the
+   execution of the Company's strategic plans, and other risks detailed
+   herein and from time-to-time in the Company's Securities and Exchange
+   Commission filings.  There can be no assurance that the Company has
+   accurately identified and properly weighed all of the factors that
+   affect market conditions and demand for the Company's products and
+   services, that the public information on which the Company has relied
+   is accurate or complete or that the Company's analysis of the market
+   and demand for its products and services is correct and, as a result,
+   that the strategies based on such analysis will be successful.
+<PAGE>
+<TABLE>
+                              Multigraphics, Inc.
+                     Consolidated Statements of Operations
+                (Dollars in thousands, except per share amounts)
+ 
+
+                                                Twelve Months Ended
+
+                                       July 31,     July 31,   July 31,
+                                         1998         1997       1996
+
+  <S>                                    <C>        <C>        <C>
+  Revenues
+   Machines and Supplies                 $  54,990  $  45,274   $112,118
+   Services                                 40,261     43,387     55,934
+
+         Total Revenues                     95,251     88,661    168,052
+
+  Cost of Sales
+   Machines and Supplies                     42,724    37,335     94,448
+   Services                                  27,346    26,536     35,973
+
+         Total Cost of Sales                 70,070     63,871   130,421
+
+  Gross Margin                               25,181     24,790    37,631
+  Operating Expenses
+       Selling, general and administrative   21,910     25,616    47,048
+       Unusual items, net (income) expense        -    (2,095)     7,032
+
+         Total Operating Expenses            21,910     23,521    54,080
+  Operating Income (Loss)                     3,271      1,269   (16,449)
+  Non-operating income (expense):
+       Interest income                          211      1,288       169
+       Interest expense                      (1,723)    (2,574)   (3,762)
+   Other, net                                   (42)       120      (212)
+
+  Income (loss) from continuing
+  operations before income taxes               1,717       103   (20,254)
+
+    Income tax expense (benefit)                 646         -       (97)
+
+  Net income (loss) from continuing
+  operations                                   1,071       103   (20,153)
+
+  Net income (loss) from discontinued
+  operations, net of tax                           -         -   (25,342)
+
+
+  Net Income (Loss)                          $ 1,071   $   103  $(45,499)
+
+
+  Per share of common stock: (a)
+   Basic:
+  Income (loss) from continuing operations   $  0.38   $  0.04   $ (7.19)
+  Income (loss) from discontinued
+  operations                                       -         -     (9.04)
+
+              Net income (loss)              $  0.38   $  0.04   $(16.23)
+
+   Diluted:
+  Income (loss) from continuing operations   $  0.37   $  0.04   $ (7.19)
+  Income (loss) from discontinued
+  operations                                       -         -     (9.04)
+
+              Net income (loss)              $  0.37   $  0.04   $(16.23)
+
+
+  Weighted average shares of common stock
+  and common stock equivalents outstanding
+   (in thousands)
+
+                          Basic                2,823     2,807      2,803                         Diluted
+                          Diluted              2,895     2,811      2,803
+
+
+   (a)  The weighted average number of common shares outstanding
+        and net income per common share have been restated to reflect
+        the effect of the 1 for 2 1/2 share reverse stock split which
+        was approved by the Company's shareholders on May 28,1997.
+        The Notes to Consolidated Financial Statements are an integral
+        part of these financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+
+                         Multigraphics, Inc.
+                     Consolidated Balance Sheets
+           (Dollars in thousands, except per share amounts)
+
+                                                  July       July
+                                                  31,        31,
+                                                  1998       1997
+
+   <S>
+                     ASSETS                       <C>       <C>
+   Current assets:
+       Cash and cash equivalents                  $2,869    $10,376
+
+       Accounts receivable, net                   14,629     10,746
+
+       Inventories, net                           13,188     11,893
+
+       Prepaid expenses and other assets             726        744
+
+   Total current assets                           31,412     33,759
+
+   Property, plant and equipment, net              9,554     10,222
+
+   Goodwill                                        3,681          -
+
+   Other assets, net                                 992        919
+
+        Total assets                             $45,639    $44,900
+
+
+
+      LIABILITIES AND SHAREHOLDERS' EQUITY
+   Current liabilities:
+   Short-term borrowings and current 
+   maturities of long-term debt                  $10,844     $5,773
+
+   Accounts payable                                7,312      5,217
+
+   Service contract deferred income               12,013     11,738
+
+   Payroll related expenses                        5,709      6,803
+
+   Other current liabilities                       6,737     10,152
+
+  Total current liabilities                       42,615     39,683
+
+   Post-retirement benefit obligations             8,626      9,729
+
+   Long-term debt                                  1,048      3,352
+
+   Other long-term liabilities                     3,494      4,036
+
+        Total liabilities                         55,783     56,800
+
+   Shareholders' equity:
+   Preferred stock, 0.5 million shares
+   authorized; no shares issued                        -          -
+   Common stock, $.025 par value; 9.5
+   million shares authorized;
+   2,829,526 issued as of July 31,
+   1998 and 2,815,337 issued
+   as of July 31, 1997                                70         70
+
+   Capital in excess of par value                 22,847     22,162
+
+   Accumulated earnings (deficit)               (33,061)   (34,132)
+
+        Total shareholders' equity              (10,144)   (11,900)
+
+   Total liabilities and shareholders' equity    $45,639    $44,900
+
+
+   The Notes to Consolidated Financial Statements are an
+   integral part of these financial statements.
+</TABLE>
+<PAGE>
+<TABLE>   
+                              Multigraphics, Inc.
+                     Consolidated Statements of Cash Flows
+                            (Dollars in thousands)
+
+
+
+                                                   Twelve Months Ended
+
+                                              July 31,  July 31,   July 31,
+                                                1998      1997       1996
+   <S>                                         <C>       <C>       <C>
+   Cash Flows from Operating
+   Activities:
+   Net income (loss)                           $ 1,071   $   103   $(45,499)
+   Adjustments to reconcile net income to
+   cash flow from operating activities:
+
+   Depreciation of property, plant
+     and equipment                               1,859     1,836       3,769
+   Amortization and writedown of
+     other assets                                   42         -         407
+   Benefit from operating loss
+     carryforwards                                 646         -           -
+   Discontinued  operations                          -         -      26,284      Net assets held for sale
+   Net assets held for sale                          -         -      (2,682)
+   Change in assets and
+     liabilities:
+   Accounts receivable, net                         27     9,028       6,308
+   Inventory, net                                1,750     (291)      13,056
+   Prepaid expenses and other assets               193       858        (334)
+   Accounts payable and accruals                (6,633)  (26,132)     (2,434)
+   Other, net                                   (1,719)   (1,041)     (2,794)
+
+   Cash flow from operating
+   activities                                   (2,764)  (15,639)     (3,919)
+
+
+   Cash Flows from Investing
+     Activities:
+   Acquisition Activities                       (6,873)        -           -
+   Capital expenditures                           (638)   (1,862)     (8,990)
+   Proceeds from Divested Operations                 -    50,638           -
+   Proceeds from disposition of
+     property                                        -       149       6,822
+   Cash flow from investing activities          (7,511)   48,925      (3,430)
+         
+   Cash Flows from Financing
+     Activities:
+   Net borrowings (payments) under
+   revolving credit facilities                   7,768    (5,430)      5,430
+
+   Payment of Bankruptcy Claims                 (4,285)   (5,318)     (5,106)
+
+   Borrowings under capital lease
+     and other arrangements                          -         -       4,041
+
+   Payments under capital lease
+     arrangements                                 (715)     (642)       (358)
+
+   Payment of special dividend                       -   (14,080)          -
+
+   Discontinued operations                           -         -      (6,661)
+
+   Cash flow from financing
+     activities                                  2,768   (25,470)     (2,654)
+
+   Increase (decrease) in cash and
+     cash equivalents                           (7,507)    7,816     (10,003)
+   Cash and cash equivalents at
+     beginning of period                        10,376     2,560      12,563
+
+   Cash and cash equivalents at end of
+   period                                      $ 2,869   $10,376    $  2,560
+
+   The Notes to Consolidated Financial Statements are an integral part of
+   these financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+                                          Multigraphics, Inc.
+                            Consolidated Statement of Shareholders' Equity
+                                         (Dollars in thousands)
+                                                               
+                                                                 
+                               Common  Stock     Treasury  Stock         Warrants                                           Total
+                            -----------------    ----------------  ----------------   Capital in  Accumulated  Cumulative   Share-
+                             Number               Number            Number            Excess of   Earnings/   Translation  holders
+                            of Shares  Amount   of Shares  Amount  of Shares  Amount  Par Value   (Deficit)    Adjustment   Equity
+                              (a)                  (a)               (a)                          
+                            ---------   -----    ------    ------   -------   -----    -------   ---------      -------    -------
+<S>                         <C>         <C>        <C>     <C>      <C>       <C>      <C>       <C>             <C>       <C>
+Balance at July 31, 1995    2,804,000   $  70      498     $  (6)   438,000   $ 383    $35,637   $  11,265       $  952    $48,301
+  Net loss                                                                                         (45,499)                (45,499)
+  Aggregate effect of
+   current year translation
+   adjustments                                                                                                     (734)      (734)
+  Purchase of Treasury
+   Stock                                           134                                                                           -
+  Other, net                                                                               228                                 228
+                            ---------   -----    ------    ------   -------   -----    -------   ---------      -------    -------
+Balance at July 31, 1996    2,804,000      70      632        (6)   438,000     383     35,865     (34,234)         218      2,296
+  Net income                                                                                           103                     103
+  Aggregate effect of
+   current year translation
+   adjustments                                                                                                     (218)      (218)
+  Issuance of new common
+   stock                       11,969                                                                                            -
+  Retirement of Treasury
+   Stock                         (632)            (632)        6                            (6)                                  -
+  Expiration of Warrants                                            (438,000)  (383)       383                                   -
+  Payment of special
+   dividend                                                                            (14,080)                            (14,080)
+  Other, net                                                                                            (1)                     (1)
+                            ---------   -----    ------    ------   -------   -----    -------   ---------      -------    -------
+Balance at July 31, 1997    2,815,337      70        -         -          -       -     22,162     (34,132)           -    (11,900)
+  Net  Income                                                                                        1,071                   1,071
+  Benefit from operating
+   loss carryforwards                                                                      646                                 646
+  Issuance of new common
+   stock                       13,523                                                       39                                  39
+  Stock option exercises          666                                                                                            -
+                            ---------   -----    ------    ------   -------   -----    -------   ---------      -------    -------
+Balance at July 31, 1998    2,829,526   $  70         -    $   -          -   $   -   $ 22,847   $ (33,061)     $     -   $(10,144)
+                            =========   =====    ======    ======   =======   =====    =======   =========      =======    ======
+ (a) The number of shares have been restated to reflect the effect of
+     the 1 for 2 1/2 share reverse stock split which was approved by the
+     Company's shareholders on May 28, 1997.
+
+     The Notes to Consolidated Financial Statements are an integral
+     part of these financial statements.
+
+</TABLE>  
+<PAGE>
+
+   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+   (Dollars in thousands, except as otherwise noted and per share
+   amounts)
+
+   Note 1 - Nature of Operations and Significant Accounting Policies
+
+   Nature of Operations: Multigraphics, Inc. (the "Company"), a Delaware
+   corporation, distributes an extensive range of equipment, supplies,
+   and services to the graphic arts industry.  The Company has
+   approximately 20,000 customers, including small and mid-size
+   commercial printers, quick print franchises, in-plant print shops,
+   governmental agencies, and educational institutions.  No individual
+   customer accounts for more than 10% of net revenue.
+
+   The Company's headquarters and primary operations are located in Mt.
+   Prospect, Illinois.  Products are distributed throughout the United
+   States utilizing eight distribution facilities.  To a lesser extent,
+   products are distributed internationally through independent dealers.
+   The Company employs 342 service technicians throughout the United
+   States to provide technical service and training.
+
+   Basis of Presentation: The Consolidated Financial Statements include
+   the accounts of Multigraphics, Inc. and its subsidiaries (the
+   "Company").  All significant intercompany transactions have been
+   eliminated.  The Company's fiscal year end is July 31.  All
+   references to years, unless otherwise indicated, refer to the fiscal
+   year.  Certain prior year amounts have been reclassified to be
+   consistent with current year presentation.
+
+   Use of Estimates:  The preparation of financial statements in
+   conformity with generally accepted accounting principles requires
+   management to make estimates and assumptions that affect the reported
+   amounts of assets and liabilities and disclosure of contingent assets
+   and liabilities at the date of the financial statements and the
+   reported amounts of revenues and expenses during the reporting
+   period.  Actual results could differ from those estimates.
+
+   Cash Equivalents: The Company considers all highly liquid investments
+   purchased with a maturity of three months or less to be cash
+   equivalents.  It is the Company's policy to invest its excess cash in
+   interest bearing deposits with major banks and institutional money
+   market funds.
+
+   Inventories: Inventories are valued at the lower of cost determined
+   by the first-in, first out (FIFO) method, or market.
+
+   Properties, Equipment and Depreciation: Properties and Equipment are
+   stated at cost and are depreciated over estimated useful lives,
+   ranging from 3 to 10 years, primarily on a straight-line basis. The
+   Company adjusts the net book value to recognize impairments in
+   accordance with "SFAS 121: Accounting for the Impairment of Long-
+   Lived Assets and Long-Lived assets to be Disposed Of."
+
+   Goodwill: The excess purchase price over the fair market value of net
+   assets acquired has been allocated to goodwill.  These amounts are
+   amortized over the estimated useful lives not to exceed 40 years.
+<PAGE>
+
+   Revenue Recognition: Revenue is recognized from sales when a product
+   is shipped.  The Company recognizes warranty and equipment
+   installation expenses at the time a product is shipped, if
+   applicable.  The expense is estimated considering current warranty
+   policies and historical experience. Amounts billed for service
+   contracts are credited to Service contract deferred income and
+   recognized as revenues over the term of the contracts.
+
+   Income Taxes: Income taxes are provided based on the liability method
+   of accounting pursuant to Statement of Financial Accounting Standards
+   (SFAS) No. 109, " Accounting for Income Taxes."  Deferred income
+   taxes are recorded to reflect the future tax consequences of
+   differences between the tax basis of assets and liabilities and their
+   financial reporting amounts at each year end.
+
+   Income per Common Share:  "Basic earnings per share" have been
+   calculated based upon the weighted average number of shares actually
+   outstanding, and "diluted earnings per share" have been calculated
+   based upon the weighted average number of common shares outstanding
+   and other potential common shares if they were dilutive.
+
+
+   Note 2 -  Acquisitions
+
+   In December, 1997 the Company purchased all of the outstanding shares
+   of Publishing Solutions Inc., and acquired the operating assets of
+   Hanley Graphic Products Company.  Publishing Solutions provides its
+   customers in northeast and central Ohio with equipment and systems
+   integration solutions utilizing digital technologies for design, pre-
+   press, imaging, and interactive media applications.  Hanley Graphic
+   Products Company is a regional dealer of graphic arts equipment and
+   supplies serving customers in Northern Illinois.  In June, 1998 the
+   Company acquired the business and certain assets of Progressive
+   Lithoplate and Supply Company, a regional graphic arts dealer serving
+   customers in Northern Illinois.
+
+   The aggregate purchase price for the three companies was $6,873
+   including expenses of the transactions, and could increase by a
+   maximum of $1,950, contingent upon the attainment of certain
+   operating targets by the acquired companies over the next two years.
+   The excess purchase price over the fair market value of net assets
+   acquired amounts to a  preliminary value of $3,723, which will be
+   amortized over a period not to exceed forty years.  The allocation of
+   purchase price was based on preliminary estimates, and may be revised
+   at a later date.
+
+   The acquisitions have been accounted for as purchases and,
+   accordingly, the financial statements include results of operations
+   from the date of acquisition.  The following pro forma summary
+   presents the results of operations for the current and prior period
+   as though the acquisitions had taken place at the beginning of the
+   prior period.  The pro forma amounts give effect to certain
+   adjustments including increased interest expense, goodwill
+   amortization, estimated income tax expense as well as other factors,
+   and do not necessarily reflect the results which would have occurred
+   had the businesses operated as a single entity during such periods,
+   nor are they necessarily indicative of results which may be obtained
+   in the future.
+<PAGE>
+
+<TABLE>
+                        July 31,    July 31,
+                            1998        1997
+   <S>                  <C>         <C>
+   Revenues             $108,063    $120,385
+                        
+   Net Income           $  1,110    $    335
+
+   Earning per share:
+
+   Basic                 $  0.39     $  0.12
+
+   Diluted               $  0.38     $  0.12
+</TABLE>
+
+   Note 3 - Borrowing Arrangements
+
+   The Company's short and long-term borrowings are comprised of the
+   following:
+<TABLE>
+                                 July 31,        July 31,
+                                   1998            1997
+    <S>                            <C>           <C>
+    Revolving Credit Facility      $ 7,768       $      -
+    General Unsecured Claims      
+      & Priority Tax Claims          2,364          6,649
+    Capital Leases                   1,760          2,476
+
+             Total                 $11,892       $  9,125
+
+
+
+
+   Classified in the Consolidated Balance Sheet
+   as follows:
+      Short-term                   $10,844       $  5,773
+      Long-term                      1,048          3,352
+
+              Total                $11,892       $  9,125
+
+</TABLE>
+<PAGE>
+   In May, 1997 the Company entered into a $10,000 three year secured
+   Revolving Credit Facility (subject to borrowing base limitations)
+   with Foothill Capital Corporation ("Foothill").  The Revolving Credit
+   Facility includes a $5,000 sub-facility for the issuance of letters
+   of credit.  As security for utilization of the Revolving Credit
+   Facility, the Company granted a security interest and general lien
+   upon all of its assets.  On February 19, 1998 the Revolving Credit
+   Facility was amended and restated ("the Amendment") to add the
+   Company's wholly owned subsidiary, Publishing Solutions Inc., as a
+   co-borrower under the Facility.  The Amendment was made, among other
+   things, to allow the eligible assets of Publishing Solutions Inc. to
+   be included in the Company's borrowings base and to reset the
+   Company's covenant requirements in light of the acquisitions made by
+   the Company during the quarter ended January 31, 1998.  On July 30,
+   1998 the Revolving Credit Facility was amended further to, among
+   other things, (1) grant the Company the ability to increase the
+   Revolving Credit Facility limit in increments of $1,000 up to a
+   maximum limit of $15,000 and, (2) extend the expiration date an
+   additional two years to May 30, 2002 plus an automatic one year
+   extension unless terminated pursuant to the terms of the Revolving
+   Credit Facility.  On July 31, 1998, the Company increased the
+   Revolving Credit Facility limit to $11,000 and the calculated
+   borrowing base was approximately $11,000.  As of July 31, 1998, the
+   Company had borrowings of $7,768 under the Revolving Credit Facility
+   and was utilizing approximately $1,804 of the facility to secure
+   outstanding letters of credit.  Interest generally will be charged at
+   a spread of 1% above the reference (i.e. prime) rate of Foothill and
+   can be reduced in 1/2% increments in each of the next two fiscal
+   years if certain performance measures are achieved.  As of July 31,
+   1998 the reference rate was 8.5%.  Letter of credit fees are 0.75%
+   per annum plus issuance costs and processing fees.  The agreement
+   contains restrictive covenants limiting capital expenditures,
+   restricting the payment of dividends and other payments and providing
+   for quarterly measures of working capital and net worth, among other
+   things.  In addition, the agreement limits the Company's ability to
+   borrow or to request letters of credit following a material adverse
+   change as determined by Foothill.  As of July 31, 1998, the Company
+   was in compliance with the covenants of the Revolving Credit
+   Facility.
+
+   On October 13, 1993 the Company concluded a reorganization when the
+   United States Bankruptcy Court for the District of Delaware confirmed
+   the Company's Plan of Reorganization (Plan).  The Plan provides that
+   holders of allowed general unsecured claims receive cash payments
+   toward satisfaction of the full amount of their claims in equal
+   quarterly payments payable on the last business day of each calendar
+   quarter ending after October 13, 1993 over a five-year period,
+   together with interest at 5% per annum.  Holders of priority tax
+   claims are paid 10% of the allowed claim together with accrued and
+   unpaid interest at 8% per annum on the then outstanding amount on
+   each anniversary of October 13, 1993 which occurs prior to the sixth
+   anniversary of the date of assessment, and the
+   balances of such claims along with accrued and unpaid interest on the
+   sixth anniversary.  For financial reporting purposes interest on
+   general unsecured claims has been imputed at 9% per annum.  At July
+   31, 1998 the Company had $2,179 of restricted cash which pertains to
+   the settlement of disputed claims in accordance with the Plan.
+
+<PAGE>
+
+
+   Note 3 - Borrowing Arrangements  (Continued)
+
+   As of July 31, 1998, aggregate maturities of total debt and
+   capitalized leases, are as follows:
+<TABLE>
+        <S>
+        Due fiscal year ending:
+                  <C>                      <C>
+                  1999                     $3,078
+                  2000                        533
+                  2001                        211
+                  2002                      7,925
+                  2003 and thereafter         145
+</TABLE>
+   The Revolving Credit Facility is classified as a current liability on
+   the balance sheet to comply with the accounting requirements.
+   However, for the aggregate debt maturities above,  the Revolving
+   Credit Facility amount of $7,768 is reflected in 2002, the year the
+   Revolving Credit Facility expires.
+
+   Cash paid for interest was $1,202 during 1998, $1,647 during 1997 and
+   $2,282 during fiscal 1996.
+
+
+   Note 4 - Capital Structure
+
+   On May 1, 1997 the Board of Directors declared a special dividend of
+   $2.00 per common share, payable to holders of record as of May 13,
+   1997.  The dividend, which totaled approximately $14,080, was
+   disbursed on May 27, 1997.
+
+   On May 28, 1997 the Company's shareholders approved amendments to the
+   Company's Second Restated Certificate of Incorporation: (1)
+   decreasing the authorized number of shares of capital stock from
+   50,000,000 shares to 10,000,000 shares with 9,500,000 shares being
+   reserved for issuance as Common Stock and 500,000 shares being
+   reserved for issuance as Preferred Stock, (2) changing the name of
+   the Company to Multigraphics, Inc., and (3) effecting a 1 for 2 1/2
+   share reverse stock split thereby decreasing the number of issued and
+   outstanding shares of the Company's Common Stock to 2,815,337
+   (without giving effect to elimination of fractional shares) and
+   increasing the par value of each Common share from $.01 to $.025 per
+   share.  The Company has not issued any Preferred Stock.  The Common
+   Stock is not subject to conversion or redemption and when issued is
+   fully paid and non-assessable and has no preemptive rights.  All
+   references in the accompanying financial statements to the number of
+   common shares and per-share amounts have been restated to reflect the
+   reverse stock split and change in par value.
+
+<PAGE>
+   Note 5 - Commitments and Contingencies
+
+   The Company received creditor claims during its bankruptcy
+   proceedings which the Company believes are duplicative, erroneous or
+   exaggerated and to which the Company believes it has valid defenses.
+   The Company has filed objections to these disputed claims in the
+   United States Bankruptcy Court in Delaware.  As of July 31, 1998 and
+   July 31, 1997, disputed claims amounted to $5,205 and $8,205,
+   respectively.  The disputed claims are primarily comprised of
+   environmental and product liability claims.  Although the vast
+   majority of the claims filed in the bankruptcy proceedings have been
+   expunged or resolved within the Company's reserves, a few significant
+   disputed claims remain pending in the bankruptcy proceeding.
+
+   The Company has been notified of various environmental matters in
+   connection with certain current or former Company locations in
+   Illinois, Ohio, Indiana, Pennsylvania, and Rhode Island.  The Company
+   is also involved in various other administrative and legal
+   proceedings incidental to its business, including product liability
+   and general liability lawsuits against which the Company is partially
+   insured.
+
+   The disputed claims in the bankruptcy proceedings and the other legal
+   proceedings are in many cases in excess of recorded reserves.  At the
+   present time, it is management's opinion, based on information
+   available to the Company and management's experience in such matters,
+   that the resolution of these legal proceedings is not expected to
+   have a material adverse effect on the Company's financial condition,
+   results of operations or liquidity.
+
+
+
+   Note 5 - Commitments and Contingencies (continued)
+
+   The Company has sold certain receivables related to machine sales,
+   subject to recourse provisions and repurchase provisions.  Management
+   believes unreserved exposures pertaining to these contingencies will
+   not materially impact the Company's financial condition, results of
+   operations or liquidity.
+
+<PAGE>
+   Note 6 - Income Taxes
+<TABLE>
+   The components of income tax expense (benefit) are as follows:
+
+
+                                       Twelve Months Ended
+
+                                  July 31,   July 31,   July 31,
+                                    1998       1997       1996
+
+   <S>                           <C>         <C>        <C>
+   The domestic and foreign components of income (loss)
+     from continuing operations are as follows:
+
+   Domestic                      $   1,717    $    366   $(18,857)
+
+   Foreign                               -        (263)    (1,397)
+
+                                 $   1,717    $    103   $(20,254)
+                                                      
+
+   Provision (benefit) for income taxes
+      for continuing operations:
+
+      Domestic                   $     646    $      -   $      -
+
+      Foreign                            -           -        (97)
+
+                                 $     646    $      -   $    (97)
+
+                                                          
+
+   A reconciliation of the income tax expense (benefit) on income
+   (loss) per the U.S. federal statutory rate to the reported
+   income tax expense (benefit) follows:
+
+   US Federal statutory rate
+   applied to pretax
+   income (loss)                 $     584     $    35   $ (6,886)
+
+   Operating loss with no
+    current tax benefit and
+    varying tax rates of other
+    national governments                 -          89      6,597
+
+   Permanent tax differences            19        (124)       192
+
+   State taxes, net of federal
+     benefit                            43           -          -
+
+   Income tax expense (recovery) $     646     $     -   $    (97)
+   
+</TABLE>
+
+<PAGE>
+   Note 6 - Income Taxes (continued)
+
+   The Company accounts for income taxes pursuant to Statement of
+   Financial Accounting Standard (SFAS) No. 109.  At July 31, 1998 and
+   July 31, 1997 the approximate amounts of deferred tax assets and
+   deferred tax liabilities resulting from temporary differences and
+   carryforwards were as follows:
+<TABLE>
+
+                                    1998       1997
+  <S>                            <C>         <C>
+  Deferred Tax Assets
+        Inventory valuation       $ 1,200    $ 1,100
+        Insurance reserves          4,400      4,700
+        Other                       3,800      6,100
+
+   Subtotal                         9,400     11,900
+   Domestic tax operating loss
+   carryforwards limited by
+   Sec 382.                        21,000     21,000
+   Domestic tax operating loss
+   carryforwards                   60,000     59,300
+   AMT credit carryforward          1,800      1,800
+
+   Deferred Tax assets             92,200     94,000
+        Valuation allowance       (92,200)   (94,000)
+
+   Net deferred tax asset         $     -    $     -
+</TABLE>
+
+
+   The Sec. 382 ownership change which resulted from the 1993 bankruptcy
+   reorganization imposed a limitation on the usage of pre-
+   reorganization domestic tax operating loss carryforwards.  Usage of
+   this loss carryforward is limited to $3,689 per year or $55,335 for a
+   period of 15 years following the ownership change.  In addition, as
+   of July 31, 1998, the Company had domestic tax loss carryforwards of
+   approximately $158,000 attributable to post-reorganization periods
+   and therefore not subject to limitation.  The domestic tax loss
+   carryforwards will expire from 1999 to 2013.  The AMT credit,
+   although subject to the Sec. 382 limitation, has no expiration date.
+
+   During 1998, the deferred tax asset and related valuation allowance
+   decreased by $1,800 primarily due to decreases in the Company's
+   reserve balances.  Due to the uncertainty as to the realizability of
+   the deferred tax assets, the Company has established valuation
+   allowances in accordance with SFAS No. 109 to offset the asset.
+
+   To the extent the Company realizes a tax benefit as a result of
+   future reductions in the valuation allowance related to the
+   utilization of pre-reorganization deferred tax assets, fresh start
+   accounting rules provide for the reporting of such benefit by
+   increasing Capital in excess of par value.  Although the future
+   recognition of this benefit will have no impact on net earnings, the
+   Company will realize a cash benefit from utilization of the "Pre-
+   Reorganization Benefits" against any future tax liabilities.
+
+<PAGE>
+   Note 7 - Deferred Compensation
+
+   Restated for the reverse stock split discussed in Note 4, as of July
+   31, 1998, the Company's 1994 Long Term Incentive Plan provides for
+   the issuance of 560,000 shares of $.025 par value Common Stock.
+   Options to purchase the Common Stock are awarded at a price not less
+   than 100% of the market price on the date of grant, become
+   exercisable at various dates generally from one to four years after
+   the date of grant, and expire ten years after the date of grant.  In
+   the event a holder of options is no longer employed by the Company,
+   the unvested shares are canceled upon the employee's termination and
+   any vested shares must be exercised within 90 days or they are also
+   canceled
+<TABLE>
+                                         1998                     1997
+
+                                        Exercise                 Exercise 
+                                         Price                    Price
+                            Number       Range        Number      Range
+                              of                        of
+                            Shares     Per Share      Shares     Per Share
+   <S>                    <C>      <C>              <C>       <C>
+   Outstanding at the                                                  
+   Beginning of the Year   293,649 $2.1875-8.660     202,460  $  6.250-8.660
+
+    Granted                129,000 $ 2.500-4.875     179,150  $2.1875-2.4375
+    Exercised                (666) $      2.4375    (11,969)* $        3.000
+    Canceled              (71,600) $2.1875-8.660    (75,992)  $ 4.6426-6.875
+
+   Outstanding at the End
+   of the Period           350,383 $2.1875-8.660     293,649  $ 2.1875-8.660
+    
+   Exercisable at the End
+   of the Period           104,416 $2.1875-8.660      87,039  $ 2.1875-8.660
+   
+
+   * All 11,969 shares were issued as share awards and not as options
+   under the Company's 1995 Executive Incentive Compensation Plan.
+</TABLE>
+   As permitted under Statement of Financial Accounting Standards No.
+   123 ("SFAS 123"), "Accounting for Stock-Based Compensation," the
+   Company has elected to follow Accounting Principles Board Opinion No.
+   25, "Accounting for Stock Issued to Employees" ("APB 25"), in
+   accounting for stock-based awards to employees.  Under APB No. 25,
+   because the exercise price of the Company's employee stock options
+   equals the market price of the underlying stock on the date of grant,
+   no compensation expense is recognized in the Company's financial
+   statements for all periods presented.
+
+   Pro forma information regarding net income and earnings per share is
+   required by SFAS No. 123. This information is required to be
+   determined as if the Company had accounted for its employee stock
+   options granted subsequent to July 31, 1995 under the fair value
+   method of that statement. The fair value of options granted in fiscal
+   years 1998, 1997 and 1996 reported below has been estimated at the
+   date of grant using the following weighted average assumptions:
+<PAGE>
+<TABLE>
+   <S>                           <C>      <C>      <C>
+                                 1998     1997     1996
+   Risk-free rate (%)            5.90     5.85     5.96
+   Volatility  (%)               33.0     25.0     30.0
+   Expected Life (in years)      5        5        5
+   Dividend Yield                ---      ---      ---
+</TABLE>
+   Option valuation models require the input of highly subjective
+   assumptions, including the expected stock price volatility. Because
+   the Company's options have characteristics significantly different
+   from those of traded options, and because changes in the subjective
+   input assumptions can materially affect the fair value estimate, in
+   the opinion of management, the existing models do not necessarily
+   provide a reliable single measure of the fair value of its options.
+   The weighted average estimated fair value of stock options granted
+   through July 31, 1998, 1997 and 1996 was $1.55, $1.72 and $2.38 per
+   share, respectively.
+
+   Note 7 - Deferred Compensation (continued)
+
+   For purposes of pro forma disclosures, the estimated fair value of
+   the options is amortized to expense over the options' vesting period.
+   The Company's pro forma net income and per share data from continuing
+   operations is as follows:
+
+<TABLE>
+   <S>                             <C>       <C>      <C>
+                                    1998      1997     1996
+   Pro Forma Net Income (loss):    $1,029    $   94   $ (20,159)
+
+   Pro Forma Per Share Data:
+                     Basic         $  .36    $  .03   $   (7.19)
+                     Diluted       $  .36    $  .03   $   (7.19)
+</TABLE>
+
+   Because the Company anticipates making additional grants and options
+   vest over several years, the effects on pro forma disclosures of
+   applying SFAS No. 123 are not likely to be representative of the
+   effects on pro forma disclosures of future years. SFAS No. 123 is
+   applicable only to options granted subsequent to July 31, 1995.
+
+
+   Note 8 - Unusual Items
+
+   On September 20, 1996, the Company completed the sale of its
+   2,148,000 shares of AM Japan Co., Ltd. ("AM Japan") and received
+   proceeds of approximately $10,600, net of certain costs.  A gain of
+   approximately $2,600 was recorded by the Company in the quarter ended
+   November 2, 1996, after providing for expenses related to the sale.
+
+   On October 17, 1996, the Company's Canadian subsidiary filed for
+   voluntary assignment in bankruptcy.  Reserves for the cost to exit
+   Canada, which had been established in the fiscal year ended July 31,
+   1996, were adequate and no additional costs were recognized.
+<PAGE>
+   On December 2, 1996, the Company and Xeikon, N.V. entered into an
+   agreement under which the parties agreed not to renew the
+   distribution agreement.  The distribution agreement provided for the
+   Company to sell and service Xeikon digital color presses in North
+   America.  As part of this agreement, Xeikon America, Inc. has
+   acquired certain assets from the Company and assumed certain
+   responsibilities of the Company.  The divestiture of the assets
+   resulted in a net loss of approximately $500 which the Company
+   recorded in the quarter ending November 2, 1996.
+
+   During 1996, the Company had provided $7,032 to cover certain
+   restructuring actions to be carried out in 1997.  These restructuring
+   actions consisted of: 1) $2,845 of severance and benefits associated
+   with the termination of seven employees, including three officers, in
+   conjunction with approved plans to close the corporate office and
+   consolidate certain functions of the Company, 2) $3,561 to write-off
+   net assets of the Company's Canadian subsidiary in connection with
+   plans to exit this operation, and 3) $626 of facility closure,
+   equipment disposal, and severance costs associated with management's
+   plans to exit its manufacturing business.  These actions were
+   substantially concluded in 1997.
+
+
+   Note 9 - Discontinued Operations
+
+
+   The results of discontinued business units are included in the
+   consolidated statements of operations under "discontinued
+   operations."  The following table summarizes key financial data
+   related to the discontinued operations:
+<TABLE> 
+                                        Twelve Months ended
+
+                                   July 31,    July 31,   July 31,
+                                     1998       1997        1996
+   <S>                              <C>        <C>        <C>
+   Net sales                        $     -    $     -    $ 149,256
+
+   Gross margin                           -          -       34,709
+
+   Operating income (loss)                -          -      (6,749)
+
+   Non-operating (income)
+   expense                                -          -        2,136
+
+   Allocated interest expense             -          -          581
+                                         
+   Income tax provision
+   (benefit) applicable
+   to discontinued businesses             -          -          664
+
+   Income (loss) from operations
+   of discontinued businesses net
+   of taxes                               -          -     (10,130)
+
+   Loss on sale                           -          -     (15,212)
+
+   Income (loss) from
+   discontinued operations          $     -    $     -    $(25,342)
+</TABLE>
+<PAGE>
+
+   
+   In August 1996, the Company completed the sale of substantially all
+   of the assets and liabilities of the Sheridan Systems division for
+   proceeds of $50,100.  A loss of $15,212 was recorded in the fourth
+   quarter of the Company's fiscal year ended July 31, 1996 as a result
+   of the transaction, with no recorded tax benefit.
+
+   During fiscal year 1996 the Company completed the exit of its
+   Multigraphics - International subsidiaries with the sale of its
+   subsidiaries in the Netherlands, France, and Belgium and the
+   placement of the Company's Multigraphics UK holding company into an
+   Administration Proceeding.  The sale of the subsidiaries in the
+   Netherlands, France, and Belgium required the Company to provide
+   consideration of approximately $3,000 in the form of cash and other
+   assets.  No gain or loss was recorded as a result of the exit of the
+   Multigraphics - International subsidiaries.   The results of operations
+   of Sheridan Systems and the divested Multigraphics - International
+   operations are presented in the consolidated financial statements
+   as discontinued operations. Interest expense pertaining to the
+   Company's Revolving Credit Facility has been allocated based upon
+   the ratio of the net assets of the discontinued operations to the
+   consolidated capitalization of the Company.  Continuing operations
+   and discontinued operations reflect the net tax benefit or tax
+   expense generated by the respective operations, limited, however,
+   by the income tax benefit or tax expense recognized in the Company's
+   historical financial statements. No general corporate expenses have
+   been allocated to the discontinued operations.  The results of the
+   discontinued operations are not necessarily indicative of the results
+   of operations which may have been obtained had the continuing and
+   discontinued operations been operating independently.
+
+<PAGE>
+<TABLE>
+   Note 10 - Balance Sheet Accounts
+
+                                       July 31,   July 31,
+                                         1998       1997
+   <S>                               <C>         <C>
+   Accounts receivable:
+     Accounts receivable             $ 14,929    $ 11,080
+     Allowance for doubtful
+      accounts                          (300)       (334)
+
+   Accounts receivable, net          $ 14,629    $ 10,746
+
+   Property, plant and equipment:
+     Machinery and equipment         $ 11,985    $ 14,196
+   
+     Leasehold improvements             3,338       3,103
+
+                                       15,323      17,299
+   Less accumulated depreciation       
+   and amortization                   (5,769)     (7,077)
+
+   Property, plant and equipment, net $ 9,554    $ 10,222
+
+   Goodwill:
+        Goodwill                     $  3,723    $      -
+        Amortization                     (42)           -
+
+        Goodwill,  net               $  3,681    $      -
+</TABLE>
+
+   Note 11 - Retirement Benefit Plans
+
+   The Company maintains defined contribution retirement plans for
+   domestic employees comprised of a savings plan (401(k)) and a profit
+   sharing plan (Retirement Accumulation Plan).  Contributions to these
+   plans take the form of (i) Company contributions to match a portion
+   of employee contribution and (ii) contributions made at the
+   discretion of the Board of Directors.  The Company's contributions to
+   the domestic defined contribution plans were $800, $911 and $1,317 in
+   1998, 1997 and 1996 respectively.
+
+   In addition, the Company provides limited life insurance and health
+   care benefits to certain domestic retired employees and provides for
+   certain medical and life insurance benefits for retirees of
+   previously closed manufacturing locations.
+<PAGE>
+   Net post-retirement life and health care cost includes the following
+   components:
+<TABLE>
+                                            Twelve Months Ended
+
+                                       July 31,   July 31,    July 31,
+                                         1998       1997        1996
+
+   <S>                                 <C>         <C>        <C>
+   Service Cost - benefits earned      
+   during the period                   $       3   $      3   $      5
+   Interest cost on accumulated post-
+   retirement benefit obligation             622        622        843
+   Amortization of unrecognized
+   actuarial gain                           (50)      (304)          -
+
+   Total life and health care costs    $     575   $    321   $    848
+
+   The plans' funded status at July
+   31, was as follows:
+                                           1998       1997        1996
+
+   Actuarial present value of benefit
+   obligations-
+      Retirees                         $   7,323   $  8,348   $  9,617
+      Fully eligible active
+        participants                         197        224        294
+
+   Accumulated postretirement benefit
+   obligation                              7,520      8,572      9,911
+   Cumulative unrecognized actuarial
+   gain                                    1,106      1,157        253
+   Plan assets                                 -          -          -
+
+   Accrued post-retirement life and    
+   health care costs                   $   8,626   $  9,729   $ 10,164
+
+
+   Assumptions used for the Company's retiree life and health care plans
+   as of July 31, were as follows:
+
+                                           1998       1997
+   Discount rate for determining
+   obligations and interest cost           7.25%      7.25%
+</TABLE>
+
+   If the health care cost trend rates were increased 1% for all future
+   years, the accumulated post-retirement benefit obligation would have
+   increased 2.9% at July 31, 1998.  The effect of this change on the
+   aggregate of service and interest costs would have been an increase
+   of 2.6% for 1998.  An 11% increase in the health care cost trend rate
+   was assumed for retirees under age 65 and an 9.0% increase for those
+   over the age of 65.  These rates are assumed to decrease gradually to
+   5.5% in the year 2001.
+
+<PAGE>
+   Note 12 - Lease Transactions
+
+   The Company leases certain real and personal property and is
+   responsible for most maintenance, insurance and tax expenses related
+   to leased facilities.  At July 31, 1998, the future lease payments
+   for continuing operating leases are as follows:
+<TABLE>
+             <C>                                    <C>
+             1999                                   $1,666
+             2000                                    1,413
+             2001                                    1,264
+             2002                                    1,266
+             2003                                    1,283
+             2004  and thereafter                    2,459
+
+             Total future operating
+             lease payments                         $9,351
+</TABLE>
+
+   Rental expenses for all operating leases were $2,026, $2,741 and
+   $5,184 in 1998, 1997 and 1996, respectively.
+
+
+   Note 13 - Geographic Segments
+
+   The Company is a distributor of equipment, supplies and services to
+   the graphic arts industry.  Its only current operations are in the
+   United States.  The Company distributes on a lesser scale
+   internationally through foreign dealers.  In September 1996, the
+   Company sold all of its interest in its AM Japan subsidiary.
+
+<TABLE>
+                          Twelve Months Ended
+
+                    July 31,   July 31,    July 31,
+                      1998      1997        1996
+   <S>               <C>        <C>      <C>
+   Revenues
+      North America  $ 95,251   $87,510  $137,981
+      Japan                 -     1,151    30,071
+             Total   $ 95,251   $88,661  $168,052
+
+
+   Operating Profit (Loss)
+      North America  $  3,271    $1,609  $(16,007)
+      Japan                 -     (340)      (442)
+
+             Total   $  3,271    $1,269  $(16,449)
+
+
+   Assets
+      North America  $ 45,639   $44,900  $  47,324
+      Japan                 -         -      7,698
+
+             Total   $ 45,639   $44,900  $  55,022
+</TABLE>
+<PAGE>
+   Note 14 - Quarterly Financial Information - (Unaudited)
+   A summary of quarterly financial information for fiscal 1998 and 1997
+   is as follows:
+<TABLE>
+                                               Quarter
+   <S>                       <C>      <C>       <C>      <C>      <C>
+   1998                       1st       2nd      3rd      4th      Total
+                                                                    Year
+   Revenues                  $20,700  $22,199   $27,431  $24,921  $ 95,251
+   Gross Profit                5,546    5,364     7,165    7,107    25,182
+
+   Net income                $   158  $   164   $   555   $  194  $  1,071
+
+
+   Per Common Share (1):
+
+   Basic                     $  0.06  $  0.06   $  0.20   $ 0.07  $   0.38
+
+   Diluted                   $  0.06 $   0.06   $  0.19   $ 0.07  $   0.37
+
+   Closing Market Price (2)
+            High             $ 2.750  $ 4.688   $ 6.375   $8.938   $ 8.938
+            Low              $ 1.625  $ 2.500   $ 3.750   $4.750   $ 1.625
+
+
+                                               Quarter
+
+   1997                       1st       2nd      3rd      4th      Total
+                                                                    Year
+   Revenues                  $27,699  $20,767   $20,869  $19,326  $ 88,661
+   Gross Profit                7,246    5,558     6,277    5,709    24,790
+   Net income (loss)         $   519  $ (857)   $   268   $  173  $    103
+
+
+
+   Per Common Share (1):
+                             
+   Basic                     $  0.19  $(0.31)   $  0.10   $ 0.06  $   0.04
+
+   Diluted                   $  0.19  $(0.31)   $  0.10   $ 0.06  $   0.04
+
+   Closing Market Price (2)
+            High              $1.700   $1.850   $ 1.500   $2.500  $  2.500
+            Low               $0.550   $1.500   $ 1.100   $1.500  $  0.550
+
+
+   (1) Sum of quarters may not equal the total for the year due to changes
+       in the number of shares outstanding during the year.
+
+   (2) The Company's common stock is traded on the American Stock Exchange
+       under the ticker symbol "MTI".  Market price has been restated to
+       reflect the effect of the 1 for 2-1/2 share reverse stock split
+       approved by the Company's shareholders on May 28, 1997.
+</TABLE>
+<PAGE>
+
+   Note 15 - Five Year Financial Summary
+<TABLE>                                                                   
+                                                       Sept. 30    Aug. 1
+                                                         1993      1993
+                                                        Through   Through
+                                  Years Ended              
+    
+    Operations:           July     July    July    July  July 31,  Sept. 29,
+                          31,      31,     31,     31,     1994      1993
+                         1998      1997   1996    1995
+    <S>                 <C>      <C>     <C>     <C>    <C>       <C>
+    Revenues            $ 95.3   $ 88.7  $168.1  $191.5 $  163.8  $     26.5
+    Gross profit          25.2     24.8    37.6    52.7     51.4         7.0
+      as a percent     
+      of revenues         26.4%    28.0%   22.4%   27.5%    31.4%      26.4%
+    Unusual items
+    (inc.) exp.              -     (2.1)    7.0       -        -           -
+    Operating
+      income (loss)        3.3      1.3   (16.4)   (2.5)     6.8       (2.0)
+      as a percent       
+      of revenues          3.5%     1.5%   -9.8%   -1.3%     4.2%      -7.5%
+    Net income (loss)
+      from continuing
+      operations           1.1      0.1   (20.2)   (4.2)     2.1        21.8
+    Income (loss)
+      from discontinued
+      operations             -        -   (25.3)    8.8      4.6      (27.8)     
+
+    Extraordinary gain                        -       -        -        58.7
+    Net income (loss)   $  1.1   $  0.1  $(45.5) $  4.6 $    6.7  $     52.7
+    Capital Employed
+      Working Capital    (11.2)    (5.9)  (38.9)   61.5      8.7      (17.6)
+      Total Assets        45.6     44.9    98.0   163.1    169.2       164.4
+      Long-Term Debt       1.0      3.4     8.5    14.9     19.4        25.5
+    Shareholder's Equity (10.1)   (11.9)    2.3    48.3     42.8        36.0
+    Per Common Share
+     Net income(loss) from
+       continuing operations                                             N/A
+     
+      Basic             $ 0.38   $ 0.04  $(7.19) $(1.48)  $ 0.75
+      Diluted           $ 0.37   $ 0.04  $(7.19) $(1.48)  $ 0.75
+    Market Price            
+      High (1)          $8.938   $2.500  $20.938 $30.625  $29.688        N/A
+      Low (1)           $1.625   $0.550  $ 4.688 $20.313  $21.875        N/A
+    Average number of common shares
+     and equivalents (in thousands) (2)
+                        
+      Basic             $2,823   $2,807  $2,803  $2,808   $2,802         N/A
+      Diluted           $2,895   $2,811  $2,803  $2,808   $2,802         N/A
+   Number of Employees
+   at Year End             671      651   1,121   1,378    1,520       1,633
+   
+                
+       (1) Trading of Reorganized Company Stock commenced on
+           December 6, 1993.
+<PAGE>
+       (2) The weighted average number of common shares and net income
+           per common share have been restated to reflect the effect of
+           the 1 for 2 1/2 share reverse stock split which was approved
+           by the Company's shareholders on May 28, 1997.  The net income
+           per common share and average number of common shares and
+           equivalents for the predecessor Company has not been presented
+           as this information is not comparable.
+</TABLE>
+
+
+
+                     REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+   To the Shareholders and the
+   Board of Directors of
+   Multigraphics, Inc.
+
+   We have audited the accompanying consolidated balance sheets of
+   Multigraphics, Inc. as of July 31, 1998 and 1997, and the related
+   consolidated statements of operations, shareholders' equity and cash
+   flows for each of the three years in the period ended July 31, 1998.
+   These financial statements are the responsibility of the Company's
+   management.  Our responsibility is to express an opinion on these
+   financial statements based on our audit.
+
+   We conducted our audits in accordance with generally accepted
+   auditing standards.  Those standards require that we plan and perform
+   the audit to obtain reasonable assurance about whether the financial
+   statements are free of material misstatement.  An audit includes
+   examining, on a test basis, evidence supporting the amounts and
+   disclosures in the financial statements.  An audit also includes
+   assessing the accounting principles used and significant estimates
+   made by management, as well as evaluating the overall financial
+   statement presentation.  We believe that our audits provide a
+   reasonable basis for our opinion.
+
+   In our opinion, the financial statements referred to above present
+   fairly, in all material respects, the financial position of
+   Multigraphics, Inc. as of July 31, 1998 and 1997, and the results of
+   its operations and cash flows for each of the three years in the
+   period ended July 31, 1998, in conformity with generally accepted
+   accounting principles.
+
+
+   ARTHUR ANDERSEN LLP
+
+
+   Chicago, Illinois
+   September 25, 1998
+
+<PAGE>
+
+                 REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                                ON SCHEDULE
+
+
+   To Multigraphics, Inc.:
+
+   We have  audited,  in  accordance with  generally  accepted  auditing
+   standards,  the   consolidated  financial   statements  included   in
+   Multigraphics, Inc.'s Annual Report  to Stockholders incorporated  by
+   reference in this Form 10-K, and have issued our report thereon dated
+   September 25, 1998.  Our audit was made for the purpose of forming an
+   opinion on those statements taken as a whole.  The schedule listed in
+   Part IV,  Item  14(a)(2)  is  the  responsibility  of  the  Company's
+   management and is presented  for the purposes  of complying with  the
+   Securities and Exchange  Commission's rules and  is not  part of  the
+   basic financial statements.  This schedule has been subjected to  the
+   auditing procedures  applied  in the  audit  of the  basic  financial
+   statements and,  in  our  opinion,  fairly  states  in  all  material
+   respects the financial data required to  be set forth therein in  re-
+   lation to the basic financial statements taken as a whole.
+
+
+   ARTHUR ANDERSEN LLP
+
+
+
+   Chicago, Illinois,
+   September 25, 1998
+
+
+                       
+   COMPANY DESCRIPTION
+
+        Multigraphics, Inc., is a distributor of a broad range of
+        equipment and supplies and a service provider to the graphic
+        arts industry. The Company employs approximately 670 people and
+        is headquartered in Mt. Prospect, Illinois.  In May, 1997 the
+        Company's Stockholders approved a change in the name of the
+        corporation from "AM International, Inc." to "Multigraphics,
+        Inc."
+
+   STOCKHOLDER INFORMATION
+
+        Stock Information
+
+        Multigraphics, Inc.'s Common Stock trades on the American Stock
+        Exchange under the ticker symbol "MTI".
+
+        Stockholders of Record
+
+        As of October 21, 1998 the Company had approximately 1,000
+        stockholders of record.
+
+        Investor Inquiries
+<PAGE>
+        Analysts, portfolio managers and representatives of financial
+        institutions seeking information about the Company should
+        contact Thomas D. Rooney at the corporate headquarters or call
+        (847) 375-1700.
+
+        Stock Transfer Agent and Registrar
+
+        First Chicago Trust Company of New York
+        P.O. Box 2500
+        Jersey City, New Jersey  07310
+        (800) 446-2617
+
+        Annual Meeting of Stockholders
+
+        The Annual Meeting of Stockholders for the fiscal year ended
+        July 31, 1998 will be held on December 3, 1998 at 11:00 a.m.
+        (Central Standard Time) at the Company's headquarters at 431
+        Lakeview Court, Mt. Prospect, IL, 60056.
+
+        Reports and Publications
+
+        The Company's Report on Form 10-K (without exhibits other than
+        those specifically incorporated therein by reference), Annual
+        Report to Stockholders, Proxy Statement, Quarterly Reports or
+        other printed corporate literature can be obtained without
+        charge, upon written request to the Shareholder Relations
+        Department at the corporate headquarters, or by calling (847)
+        375-1700.
+
+        Independent Public Accountants     Corporate Headquarters
+
+        Arthur Andersen LLP                Multigraphics, Inc.
+        33 West Monroe Street              431 Lakeview Court
+        Chicago, Illinois  60603           Mt. Prospect, Illinois
+        60056
+                                          (847) 375-1700
+
+
+        Board of Directors
+
+        Jeff M. Moore                      Robert E. Anderson III
+        Apollo Advisors, L.P.              Owens & Minor, Inc.
+
+        Jeffrey D. Benjamin                Robert N. Dangremond
+        Co-Chief Executive Officer         Principal
+        Libra Investments                  Jay Alix & Associates
+                                           
+        Thomas D. Rooney                   
+        President and CEO
+        Multigraphics, Inc.
+
+        Committees of the Board
+<PAGE>
+        Audit Committee           Compensation and Management Committee
+
+        Jeff M. Moore, Chairman           Jeffrey D. Benjamin, Chairman
+        Robert E. Anderson III            Robert E. Anderson III
+        Jeffrey D. Benjamin               Robert N. Dangremond
+        Robert N. Dangremond              Jeff M. Moore
+
+        Executive Officers
+
+        Thomas D. Rooney
+        President and
+        Chief Executive Officer
+
+        Steven R. Andrews
+        Vice President, General Counsel and Secretary
+
+        Mark F. Duchesne
+        Vice President Distribution Operations
+
+        Donald W. Hanigan
+        Vice President and President,
+        Hanley Graphic Products Division
+
+        Gregory T. Knipp
+        Vice President, Chief Financial Officer and Treasurer
+
+        Raymond T. Leach
+        Vice President and CEO,
+        Publishing Solutions Inc.
+
+        Charles T. Richards
+        Vice President Service Operations
+
+        Keith E. Stewart
+        Vice President and President
+        Publishing Solutions Inc.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<TEXT>
+
+
+
+
+                                EXHIBIT 23
+
+            CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS WITH
+                          RESPECT TO FORM S-8
+
+
+
+   As  independent  public  accountants,   we  hereby  consent  to   the
+   incorporation of our  reports included in  this Form  10-K, into  the
+   Registrant's previously  filed Registration  Statement  (Registration
+   No. 33-87288) on Form S-8.
+
+
+   ARTHUR ANDERSEN LLP
+
+
+
+   Chicago, Illinois
+    October 27, 1998
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>6
+<TEXT>
+
+                                EXHIBIT 24
+
+                           POWER OF ATTORNEY
+
+        KNOW ALL  MEN  BY  THESE PRESENTS  that  each  individual  whose
+   signature appears  below constitutes  and appoints  Thomas D. Rooney,
+   Steven R. Andrews and  Gregory T. Knipp, and  each of them, his  true
+   and  lawful   attorney-in-fact  and   agent   with  full   power   of
+   substitution, for him and in his name, place and stead in any and all
+   capacities, to  sign  the Report  on  Form 10-K  and  all  amendments
+   thereto, and to  file the same,  with all exhibits  thereto, and  all
+   documents in connection therewith,  with the Securities and  Exchange
+   Commission, granting unto said attorneys-in-fact and agents, and each
+   of them full power and authority to do and perform each and every act
+   and thing  requisite and  necessary to  be done  to comply  with  the
+   provisions of the Securities  Exchange Act of  1934, as amended,  and
+   all requirements of  the Securities and  Exchange Commission,  hereby
+   ratifying and confirming all  that said attorneys-in-fact and  agents
+   or any of them, or their or his substitutes, may lawfully do or cause
+   to be done by virtue thereof.
+
+        Pursuant to the requirements of  the Securities Exchange Act  of
+   1934, this  report  has  been  signed on  October  27,  1998  by  the
+   following persons in the capacities indicated.
+
+        Signature                     Title
+
+   /s/Jeff M. Moore                 Chairman of the Board and Director
+   Jeff M. Moore     
+
+
+   /s/Thomas D. Rooney              President, Chief  Executive  Officer
+   Thomas D. Rooney                 and Director
+
+
+
+   /s/Robert E. Anderson III        Director
+   Robert E. Anderson III
+
+
+   /s/Jeffrey D. Benjamin           Director
+   Jeffrey D. Benjamin
+
+
+   /s/Robert N. Dangremond          Director
+   Robert N. Dangremond
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>7
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          JUL-31-1998
+<PERIOD-END>                               JUL-31-1998
+<CASH>                                           2,869
+<SECURITIES>                                         0
+<RECEIVABLES>                                   14,929
+<ALLOWANCES>                                     (300)
+<INVENTORY>                                     13,188
+<CURRENT-ASSETS>                                31,412
+<PP&E>                                          15,323
+<DEPRECIATION>                                 (5,769)
+<TOTAL-ASSETS>                                  45,639
+<CURRENT-LIABILITIES>                           42,615
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            70
+<OTHER-SE>                                    (10,214)
+<TOTAL-LIABILITY-AND-EQUITY>                    45,639
+<SALES>                                         95,251
+<TOTAL-REVENUES>                                95,251
+<CGS>                                           70,070
+<TOTAL-COSTS>                                   94,180
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,723
+<INCOME-PRETAX>                                  1,717
+<INCOME-TAX>                                       646
+<INCOME-CONTINUING>                              1,717
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,071
+<EPS-PRIMARY>                                     0.38
+<EPS-DILUTED>                                     0.37
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

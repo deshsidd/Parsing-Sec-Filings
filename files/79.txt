@@ -1,0 +1,3244 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EpuHz9fdxQTwNU/z8Tj+Q959GtewZ2Rkra+cleCGLCLEWPZ5qTbYtWbph6UQRROZ
+ l0ogdFuS7gTR8SO8/bA9Kg==
+
+<SEC-DOCUMENT>0000950144-00-006782.txt : 20000516
+<SEC-HEADER>0000950144-00-006782.hdr.sgml : 20000516
+ACCESSION NUMBER:		0000950144-00-006782
+CONFORMED SUBMISSION TYPE:	10-K405/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED DOMINION INDUSTRIES LIMITED
+		CENTRAL INDEX KEY:			0000029590
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR COND & WARM AIR HEATING EQUIP & COMM & INDL REFRIG EQUIP [3585]
+		IRS NUMBER:				980125322
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K405/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-08585
+		FILM NUMBER:		634051
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2300 ONE FIRST UNION CENTER
+		STREET 2:		301 SOUTH COLLEGE STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202-6039
+		BUSINESS PHONE:		7043476800
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 ONE FIRST UNION CENTER
+		STREET 2:		301 SOUTH COLLEGE STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202-6039
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMCA INTERNATIONAL LTD
+		DATE OF NAME CHANGE:	19900802
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOMINION BRIDGE CO LTD
+		DATE OF NAME CHANGE:	19820407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K405/A
+<SEQUENCE>1
+<DESCRIPTION>UNITED DOMINION INDUSTRIES LIMITED AMENDMENT NO. 1
+<TEXT>
+
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                   FORM 10-K/A
+                                (Amendment No. 1)
+
+(MARK ONE)
+[X]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+       ACT OF 1934
+       [No Fee Required]
+
+For the fiscal year ended DECEMBER 31, 1999
+                                       OR
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+       EXCHANGE ACT OF 1934 [No Fee Required]
+
+For the transition period from          to
+                                     1-8585
+                            (Commission File Number)
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+             (Exact name of registrant as specified in its charter)
+
+                 CANADA                                  98-0125322
+      (State or other jurisdiction of                  (I.R.S. employer
+      incorporation or organization)                   identification no.)
+
+       2300 ONE FIRST UNION CENTER
+        CHARLOTTE, NORTH CAROLINA                           28202-6039
+  (Address of principal executive offices)                  (Zip Code)
+
+                                 (704) 347-6800
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+          Title of each class          Name of each exchange on which registered
+          -------------------          -----------------------------------------
+COMMON SHARES (WITHOUT PAR VALUE)      THE TORONTO STOCK EXCHANGE
+                                       NEW YORK STOCK EXCHANGE
+
+Securities registered pursuant to Section 12(g) of the Act:      NONE
+
+         Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.    Yes [X]     No [ ]
+
+         Disclosure of delinquent filers pursuant to Item 405 of Regulation S-K
+is not included as it is inapplicable to the registrant, a foreign private
+issuer.   [X]
+
+         The aggregate market value of voting stock held by non-affiliates of
+the registrant was approximately U.S. $635,000,000 as of March 14, 2000,
+assuming that officers and directors are affiliates. As of the same date,
+39,122,355 Common Shares were outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Annual Report to Shareholders for the year ended December
+31,1999 are incorporated by reference into Parts I and II and filed as Exhibit
+13 hereto.
+
+
+<PAGE>   2
+
+
+Preliminary Note
+
+         The Registrant is filing this amendment on Form 10-K/A to its Annual
+Report on Form 10-K for the year ended December 31, 1999 to restate the
+financial statements included therein solely to include condensed consolidating
+financial information segregating the Registrant and each of United Dominion
+Holdings, Inc. and United Dominion Industries, Inc. (wholly owned subsidiaries
+of the Registrant) from other subsidiaries. On February 14, 2000 the
+registration statement on Form F-3 with respect to offerings of up to an
+aggregate of U.S. $200 million in guaranteed debt securities by United Dominion
+Industries, Inc. to be guaranteed by the Registrant and United Dominion
+Holdings, Inc. was declared effective.
+
+                                     PART II
+
+Item 8.           Financial Statements and Supplementary Data.
+
+         (a)      Financial Statements
+
+                  Auditors' Report
+
+                  Consolidated Statements of Income for the Years Ended December
+                  31, 1999, 1998 and 1997
+
+                  Consolidated Statements of Cash Flows for the Years Ended
+                  December 31, 1999, 1998 and 1997
+
+                  Consolidated Statements of Financial Position as of December
+                  31, 1999 and 1998
+
+                  Consolidated Statements of Changes in Shareholders' Equity for
+                  the Years Ended December 31, 1999, 1998 and 1997
+
+                  Notes to Consolidated Financial Statements
+
+         (b) Supplementary Financial Information
+
+         The selected quarterly financial data required by Item 302(a) of
+Regulation S-K appears as Note 15 to the Consolidated Financial Statements which
+is an unaudited summary of quarterly results and is incorporated herein by this
+reference.
+
+         (c) Other Financial Statements and Schedules
+
+         Other financial statements and schedules required under Regulation S-X
+are filed pursuant to Item 14 of this report.
+
+
+                                       2
+<PAGE>   3
+
+
+                                AUDITORS' REPORT
+
+
+
+To the Shareholders of United Dominion Industries Limited
+
+
+We have audited the consolidated statements of financial position of United
+Dominion Industries Limited as at December 31, 1999 and 1998 and the related
+consolidated statements of income, cash flows and changes in shareholders'
+equity for each of the years in the three-year period ended December 31, 1999.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+
+We conducted our audits in accordance with Canadian generally accepted auditing
+standards. Those standards require that we plan and perform an audit to obtain
+reasonable assurance whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+
+In our opinion, these consolidated financial statements present fairly, in all
+material respects, the financial position of the Company as at December 31, 1999
+and 1998 and the results of its operations and its cash flows for each of the
+years in the three-year period ended December 31, 1999 in accordance with
+Canadian generally accepted accounting principles.
+
+
+
+/s/ KPMG LLP
+Chartered Accountants
+
+
+Toronto, Canada
+January 28, 2000
+
+                                       3
+<PAGE>   4
+
+
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+              Consolidated Statements of Income, Restated (note 2)
+
+                  Years Ended December 31, 1999, 1998 and 1997
+
+          (Amounts in Thousands of U.S. Dollars, Except Per Share Data)
+
+
+<TABLE>
+<CAPTION>
+
+                                                                      1999                  1998                  1997
+                                                                  -----------           -----------           -----------
+
+<S>                                                               <C>                   <C>                   <C>
+Sales                                                             $ 2,148,338           $ 2,020,374           $ 1,654,679
+                                                                  -----------           -----------           -----------
+
+Cost and expenses
+   Cost of sales                                                    1,480,866             1,401,802             1,168,654
+   Restructuring charges - inventory (note 3)                           5,153                    --                    --
+                                                                  -----------           -----------           -----------
+           Total cost of sales                                      1,486,019             1,401,802             1,168,654
+   Selling, general and administrative expenses                       447,583               429,591               328,271
+   Restructuring charges - other  (note 3)                             15,351                16,336                    --
+                                                                  -----------           -----------           -----------
+
+      Total costs and expenses                                      1,948,953             1,847,729             1,496,925
+                                                                  -----------           -----------           -----------
+
+Operating income                                                      199,385               172,645               157,754
+
+Other income (expense)
+   Interest - net (note 8)                                            (40,178)              (35,750)              (18,544)
+   Gain on sale of business (note 3)                                       --                11,285                    --
+   Other (note 3)                                                      (1,500)               (6,852)                7,700
+                                                                  -----------           -----------           -----------
+
+Income from continuing operations
+   before income taxes and goodwill charges                           157,707               141,328               146,910
+Income tax provision (note 4)                                         (47,151)              (24,147)              (49,528)
+                                                                  -----------           -----------           -----------
+Income from continuing operations
+      before goodwill charges                                         110,556               117,181                97,382
+Goodwill charges, net of applicable income tax benefit
+      of $1,422 in 1999, $1,278 in 1998 and $690 in 1997
+      (note 3)                                                        (21,646)              (17,493)              (12,492)
+                                                                  -----------           -----------           -----------
+
+Income from continuing operations                                      88,910                99,688                84,890
+                                                                  -----------           -----------           -----------
+
+Income from discontinued operations (note 3)
+   Earnings, net of applicable income tax expense
+      of $2,211                                                            --                    --                 3,088
+   Gain on disposal, net of applicable income tax
+      expense of $36,011                                                   --                    --                53,086
+                                                                  -----------           -----------           -----------
+
+                                                                           --                    --                56,174
+                                                                  -----------           -----------           -----------
+
+Net income                                                        $    88,910           $    99,688           $   141,064
+                                                                  ===========           ===========           ===========
+
+Earnings per common share (note 1):
+     Continuing operations before goodwill charges                $      2.79           $      2.88           $      2.19
+                                                                  ===========           ===========           ===========
+
+     Continuing operations                                        $      2.24           $      2.45           $      1.91
+     Discontinued operations                                               --                    --                  1.26
+                                                                  -----------           -----------           -----------
+
+     Net earnings                                                 $      2.24           $      2.45           $      3.17
+                                                                  ===========           ===========           ===========
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+                                       4
+<PAGE>   5
+
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+                      Consolidated Statements of Cash Flows
+
+                  Years Ended December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                                       1999                1998                1997
+                                                                    ---------           ---------           ---------
+
+<S>                                                                 <C>                 <C>                 <C>
+Cash provided from operating activities
+   Income from continuing operations                                $  88,910           $  99,688           $  84,890
+   Add (deduct) items not affecting cash
+      Depreciation                                                     46,341              41,747              34,267
+      Amortization                                                     28,376              23,118              16,570
+      Gain on sale of business                                             --             (11,285)                 --
+      Deferred income taxes                                             2,839              (5,899)             15,395
+      Other                                                             1,474               2,358                 315
+   Net decrease (increase) in working capital other
+         than cash (note 14)                                           11,153             (36,258)            (23,334)
+   Asset securitization                                                   900              (6,100)            (10,400)
+                                                                    ---------           ---------           ---------
+
+                                                                      179,993             107,369             117,703
+                                                                    ---------           ---------           ---------
+
+Cash used by investing activities
+   Additions to fixed assets                                          (61,278)            (51,741)            (60,596)
+   Acquisitions of businesses                                        (155,416)           (172,181)           (364,148)
+   Net proceeds from disposal of businesses                                --              25,008             274,641
+   Proceeds from (investments in) other assets                         (9,952)             10,354               8,851
+   Other                                                                 (874)             (8,040)             (1,545)
+                                                                    ---------           ---------           ---------
+
+                                                                     (227,520)           (196,600)           (142,797)
+                                                                    ---------           ---------           ---------
+
+Cash provided from (used by) financing activities
+   Additional borrowings                                              155,597             331,907             119,020
+   Repayments of borrowings                                           (71,488)            (92,931)            (66,886)
+   Issuance of common shares                                            1,537               7,302               1,780
+   Repurchase of common shares                                        (38,476)            (83,565)            (56,954)
+   Dividends                                                          (14,158)            (14,614)            (12,413)
+                                                                    ---------           ---------           ---------
+
+                                                                       33,012             148,099             (15,453)
+                                                                    ---------           ---------           ---------
+
+Cash used by discontinued operations (note 3)                              --                  --             (61,135)
+                                                                    ---------           ---------           ---------
+
+Net increase (decrease) in cash and short-term investments            (14,515)             58,868            (101,682)
+Cash and short-term investments at beginning of year                  123,455              64,587             166,269
+                                                                    ---------           ---------           ---------
+Cash and short-term investments at end of year                      $ 108,940           $ 123,455           $  64,587
+                                                                    =========           =========           =========
+</TABLE>
+
+
+See accompanying notes to consolidated financial statements.
+
+                                       5
+<PAGE>   6
+
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+        Consolidated Statements of Financial Position, Restated (note 2)
+
+                           December 31, 1999 and 1998
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+<TABLE>
+<CAPTION>
+
+                                                                                    1999                  1998
+                                                                                -----------           -----------
+<S>                                                                             <C>                   <C>
+Assets
+Current assets
+   Cash and short-term investments                                              $   108,940           $   123,455
+   Accounts and notes receivable, less allowance for doubtful
+      accounts  of $9,645 in 1999 and $10,725 in 1998 (note 11)                     334,398               335,424
+   Inventories (note 5)                                                             390,654               368,842
+   Other current assets                                                              61,386                81,679
+                                                                                -----------           -----------
+
+      Total current assets                                                          895,378               909,400
+
+Fixed assets (note 6)                                                               350,901               317,853
+Goodwill (notes 1 and 3)                                                            836,497               728,350
+Other intangible assets (note 1)                                                     43,547                46,470
+Other assets (note 4)                                                               115,252                88,584
+                                                                                -----------           -----------
+
+                                                                                $ 2,241,575           $ 2,090,657
+                                                                                ===========           ===========
+
+Liabilities and Shareholders' Equity
+Current liabilities
+   Notes payable to banks (note 7)                                              $   103,544           $    53,672
+   Current portion of long-term debt (note 7)                                        46,082                51,665
+   Accounts payable                                                                 169,362               158,708
+   Accrued liabilities                                                              185,742               194,682
+   Customer advances                                                                 15,440                23,181
+                                                                                -----------           -----------
+
+      Total current liabilities                                                     520,170               481,908
+
+Long-term debt (note 7)                                                             591,506               544,771
+Other liabilities                                                                   210,654               178,148
+                                                                                -----------           -----------
+
+                                                                                  1,322,330             1,204,827
+Shareholders' equity (note 9)
+   Common shares - outstanding 39,047,937 shares in 1999
+      and 40,520,982 shares in 1998                                                 537,355               557,574
+   Contributed surplus                                                                4,283                 4,057
+   Retained earnings                                                                421,137               360,796
+                                                                                -----------           -----------
+
+                                                                                    962,775               922,427
+
+   Equity adjustment from foreign currency translation (notes 1 and 7)              (43,530)              (36,597)
+                                                                                -----------           -----------
+
+      Total shareholders' equity                                                    919,245               885,830
+                                                                                -----------           -----------
+
+                                                                                $ 2,241,575           $ 2,090,657
+                                                                                ===========           ===========
+</TABLE>
+
+
+See accompanying notes to consolidated financial statements.
+
+On behalf of the Board - William R. Holland, Director; R. Stuart Dickson,
+Director.
+
+                                       6
+<PAGE>   7
+
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+  Consolidated Statements of Changes in Shareholders' Equity, Restated (note 2)
+
+                  Years Ended December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+<TABLE>
+<CAPTION>
+
+                                                     Common Shares
+                                              --------------------------                                 Equity
+                                                             Unamortized                               Adjustment/       Total
+                                                Shares        Restricted  Contributed    Retained       Currency      Shareholders'
+                                                Issued          Stock       Surplus      Earnings      Translation       Equity
+                                              -----------     ----------  -----------   -----------    -----------    -------------
+
+<S>                                           <C>             <C>         <C>           <C>            <C>            <C>
+Balance, December 31, 1996                     $ 621,825       $(5,287)      $1,409      $ 214,935       $(26,128)      $ 806,754
+
+Repurchase of 2,067,540 shares                   (28,222)           --           --        (28,732)            --         (56,954)
+Stock options exercised (110,255 shares)           1,780            --          450             --             --           2,230
+Amortization of restricted stock grants               --         1,406           --             --             --           1,406
+Net income for the year                               --            --           --        141,064             --         141,064
+Cash dividends - $.28 per share                       --            --           --        (12,413)            --         (12,413)
+Net effect of currency translation
+   adjustments                                        --            --           --             --        (13,187)        (13,187)
+Effect of hedging transactions                        --            --           --             --          3,649           3,649
+                                               ---------       -------       ------      ---------       --------       ---------
+
+Balance, December 31, 1997                       595,383        (3,881)       1,859        314,854        (35,666)        872,549
+
+Repurchase of 3,250,000 shares                   (44,433)           --           --        (39,132)            --         (83,565)
+Stock options exercised (445,422 shares)           7,302            --        2,198             --             --           9,500
+Incentive share election  (43,845 shares)          1,219            --           --             --             --           1,219
+Amortization of restricted  stock grants              --         1,984           --             --             --           1,984
+Net income for the year                               --            --           --         99,688             --          99,688
+Cash dividends - $.36 per share                       --            --           --        (14,614)            --         (14,614)
+Net effect of currency translation
+   adjustments                                        --            --           --             --         (3,432)         (3,432)
+Effect of hedging transactions                        --            --           --             --          2,501           2,501
+                                               ---------       -------       ------      ---------       --------       ---------
+
+Balance, December 31, 1998                       559,471        (1,897)       4,057        360,796        (36,597)        885,830
+
+Repurchase of 1,745,000 shares                   (24,065)           --           --        (14,411)            --         (38,476)
+Stock options exercised (103,400 shares)           1,537            --          226             --             --           1,763
+Incentive share election (55,365 shares)           1,105            --           --             --             --           1,105
+Restricted  stock issued (113,190 shares)          2,263        (2,263)          --             --             --              --
+Amortization of restricted stock grants               --         1,204           --             --             --           1,204
+Net income for the year                               --            --           --         88,910             --          88,910
+Cash dividends - $.36 per share                       --            --           --        (14,158)            --         (14,158)
+Net effect of currency translation
+   adjustments                                        --            --           --             --        (12,688)        (12,688)
+Effect of hedging transactions                        --            --           --             --          5,755           5,755
+                                               ---------       -------       ------      ---------       --------       ---------
+
+Balance, December 31, 1999                     $ 540,311       $(2,956)      $4,283      $ 421,137       $(43,530)      $ 919,245
+                                               =========       =======       ======      =========       ========       =========
+</TABLE>
+
+
+See accompanying notes to consolidated financial statements.
+
+                                       7
+<PAGE>   8
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+1.       Summary of Significant Accounting Policies
+
+         General
+
+         The consolidated financial statements have been prepared in accordance
+         with accounting principles generally accepted in Canada. These
+         accounting principles are in conformity with accounting principles
+         generally accepted in the United States except as indicated in note 14.
+         The preparation of financial statements in conformity with generally
+         accepted accounting principles requires management to make estimates
+         and assumptions that affect the reported amounts of assets and
+         liabilities and disclosure of contingent assets and liabilities at the
+         date of the financial statements and reported amounts of revenues and
+         expenses during the reporting period. Actual results could differ from
+         those estimates.
+
+         Consolidation
+
+         All subsidiary companies are consolidated and all significant
+         intercompany accounts and transactions have been eliminated in
+         consolidation.
+
+         Consolidated Statements of Cash Flows
+
+         Cash and short-term investments include highly liquid investments with
+         a maturity of three months or less.
+
+         Inventories
+
+         Inventories are stated at the lower of cost (average or first-in,
+         first-out) or net realizable value.
+
+         Fixed Assets
+
+         Property, plant and equipment are recorded at cost. Major renewals and
+         betterments are capitalized; whereas, maintenance and repairs are
+         expensed as incurred. Cost of property sold or otherwise disposed and
+         related accumulated depreciation are removed from the accounts at the
+         time of disposal and any resulting gain or loss is included in income.
+         Depreciation of plant and equipment is determined on the straight-line
+         method over the estimated useful lives of the assets. The average
+         annual rates of depreciation range from 4% for buildings to 10% for
+         machinery and equipment.
+
+         Goodwill
+
+         Goodwill, which represents the excess of purchase price over fair value
+         of net identifiable assets acquired, is amortized on the straight-line
+         method over the expected periods to be benefited, generally 40 years.
+         The company assesses the recoverability of this intangible asset based
+         primarily upon an analysis of undiscounted future operating cash flows
+         from the acquired operations. Accumulated amortization was $90,309 and
+         $69,044 at December 31, 1999 and 1998, respectively.
+
+                                       8
+<PAGE>   9
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         Other Intangible Assets
+
+         Amounts assigned to other intangible assets, primarily trademarks and
+         patents, are based on independent appraisals and are amortized on the
+         straight-line method over periods ranging from four to forty years.
+         Accumulated amortization was $16,565 and $13,262 at December 31, 1999
+         and 1998, respectively.
+
+         Foreign Currency Translation
+
+         The financial statements of those operations whose functional currency
+         is a foreign currency are translated into U.S. dollars using the
+         current rate method. Under this method, all assets and liabilities are
+         translated into U.S. dollars using current exchange rates and income
+         statement items are translated using weighted average exchange rates.
+         The translation adjustment is included as a component of shareholders'
+         equity; whereas, gains and losses on foreign currency transactions are
+         included in income. Foreign currency transaction losses totaled $2,768,
+         $3,530 and $3,959 for 1999, 1998 and 1997, respectively.
+
+         Derivative Financial Instruments
+
+         The company is party to certain derivative financial instruments,
+         principally forward exchange contracts used to manage foreign currency
+         exposures. Gains and losses on forward foreign exchange contracts are
+         recognized in revenues in the same period as the foreign currency
+         transactions to which they relate.
+
+         Fair Values
+
+         The carrying values of cash and short-term investments, accounts
+         receivable, accounts payable and accrued liabilities approximate their
+         fair value due to the relatively short periods to maturity of the
+         instruments. The fair value of the company's long-term debt is
+         estimated based on the current rates available to the company for debt
+         of the same remaining maturities. Since the company's fixed rate debt
+         carries interest rates which are different than current market rates,
+         the estimated fair value of the company's long-term debt was
+         approximately $634,000 and $621,000 at December 31, 1999 and 1998,
+         respectively.
+
+         Earnings Per Common Share
+
+         Earnings per common share are calculated by dividing net income by the
+         weighted average number of common shares outstanding during the year
+         (39,641,606 shares for 1999, 40,755,170 shares for 1998 and 44,439,004
+         shares for 1997). The assumed exercise of outstanding stock options
+         would not have a materially dilutive effect on reported earnings per
+         common share.
+
+         Reclassifications
+
+         Certain prior year amounts have been reclassified to conform with
+         current year presentation.
+
+                                       9
+<PAGE>   10
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+2.       Restatement Related to Adoption of New Accounting Pronouncements
+
+         Effective January 1, 1999, the company adopted the Canadian Institute
+         of Chartered Accountants (CICA) Handbook Section 3465, Income Taxes.
+         This adoption has been retroactively applied to all years presented in
+         the accompanying consolidated financial statements. The adoption of
+         this pronouncement did not have a material effect on the Consolidated
+         Statement of Income for the year ended December 31, 1998 and it has not
+         been restated. For the year ended December 31, 1997, the adoption of
+         Handbook Section 3465 resulted in an increase in the gain on disposal
+         of discontinued operations (note 3) and a related increase in net
+         income of $3,086, or $.07 per share.
+
+         For the year ended December 31, 1998, the adoption resulted in certain
+         reclassifications related to the cost basis of various amounts in the
+         Consolidated Statement of Financial Position. The reclassifications
+         resulted in increases in fixed assets of $5,515 and accrued liabilities
+         of $5,174 and decreases in inventories of $468, other current assets of
+         $288, goodwill and other intangibles of $1,344, other assets of
+         $33,801, other liabilities of $24,109 and retained earnings of $11,451
+         as of December 31, 1998.
+
+         As of December 31, 1996, the adoption of Handbook Section 3465 resulted
+         in a reduction in retained earnings and total shareholders' equity of
+         $14,537 in the Consolidated Statement of Changes in Shareholders'
+         Equity.
+
+         In 1999, the CICA amended Handbook Section 1580, Business Combinations,
+         to allow for the separate presentation of goodwill amortization expense
+         and goodwill impairment charges (collectively referred to as "goodwill
+         charges"), net of tax, in the income statement. Accordingly, the
+         presentation of income before goodwill charges, and the related per
+         share amount, is also allowed. The company has adopted this
+         presentation format and has reclassified the prior years' consolidated
+         statements of income to conform with the new presentation. This
+         reclassification does not affect net income or net earnings per share
+         as previously reported.
+
+3.       Acquisitions, Divestitures, Discontinued Operations and Restructuring
+
+         Acquisitions
+
+         In February 1999, the company acquired Riser-Bond Instruments which
+         designs and manufactures cable fault locators principally used by the
+         telecommunications industry. In July, the company acquired TKO Doors, a
+         manufacturer of loading dock doors. In August, the company acquired
+         Bran + Luebbe, a manufacturer of precision metering pumps, analyzing
+         equipment and integrated blending systems for a broad range of process
+         industries. In October, the company acquired S.W. Fleming Limited, a
+         manufacturer of commercial side-hinged steel doors and frames. The cost
+         of these and other smaller acquisitions totaled approximately $155,000
+         and resulted in an increase in working capital of approximately
+         $17,000, an increase in fixed assets of approximately $24,000, an
+         increase in goodwill of approximately $129,000 and an increase in other
+         liabilities of approximately $15,000.
+
+                                       10
+<PAGE>   11
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         In February 1998, the company acquired Radiodetection which designs and
+         manufactures portable pipe and cable locators and related equipment
+         used in the utility and telecommunication industries. In March, the
+         company acquired Tex-Steel Corporation, a manufacturer of custom steel
+         doors and frames for commercial and detention markets. In April, the
+         company acquired APV Ice Cream, a manufacturer of industrial ice cream
+         production equipment. In May, the company acquired Leading Edge, Inc.
+         which manufactures ceiling fans, air curtains and air circulators
+         supplied to the industrial and electrical distributor markets. In July,
+         the company acquired C&M, Inc., a manufacturer of powered roller
+         conveyor systems primarily servicing the corrugated and solid fiber
+         carton industry. In August, the company acquired Ling Dynamic Systems
+         Limited which designs and builds vibration test systems and related
+         equipment. The cost of these and other smaller acquisitions totaled
+         approximately $172,000 and resulted in an increase in working capital
+         of approximately $27,000, an increase in fixed assets of approximately
+         $14,000, an increase in other assets of approximately $1,000 and an
+         increase in goodwill of approximately $130,000.
+
+         In 1997, the company completed the purchase of the common stock of Core
+         Industries Inc (Core). Core was a manufacturer of valves, strainers and
+         backflow prevention products, agricultural equipment, electrical test
+         and measurement equipment and integrated assembly systems used in
+         automobile and other manufacturing applications. The total cost of the
+         acquisition was approximately $302,000.
+
+         If the acquisition of Core had occurred at the beginning of 1997,
+         unaudited proforma consolidated sales, net income and net earnings per
+         share in 1997 would have been $1,826,273, $144,422 and $3.25,
+         respectively.
+
+         In 1997, the company also made several smaller product line
+         acquisitions. In January, the company acquired Lee Engineering which
+         produces vertical lifting equipment used in various industrial
+         applications. In March, the company acquired Trussbilt, a manufacturer
+         of doors, frames and related products for the security and detention
+         markets. In April, the company acquired Dominion Door, which produces
+         steel doors, frames and pre-hung windows for metal buildings. In
+         September, the company acquired TIF Instruments, a manufacturer of
+         electronic test instruments used primarily by the HVAC market. In
+         September, the company also acquired Process Machinery & Supply Company
+         and Alliance Food Equipment Corp. Both companies manufacture and
+         recondition equipment for the ice cream industry. In November, the
+         company acquired Stow Manufacturing, a manufacturer of light
+         construction equipment. The cost of these and other smaller
+         acquisitions totaled approximately $68,000.
+
+         The above mentioned acquisitions have been accounted for by the
+         purchase method and earnings have been included in the results of
+         operations from the dates of the acquisitions.
+
+         In 1997, the company initiated a tender offer for the shares of Imo
+         Industries Inc. (Imo). Imo's Board of Directors ultimately terminated
+         the merger agreement and, pursuant to the terms of the agreement, the
+         company received a $7,700 termination fee, net of expenses. This amount
+         is included in "Other income (expense)" in the Consolidated Statements
+         of Income.
+
+         Divestitures (other than Discontinued Operations)
+
+         In January 1998, the company sold its Little Falls Tank division of
+         Waukesha Cherry-Burrell for approximately $4,000 which equaled its book
+         value. In December 1998, the company sold the assets of its Marley Pump
+         motor product line and entered into various consulting and supply
+         arrangements for total proceeds of $17,500. The company recognized a
+         pre-tax gain on the sale of $11,285 which is included in "Other income
+         (expense)" in the Consolidated Statements of Income.
+
+                                       11
+<PAGE>   12
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         Discontinued Operations
+
+         In 1997, the company sold Varco-Pruden, Centria and Windsor Door. These
+         units were part of the company's Building Products segment. The company
+         received approximately $240,000 in cash and recorded a net-of-tax gain
+         of $53,086 on the sale of these businesses. The results of operations
+         of these units and the related gain on sale have been separately
+         classified as "Income from discontinued operations" in the Consolidated
+         Statements of Income. The operating cash flows from these businesses
+         have also been separately classified in the Consolidated Statements of
+         Cash Flows. The "Cash used by discontinued operations" in the
+         Consolidated Statement of Cash Flows for 1997 also includes
+         approximately $44,000 in income tax payments which were directly
+         related to the gain on the sale of discontinued operations.
+
+         In 1999 and 1998, the company incurred charges of $1,500 and $6,852,
+         respectively, related primarily to the settlement of legal claims and
+         the write-down of assets to be realized from prior years' divestiture
+         activities to their estimated net realizable value. These charges are
+         included in "Other income (expense)" in the Consolidated Statements of
+         Income.
+
+         Restructuring Charges
+
+         In 1998, the company announced a company-wide cost reduction plan. The
+         plan included the net reduction of its global workforce by over 500
+         positions, principally administrative personnel, rationalizations
+         involving 12 facilities and reduced discretionary spending. The company
+         recorded a pre-tax charge to earnings in 1998 of $16,336 related to the
+         plan.
+
+         The company expanded the restructuring program in 1999 to include the
+         rationalization of 11 additional facilities including the shutdown of
+         four manufacturing and one administrative facility, the transition of
+         the manufacturing of several product lines to different sites and the
+         discontinuation of several unprofitable product lines. Additional
+         workforce reductions of approximately 500 positions were announced of
+         which approximately 130 had actually been terminated by December 31,
+         1999. The company reported a pre-tax charge to earnings of $22,198
+         related to these new initiatives.
+
+         Selected financial information relating to the two years' restructuring
+         charges is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                                        Accrual at                                       Accrual at
+                                        Expensed        Incurred       December 31,     Expensed         Incurred       December 31,
+                                         in 1998         in 1998           1998          in 1999          in 1999           1999
+                                        --------        --------       ------------     --------         --------       ------------
+         <S>                            <C>             <C>            <C>              <C>              <C>            <C>
+         Severance and other
+            employee costs               $13,474         $(5,499)         $7,975         $ 5,785         $ (6,990)         $6,770
+         Facilities costs                  1,930          (1,513)            417           5,791           (5,918)            290
+         Write-down of assets to
+            net realizable value              --              --              --           8,693           (8,693)             --
+         Other costs                         932              --             932           1,929           (2,522)            339
+                                         -------         -------          ------         -------         --------          ------
+
+         Total                           $16,336         $(7,012)         $9,324         $22,198         $(24,123)         $7,399
+                                         =======         =======          ======         =======         ========          ======
+</TABLE>
+
+                                       12
+<PAGE>   13
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         All costs are included in "Restructuring charges" in the Consolidated
+         Statements of Income with the exception of $1,694 of goodwill
+         impairment charges which were recorded in 1999 and are included in
+         "Goodwill charges". Of the total charges, $7,399 remains accrued at
+         December 31, 1999. The majority of the remaining restructuring
+         activities should be completed during the first half of 2000.
+
+4.       Income Taxes
+
+         The provision for income taxes on income from continuing operations
+         before goodwill charges is comprised of the following:
+
+<TABLE>
+<CAPTION>
+
+                                    1999               1998               1997
+                                  -------            -------            -------
+
+         <S>                      <C>                <C>                <C>
+         Current
+         Canada                   $  (954)           $ 3,264            $ 2,961
+         United States             10,386             24,094             10,161
+         Other countries           30,226              2,688             21,011
+                                  -------            -------            -------
+                                   39,658             30,046             34,133
+                                  -------            -------            -------
+
+
+         Deferred
+         Canada                    (5,148)            (7,241)            (3,886)
+         United States             15,199              9,686             26,257
+         Other countries           (2,558)            (8,344)            (6,976)
+                                  -------            -------            -------
+                                    7,493             (5,899)            15,395
+                                  -------            -------            -------
+                                  $47,151            $24,147            $49,528
+                                  =======            =======            =======
+
+</TABLE>
+
+
+         The related income (loss) from continuing operations before income
+         taxes and goodwill charges is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                    1999               1998               1997
+                                  --------           --------           --------
+
+         <S>                      <C>                <C>                <C>
+         Canada                   $ (8,835)          $(13,491)          $ (5,455)
+         United States              62,240             78,440             87,413
+         Other countries           104,302             76,379             64,952
+                                  --------           --------           --------
+                                  $157,707           $141,328           $146,910
+                                  ========           ========           ========
+</TABLE>
+
+                                       13
+<PAGE>   14
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         The tax effects of temporary differences that give rise to deferred tax
+         assets and deferred tax liabilities at December 31, 1999 and 1998 are
+         as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                                                         1999                1998
+                                                                                      ---------           ---------
+
+         <S>                                                                          <C>                 <C>
+         Deferred tax assets:
+            Net operating loss carryforwards                                          $  22,909           $  10,805
+            Difference between tax on distributed and undistributed earnings              4,580               2,451
+            Accrued expenses not currently deductible                                    81,683              90,058
+            Other                                                                         2,975               4,240
+                                                                                      ---------           ---------
+                                                                                        112,147             107,554
+            Less: valuation allowance                                                    (4,080)                 --
+                                                                                      ---------           ---------
+              Total deferred tax assets                                                 108,067             107,554
+                                                                                      ---------           ---------
+
+         Deferred tax liabilities:
+            Plant and equipment, principally due to differences in basis
+              and depreciation                                                          (35,081)            (28,298)
+            Intangible assets, principally due to differences in basis
+              and amortization                                                          (13,601)            (12,341)
+            Inventory, principally due to differences in basis                           (6,427)             (8,501)
+            Other                                                                       (15,954)            (13,078)
+                                                                                      ---------           ---------
+              Total deferred tax liabilities                                            (71,063)            (62,218)
+                                                                                      ---------           ---------
+                 Net deferred tax asset                                               $  37,004           $  45,336
+                                                                                      =========           =========
+</TABLE>
+
+
+         Subsequently recognized tax benefits relating to the valuation
+         allowance for deferred tax assets as of December 31, 1999 will be
+         allocated to goodwill. Based on the company's historical and current
+         earnings, management believes it is more likely than not that the
+         company will realize the benefit of the remaining deferred tax assets
+         that are not subject to the valuation allowance.
+
+         The difference between the company's effective income tax rate and the
+         statutory rate on income from continuing operations is reconciled
+         below.
+
+<TABLE>
+<CAPTION>
+
+                                                                    1999               1998               1997
+                                                                  --------           --------           --------
+
+         <S>                                                      <C>                <C>                <C>
+         Income tax expense at U.S. statutory rate of 35          $ 55,197           $ 49,465           $ 51,419
+         State income taxes                                          2,792              3,563              3,618
+         Canadian and foreign tax refunds and tax
+              settlements                                         $ (4,984)           (23,838)                --
+         Canadian and foreign income taxes at
+            less than U.S. statutory rate                           (6,962)            (7,806)            (7,714)
+         Other                                                       1,108              2,763              2,205
+                                                                  --------           --------           --------
+
+                                                                  $ 47,151           $ 24,147           $ 49,528
+                                                                  ========           ========           ========
+</TABLE>
+
+                                       14
+<PAGE>   15
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         The company has Canadian net operating loss carryforwards for income
+         tax purposes of approximately $43,000 which expire in 2003 through
+         2006.
+
+         "Other Assets" in the Consolidated Statements of Financial Position
+         include $4,580 and $2,451 at December 31, 1999 and 1998, respectively,
+         primarily representing German taxes refundable to the company when
+         German earnings are repatriated.
+
+         Income taxes paid totaled $2,224, $53,085 and $71,240 for 1999, 1998
+         and 1997, respectively.
+
+5.       Inventories
+
+         Inventories at December 31, 1999 and 1998 are summarized as follows:
+
+<TABLE>
+<CAPTION>
+
+                                      1999              1998
+                                    --------          --------
+
+         <S>                        <C>               <C>
+         Raw materials              $131,444          $111,994
+         Work-in-process             101,122            99,402
+         Finished products           158,088           157,446
+                                    --------          --------
+
+                                    $390,654          $368,842
+                                    ========          ========
+</TABLE>
+
+
+6.       Fixed Assets
+
+         Fixed assets are summarized as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                           Accumulated
+                                             Cost          Depreciation          Net
+                                           --------        ------------        --------
+
+         <S>                               <C>             <C>                 <C>
+         December 31, 1999:
+
+         Land                              $ 12,385          $     --          $ 12,385
+         Plant                              143,508            50,479            93,029
+         Machinery and equipment            431,743           216,112           215,631
+         Construction in progress            29,856                --            29,856
+                                           --------          --------          --------
+                                           $617,492          $266,591          $350,901
+                                           ========          ========          ========
+
+         December 31, 1998:
+
+         Land                              $ 11,215          $     --          $ 11,215
+         Plant                              129,267            46,485            82,782
+         Machinery and equipment            394,222           184,320           209,902
+         Construction in progress            13,954                --            13,954
+                                           --------          --------          --------
+                                           $548,658          $230,805          $317,853
+                                           ========          ========          ========
+
+</TABLE>
+
+                                       15
+<PAGE>   16
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+7.       Debt
+
+         Short-term
+
+         At December 31, 1999 and 1998, the company's notes payable to banks
+         totaled $103,544 and $53,672, respectively, with weighted average
+         interest rates of 6.7% and 4.9%, respectively. At December 31, 1999,
+         the company had available approximately $105,000 of unused short-term
+         borrowing facilities.
+
+         Long-term
+
+         The company's long-term debt at December 31, 1999 and 1998 is
+         summarized as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                              1999              1998
+                                                            --------          --------
+
+         <S>                                                <C>               <C>
+         Revolving credit bank notes                        $101,192          $ 35,958
+         Senior notes due 2002 - 6.80%                        70,200            93,600
+         Senior notes due 2002 - 8.25%                        37,500            50,000
+         Senior notes due 2007 - 7.67%                        50,000            50,000
+         Senior notes due 2008 - 6.64%                       110,000           110,000
+         Commercial paper                                    172,470           162,556
+         Multi-currency revolving notes                       36,375            39,718
+         Other notes payable in installments
+            through 2020 at interest rates varying
+            from 2.9% to 10.0%                                59,851            54,604
+                                                            --------          --------
+                                                             637,588           596,436
+         Less current portion of long-term debt               46,082            51,665
+                                                            --------          --------
+                                                            $591,506          $544,771
+                                                            ========          ========
+</TABLE>
+
+         The company has a revolving credit agreement (revolver) with a group of
+         banks. This agreement gives the company the ability to borrow up to
+         $450,000 through July 2002. Borrowings under the revolver are available
+         in U.S. dollars and Deutsche Marks (DM) at the U.S. prime interest rate
+         or LIBOR plus a margin. The margin ranges from 0.170% to 0.325% and is
+         determined by a leverage ratio and the amount of utilization under the
+         credit facility. The weighted average interest rates on the borrowings
+         under this agreement were 4.6% and 4.9% during 1999 and 1998,
+         respectively. At December 31, 1999, $41,192 of the revolver borrowings
+         were denominated in DM. The DM borrowings are designated as a hedge of
+         the company's net investment in German subsidiaries and foreign
+         exchange gains and losses on these borrowings are reflected in "Equity
+         adjustment from foreign currency translation" in the Consolidated
+         Statements of Financial Position. The company also pays an annual
+         facility fee on the amount of this facility ranging from 0.080% to
+         0.125%, depending upon a leverage ratio. The company further pays an
+         annual utilization fee on the amount of loans outstanding of up to
+         0.05%, depending on leverage and amount of utilization. At December 31,
+         1999, the margin, facility fee and utilization fee were 0.25%, 0.1% and
+         0%, respectively.
+
+         The 6.80% senior notes are currently payable in annual installments of
+         $23,400. The 8.25% senior notes are currently payable in annual
+         installments of $12,500. The 7.67% senior notes are payable in annual
+         installments of $10,000 beginning in 2003. The 6.64% senior notes are
+         payable in full in 2008.
+
+                                       16
+<PAGE>   17
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+         During 1998, the company entered into an open-ended program whereby up
+         to Cdn $250,000 of commercial paper can be issued. While the commercial
+         paper is typically due in 30 - 60 days, with a maximum maturity of one
+         year, it is the company's intention to continually refinance these
+         borrowings. The company maintains unutilized long-term committed credit
+         facilities sufficient to refinance the commercial paper outstanding.
+         Therefore, the amounts outstanding at December 31, 1999 (U.S. $172,470)
+         are included in long-term debt in the Consolidated Statements of
+         Financial Position. Interest rates on the commercial paper ranged from
+         5.1% to 5.7% with a weighted average of 5.3% in 1999.
+
+         The company has a $40,000 multi-currency revolving credit agreement
+         with a bank which expires in June 2000. The agreement allows the
+         company to designate subsidiaries to borrow under the facility at LIBOR
+         interest rates plus margin and facility fees in total ranging from 0.7%
+         to 1.0%. At December 31, 1999, $36,375 had been borrowed under this
+         facility. This amount is included in long-term debt since the company
+         has the capacity and intention to refinance this facility and extend
+         its term prior to the expiration of the agreement.
+
+         At December 31, 1999, the company had available approximately $150,000
+         of unused long-term revolving credit commitments.
+
+         Various loan agreements contain covenants with respect to net worth,
+         indebtedness and other items. The company has complied with all
+         provisions of these agreements at December 31, 1999.
+
+         Future principal payments on long-term debt are as follows:
+
+<TABLE>
+                           <S>                        <C>
+                              2000                    $ 46,082
+                              2001                      87,061
+                              2002                     315,375
+                              2003                      14,636
+                              2004                      10,927
+                           Thereafter                  163,507
+                                                      --------
+                                                      $637,588
+                                                      ========
+</TABLE>
+
+
+8.       Interest Expense - Net
+
+         Net interest expense is composed of the following:
+
+<TABLE>
+<CAPTION>
+
+                                               1999               1998               1997
+                                             --------           --------           --------
+
+         <S>                                 <C>                <C>                <C>
+         Interest on long-term debt          $ 38,217           $ 35,749           $ 22,441
+         Other interest expense                 5,319              3,117              3,757
+         Interest income                       (3,358)            (3,116)            (7,654)
+                                             --------           --------           --------
+                                             $ 40,178           $ 35,750           $ 18,544
+                                             ========           ========           ========
+</TABLE>
+
+         Net interest paid totaled $43,018, $33,082, and $20,104 for 1999, 1998
+         and 1997, respectively.
+
+                                       17
+<PAGE>   18
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+9.     Capital Stock
+
+       The company is incorporated under the Canada Business Corporations Act
+       and is authorized to issue an unlimited number of common and preferred
+       shares of no par value.
+
+       The company has a stock option and restricted stock plan under which
+       options for a term not exceeding 10 years may be granted to key employees
+       and directors to purchase common shares of the company at a price not
+       less than 100% of their fair market value at the date of grant. Common
+       shares reserved for exercise of these options or the issuance of
+       restricted stock may not at any time exceed 10% of the number of common
+       shares then outstanding. Transactions involving the plan are summarized
+       below.
+
+<TABLE>
+<CAPTION>
+                                                    Options
+                                        ---------------------------------                            Weighted-
+                                        Available for                          Option Price           Average
+                                        Future Grant          Granted            Per Share        Exercise Price
+                                       -----------------     ------------   ------------------- -------------------
+                                                                                  (Cdn.)               (Cdn.)
+<S>                                    <C>              <C>                 <C>        <C>            <C>
+Outstanding at December 31, 1996       1,546,622        1,776,575           $ 9.375  - $ 33.125        $25.34
+
+Exercised                                     --         (110,255)          $ 9.375  - $ 33.00         $21.98
+Granted                                 (463,400)         463,400           $36.65   - $ 38.87         $36.83
+                                       ---------        ---------
+Outstanding at December 31, 1997       1,083,222        2,129,720           $ 9.375  - $ 38.87         $28.02
+
+Exercised                                     --         (445,422)          $ 9.375  - $ 36.65         $23.60
+Granted                                 (435,250)         435,250           $28.95   - $ 40.00         $35.26
+Expired                                   21,100          (21,100)          $26.375  - $ 36.65         $29.76
+                                       ---------        ---------
+Outstanding at December 31, 1998         669,072        2,098,448           $ 9.375  - $ 40.00         $30.44
+
+Exercised                                     --         (103,400)          $ 12.75  - $ 26.625        $22.26
+Granted                                 (589,625)         589,625           $ 29.80  - $ 32.775        $30.03
+Restricted stock issued                 (113,190)
+                                                               --
+Additional shares authorized           1,196,993               --
+                                       ---------        ---------
+Outstanding at December 31, 1999       1,163,250        2,584,673           $ 9.375  -$  40.00         $30.67
+                                       =========        =========
+
+Exercisable at December 31, 1999                        1,736,724           $ 9.375 - $  40.00         $29.97
+                                                        =========
+</TABLE>
+
+       The following table provides certain information with respect to stock
+       options outstanding at December 31, 1999.
+
+<TABLE>
+<CAPTION>
+                                                                                                        Weighted-
+                                                                                                        average
+                                                                                   Weighted-            remaining
+                                                              Stock options         average            contractual
+       Range of exercise price                                 outstanding       exercise price           life
+                                                             ----------------  ------------------   ----------------
+                                                                                      (Cdn.)              (years)
+       <S>                                                   <C>               <C>                       <C>
+
+       Under $28.00 (Cdn.)                                          802,011          $24.31                 4.3
+       Over $28.00 (Cdn.)                                         1,782,662           33.54                 7.9
+                                                             ----------------  ------------------   ----------------
+                                                                  2,584,673          $30.67                 6.8
+                                                             ================  ==================   ================
+</TABLE>
+
+                                       18
+<PAGE>   19
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+       The following table provides certain information with respect to stock
+       options exercisable at December 31, 1999.
+
+<TABLE>
+<CAPTION>
+                                                                            Weighted-
+                                                      Stock options          average
+       Range of exercise price                         exercisable        exercise price
+                                                    ------------------   ----------------
+                                                                             (Cdn.)
+       <S>                                          <C>                 <C>
+       Under $28.00 (Cdn.)                                  802,011      $     24.31
+       Over $28.00 (Cdn.)                                   934,713            34.84
+                                                    ------------------   ----------------
+                                                          1,736,724      $     29.97
+                                                    ==================   ================
+</TABLE>
+
+       The restricted stock issued during 1999 had a fair value at the date of
+       grant of $2,263 or U.S. $19.99 per share. The sale of this stock is
+       restricted for six years from the date of grant. Restricted stock was
+       also issued during 1996 which is restricted for periods up to five years
+       from the date of the grant. Compensation expense related to all
+       restricted shares is recorded over the restriction period and amounted to
+       $1,204, $1,984 and $1,406 in 1999, 1998 and 1997, respectively.
+
+       The company's management incentive plans contain a feature that allows
+       participants the opportunity to elect to receive restricted common shares
+       in lieu of a portion of their cash bonuses. The number of shares issued
+       is increased by a multiple in order to provide participants an incentive
+       to elect to receive shares. A total of 55,365 and 43,845 shares were
+       issued in 1999 and 1998, respectively, to participants who made such
+       share elections.
+
+10.    Benefit Plans
+
+       The company and its subsidiaries have defined benefit pension plans
+       covering approximately one half of all employees. Plans covering eligible
+       salaried employees call for benefits to be paid at retirement based
+       primarily upon years of service and their compensation rates near
+       retirement. Plans covering hourly employees generally provide benefits of
+       stated amounts for each year of service. Contributions to the plans
+       reflect benefits attributed to employees' services to date and also for
+       benefits expected to be earned in the future. Assets of the plans consist
+       primarily of cash and cash equivalents, common and preferred stocks,
+       government bonds, investment-grade corporate bonds and other fixed income
+       investments. The company also provides, through non-qualified plans,
+       supplemental pension payments in excess of the qualified plan limits
+       imposed by income tax regulations. These non-qualified plans are
+       unfunded.
+
+                                       19
+<PAGE>   20
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+       The following tables set forth the change in projected benefit
+       obligation, change in plan assets and the funded status of the company's
+       North American benefit plans as of December 31, 1999 and 1998.
+
+<TABLE>
+<CAPTION>
+                                                         Pension Benefits                   Other Benefits
+                                                       1999           1998                1999            1998
+                                                      -------         -------            ------          ------
+       <S>                                          <C>             <C>                <C>             <C>
+       Change in benefit obligation
+          Benefit obligation at beginning
+             of year                                $ 178,733       $ 167,993          $ 33,659        $ 26,883
+          Service cost                                  3,988           3,917               690             729
+          Interest cost                                14,947          14,162             2,617           2,216
+          Plan participants' contributions                  5              17                --              --
+          Plan amendment                                   --              --               799           1,446
+          Actuarial (gain) loss                        (1,750)          2,403             1,045           3,588
+          Benefits paid                               (10,550)         (9,759)           (1,256)         (1,203)
+                                                      -------         -------            ------          ------
+          Benefit obligation at end of year           185,373         178,733            37,554          33,659
+                                                      -------         -------            ------          ------
+
+       Change in plan assets
+          Fair value of plan assets at
+             beginning of year                        212,175         205,953
+          Return on plan assets                        27,541          12,894
+          Employer contribution                         1,754           3,070
+          Plan participants' contributions                  5              17
+          Benefits paid                               (10,550)         (9,759)
+                                                      -------         -------
+          Fair value of plan assets at end of year    230,925         212,175
+                                                      -------         -------
+
+
+          Funded status                                45,552          33,442           (37,554)        (33,659)
+          Unrecognized net actuarial (gain) loss      (33,668)        (23,933)            9,617           7,551
+          Unrecognized prior service cost               3,220           3,327             3,733           5,476
+          Unrecognized net transition obligation           18              27             1,335           1,502
+                                                      -------         -------            ------          ------
+          Prepaid (accrued) benefit cost            $  15,122       $  12,863          $(22,869)       $(19,130)
+                                                      =======         =======            ======          ======
+</TABLE>
+
+       The weighted-average discount rate used to measure the projected benefit
+       obligation is 8.5%, the average rate of increase in future compensation
+       levels is approximately 5% and the expected long-term rate of return on
+       assets is 8.5%. The company amortizes prior service cost and unrecognized
+       gains and losses using the straight-line method over the average future
+       service life of active participants.
+
+                                       20
+<PAGE>   21
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+       The components of net periodic benefit cost are as follows:
+
+<TABLE>
+<CAPTION>
+                                                Pension Benefits                            Other Benefits
+                                       ----------------------------------         ----------------------------------
+                                         1999        1998          1997            1999          1998          1997
+                                       --------    --------      --------         ------        ------        ------
+      <S>                           <C>            <C>           <C>              <C>           <C>           <C>
+      Service cost                     $  3,988    $  3,917      $  4,557         $  690        $  729        $  738
+      Interest cost                      14,947      14,162        13,233          2,617         2,216         1,777
+      Expected return on assets         (17,416)    (16,067)      (13,858)            --            --            --
+      Amortization                       (1,543)       (879)         (682)         1,688         1,680         1,509
+                                       --------    --------      --------         ------        ------        ------
+      Net periodic benefit cost        $    (24)   $  1,133      $  3,250         $4,995        $4,625        $4,024
+                                       ========   =========      ========         ======        ======        ======
+</TABLE>
+
+       A number of the company's operating units have defined contribution plans
+       pursuant to Section 401(k) of the U.S. Internal Revenue Code. The total
+       expense of these plans was $5,522, $5,475 and $3,893 for the years ended
+       December 31, 1999, 1998 and 1997, respectively.
+
+       The company's German operations have pension plans, which in accordance
+       with applicable laws, are unfunded. The weighted average discount rate
+       used to measure the projected benefit obligation of the German plans is
+       6% - 7% and the rate of increase in future compensation levels is 3% -
+       3.5% for 1999 and 1998.
+
+       The status of the German plans at December 31, 1999 and 1998 as
+       reflected in the Consolidated Statements of Financial Position is as
+       follows:
+
+<TABLE>
+<CAPTION>
+                                                         1999                1998
+                                                       --------            --------
+<S>                                                    <C>                 <C>
+Benefit obligation at beginning of year                $ 17,992            $ 16,421
+Service cost                                                433                 376
+Interest cost                                             1,291               1,126
+Actuarial loss                                            1,138                 265
+Acquisition                                               7,330                  --
+Settlements                                                 (56)                 --
+Benefits paid                                              (687)               (726)
+Foreign exchange rate changes                            (2,475)                530
+                                                       --------            --------
+Benefit obligation at end of year                      $ 24,966            $ 17,992
+                                                       ========            ========
+</TABLE>
+
+       The components of net periodic benefit cost are as follows:
+
+<TABLE>
+<CAPTION>
+                                         1999        1998        1997
+                                        ------      ------      ------
+<S>                                     <C>         <C>         <C>
+Service cost                            $  433      $  376      $  875
+Interest cost                            1,291       1,126       1,089
+Amortization of prior service cost         128         134         136
+                                        ------      ------      ------
+Net periodic benefit cost               $1,852      $1,636      $2,100
+                                        ======      ======      ======
+</TABLE>
+
+                                       21
+<PAGE>   22
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+       The company provides certain postretirement health care and life
+       insurance benefits to a limited number of employees. The costs associated
+       with these benefits are not significant and are recorded on a
+       "pay-as-you-go" or cash basis.
+
+11.    Commitments and Contingencies
+
+       A number of claims and lawsuits seeking unspecified damages and other
+       relief are pending against the company. It is impossible at this time for
+       the company to predict with any certainty the outcome of such litigation.
+       However, management is of the opinion, based upon information presently
+       available, that it is unlikely that any liability, to the extent not
+       provided for through insurance or otherwise, would be material in
+       relation to the company's consolidated financial position.
+
+       The company has been named along with several other parties in a number
+       of administrative proceedings maintained by federal and state agencies
+       arising out of alleged releases or contributions of hazardous substances
+       into the environment. None of the proceedings is, in the opinion of
+       management, either individually or viewed in connection with all the
+       proceedings, material to the company's liquidity, consolidated operating
+       results, or consolidated financial position. While the company has
+       participated and in the future will participate in the funding of clean
+       up costs in connection with certain of the proceedings, it does not
+       believe that material monetary sanctions will be imposed against it as a
+       result of any of the proceedings.
+
+       The company has an agreement to sell certain qualifying accounts
+       receivable to a financial institution on a revolving basis. The amount
+       sold as of December 31, 1999 and 1998 was $62,900 and $62,000,
+       respectively. The amount sold at any time must be supported by available
+       credit under the revolver. Certain of the company's operations have
+       entered into agreements with third party finance companies to provide
+       wholesale financing of their product to distributors. The company is
+       responsible for the repurchase of new product in the event it is acquired
+       by the finance companies through repossession. At December 31, 1999, the
+       total amount of new product financed under these agreements is
+       approximately $12,000. At December 31, 1999, the company also has sold
+       approximately $8,000 of receivables under recourse agreements. Reserves
+       have been provided for any anticipated losses under these agreements.
+
+       In the normal course of business, letters of credit and bank guarantees
+       are issued by banks for account of the company, which in the opinion of
+       management, have no material effect on the company's financial position.
+       At December 31, 1999, the company was contingently liable for $84,000
+       under these arrangements.
+
+       The company does not trade in financial instruments and does not engage
+       in speculation. However, it does enter into a limited range and number of
+       derivative financial instrument contracts. The company also has a program
+       in place to manage foreign currency risk. As part of that program, the
+       company has entered into a limited number of foreign currency forward
+       exchange contracts to hedge foreign currency transactions or intercompany
+       loan payments. The company's foreign exchange contracts do not subject
+       the company to risk due to exchange rate movements because gains and
+       losses on these contracts offset losses and gains on the transactions
+       being hedged. As of December 31, 1999, the company's German operations
+       had approximately DM 183 million ($93,000) of forward exchange contracts
+       outstanding which are designed to convert the receipt of foreign
+       currencies from sales outside of Germany into DM. The forward exchange
+       contracts generally have maturities which do not exceed one year and
+       exchange rates are agreed to at the inception of the contracts.
+
+                                       22
+<PAGE>   23
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+       The company has operating leases covering machinery, equipment, office,
+       warehouse and manufacturing facilities. Future minimum lease payments
+       under operating leases at December 31, 1999 are as follows:
+
+<TABLE>
+                  <S>                                  <C>
+                     2000                              $    14,505
+                     2001                                   13,025
+                     2002                                    8,633
+                     2003                                    5,003
+                     2004                                    3,648
+                  Thereafter                                 7,091
+                                                       -----------
+                                                       $    51,905
+                                                       ===========
+</TABLE>
+
+12.    Business Segments
+
+       The company operates in the following industry segments:
+
+           Flow Technology - air dehydration and filtration equipment and
+           related parts and services for compressed air systems; valves,
+           strainers and back flow prevention products; water system and
+           submersible petroleum pumps; leak detection equipment; rotary
+           positive displacement pumps and related fluid handling equipment for
+           sanitary and industrial markets; ice cream equipment; high precision
+           metering pumps, analyzing equipment and integrated blending systems
+           for process industries; water cooling towers and related components;
+           fiberglass panels and pultruded products and cast-iron boilers.
+
+           Machinery - light and heavy duty soil, sanitary landfill and asphalt
+           compaction equipment; asphalt recyclers and pavers; light
+           construction equipment; tillage equipment; foraging wagons; and grain
+           drills and augers.
+
+           Specialty Engineered Products - steel doors and frames; electric
+           resistance heating products; air circulation equipment; machined
+           critical parts for aerospace markets; metal forming equipment;
+           loading dock equipment; powered roller conveyor systems; and vertical
+           lifting equipment.
+
+           Test Instrumentation - air supply houses; heat process and
+           environmental conditioning equipment; electrical test and measurement
+           equipment; refrigerant leak detection and recovery systems; vibration
+           test systems; portable pipe and cable locators; and integrated
+           assembly systems used in automobile and other manufacturing
+           applications.
+
+       The significant accounting policies of the above segments are the same as
+       those described in note 1. Intersegment sales are recorded at current
+       market prices. The company does not include income taxes or net interest
+       expense in the determination of segment profit. Information about the
+       company's segments, certain geographic information and a reconciliation
+       of segment profit to net income is shown below.
+
+                                       23
+<PAGE>   24
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+<TABLE>
+<CAPTION>
+                                                                  Year ended December 31, 1999
+                                  ----------------------------------------------------------------------------------------------
+                                                                                                                       (3)
+                                                               Sales                        (2)         (3)        Depreciation
+                                     (1)       --------------------------------------     Segment     Capital          and
+                                   Assets        Gross      Intersegment      Net         Profit    Expenditures   Amortization
+                                 ----------    ----------   -----------    ----------    --------   ------------  -------------
+<S>                              <C>           <C>           <C>           <C>           <C>         <C>          <C>
+Industry Segment
+Flow Technology                  $1,041,831    $  992,466    $       --    $  992,466    $ 94,016    $22,404      $42,499
+Machinery                           274,544       456,348            --       456,348      50,685     13,952        8,802
+Specialty Engineered Products       322,892       387,748            --       387,748      42,000     14,988       12,814
+Test Instrumentation                319,978       311,776            --       311,776      18,344      9,618        9,269
+                                 ----------    ----------    ----------    ----------    --------    -------      -------
+                                 $1,959,245    $2,148,338    $       --    $2,148,338    $205,045    $60,962      $73,384
+                                 ==========    ==========    ==========    ==========    ========    =======      =======
+<CAPTION>
+
+                                    (4)                        (6)
+                                  Long-lived      (5)        Segment
+                                   Assets       Net Sales    Profit
+                                 ----------    ----------    --------
+<S>                              <C>           <C>           <C>
+Geographic Information
+United States                    $  948,198    $1,441,068    $132,299
+Europe                              241,577       424,559      49,051
+Other Countries                      41,170       282,711      23,695
+                                 ----------    ----------    --------
+                                 $1,230,945    $2,148,338    $205,045
+                                 ==========    ==========    ========
+</TABLE>
+
+Reconciliation of segment profit to net income
+
+<TABLE>
+
+<S>                                           <C>
+Segment profit                                $ 205,045
+Corporate expenses                              (23,673)
+Interest - net                                  (40,178)
+Other expenses - net                             (6,555)
+                                              ---------
+
+Income before income taxes (7)                  134,639
+
+Income tax provision (7)                        (45,729)
+                                              ---------
+
+Net income                                    $  88,910
+                                              =========
+</TABLE>
+
+
+(1)   Assets exclude $282,330 of corporate amounts.
+(2)   Includes restructuring costs of $7,712, $5,402, and $9,084 for the Flow
+      Technology, Specialty Engineered Products and Test Instrumentation
+      segments, respectively (note 3).
+(3)   Capital expenditures and depreciation and amortization exclude $316 and
+      $1,333,
+      respectively, of corporate amounts.
+(4)   Long-lived assets consist of fixed assets, goodwill and other intangible
+      assets. (5) Attributed to countries based on location of customer.
+(6)   Attributed to countries based on location of customer.  Includes
+      restructuring costs of $21,661, $273 and $264 in the United States, Europe
+      and other countries, respectively (note 3).
+(7)   In the Consolidated Statements of Income, goodwill charges, net of tax,
+      are shown separately while for segment reporting purposes the goodwill
+      charges are included in segment profit and the related tax benefit is
+      included in the income tax provision.
+
+                                       24
+<PAGE>   25
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+<TABLE>
+<CAPTION>
+                                                                   Year ended December 31, 1998
+                                 --------------------------------------------------------------------------------------------------
+
+                                                                                                                         (3)
+                                    (1)                          Sales                      (2)          (3)          Depreciation
+                                               --------------------------------------     Segment      Capital            and
+                                   Assets         Gross       Intersegment    Net         Profit     Expenditures     Amortization
+                                 ----------    ----------    ------------- ----------    --------    ------------     ------------
+<S>                              <C>           <C>           <C>           <C>           <C>         <C>              <C>
+Industry Segment
+Flow Technology                  $  943,703    $  945,828    $       16    $  945,812    $ 96,594      $21,145        $38,161
+Machinery                           272,115       454,460            --       454,460      51,000       12,270          7,287
+Specialty Engineered Products       259,387       349,070            30       349,040      38,887       10,537         10,595
+Test Instrumentation                305,383       271,062            --       271,062      20,893        4,482          7,691
+                                 ----------    ----------    ----------    ----------    --------      -------        -------
+                                 $1,780,588    $2,020,420    $       46    $2,020,374    $207,374      $48,434        $63,734
+                                 ==========    ==========    ==========    ==========    ========      =======        =======
+<CAPTION>
+
+                                     (4)                        (6)
+                                  Long-lived      (5)         Segment
+                                   Assets       Net Sales     Profit
+                                 ----------    ----------    --------
+<S>                              <C>           <C>           <C>
+Geographic Information
+United States                    $  930,577    $1,380,155    $154,122
+Europe                              151,292       371,469      29,596
+Other Countries                      10,804       268,750      23,656
+                                 ----------    ----------    --------
+                                 $1,092,673    $2,020,374    $207,374
+                                 ==========    ==========    ========
+</TABLE>
+
+Reconciliation of segment profit to net income
+
+<TABLE>
+
+<S>                                           <C>
+Segment profit                                $ 207,374
+Corporate expenses                              (30,231)
+Corporate restructuring charges                  (6,788)
+Interest - net                                  (35,750)
+Other expense - net                             (12,048)
+                                              ---------
+
+Income before income taxes (7)                  122,557
+
+Income tax provision (7)                        (22,869)
+                                              ---------
+
+Net income                                    $  99,688
+                                              =========
+</TABLE>
+
+(1)   Assets exclude $310,069 of corporate amounts.
+(2)   Includes restructuring costs of $7,786, $275, $443, and $1,044 for the
+      Flow Technology, Machinery, Specialty Engineered Products and Test
+      Instrumentation segments, respectively. Flow Technology also includes an
+      $11,285 gain on sale of business (note 3) while Specialty Enginneered
+      Products includes a $6,000 charge related to settlement of litigation.
+(3)   Capital expenditures and depreciation and amortization exclude $3,307 and
+      $1,131, respectively, of corporate amounts.
+(4)   Long-lived assets consist of fixed assets, goodwill and other intangible
+      assets.
+(5)   Attributed to countries based on location of customer.
+(6)   Attributed to countries based on location of customer.  Includes
+      restructuring costs of $6,614, $2,346 and $588 in the United States,
+      Europe and other countries, respectively (note 3).
+(7)   In the Consolidated Statements of Income, goodwill charges, net of tax,
+      are shown separately while for segment reporting purposes the goodwill
+      charges are included in segment profit and the related tax benefit is
+      included in the income tax provision.
+
+                                       25
+<PAGE>   26
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+          Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+<TABLE>
+<CAPTION>
+                                                                 Year ended December 31, 1997
+                                 --------------------------------------------------------------------------------------------------
+
+                                                                                                                           (2)
+                                                                Sales                      (2)                         Depreciation
+                                    (1)        --------------------------------------    Segment       Capital              and
+                                   Assets         Gross      Intersegment      Net        Profit     Expenditures      Amortization
+                                 ----------    ----------    ------------  ----------    --------    ------------      ------------
+<S>                              <C>           <C>           <C>           <C>           <C>            <C>            <C>
+Industry Segment
+Flow Technology                  $  904,442    $  845,716    $       --    $  845,716    $ 79,443       $26,383        $32,573
+Machinery                           234,249       363,690            --       363,690      42,460         8,200          5,246
+Specialty Engineered Products       183,184       310,340            --       310,340      41,618        10,202          9,034
+Test Instrumentation                183,842       123,508            --       123,508      11,509         1,708          2,700
+                                 ----------    ----------    ----------    ----------    --------       -------        -------
+                                  1,505,717     1,643,254            --     1,643,254     175,030        46,493         49,553
+Divested businesses                   4,536        11,425            --        11,425        (353)          203            307
+                                 ----------    ----------    ----------    ----------    --------       -------        -------
+                                 $1,510,253    $1,654,679    $       --    $1,654,679    $174,677       $46,696        $49,860
+                                 ==========    ==========    ==========    ==========    ========       =======        =======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                              (3)                                  (4)
+                                           Long-lived           (4)              Segment
+                                             Assets          Net Sales           Profit
+                                         ------------       ----------        ------------
+<S>                                     <C>                <C>                <C>
+Geographic Information
+United States                           $     880,844      $ 1,125,060        $    133,427
+Europe                                         75,315          266,086              21,219
+Other Countries                                 9,279          252,108              20,384
+Divested businesses                             4,536           11,425                (353)
+                                         ------------       ----------        ------------
+                                        $     969,974      $ 1,654,679        $    174,677
+                                         ============       ==========        ============
+</TABLE>
+
+Reconciliation of segment profit to net income
+<TABLE>
+
+<S>                                                            <C>
+Segment profit                                                 $ 174,677
+Corporate expenses                                               (29,485)
+Interest - net                                                   (18,544)
+Other income - net                                                 7,080
+                                                               ---------
+
+Income from continuing operations before income taxes (5)       133,7285)
+
+Income tax provision (5)                                         (48,838)
+                                                               ---------
+
+Income continuing operations                                      84,890
+Income from discontinued operations                               56,174
+                                                               ---------
+
+Net income                                                     $ 141,064
+                                                               =========
+</TABLE>
+
+
+(1)  Assets exclude $238,568 of corporate amounts.
+(2)  Capital expenditures and depreciation and amortization exclude $13,900 and
+     $977, respectively, of corporate amounts.
+(3)  Long-lived assets consist of fixed assets, goodwill and other intangible
+     assets.
+(4)  Attributed to countries based on location of customer.
+(5)  In the Consolidated Statements of Income, goodwill charges, net of tax, are
+     shown separately while for segment reporting purposes the goodwill charges
+     are included in segment profit and the related tax benefit is included in
+     the income tax provision.
+
+                                       26
+<PAGE>   27
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+13.    Year 2000
+
+       The Year 2000 Issue arises because many computerized systems use two
+       digits rather than four to identify a year. Date-sensitive systems may
+       recognize the year 2000 as 1900 or some other date, resulting in errors
+       when information using year 2000 dates is processed. Although the change
+       in date has occurred, it is not possible to conclude that all aspects of
+       the Year 2000 Issue that may affect the company, including those related
+       to customers, suppliers, or other third parties, have been fully
+       resolved.
+
+14.    Differences Between Canadian and United States Accounting Principles
+
+       United States Accounting Differences
+
+       Generally accepted accounting principles (GAAP) in Canada allow for the
+       reduction of stated capital of outstanding common shares with a
+       corresponding offset to deficit. This reclassification, which the
+       company made in 1990, is not permitted by United States GAAP and would
+       result in an increase in capital stock and a reduction in retained
+       earnings at December 31, 1999 and 1998 of $128,093. Canadian GAAP also
+       permits expenses related to the issue of capital stock, net of income
+       taxes, to be deducted from retained earnings while United States GAAP
+       requires such expenses to be deducted from the proceeds of stock
+       issuances credited to capital stock. This reclassification would reduce
+       capital stock and increase retained earnings by $20,905 at December 31,
+       1999 and 1998.
+
+       The CICA recently adopted a new standard for recognizing the cost of
+       pensions and other postretirement benefits (Handbook Section 3461). The
+       new standard, effective for fiscal years beginning after January 1,
+       2000, essentially harmonizes Canadian rules with United States GAAP and
+       requires accruing the cost of providing postretirement health care
+       benefits during the years that the employee renders the necessary
+       service. The company currently records health care benefits on a
+       "pay-as-you-go" basis for benefits paid on behalf of active and retired
+       employees. The healthcare benefit obligations not recorded by the
+       company for active and retired employees due to use of the
+       "pay-as-you-go" basis versus accrual accounting totaled approximately
+       $12,000 at December 31, 1999. Additionally, CICA Handbook Section 3461
+       requires that for purposes of determining the pension liability, the
+       discount rate must be based on current bond market yields rather than
+       management's best estimate of the plan's long-term returns. This change
+       in the discount rate will increase the volatility of pension expense in
+       the future and create an additional pension liability of approximately
+       $16,000 which will need to be recorded upon adoption of this new
+       accounting standard. The company intends to retroactively adopt CICA
+       Handbook Section 3461 in the first quarter of 2000. After tax effecting
+       the above amounts, these changes will result in increases to other
+       assets of approximately $3,000 and accrued liabilities of approximately
+       $7,000 and decreases to other (non-current) assets of approximately
+       $16,000, other (non-current) liabilities of approximately $3,000 and
+       retained earnings of approximately $17,000.
+
+       Canadian GAAP allows for the capitalization and subsequent amortization
+       of start-up costs for new facilities and joint ventures. Effective
+       January 1, 1999, United States GAAP requires the expensing of these
+       costs as incurred as well as the expensing of any previously capitalized
+       costs. As of December 31, 1999, United States GAAP would require the
+       company to expense approximately $729, net of tax, of unamortized costs
+       that had been capitalized in prior years.
+
+                                       27
+<PAGE>   28
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+       The income statement format adopted in 1999 by the company as permitted
+       by CICA Handbook Section 1580, Business Combinations (note 2) is not
+       allowed under United States GAAP. Presentation under United States GAAP
+       requires that the gross goodwill charges be included as a component of
+       operating income and the associated income tax benefit be included as a
+       component of the income tax provision. This reclassification does not
+       affect reported net income.
+
+       United States GAAP requires the dual presentation of basic and diluted
+       earnings per share. Diluted earnings per share reflects the assumed
+       exercise of dilutive securities such as the company's stock options.
+
+       The following table reflects the impact on net income, weighted average
+       shares outstanding and net earnings per share of complying with United
+       States GAAP as it pertains to the items noted above.
+
+<TABLE>
+<CAPTION>
+                                                                         1999                 1998                  1997
+                                                                      ---------             ---------             ---------
+
+              <S>                                                     <C>                   <C>                   <C>
+               Net income under Canadian GAAP                         $  88,910             $  99,688             $ 141,064
+
+               Increased (decreased) by:
+                   Pension expense                                       (1,990)               (1,483)               (1,470)
+                   Postretirement benefits                                 (594)                 (588)                 (753)
+                   Start-up costs                                          (729)                   --                    --
+                   Other                                                     31                  (321)                   76
+                                                                      ---------             ---------             ---------
+               Net income under United States GAAP                    $  85,628             $  97,296             $ 138,917
+                                                                      =========             =========             =========
+
+               Weighted average shares outstanding (000's)
+                   Canadian GAAP                                         39,642                40,755                44,439
+                     Less restricted stock outstanding                     (177)                 (123)                 (269)
+                                                                      ---------             ---------             ---------
+                   United States GAAP - Basic                            39,465                40,632                44,170
+                     Effect of dilutive securities:
+                        Restricted stock                                    177                   123                   269
+                        Employee stock options                              176                   281                   303
+                                                                      ---------             ---------             ---------
+                   United States GAAP - Diluted                          39,818                41,036                44,742
+                                                                      =========             =========             =========
+
+               Net earnings per share
+                   Canadian GAAP
+                     Continuing operations                            $    2.24             $    2.45             $    1.91
+                     Discontinued operations                                 --                    --                  1.26
+                                                                      ---------             ---------             ---------
+                     Net earnings                                     $    2.24             $    2.45             $    3.17
+                                                                      =========             =========             =========
+
+                   United States GAAP - Basic
+                     Continuing operations                            $    2.17             $    2.39             $    1.87
+                     Discontinued operations                                 --                    --                  1.28
+                                                                      ---------             ---------             ---------
+                     Net earnings                                     $    2.17             $    2.39             $    3.15
+                                                                      =========             =========             =========
+
+                   United States GAAP - Diluted
+                     Continuing operations                            $    2.15             $    2.37             $    1.84
+                     Discontinued operations                                 --                    --                  1.26
+                                                                      ---------             ---------             ---------
+                     Net earnings                                     $    2.15             $    2.37             $    3.10
+                                                                      =========             =========             =========
+         </TABLE>
+
+                                       28
+<PAGE>   29
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+       United States GAAP requires reporting on comprehensive income. For the
+       years ended December 31, 1999, 1998 and 1997, comprehensive income, as
+       defined under United States GAAP, is as follows.
+
+<TABLE>
+<CAPTION>
+                                                                         1999                 1998                 1997
+                                                                      ---------             ---------             ---------
+
+         <S>                                                          <C>                   <C>                   <C>
+         Net income under United States GAAP                          $  85,628             $  97,296             $ 138,917
+
+         Foreign currency translation adjustments,
+             net of tax                                                  (4,298)                 (576)               (6,055)
+                                                                      ---------             ---------             ---------
+
+         Comprehensive income under United States GAAP                $  81,330             $  96,720             $ 132,862
+                                                                      =========             =========             =========
+</TABLE>
+
+       The application of United States GAAP previously discussed would result
+       in increases in other (non-current) liabilities of approximately $5,000
+       and common shares of approximately $107,000 and decreases in goodwill of
+       approximately $2,000, other (non-current) assets of approximately
+       $6,000, accrued liabilities of approximately $1000, and retained
+       earnings of approximately $119,000 as of December 31, 1999. At December
+       31, 1998, the application of United States GAAP would result in
+       increases in accrued liabilities of approximately $2,000, other
+       (non-current) liabilities of approximately $5,000 and common shares of
+       approximately $107,000 and decreases in goodwill of approximately $2,000
+       and retained earnings of approximately $116,000.
+
+       Additional United States Disclosure Requirements
+
+       The company's accounting for stock options is essentially the same as
+       the intrinsic value method prescribed by existing accounting
+       pronouncements effective in the United States. United States GAAP
+       encourages, but does not require companies to record compensation cost
+       for stock option plans at fair value and requires the disclosure of
+       proforma net income and earnings per share information as if the company
+       had accounted for its employee stock options issued beginning in 1995
+       under the fair value method. Accordingly, the fair value of the options
+       issued have been estimated at the date of grant using a Black-Scholes
+       option pricing model with the following assumptions for 1999, 1998 and
+       1997, respectively: risk-free interest rates of 5.2%, 5.1% and 6.2%;
+       dividend yields of 1.8%, 1.6% and 1.0%; volatility factors of the
+       expected market price of the company's common stock of .37, .39 and .33;
+       and a weighted-average expected life of the options of eight years. The
+       weighted-average grant-date fair values of options issued in 1999, 1998
+       and 1997 was $8.28, $12.60 and $12.43, respectively. For purposes of
+       proforma disclosures, the estimated fair value of the options is
+       amortized to expense over the options' vesting period that ranges from
+       six months to three years. Retroactive application of the fair value
+       method to prior years is not permitted, therefore the full effect of the
+       fair value method will not be reflected in the proforma disclosures
+       until it has been applied to all nonvested options. Assuming the company
+       had accounted for its stock options issued under the fair value method,
+       United States GAAP proforma net income and basic and diluted earnings
+       per share for the years ended December 31, 1999, 1998 and 1997 would
+       have been $82,556, $2.09 and $2.07; $94,134, $2.32 and $2.29; and
+       $136,508, $3.09 and $3.05, respectively.
+
+                                       29
+<PAGE>   30
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+       United States GAAP requires disclosure of changes during the year in
+       non-cash working capital balances pertaining to operating activities.
+       The following table reflects such changes for the years ended December
+       31, 1999, 1998 and 1997.
+
+<TABLE>
+<CAPTION>
+                                                                         1999                 1998                  1997
+                                                                      ---------             ---------             ---------
+
+         <S>                                                          <C>                   <C>                   <C>
+         Decrease (increase) in current assets
+
+         Accounts and notes receivable                                $  19,677             $ (39,063)            $  (7,582)
+         Inventories                                                    (16,677)              (21,184)              (15,124)
+         Other current assets                                            23,249                (9,359)               (4,937)
+
+         Increase (decrease) in current liabilities
+
+         Accounts payable and accrued liabilities                        (6,267)               27,148                 5,140
+         Customer advances                                               (8,829)                6,200                  (831)
+                                                                      ---------             ---------             ---------
+                                                                      $  11,153             $ (36,258)            $ (23,334)
+                                                                      =========             =========             =========
+</TABLE>
+
+       United States GAAP requires disclosure of the effect of a one-percentage
+       point increase or decrease in the assumed health care cost trend rates
+       on the aggregate of the service and interest cost components of net
+       periodic postretirement health care benefit cost and the accumulated
+       postretirement benefit obligation for health care benefits. The
+       following table reflects such effects. Since the company is on a
+       pay-as-you-go basis, this disclosure relates to the proforma disclosures
+       contained in the reconciliation of net income previously discussed.
+
+<TABLE>
+<CAPTION>
+                                                                            1-Percentage         1-Percentage
+                                                                           Point Increase       Point Decrease
+                                                                         ------------------    -------------------
+
+       <S>                                                               <C>                   <C>
+       Effect on total of service and interest
+          cost components                                                     $  84               $   (76)
+       Effect on postretirement benefit
+          obligation                                                            916                  (848)
+</TABLE>
+
+15.    Quarterly Financial Information (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                              Net                   Net Earnings
+                                Sales                     Gross Profit *                    Income                    Per Share
+                      --------------------------    -------------------------     -------------------------      ----------------
+                          1999           1998           1999           1998           1999           1998         1999      1998
+                         ------         ------         ------         ------         ------         ------       ------    ------
+
+   <S>                <C>            <C>            <C>            <C>            <C>            <C>             <C>       <C>
+   First Quarter      $  478,404     $  444,135     $  141,667     $  129,872     $   13,986     $   14,327      $0.35     $0.35
+   Second Quarter        549,272        523,692        166,518        161,329         27,348         26,608       0.69      0.65
+   Third Quarter         546,998        524,755        170,946        159,691         27,956         21,378       0.71      0.52
+   Fourth Quarter        573,664        527,792        183,188        167,680         19,620         37,375       0.50      0.92
+                      ----------     ----------     ----------     ----------     ----------     ----------
+
+   Total              $2,148,338     $2,020,374     $  662,319     $  618,572     $   88,910     $   99,688      $2.24     $2.45
+                      ==========     ==========     ==========     ==========     ==========     ==========      =====     =====
+   </TABLE>
+
+       *Represents sales less cost of sales
+
+                                       30
+<PAGE>   31
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+16.    Supplemental Condensed Consolidating Financial Information
+
+       United Dominion Industries Limited and its wholly owned subsidiary,
+       United Dominion Holdings, Inc., are guarantors of certain senior debt
+       issued by United Dominion Industries, Inc. The following is summarized
+       condensed consolidating financial information segregating the parent and
+       guarantor subsidiaries from nonguarantor subsidiaries. The guarantor
+       subsidiaries are wholly owned subsidiaries of the company and guarantees
+       are full, unconditional and joint and several. Separate financial
+       statements and other disclosures of the guarantor subsidiaries are not
+       presented because management believes these financial statements would
+       not provide relevant material additional information to users.
+
+                                       31
+<PAGE>   32
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+CONSOLIDATING STATEMENTS OF INCOME AND CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                            Year ended December 31, 1999
+                                                    ------------------------------------------------------------------------------
+
+                                                       United      United       United
+                                                      Dominion    Dominion     Dominion       Non-
+                                                     Industries   Holdings,   Industries,   Guarantor
+                                                       Limited      Inc.         Inc.      Subsidiaries  Eliminations Consolidated
+                                                     ----------   --------    -----------  ------------  ------------ ------------
+<S>                                                  <C>         <C>         <C>           <C>           <C>          <C>
+RESULTS OF OPERATIONS
+Sales                                                $  26,101   $      --   $ 416,810       $1,731,848   $ (26,421)  $2,148,338
+
+Costs and expenses
+   Cost of sales                                        20,603          --     294,851        1,196,986     (26,421)   1,486,019
+   Selling, general and administrative expenses          6,256          --      72,364          368,963          --      447,583
+   Restructuring charges                                    --          --       3,881           11,470          --       15,351
+                                                     ---------------------------------------------------------------------------
+      Total costs and expenses                          26,859          --     371,096        1,577,419     (26,421)   1,948,953
+                                                     ---------------------------------------------------------------------------
+
+Operating income (loss)                                   (758)         --      45,714          154,429          --      199,385
+
+Other income (expense)
+   Equity in earnings of subsidiaries                   93,563      52,130      58,615               --    (204,308)          --
+   Interest - net                                      (10,890)         --     (54,553)          25,265          --      (40,178)
+   Other                                                    --          --       4,449           (1,373)     (4,576)      (1,500)
+                                                     ---------------------------------------------------------------------------
+Income before income taxes
+   and goodwill charges                                 81,915      52,130      54,225          178,321    (208,884)     157,707
+
+Income tax provision                                     7,077          --       3,098          (59,156)      1,830      (47,151)
+                                                     ---------------------------------------------------------------------------
+
+Income before goodwill charges                          88,992      52,130      57,323          119,165    (207,054)     110,556
+
+Goodwill charges, net of income tax benefit                (82)         --      (2,826)         (18,738)         --      (21,646)
+                                                     ---------------------------------------------------------------------------
+
+Net income                                           $  88,910   $  52,130   $  54,497       $  100,427   $(207,054)  $   88,910
+                                                     ===========================================================================
+
+CASH FLOWS
+Cash provided by (used in) operating activities      $ (14,990)  $      --   $ (35,626)      $  230,609   $      --   $  179,993
+                                                     ---------------------------------------------------------------------------
+
+Cash used by investing activities
+   Additions to fixed assets                              (593)         --     (15,332)         (45,353)         --      (61,278)
+   Acquisition of businesses                           (22,339)         --     (22,031)        (111,046)         --     (155,416)
+   Other, net                                             (724)         --       2,036          (12,138)         --      (10,826)
+                                                     ---------------------------------------------------------------------------
+
+                                                       (23,656)         --     (35,327)        (168,537)         --     (227,520)
+                                                     ---------------------------------------------------------------------------
+
+Cash provided from (used by) financing activities
+   Additional borrowings (repayments)                   (3,600)         --     105,079          (17,370)         --       84,109
+   Repurchase of common shares                         (38,476)         --          --               --          --      (38,476)
+   Increase (decrease) in net payable to affiliates     15,259          --     (39,344)          24,085          --           --
+   Dividends (to) from affiliates                       79,486          --          --          (79,486)         --           --
+   Other, net                                          (12,621)         --          --               --          --      (12,621)
+                                                     ---------------------------------------------------------------------------
+
+                                                        40,048          --      65,735          (72,771)         --       33,012
+                                                     ---------------------------------------------------------------------------
+
+Net increase (decrease) in cash during the year          1,402          --      (5,218)         (10,699)         --      (14,515)
+Cash at beginning of year                                  107          97      12,958          110,293                  123,455
+                                                     ---------------------------------------------------------------------------
+
+Cash at end of year                                  $   1,509   $      97   $   7,740       $   99,594   $      --   $  108,940
+                                                     ===========================================================================
+</TABLE>
+
+                                       32
+<PAGE>   33
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+CONSOLIDATING STATEMENTS OF INCOME AND CASH FLOWS
+
+<TABLE>
+<CAPTION>
+
+                                                                           Year ended December 31, 1998
+                                                     -----------------------------------------------------------------------------
+
+                                                       United      United       United
+                                                      Dominion    Dominion     Dominion       Non-
+                                                     Industries   Holdings,   Industries,   Guarantor
+                                                       Limited      Inc.         Inc.      Subsidiaries  Eliminations Consolidated
+                                                     ----------   --------    -----------  ------------  ------------ ------------
+<S>                                                  <C>         <C>         <C>           <C>           <C>          <C>
+RESULTS OF OPERATIONS
+Sales                                                   $      --   $      --   $ 392,154   $1,638,545   $ (10,325)  $2,020,374
+
+Costs and expenses
+     Cost of sales                                             --          --     275,332    1,136,795     (10,325)   1,401,802
+     Selling, general and administrative expenses           2,975          --      70,474      354,014       2,128      429,591
+     Restructuring charges                                     --          --       8,637        7,699          --       16,336
+                                                     ---------------------------------------------------------------------------
+        Total costs and expenses                            2,975          --     354,443    1,498,508      (8,197)   1,847,729
+                                                     ---------------------------------------------------------------------------
+
+Operating income (loss)                                    (2,975)         --      37,711      140,037      (2,128)     172,645
+
+Other income (expense)
+     Equity in earnings of subsidiaries                   111,474      72,440      75,406           --    (259,320)          --
+     Interest - net                                        (9,071)         --     (53,065)      26,386          --      (35,750)
+     Gain on sale of business                                  --          --          --       11,285          --       11,285
+     Other                                                 (5,000)         --       5,583        1,680      (9,115)      (6,852)
+                                                     ---------------------------------------------------------------------------
+Income before income taxes
+     and goodwill charges                                  94,428      72,440      65,635      179,388    (270,563)     141,328
+
+Income tax provision                                        5,262          54       3,383      (36,492)      3,646      (24,147)
+                                                     ---------------------------------------------------------------------------
+
+Income before goodwill charges                             99,690      72,494      69,018      142,896    (266,917)     117,181
+
+Goodwill charges, net of income tax benefit                    (2)         --      (2,082)     (15,409)         --      (17,493)
+                                                     ---------------------------------------------------------------------------
+
+Net income                                              $  99,688   $  72,494   $  66,936   $  127,487   $(266,917)  $   99,688
+                                                     ===========================================================================
+
+CASH FLOWS
+Cash provided by (used by) operating activities         $     987   $      --   $ (32,144)  $  138,526   $      --   $  107,369
+                                                     ---------------------------------------------------------------------------
+
+Cash used by investing activities
+     Additions to fixed assets                                 --          --     (18,479)     (33,262)         --      (51,741)
+     Acquisition of businesses                            (53,661)         --     (56,284)     (62,236)         --     (172,181)
+     Net proceeds from disposal of businesses                  --          --       3,434       21,574          --       25,008
+     Other, net                                                --          --      11,636       (9,322)         --        2,314
+                                                     ---------------------------------------------------------------------------
+
+                                                          (53,661)         --     (59,693)     (83,246)         --     (196,600)
+                                                     ---------------------------------------------------------------------------
+
+Cash provided from financing activities
+     Additional borrowings (repayments)                   174,812          --      64,343         (179)         --      238,976
+     Repurchase of common shares                          (83,565)         --          --           --          --      (83,565)
+     Increase (decrease) in net payable to affiliates     (51,989)         --      25,573       26,416          --           --
+     Dividends (to) from affiliates                        40,900          --          --      (40,900)         --           --
+     Contibution of capital (to) from affiliates          (19,723)         --          --       19,723          --           --
+     Other, net                                            (7,312)         --          --           --          --       (7,312)
+                                                     ---------------------------------------------------------------------------
+
+                                                           53,123          --      89,916        5,060          --      148,099
+                                                     ---------------------------------------------------------------------------
+
+Net increase (decrease) in cash during the year               449          --      (1,921)      60,340          --       58,868
+Cash at beginning of year                                    (342)         97      14,879       49,953                   64,587
+                                                     ---------------------------------------------------------------------------
+
+Cash at end of year                                     $     107   $      97   $  12,958   $  110,293   $      --   $  123,455
+                                                     ===========================================================================
+</TABLE>
+
+                                       33
+<PAGE>   34
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+CONSOLIDATING STATEMENTS OF INCOME AND CASH FLOWS
+
+<TABLE>
+<CAPTION>
+
+                                                                             Year ended December 31, 1997
+                                                    ------------------------------------------------------------------------------
+
+                                                       United      United       United
+                                                      Dominion    Dominion     Dominion       Non-
+                                                     Industries   Holdings,   Industries,   Guarantor
+                                                       Limited      Inc.         Inc.      Subsidiaries  Eliminations Consolidated
+                                                     ----------   --------    -----------  ------------  ------------ ------------
+<S>                                                  <C>         <C>         <C>           <C>           <C>          <C>
+RESULTS OF OPERATIONS
+Sales                                                 $      --    $     --   $ 354,151   $ 1,303,876   $  (3,348)    $ 1,654,679
+
+Costs and expenses
+    Cost of sales                                            --          --     254,800       917,202      (3,348)      1,168,654
+    Selling, general and administrative expenses          3,561          --      82,583       242,127          --         328,271
+                                                     -----------------------------------------------------------------------------
+       Total costs and expenses                           3,561          --     337,383     1,159,329          --       1,496,925
+                                                     -----------------------------------------------------------------------------
+
+Operating income (loss)                                  (3,561)         --      16,768       144,547          --         157,754
+
+Other income (expense)
+    Equity in earnings of subsidiaries                  144,063     111,219      61,451            --    (316,733)             --
+    Interest - net                                       (4,103)         76     (45,788)       31,271          --         (18,544)
+    Other                                                    --          --      12,343           133      (4,776)          7,700
+                                                     -----------------------------------------------------------------------------
+Income from continuing operations before
+    income taxes and goodwill charges                   136,399     111,295      44,774       175,951    (321,509)        146,910
+Income tax provision                                      1,579      (1,483)      7,004       (58,538)      1,910         (49,528)
+                                                     -----------------------------------------------------------------------------
+Income from continuing operations
+    before goodwill charges                             137,978     109,812      51,778       117,413    (319,599)         97,382
+Goodwill charges, net of income tax benefit                  --          --      (1,741)      (10,751)         --         (12,492)
+                                                     -----------------------------------------------------------------------------
+
+Income from continuing operations                       137,978     109,812      50,037       106,662    (319,599)         84,890
+                                                     -----------------------------------------------------------------------------
+
+Income from discontinued operations
+    Earnings, net of applicable income tax expense           --          --       5,728        (2,640)         --           3,088
+    Gain on disposal, net of applicable income
+       tax expense                                           --          --      53,086            --          --          53,086
+                                                     -----------------------------------------------------------------------------
+                                                             --          --      58,814        (2,640)         --          56,174
+                                                     -----------------------------------------------------------------------------
+
+Net income                                            $ 137,978   $ 109,812   $ 108,851   $   104,022   $(319,599)    $   141,064
+                                                     =============================================================================
+
+CASH FLOWS
+Cash provided from (used by) operating activities     $    (586)  $      --   $ (26,910)  $   145,199   $      --     $   117,703
+                                                     -----------------------------------------------------------------------------
+
+Cash provided from (used by) investing activities
+    Additions to fixed assets                                --          --     (14,831)      (45,765)         --         (60,596)
+    Acquisition of businesses                            (3,025)         --     (50,822)     (310,301)         --        (364,148)
+    Net proceeds from disposal of businesses             22,039          --     251,402         1,200          --         274,641
+    Other, net                                               --          --       8,770        (1,464)         --           7,306
+                                                     -----------------------------------------------------------------------------
+
+                                                         19,014          --     194,519      (356,330)         --        (142,797)
+                                                     -----------------------------------------------------------------------------
+
+Cash provided from (used by) financing activities
+    Additional borrowings (repayments)                  (42,357)         --      87,293         7,198          --          52,134
+    Repurchase of common shares                         (56,954)         --          --            --          --         (56,954)
+    Increase (decrease) in net payable to affiliates     11,575          70      30,180       (41,825)         --              --
+    Dividends (to) from affiliates                      468,825          27    (335,859)     (132,993)         --              --
+    Contibution of capital (to) from affiliates        (389,450)         --          --       389,450          --              --
+    Other, net                                          (10,633)         --          --            --          --         (10,633)
+                                                     -----------------------------------------------------------------------------
+
+                                                        (18,994)         97    (218,386)      221,830          --         (15,453)
+                                                     -----------------------------------------------------------------------------
+
+Cash used by discontinued operations                         --          --     (60,553)         (582)         --         (61,135)
+                                                     -----------------------------------------------------------------------------
+
+Net increase (decrease) in cash during the year            (566)         97    (111,330)       10,117          --        (101,682)
+Cash at beginning of year                                   224          --     126,209        39,836          --         166,269
+                                                     -----------------------------------------------------------------------------
+
+Cash at end of year                                   $    (342)  $      97   $  14,879   $    49,953   $      --     $    64,587
+                                                     =============================================================================
+</TABLE>
+
+                                       34
+<PAGE>   35
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+         Notes to Consolidated Financial Statements, Restated (note 2)
+
+                        December 31, 1999, 1998 and 1997
+
+                     (Amounts in Thousands of U.S. Dollars)
+
+
+CONSOLIDATING STATEMENTS OF FINANCIAL POSITION
+
+<TABLE>
+<CAPTION>
+
+                                                                              As of December 31, 1999
+                                                     -----------------------------------------------------------------------------
+
+                                                       United      United       United
+                                                      Dominion    Dominion     Dominion       Non-
+                                                     Industries   Holdings,   Industries,   Guarantor
+                                                       Limited      Inc.         Inc.      Subsidiaries  Eliminations Consolidated
+                                                     ----------   --------    -----------  ------------  ------------ ------------
+<S>                                                  <C>         <C>         <C>           <C>           <C>          <C>
+ASSETS
+Inventories                                           $   3,583   $      --   $  49,161   $   326,600   $    11,310    $   390,654
+Other current assets                                     12,862          97     102,755       431,916       (42,906)       504,724
+                                                     -----------------------------------------------------------------------------
+          Total current assets
+                                                         16,445          97     151,916       758,516       (31,596)       895,378
+
+Fixed assets - net                                        2,926          --     108,533       239,442            --        350,901
+Goodwill                                                 18,535          --     132,292       685,670            --        836,497
+Intercompany notes receivable                                --          --     126,300       355,460      (481,760)            --
+Other assets                                          1,112,408     382,026   1,300,503       529,971    (3,166,109)       158,799
+                                                     -----------------------------------------------------------------------------
+                                                     $1,150,314   $ 382,123   1,819,544     2,569,059    (3,679,465)     2,241,575
+                                                     =============================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities                                  $    9,767   $  11,416   $ 180,473   $   357,469   $   (38,955)   $   520,170
+Long-term debt                                          205,364          --     346,852        39,290            --        591,506
+Intercompany notes payable                                   --          --     355,460       126,300      (481,760)            --
+Other liabilities                                        15,938          --     571,924        76,333      (453,541)       210,654
+                                                        231,069      11,416   1,454,709       599,392      (974,256)     1,322,330
+                                                     -----------------------------------------------------------------------------
+
+Shareholders' equity                                    919,245     370,707     364,835     1,969,667    (2,705,209)       919,245
+                                                     -----------------------------------------------------------------------------
+
+                                                     $1,150,314   $ 382,123   1,819,544     2,569,059    (3,679,465)     2,241,575
+                                                     =============================================================================
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                                              As of December 31, 1998
+                                                     -----------------------------------------------------------------------------
+
+                                                       United      United       United
+                                                      Dominion    Dominion     Dominion       Non-
+                                                     Industries   Holdings,   Industries,   Guarantor
+                                                       Limited      Inc.         Inc.      Subsidiaries  Eliminations Consolidated
+                                                     ----------   --------    -----------  ------------  ------------ ------------
+<S>                                                  <C>         <C>         <C>           <C>           <C>          <C>
+
+ASSETS
+Inventories                                          $    1,539   $      --   $  51,624   $   302,858   $    12,821    $   368,842
+Other current assets
+                                                         18,874          97      84,588       491,949       (54,950)       540,558
+                                                     -----------------------------------------------------------------------------
+          Total current assets
+                                                         20,413          97     136,212       794,807       (42,129)       909,400
+
+Fixed assets - net                                          930          --     106,693       210,230            --        317,853
+Goodwill                                                    355          --     120,385       607,610            --        728,350
+Intercompany notes receivable                                --          --     117,958       336,560      (454,518)            --
+Other assets                                          1,074,535     312,369   1,197,833       572,114    (3,021,797)       135,054
+                                                     -----------------------------------------------------------------------------
+                                                     $1,096,233   $ 312,466  $1,679,081   $ 2,521,321   $(3,518,444)   $ 2,090,657
+                                                     =============================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities                                  $    8,090   $   1,538   $ 139,932   $   381,534   $   (49,186)   $   481,908
+Long-term debt                                          198,780          --     313,544        32,447            --        544,771
+Intercompany notes payable                                   --          --     336,560       117,958      (454,518)            --
+Other liabilities                                         3,533          --     572,750       113,864      (511,999)       178,148
+                                                     -----------------------------------------------------------------------------
+
+                                                        210,403       1,538   1,362,786       645,803    (1,015,703)     1,204,827
+                                                     -----------------------------------------------------------------------------
+
+Shareholders' equity                                    885,830     310,928     316,295     1,875,518    (2,502,741)       885,830
+                                                     -----------------------------------------------------------------------------
+
+                                                     $1,096,233   $ 312,466  $1,679,081   $ 2,521,321   $(3,518,444)   $ 2,090,657
+                                                     =============================================================================
+</TABLE>
+
+                                       35
+<PAGE>   36
+
+                                    PART III
+
+Item 14.          Exhibits, Financial Statements Schedules, and Reports on Form
+                  8-K.
+
+         (a)      Financial Statements
+
+                  Auditors' Report
+
+                  Consolidated Statements of Income for the Years Ended December
+                  31, 1999, 1998 and 1997
+
+                  Consolidated Statements of Cash Flows for the Years Ended
+                  December 31, 1999, 1998 and 1997
+
+                  Consolidated Statements of Financial Position as of December
+                  31, 1999 and 1998
+
+                  Consolidated Statements of Changes in Shareholders' Equity for
+                  the Years Ended December 31, 1999, 1998 and 1997
+
+                  Notes to Consolidated Financial Statements
+
+         (b)      Reports on Form 8-K.
+
+                  None
+
+         (c)      Exhibits.
+
+<TABLE>
+<CAPTION>
+
+        Exhibit
+        Number             Exhibit
+        -------            -------
+
+        <S>         <C>    <C>
+          3.1       -      The Company's Charter as amended (incorporated by
+                           reference to Exhibit 3.1 to Registrant's Form 10-K
+                           filed March 29, 1991)
+
+          3.2       -      The Company's Bylaws as amended (incorporated by
+                           reference to Exhibit 3.2 to Registrant's Form 10-K
+                           filed March 29, 1995)
+
+          4.1       -      Description of Registrant's Securities (incorporated
+                           by reference to Registrant's Form 8-K filed May 9,
+                           1996)
+
+         10.1       -      Amended and Restated United Dominion Industries, Inc.
+                           Corporate Annual Incentive Compensation Plan, as
+                           approved by shareholders on April 27, 1999
+                           (incorporated by reference to Exhibit 10.1 to
+                           Registrant's Form 10-K filed March 30, 2000)
+</TABLE>
+
+                                       36
+<PAGE>   37
+
+<TABLE>
+         <S>        <C>    <C>
+         10.1(a)    -      Amended and Restated United Dominion Industries, Inc.
+                           Operating Unit Annual Incentive Compensation Plan
+                           (incorporated by reference to Exhibit 10.1(a) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+         10.2       -      $450,000,000 Second Amendment and Restatement of the
+                           Credit Agreement and Guaranty dated as of July 28,
+                           1997 among United Dominion Industries Limited, United
+                           Dominion Industries, Inc. and United Dominion
+                           Holdings, Inc., as obligors, Royal Bank of Canada, as
+                           agent bank, and the bank group named therein
+                           (incorporated by reference to Exhibit 10.2 to
+                           Registrant's Form 10-K filed March 26, 1998)
+
+         10.3       -      United Dominion Industries, Inc. Compass Plan
+                           (Incorporated by reference to Exhibit 4 to
+                           Registrant's Form S-8 filed October 3, 1995)
+
+         10.4       -      United Dominion Industries, Inc. Supplemental
+                           Executive Retirement Plan (as amended and restated
+                           effective January 1, 1999) (incorporated by
+                           reference to Exhibit 10.4 to Registrant's Form 10-K
+                           filed March 30, 2000)
+
+         10.5       -      Form of United Dominion 1999 Change of Control
+                           Agreement with certain executive officers dated on
+                           or about March 1, 1999 (incorporated by reference
+                           to Exhibit 10.5 to Registrant's Form 10-K filed
+                           March 30, 2000)
+
+         10.6       -      United Dominion Industries Limited 1999 Stock
+                           Option and Restricted Stock Plan, as approved by
+                           shareholders on April 27, 1999 (incorporated by
+                           reference to Exhibit 10.6 to Registrant's Form 10-K
+                           filed March 30, 2000)
+
+         10.7       -      Amended and Restated United Dominion Industries,
+                           Inc. Long-Term Performance Incentive Plan as
+                           approved by shareholders on April 27, 1999
+                           (incorporated by reference to Exhibit 10.7 to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+         10.7(a)    -      Amended and Restated United Dominion Industries, Inc.
+                           Operating Unit Long-Term Performance Incentive Plan
+                           (incorporated by reference to Exhibit 10.7 to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+         10.8       -      United Dominion Industries Restoration Plan for the
+                           Salaried Defined Benefit Retirement Plans of United
+                           Dominion
+</TABLE>
+
+                                       37
+<PAGE>   38
+
+<TABLE>
+         <S>        <C>    <C>
+                           Industries, Inc. (incorporated by reference to
+                           Exhibit 10.8 to Registrant's Form 10-K filed March
+                           29, 1996)
+
+         10.9       -      Form of Executive Life Insurance Agreement for
+                           executive officers of United Dominion Industries,
+                           Inc. (incorporated by reference to Exhibit 10.9 to
+                           Registrant's Form 10-K filed March 29, 1996)
+
+         10.10      -      Statements of Policy Cost and Benefit Information for
+                           split dollar life insurance policies on the life of
+                           W. R. Holland (incorporated by reference to Exhibit
+                           10.10 to Registrant's Form 10-K filed March 29, 1996)
+
+         10.11      -      Note Agreement dated September 21, 1992 between the
+                           Company, as Issuer, United Dominion Industries, Inc.,
+                           as Guarantor, and the several United States insurance
+                           companies party thereto, in connection with the
+                           Company's issuance of U.S. $75 million 8.25% Senior
+                           Notes due 2002 (incorporated by reference to Exhibit
+                           10.9 to Registrant's Form 10-K filed March 27, 1993)
+
+         10.12      -      Note Agreement dated December 21, 1993 between United
+                           Dominion Industries, Inc., as Issuer, the Registrant,
+                           as Guarantor, and the several United States insurance
+                           companies party thereto, in connection with the
+                           issuance by United Dominion Industries, Inc. of U.S.
+                           $117 million 6.80% Senior Notes due 2002
+                           (incorporated by reference to Exhibit 10.15 to
+                           Registrant's Form 10-K filed March 28, 1994)
+
+         10.13      -      Note Purchase and Private Shelf Facility dated June
+                           25, 1995 between United Dominion Industries, Inc., as
+                           Issuer, the Registrant, as Guarantor, and the
+                           Prudential Insurance Company of America in connection
+                           with the issuance by United Dominion Industries, Inc.
+                           of U.S. $50 million 7.67% Senior Series A Notes due
+                           2007 and the possible issuance of up to U.S. $50
+                           million of additional Senior Notes (incorporated by
+                           reference to Exhibit 10.13 to Registrant's Form 10-K
+                           filed March 29, 1996)
+
+         10.14      -      Amended and Restated Receivables Sale Agreement dated
+                           as of January 31, 1995 among United Dominion
+                           Industries, Inc., as Seller and Collection Agent,
+                           Asset Securitization Cooperative Corporation, as
+                           Purchaser, and Canadian Imperial Bank of Commerce, as
+                           Servicing Agent, in connection with United Dominion
+                           Industries, Inc.'s $115 million facility for the
+                           on-
+</TABLE>
+
+
+                                       38
+<PAGE>   39
+
+<TABLE>
+         <S>        <C>    <C>
+                           going sale and collection of trade receivables of
+                           certain of its business units (incorporated by
+                           reference to Exhibit 10.10 to Registrant's Form 10-K
+                           filed March 29, 1995)
+
+         10.16      -      Summary of Terms relating to the consulting
+                           arrangements between William W. Stinson and the
+                           Registrant (incorporated by reference to Exhibit
+                           10.16 to Registrant's Form 10-K filed March 26,
+                           1998)
+
+         10.17      -      Letter Agreement dated February 16, 1996 between
+                           William R. Holland and the Registrant granting Mr.
+                           Holland restricted common shares (incorporated by
+                           reference to Exhibit 10.17 to Registrant's Form 10-K
+                           filed March 26, 1998)
+
+         10.18      -      Letter Agreement dated April 28, 1999 between William
+                           R. Holland and the Registrant relating to the
+                           application to Mr. Holland of the Registrant's
+                           Supplemental Executive Retirement Plan (incorporated
+                           by reference to Exhibit 10.18 to Registrant's Form
+                           10-K filed March 30, 2000)
+
+         10.18(a)   -      Letter Agreement dated November 30, 1999 between
+                           William R. Holland and the Registrant relating to the
+                           application to Mr. Holland of the Registrant's
+                           Supplemental Executive Retirement Plan (incorporated
+                           by reference to Exhibit 10.18(a) to Registrant's Form
+                           10-K filed March 30, 2000)
+
+         10.19      -      Note Purchase Agreement dated as of May 1, 1998 among
+                           United Dominion Industries, Inc., as Issuer, United
+                           Dominion Holdings, Inc. and the Registrant, as
+                           Guarantors, and the several United States insurance
+                           companies party thereto, in connection with the
+                           Company's issuance of U.S. $110 million 6.64% Senior
+                           Notes, Series 1998-A due 2008 (incorporated by
+                           reference to Exhibit 10.19 to Registrant's Form 10-K
+                           filed March 26, 1999)
+
+         13         -      Portions of the Company's Annual Report to
+                           Shareholders for the year ended December 31, 1999
+                           that are expressly incorporated by reference into
+                           this Form 10-K (incorporated by reference to Exhibit
+                           13 to Registrant's Form 10-K filed March 30, 2000)
+
+         21         -      Subsidiaries of United Dominion Industries Limited
+                           (incorporated by reference to Exhibit 21 to
+                           Registrant's Form 10-K filed March 30, 2000)
+</TABLE>
+
+                                       39
+<PAGE>   40
+
+<TABLE>
+
+       <S>          <C>    <C>
+
+       *23.1        -      Consent of KPMG LLP
+
+        24(a)       -      Power of Attorney of D. N. Boyce dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(a) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(b)       -      Power of Attorney of H. Buerger dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(b) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(c)       -      Power of Attorney of J. E. Courtney dated February
+                           11, 2000 (incorporated by reference to Exhibit 24(c)
+                           to Registrant's Form 10-K filed March 30, 2000)
+
+        24(d)       -      Power of Attorney of P. A. Crossgrove dated February
+                           11, 2000 (incorporated by reference to Exhibit 24(d)
+                           to Registrant's Form 10-K filed March 30, 2000)
+
+        24(e)       -      Power of Attorney of R. S. Dickson dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(e) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(f)       -      Power of Attorney of J. A. Drummond dated February
+                           11, 2000 (incorporated by reference to Exhibit 24(f)
+                           to Registrant's Form 10-K filed March 30, 2000)
+
+        24(g)       -      Power of Attorney of J. A. Grant dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(g) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(h)       -      Power of Attorney of R. C. King, Jr. dated February
+                           11, 2000 (incorporated by reference to Exhibit 24(h)
+                           to Registrant's Form 10-K filed March 30, 2000)
+
+        24(i)       -      Power of Attorney of J. T. Mayberry dated February
+                           11, 2000 (incorporated by reference to Exhibit 24(i)
+                           to Registrant's Form 10-K filed March 30, 2000)
+
+        24(j)       -      Power of Attorney of H. A. Nurkin dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(j) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(k)       -      Power of Attorney of D. D. Ruffin dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(k) to
+                           Registrant's Form 10-K filed March 30, 2000)
+</TABLE>
+
+                                       40
+<PAGE>   41
+
+<TABLE>
+        <S>         <C>    <C>
+        24(l)       -      Power of Attorney of W. W. Stinson dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(l) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        24(m)       -      Power of Attorney of G. S. Taylor dated February 11,
+                           2000 (incorporated by reference to Exhibit 24(m) to
+                           Registrant's Form 10-K filed March 30, 2000)
+
+        99          -      Management Proxy Circular/Proxy Statement dated March
+                           22, 2000 in connection with the Annual and Special
+                           Meeting of Shareholders of United Dominion Industries
+                           Limited to be held on April 25, 2000 (incorporated by
+                           reference to Exhibit 99 to Registrant's Form 10-K
+                           filed March 30, 2000)
+
+</TABLE>
+
+
+*Included herewith. The exhibits not so included are incorporated herein by
+reference to the exhibits to the prior filings indicated in parentheses. Each
+included exhibit is to be deemed "filed" herewith except Exhibit 99, the
+Company's Management Proxy Circular/Proxy Statement dated March 22, 2000, which
+is furnished herewith for information purposes and not deemed "filed".
+
+**The Registrant is a foreign private issuer and accordingly has not included
+financial data schedules.
+
+                  EXECUTIVE COMPENSATION PLANS AND ARRANGEMENTS
+
+
+- -        Amended and Restated United Dominion Industries, Inc. Corporate Annual
+         Incentive Compensation Plan, as approved by shareholders on April 27,
+         1999 (Exhibit 10.1 to this Form 10-K/A)
+
+- -        Amended and Restated United Dominion Industries, Inc. Operating Unit
+         Annual Incentive Compensation Plan (Exhibit 10.1(a) to this Form
+         10-K/A)
+
+- -        United Dominion Industries, Inc. Compass Plan effective January 1, 1995
+         (Exhibit 4 to Registrant's Form S-8 filed October 3, 1995)
+
+- -        United Dominion Industries, Inc. Supplemental Executive Retirement Plan
+         as amended and restated effective January 1, 1999 (Exhibit 10.4 to this
+         Form 10-K/A)
+
+- -        Form of United Dominion 1999 Change in Control Agreement effective
+         March 1, 1999 (Exhibit 10.5 to this Form 10-K/A)
+
+                                       41
+<PAGE>   42
+
+- -        United Dominion Industries Limited Stock Option and Restricted Stock
+         Plan (Revised and Restated), as approved by shareholders on April 27,
+         1999 (Exhibit 10.6 to this Form 10-K/A)
+
+- -        Amended and Restated United Dominion Industries, Inc. Long-Term
+         Performance Incentive Plan, as approved by shareholders on April 27,
+         1999 (Exhibit 10.7 to this Form 10-K/A)
+
+- -        Amended and Restated United Dominion Industries, Inc. Operating Unit
+         Long-Term Performance Incentive Plan (Exhibit 10.7(a) to this Form
+         10-K/A)
+
+- -        United Dominion Industries Restoration Plan for the Salaried Defined
+         Benefit Retirement Plans of United Dominion Industries, Inc. effective
+         January 1, 1995 (Exhibit 10.8 to Registrant's Form 10-K filed March 29,
+         1996)
+
+- -        Form of Executive Life Insurance Agreement for executive officers of
+         United Dominion Industries, Inc. (Exhibit 10.9 to Registrant's Form
+         10-K filed March 29, 1996)
+
+- -        Statements of Policy Cost and Benefit Information for split dollar life
+         insurance policies on the life of W. R. Holland (Exhibit 10.10 to
+         Registrant's Form 10-K filed March 29, 1996)
+
+- -        Letter Agreement dated February 16, 1996 between William R. Holland and
+         the Registrant (Exhibit 10.17 to Registrant's Form 10-K filed March 26,
+         1998)
+
+- -        Letter Agreement dated April 28, 1999 between William R. Holland and
+         the Registrant relating to the application to Mr. Holland of the
+         Registrant's Supplemental Executive Retirement Plan (Exhibit 10.18 to
+         this Form 10-K/A)
+
+- -        Letter Agreement dated November 30, 1999 between William R. Holland and
+         the Registrant relating to the application to Mr. Holland of the
+         Registrant's Supplemental Executive Retirement Plan (Exhibit 10.18(a)
+         to this Form 10-K/A)
+
+         (d)      Financial Statement Schedules.
+
+         Schedule II - Allowance for Doubtful Accounts
+
+         Schedules not included have been omitted because the required
+information is not present in amounts sufficient to require submission of the
+schedules, or because the information required is included in the Consolidated
+Financial Statements or the Notes thereto.
+
+                                       42
+<PAGE>   43
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+
+The Shareholders
+United Dominion Industries Limited:
+
+
+Under date of January 28, 2000, we reported on the consolidated statements of
+financial position of United Dominion Industries Limited as at December 31, 1999
+and 1998, and the related consolidated statements of income, cash flows and
+changes in shareholders' equity for each of the years in the three-year period
+ended December 31, 1999, as contained in the 1999 annual report to shareholders.
+These consolidated financial statements and our report thereon are incorporated
+by reference in the annual report on Form 10-K for the year 1999. In connection
+with our audits of the aforementioned consolidated financial statements, we have
+audited the related financial statement schedule in the accompanying Index to
+Consolidated Financial Statements and Schedule as of and for the years ended
+December 31, 1999, 1998 and 1997. The financial statement schedule is the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on the financial statement schedule based on our audits.
+
+In our opinion, such financial statement schedule, when considered in relation
+to the basic consolidated financial statements taken as a whole, presents
+fairly, in all material respects, the information set forth therein.
+
+
+
+
+                                          /s/ KPMG LLP
+                                          Chartered Accountants
+
+
+
+
+Toronto, Canada
+January 28, 2000
+
+                                       43
+<PAGE>   44
+
+                       UNITED DOMINION INDUSTRIES LIMITED
+
+                  SCHEDULE II - ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+                  Years Ended December 31, 1999, 1998 and 1997
+                                 (in thousands)
+
+
+<TABLE>
+<CAPTION>
+
+                                      Balance,        Additions                                          Balance,
+                                      beginning       charged to      Write-off of                       end of
+Description                           of year         income          receivables       Other (1)        year
+- -----------                           ---------       ----------      ------------      ---------        --------
+
+<S>                                   <C>             <C>             <C>               <C>              <C>
+1999:
+
+Reserve deducted from assets:
+ Allowance for doubtful
+ accounts .......................      $10,725          $2,306          $(2,450)          $(935)          $ 9,646
+                                       =======          ======          =======           =====           =======
+
+1998:
+
+Reserve deducted from assets:
+ Allowance for doubtful
+ accounts .......................      $10,114          $1,991          $(1,358)          $  22           $10,725
+                                       =======          ======          =======           =====           =======
+
+1997:
+
+Reserve deducted from assets:
+ Allowance for doubtful
+ accounts .......................      $ 9,919          $4,104          $(3,156)          $(753)          $10,114
+                                       =======          ======          =======           =====           =======
+
+</TABLE>
+
+(1) In 1997, relates primarily to the sale of Varco-Pruden, Windsor Door and
+    Centria partially offset by the acquisition of Core Industries.
+
+                                       44
+<PAGE>   45
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: May 12, 2000
+
+                          UNITED DOMINION INDUSTRIES LIMITED
+
+
+                          By:  /s/  William Dries
+                               ----------------------------------
+                               William Dries
+                               Senior Vice President and Chief Financial Officer
+
+
+                          By:  /s/ Richard L. Magee
+                               ----------------------------------
+                               Richard L. Magee
+                               Vice President and Secretary
+
+                                       45
+<PAGE>   46
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+
+Exhibit No.                  Exhibit
+- -----------                  -------
+
+<S>                          <C>
+23.1                         Consent of KPMG LLP
+</TABLE>
+
+                                       46
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>2
+<DESCRIPTION>CONSENT OF KPMG LLP
+<TEXT>
+
+<PAGE>   1
+
+EXHIBIT 23.1
+
+
+
+
+
+                          INDEPENDENT AUDITORS' CONSENT
+
+
+The Shareholders
+United Dominion Industries Limited:
+
+
+We consent to incorporation by reference in Registration Statements Nos.
+33-46701, 2-92247, 33-65044, 33-97696, 333-1824 and 333-8230 of United Dominion
+Industries Limited on Forms S-8 and Registration Statement No. 333-94847 of
+United Dominion Industries Limited, United Dominion Holdings, Inc. and United
+Dominion Industries, Inc. on Form F-3 of our reports dated January 28, 2000,
+relating to the consolidated statements of financial position of United Dominion
+Industries Limited as at December 31, 1999 and 1998 and the related consolidated
+statements of income, cash flows and changes in shareholders' equity and the
+related financial statement schedule for each of the years in the three-year
+period ended December 31, 1999, which reports appear in the December 31, 1999
+annual report on Form 10-K/A of United Dominion Industries Limited.
+
+
+
+                                       /s/  KPMG LLP
+                                       Chartered Accountants
+
+
+Toronto, Canada
+May 12, 2000
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

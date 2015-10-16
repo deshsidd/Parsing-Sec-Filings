@@ -1,0 +1,832 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bu9NSlGC6mLKTSA5vNY9A1bPKzDiGgVw4SP5hjownconRiFe7nBgK1t/xpT8ZVpy
+ v9uqhKhdhOYYNVAp0eZj8g==
+
+<SEC-DOCUMENT>0000950137-96-002448.txt : 19961202
+<SEC-HEADER>0000950137-96-002448.hdr.sgml : 19961202
+ACCESSION NUMBER:		0000950137-96-002448
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960731
+FILED AS OF DATE:		19961127
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AM INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000002310
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTING TRADES MACHINERY & EQUIPMENT [3555]
+		IRS NUMBER:				340054940
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00683
+		FILM NUMBER:		96673571
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9399 W HIGGINS RD
+		CITY:			ROSEMONT
+		STATE:			IL
+		ZIP:			60018
+		BUSINESS PHONE:		7088181294
+
+	MAIL ADDRESS:	
+		STREET 1:		9399 W HIGGINS ROAD
+		CITY:			ROSEMONT
+		STATE:			IL
+		ZIP:			60018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADDRESSOGRAPH MULTIGRAPH CORP
+		DATE OF NAME CHANGE:	19790322
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K/A
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549       
+                                   FORM 10-K/A
+
+x   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+                    For the fiscal year ended July 31, 1996
+                          Commission File Number 1-683
+
+                             AM INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+               DELAWARE                              34-0054940         
+        (State of Incorporation)          (I.R.S. Employer Identification No.)
+           431 LAKEVIEW COURT
+         MT. PROSPECT, ILLINOIS                        60056
+(Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code: (847) 375-1700
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                Name of each exchange on
+     Title of each class                            which registered 
+    ---------------------                       ------------------------
+Common Stock, $0.01 par value                    American Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:
+                                       None            
+
+                    Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period
+that the Registrant was required to file such reports) and (2) has been subject
+to such filing requirements for the past 90 days.
+
+                              Yes   X     No
+                                   ----      ----
+                               
+<PAGE>   2
+
+                    Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of Registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. [ X ]
+
+                    The aggregate market value of voting stock held by
+nonaffiliates of the Registrant as of October 28, 1996:
+
+                          Common Stock, $0.01 par value:   $12,431,950
+
+
+                    Indicate by check mark whether the Registrant has filed all
+documents and reports required to be filed by Sections 12, 13 or 15(d) of the
+Securities Exchange Act of 1934 subsequent to the distribution of securities
+under a plan confirmed by a court.
+
+                              Yes   X     No_____
+
+                    Indicate the number of shares outstanding of the
+Registrant's classes of common stock as of October 28, 1996:
+
+            7,008,421 shares of Registrant's common stock, par value
+   $0.01 per share were outstanding as of October 28, 1996.
+
+
+
+
+<PAGE>   3
+                                    PART III
+
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+DIRECTORS OF THE REGISTRANT
+
+ROBERT E. ANDERSON, III, 61
+
+   
+     Director of the Company since January 26, 1995.  Mr. Anderson is Executive
+Vice President, Planning and Development at Owens & Minor, Inc., a
+Virginia-based wholesale distributor of medical/surgical supplies and related
+products.   He has held that position since 1994.  Prior thereto, Mr. Anderson
+held a number of senior management positions at Owens & Minor, Inc., after
+their acquisition of Powers & Anderson in 1967.   Mr. Anderson is a director of
+Mayer Electric Supply Company, a wholesale distributor of supplies, and a
+former director of the Savin Company, a distributor of copier machines.
+    
+
+JEFFREY D. BENJAMIN, 35
+
+   
+     Director of the Company since October 13, 1993. Since May 1996, Mr.
+Benjamin has been a Managing Director at UBS Securities LLC, a securities
+investment firm. From January 1996 to May 1996, Mr. Benjamin was a Managing
+Director at Bankers Trust Company, a financial services company.  From 1992 to
+January 1996, Mr. Benjamin was an officer of Apollo Capital Management, Inc.
+and Lion Capital Management, Inc., which respectively act as general partners
+of Apollo Advisors, L.P. and Lion Advisors, L.P.  Mr. Benjamin is a limited
+partner of Apollo Advisors, L.P., which acts as managing general partner of
+Apollo Investment Fund, L.P. and AIF II, L.P., securities investment funds, and
+a limited partner of Lion Advisors, L.P., which acts as financial advisor to
+and representative for Altus Finance and certain other institutional investors
+with respect to securities investments.  From 1985 to 1992, Mr. Benjamin was a
+Vice President at Salomon Brothers Inc, an investment banking firm.  Mr.
+Benjamin is a director of Empire Kosher Poultry, Inc.
+    
+
+JEROME D. BRADY, 52
+
+     Director, Chairman of the Board, Chief Executive Officer and President of
+the Company since September 19, 1994.  Mr. Brady was Vice President at FMC
+Corporation, a producer of chemicals and machinery, and General Manager of its
+Food Machinery Group from October 1992 until he joined the Company.  From 1978
+to 1992, Mr. Brady held a number of senior management positions with Harsco
+Corporation, a diversified industrial manufacturing and service company, most
+recently as Senior Vice President of Operations in charge of the Industrial
+Services and Building Products Group.
+
+ROBERT N. DANGREMOND, 53
+
+   
+     Director of the Company since February 8, 1993.  Since August 1995 Mr.
+Dangremond has acted as interim Chief Executive Officer and President of
+Forstmann & Company, Inc., a producer of clothing fabrics.  From February 1993
+to September 1994, Mr. Dangremond acted as interim Chairman of the Board, Chief
+Executive Officer, and President of the Company.  Since September 1989 Mr.
+Dangremond has been a Principal with Jay Alix & Associates, a consulting firm
+specializing in the restructuring of major corporations. From 1982 to 1989 he
+was the CFO and Treasurer of Leach & Garner Company, a diversified
+manufacturing and trading company.  Prior thereto, he served as a Vice
+President and Manager for Chase Manhattan Bank and a Sales and Marketing
+Manager for Scott Paper Company.  Mr. Dangremond is also a director of Standard
+Brands Paint Company, Envirodyne Industries, Inc. and Forstmann & Company, Inc.
+    
+
+<PAGE>   4
+
+
+
+
+WILLIAM E. HOGAN II, 54
+
+     Director of the Company since September 23, 1994.  Mr. Hogan is President
+and CEO of Telcom Systems Services, Inc., a company that markets, sells,
+designs and installs telecommunications systems, and since 1993 Mr. Hogan has
+been Chairman and CEO of The Hogan Company, which specializes in the creation
+and building of technology companies.  From 1991 to 1993, Mr. Hogan was Vice
+President, Corporate Operations and Quality for Medtronic, Inc., a manufacturer
+of implantable medical devices, and from 1984 to 1991, Mr. Hogan held various
+management positions at Honeywell, Inc., a manufacturer and marketer of control
+systems.
+
+   
+JEFF M. MOORE, 37
+    
+
+   
+     Director of the Company since February 14, 1996.  Mr. Moore has been a
+limited partner of Apollo Advisors, L.P. and Lion Advisors, L.P., which
+respectively act as managing general partner of Apollo Investment Fund, L.P.
+and AIF II, L.P., securities investment funds, and as financial advisor to and
+representative for certain institutional investors with respect to securities
+investments since 1992.  From 1990 until joining Apollo,  Mr. Moore was Vice
+President - Investment Management at First Executive Corporation where he was
+responsible for the management of a diversified fixed income portfolio.  Prior
+to 1990, Mr. Moore was a Certified Public Accountant at Deloitte and Touche
+where he specialized in financial instruments and credit analysis.
+    
+
+
+
+     Each director will hold his office until the next annual meeting of
+stockholders and until his successor is elected and qualified.  To the
+Company's knowledge, no director or executive officer has been involved in any
+legal proceedings at any time during the last five years material to an
+evaluation of his ability or integrity.
+
+   
+     For information regarding Executive Officers of the Registrant, see Item
+4(A) of this Report (filed with the Securities and Exchange Commission on
+October 29, 1996, File No. 1-683) which is incorporated herein by reference.
+    
+
+                                      -2-
+
+<PAGE>   5
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+EXECUTIVE COMPENSATION
+
+(a)  Summary Compensation Table
+
+     The following table reflects information with respect to the annual
+compensation for services in all capacities to the Company for the fiscal years
+ended July 31, 1996, July 31, 1995, and July 31, 1994, of those persons who
+were during the fiscal year ended July 31, 1996, (i) the Chief Executive
+Officer and (ii) the other four most highly compensated executive officers of
+the Company (the "Named Executive Officers").
+
+
+                           SUMMARY COMPENSATION TABLE
+
+
+   
+<TABLE>
+<CAPTION>
+                                                                               Long Term
+                                   Annual Compensation                    Compensation Awards
+                                   -------------------                    -------------------
+                                                                              Securities
+                                                                  Other       Underlying
+Name and                                                         Annual     Stock Options/     All Other
+Principal Position(1)        Year        Salary          Bonus   Comp(2)         SARs           Comp(3)
+- ---------------------------  ----  -------------------  -------  -------  -------------------  ---------
+<S>                          <C>   <C>                  <C>      <C>      <C>                  <C>
+
+Jerome D. Brady              1996  $350,000              $0       $33,916         0              $14,507
+ President and Chief         1995   297,500            421,250     12,373      140,000             8,226
+ Executive Officer           1994     N/A                N/A        N/A          N/A               N/A
+
+Thomas D. Rooney             1996   199,500               0        29,949         0               10,095
+ Vice President and Chief    1995   190,000             65,132     27,560         0               280,121
+ Financial Officer           1994   185,859            231,443     30,455       50,000             13,752
+
+David A. Roberts             1996   225,000               0        19,150         0                10,440
+ President - AM              1995   108,173             60,000     69,995       60,000              4,573
+ Multigraphics and           1994    N/A                 N/A        N/A          N/A                 N/A
+ Vice President (Company)
+
+Ulrik T. Nygaard             1996   190,000               0        3,304          0                 7,621
+ President-Sheridan          1995   148,980             57,062      853         20,000             31,010
+ Systems and Vice President  1994   148,980            124,171    108,312         0                11,072
+ (Company)
+
+Steven R. Andrews            1996   183,750               0        22,223         0                 8,423
+ Vice President, General     1995   175,000             59,990    106,564         0                 4,308
+ Counsel and Secretary       1994     N/A                N/A        N/A         35,000                N/A
+</TABLE>
+    
+
+
+
+   
+(1)  The titles shown are the capacities in which each executive officer
+     served at the end of fiscal 1996.  On September 19, 1994 the Company hired
+     Jerome D. Brady as Chairman, President and Chief Executive Officer; on
+     January 30, 1995 the Company hired David A. Roberts; and on June 27, 1994
+     the Company hired Steven R. Andrews.  On August 27, 1996, Mr. Nygaard
+     ceased to be an officer and employee of the Company as a result of the
+     sale of the Company's Sheridan Systems division.  On September 13, 1996,
+     Mr. Roberts resigned as an officer of the Company. Mr. Rooney has
+     succeeded Mr. Roberts as the President of AM Multigraphics.
+    
+
+(2)  The amounts include taxes reimbursed during the fiscal year of $19,531 to
+     Mr. Brady, $16,344 to Mr. Rooney, $7,693 to Mr. Roberts and $9,768 to Mr.
+     Andrews.  During fiscal year 1995, the Company paid relocation expenses of
+     $91,640 for Mr. Andrews and 65,383 for Mr. Roberts.  During fiscal year
+     1994, the Company paid relocation expenses of $107,815 for Mr. Nygaard.
+     Also included are amounts attributable to executive medical plan expenses,
+     disability insurance and car allowances.
+
+   
+(3)  The amounts in this column for fiscal 1996 include (i) premiums paid by
+     the Company for executive life insurance of $6,684 for Mr. Brady, $4,077
+     for Mr. Rooney, $3,806 for Mr. Roberts, $754 for Mr. Nygaard and $2,504
+     for Mr. Andrews and (ii) matching contributions under the Company's 401(k)
+     plans of $7,823 for Mr. Brady, $6,018 for Mr. Rooney,  $6,634 for Mr.
+     Roberts, $6,867 for Mr. Nygaard and $5,920 for Mr. Andrews.
+    
+
+
+                                     -3-
+
+<PAGE>   6
+
+(b) Option/SAR Grants
+
+     No stock options or SARs were awarded to the Named Executive Officers
+during fiscal year 1996.
+
+(c) Option Values
+
+     The following table shows the number and value of unexercised stock
+options held by the Named Executive Officers as of July 31, 1996.
+
+
+     AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION
+VALUES
+
+
+<TABLE>
+<CAPTION>
+                                                    Number of Unexercised        Value of Unexercised
+                                                Securities Underlying                    In-the-Money
+                                                       Options                             Options
+               Shares                           At Fiscal Year-End(a)               At Fiscal Year-End(a)(b)
+            Acquired on      Value        ----------------------------------------------------------------------
+              Exercise      Realized        Exercisable      Unexercisable      Exercisable      Unexercisable
+Name            (#)           ($)               (#)               (#)               (#)               (#)
+- ------------  --------  ----------------  ----------------  ----------------  ----------------  ----------------
+<S>              <C>       <C>                 <C>               <C>                <C>               <C>
+
+J.D. Brady        0          $0                    70,000        70,000              $0                $0
+T.D. Rooney       0           0                    30,000        20,000               0                 0
+D.A. Roberts      0           0                    30,000        30,000               0                 0
+U.T. Nygaard      0           0                     6,200        13,800               0                 0
+S.R. Andrews      0           0                    14,000        21,000               0                 0
+</TABLE>
+
+- -------------
+
+
+(a)  No SARs were outstanding as of July 31, 1996.
+
+   
+(b)  Based on the closing market price of the Common Stock of $1.875 on July
+     31, 1996.  As of July 31, 1996 all the outstanding options held by
+     executive officers of the Company were out-of-the money.
+    
+
+(d)  Employment and Other Agreements
+
+     The Company has entered into an employment agreement with Mr. Brady,
+effective as of September 19, 1994.  The agreement with Mr. Brady provides that
+he will serve as Chairman, President and Chief Executive Officer of the Company
+until September 19, 1996, at which time the employment term will be
+automatically extended for successive one-year periods unless either party
+notifies the other that the term will not be extended at least one year prior
+to the termination date.  The agreement is currently in a renewal period.  The
+agreement provides that Mr. Brady will receive compensation in the form of (a)
+a minimum annual base salary of $350,000 and (b) incentive compensation in
+amounts determined in accordance with the Company's Executive Incentive
+Compensation Plan (provided that Mr. Brady's incentive compensation was not
+less than $200,000 for the Company's fiscal year ended July 31, 1995).
+Pursuant to the agreement and the Company's 1994 Long Term Incentive Plan, Mr.
+Brady has received (a) non-qualified stock options to purchase 140,000 shares
+of Common Stock (vesting generally 25% on each of the first four anniversaries
+of the date of grant) at an exercise price equal to the fair market value on
+the date of grant (i.e., $12.125 per share) and (b) a bonus stock award for
+10,000 shares of Common Stock.  The employment agreement also provides that Mr.
+Brady is entitled to participate in all employee benefit plans and to receive
+all fringe benefits as are from time to time made generally available to senior
+management of the Company.  Mr. Brady also received a $100,000 execution bonus.
+
+
+
+                                     -4-
+<PAGE>   7
+
+
+
+   
+     The Company may terminate Mr. Brady's employment in the event of Mr.
+Brady's incapacity or serious misconduct (as those terms are defined in the
+employment agreement) or as a result of a substantial failure or inability by
+Mr. Brady to perform his duties (after a cure period) or the breach of certain
+noncompetition or confidentiality obligations set forth in the employment
+agreement.  The Company may also terminate the employment agreement at any
+time, provided that in such case or in the event the Company delivers notice of
+its determination not to extend the term of the agreement, Mr. Brady will be
+entitled to receive a severance benefit of 24 months of his base salary then in
+effect (in addition to other benefits generally available to senior management
+employed by the company), such 24 month period to be reduced (but not by more
+than 12 months) by the number of months Mr. Brady is employed pursuant to the
+employment agreement beyond September 19, 1996. The severance benefits provided
+for in Mr. Brady's employment agreement will not be payable in the event of a
+pay-out under Mr. Brady's Change-in-Control Agreement described below. The 
+agreement also contains certain non-competition and confidentiality 
+obligations of Mr. Brady.
+    
+
+
+Change-In-Control Agreements
+
+   
+     In July 1995 the Board authorized the Company to enter into agreements
+with each of  Jerome D. Brady, President and Chief Executive Officer, Thomas D.
+Rooney, Vice President and Chief Financial Officer,  and Steven R. Andrews,
+Vice President, General Counsel and Secretary, to secure their continued
+service in the event of any "Change-in-Control (collectively, the
+"Change-in-Control Agreements").  The Change-in-Control Agreements provide, in
+the event of  a "Change-in-Control," that such officers will receive a
+"Retention Bonus" ($800,000 for Mr. Brady, $250,000 for Mr. Rooney and $200,000
+for Mr. Andrews).  Under the Change-in-Control Agreements,  a
+"Change-in-Control" occurred on August 27, 1996 when the sale of substantially
+all of the Company's Sheridan Systems assets was consummated.  Accordingly, the
+Retention Bonus will be paid in accordance with the provisions of an escrow
+agreement on the earliest to occur of (1) the date of the consummation of the
+merger (the "Merger") contemplated by the Merger Purchase Agreement dated as of
+October 29, 1996 with a corporation newly formed by affiliates of Pacholder
+Associates, Inc. (if the officer is employed by the Company on such date), (2)
+February 27, 1997 (if the officer is employed by the Company on such date), and
+(3) the date on which the officer's employment by the Company terminates by
+reason of a "Qualifying Termination" or his death or disability.  A "Qualifying
+Termination" means a termination by the Company for a reason other than "cause"
+or by the officer for "good reason" each as defined in the agreements.  A
+"Qualifying Termination" also includes a termination of employment by the
+officer for any reason whatsoever during the 30-day period commencing on August
+27, 1997.  The definition of "good reason" provides that in the event a
+Change-in-Control which results from the sale of Sheridan Systems, "good
+reason" shall be deemed to exist on or after the date on which the Retention
+Bonus becomes payable to the officer.  In addition, if after a
+Change-in-Control there is a Qualifying Termination, the officer will receive a
+lump sum cash amount equal to two times the officer's highest rate of annual
+base salary in effect at any time after the date of the execution of the
+Change- in-Control Agreement (which amount is reduced over time following the
+Change-in-Control), together with a pro rata portion of bonus for the year and
+payments of certain accrued benefits.   Such lump sum cash payments as of 
+November 1, 1996 are currently estimated to be $700,000 for Mr. Brady, $399,000
+for Mr. Rooney and $397,000 for Mr. Andrews. Pursuant to a Change-in-Control
+Agreement with Ulrik T. Nygaard, the Company has paid $100,000 to Mr. Nygaard
+in full satisfaction of the Company's obligations under such agreement.
+    
+
+     On October 29, 1996, the Company entered into a letter agreement with Mr.
+Rooney and executed acknowledgment letters in favor of Messrs. Brady and
+Andrews.  The letters from the Company to Messrs. Brady and Andrews advised
+them that their employment would be terminated as of the closing of the Merger
+(the "Closing") and acknowledged that such termination of employment would be
+treated as a Qualifying Termination under their Change-in-Control Agreements.
+The letter agreement between the Company and Mr. Rooney effects a satisfaction
+and discharge of the parties' respective obligations under Mr. Rooney's
+Change-in-Control Agreement.  Under the terms of Mr. Rooney's letter agreement,
+Mr. Rooney will receive the cash payments from the Company he otherwise would
+have received had there been a Qualifying Termination at the Closing.
+
+
+                                     -5-
+
+<PAGE>   8
+
+
+
+Other Agreements
+
+   
+     Certain executive officers of the Company have entered into agreements
+regarding supplemental retirement benefits ("SRP").  These agreements generally
+provide, subject to certain exceptions, that upon normal retirement at age 65,
+such persons are entitled to receive a fixed monthly cash payment for life of 3
+1/3% of their final average monthly compensation times their years of service
+(up to a maximum of 15 years), provided, however, that such supplemental
+benefits be reduced by the actuarial value of all other retirement benefits
+payable to such person from all the Company's other sponsored retirement
+programs.  The estimated annual benefits payable upon retirement at normal
+retirement age for each of the Named Executive Officers entitled to receive
+these benefits are $429,066  for Mr. Brady, $241,410 for Mr. Rooney and
+$157,974 for Mr. Andrews.  All of the foregoing supplemental benefits are
+unfunded and as of July 31, 1996, the Company has reserved approximately
+$1,272,699 with respect to such benefits which have accrued.  In the event of
+the closing of the Merger, in lieu of the foregoing, there will be lump-sum
+payments in the amount of $252,322 for Mr. Brady, $727,119 for Mr. Rooney and
+$76,266 for Mr. Andrews.
+    
+
+
+DIRECTOR COMPENSATION
+
+     Directors are reimbursed for travel and expenses related to attendance at
+meetings of the Board of Directors or Board committees.  Directors who are
+non-employees of the Company receive a quarterly retainer of $5,000 and a
+meeting fee of $750 for attendance in other than regular meetings in person or
+by telephone.  Directors who are officers of the Company receive no additional
+compensation for their services as directors.
+
+     On August 27, 1987 the Board of Directors approved a retirement plan for
+outside directors with a minimum of five years of service.  Under the plan,
+eligible directors commence receiving benefits upon the later of attainment of
+age 65 and the actual date of retirement.  The benefit payable under the plan
+is 75% of the annual retainer in effect at the time of retirement, payable in
+equal annual installments.  The number of annual installments is equal to the
+number of years of service, with payments made on the August 1st following the
+director's retirement.  In 1988, the retirement plan was amended to provide
+that all outside directors become eligible immediately upon a change in control
+of the Company.  The plan also provides for mandatory retirement upon
+attainment of age 70, except for all persons over the age of 65 serving as
+directors at the time of adoption of the plan.  Upon the effective date of the
+Company's Plan of Reorganization, the retirement plan for outside directors was
+assumed as an executory contract and in August, 1995 the second installment of
+payments was paid to five directors in the aggregate amount of $79,500.  Annual
+payments are expected to continue to certain directors through the year 2009.
+
+     Pursuant to the terms of the Company's 1994 Long Term Incentive Plan,
+non-employee directors are automatically granted, on the date of each annual
+meeting of stockholders, non-qualified options to purchase 1,000 shares of
+Common Stock at an option exercise price per share equal to the fair market
+value of a share of Common Stock on the date of grant.  Such options are
+exercisable in part or in full on the date of grant and expire ten years after
+the date of grant.  If a non-employee director ceases to be a director of the
+Company for any reason, each option held by such holder is exercisable for a
+period of three months after the date of such holder's ceasing to be a director
+or until the expiration of the term of such option, whichever is shorter.
+
+     The Company is not aware of any family relationship between any director
+or person nominated or chosen by the Board to become a director or an executive
+officer of the Company, its subsidiaries or its affiliates.
+
+
+
+
+                                     -6-
+<PAGE>   9
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+PRINCIPAL STOCKHOLDERS
+
+     At November 1, 1996 to the Company's knowledge based on statements filed
+with the Securities and Exchange Commission pursuant to Sections 13(d) and
+13(g) of the Securities Exchange Act of 1934 (the "Exchange Act") or upon
+information furnished in writing to the Company by the persons or entities
+involved, the following were the only persons, entities or groups owning
+beneficially 5% or more of the outstanding Common Stock of the Company:
+
+
+<TABLE>
+<CAPTION>
+                                            AMOUNT AND NATURE
+                NAME AND ADDRESS              OF BENEFICIAL    PERCENT OF
+               OF BENEFICIAL OWNER            OWNERSHIP (1)    CLASS (2)
+       -----------------------------------  -----------------  ----------
+       <S>                                  <C>                <C>
+
+       Lion Advisors, L.P.(3)                    1,875,000         26.8%
+       Two Manhattanville Road
+       Purchase, NY
+
+       AIF II, L.P.(3)                             600,412          8.6%
+       c/o Apollo Advisors, L.P.
+       Two Manhattanville Road
+       Purchase, NY
+
+       BEA Associates                            1,290,117         18.4%(4)
+       153 East 53rd Street
+       One Citicorp Center
+       New York, New York 10022
+
+       State of Wisconsin Investment Board         669,100          9.6%
+       P. O. Box 7842
+       Madison, Wisconsin 53707
+
+       Fidelity Bankers Life Insurance Company     645,058          9.2%
+       1011 Boulder Springs Drive
+       Richmond, Virginia 2225
+
+       Hellmold Associates, Inc.                    624,754         8.9%
+       640 Fifth Avenue
+       13th Floor
+       New York, New York 10019
+
+       Trust Company of the West                    400,584         5.7%
+       865 South Figueroa
+       Los Angeles, California 90017
+</TABLE>            
+
+- ----------------------------
+
+(1)  Unless otherwise indicated in a note to the table, to the Company's
+     knowledge, ownership includes sole voting power and sole investment power.
+(2)  Based on 7,010,000 shares of Common Stock outstanding, including treasury
+     shares, as of November 1, 1996 plus shares deemed outstanding pursuant to
+     Rule 13d-3(d)(1) of the Exchange Act.
+(3)  The shares shown for Lion Advisors, L.P. are beneficially held for the
+     benefit of an account under management.  Lion Advisors, L.P. is an
+     affiliate of Apollo Advisors, L.P., the managing general partner of AIF
+     II, L.P.  Mr. Moore, a director of the Company, is an officer of the
+     general partner of each of (i) Lion Advisors, L.P. and (ii) Apollo
+     Advisors, L.P., the managing general partner of AIF II, L.P. and may be
+     deemed to beneficially own these shares.  Mr.  Moore disclaims beneficial
+     ownership of all of such shares.  See "Security Ownership of Directors and
+     Executive Officers."
+(4)  Shares held by BEA Associates for Executive Life Insurance Company of New
+     York.  Executive Life Insurance Company has sole voting power and sole
+     investment power for these shares.
+
+
+
+
+                                     -7-
+<PAGE>   10
+
+
+SECURITY OWNERSHIP OF DIRECTORS AND EXECUTIVE OFFICERS
+
+     The following table sets forth information concerning the number of shares
+of Common Stock that are beneficially owned, directly or indirectly, as of
+November 1, 1996, by each director, by certain executive officers and by all
+directors and all executive officers (including the Named Executive Officers)
+as a group.
+
+     Unless otherwise indicated in a note to the table, to the Company's
+knowledge, ownership includes sole voting power and sole investment power.
+
+
+   
+<TABLE>
+<CAPTION>
+                                                   
+      NAME OF BENEFICIAL                           AMOUNT AND NATURE OF    PERCENTAGE OF TOTAL
+          OWNER(1)               POSITION        BENEFICIAL OWNERSHIP (2)  OUTSTANDING SHARES
+- -----------------------------------------------  ------------------------  -------------------
+<S>                          <C>                 <C>                       <C>
+
+Jerome D. Brady              Chairman,                             81,000                 1.2%
+                              President and CEO
+Robert E. Anderson, III      Director                               1,917                    *
+Jeffrey D. Benjamin(3)       Director                               2,000                    *
+Robert N. Dangremond         Director                               2,300                    *
+William E. Hogan             Director                               2,000                    *
+Jeff M. Moore(3)             Director                           2,476,412                35.4%
+Steven R. Andrews            Vice President and                    14,500                    *
+                              Secretary
+Thomas D. Rooney             Vice President and                    30,500                    *
+                              CFO
+All directors and executive
+ officers as a group
+ (9 persons)(2)(3)                                              2,610,629                37.2%
+</TABLE>
+    
+
+
+- ------------------------
+*Less than one percent
+
+   
+(1)  Two of the Named Executive Officers have ceased to be employed by the
+     Company and are not included in this chart.  On August 27, 1996, Mr.
+     Nygaard became an officer and employee of Heidelberg Finishing Systems,
+     Inc. in connection with the sale of the Company's Sheridan Systems
+     division.  On September 13, 1996, Mr. Roberts resigned as an officer of
+     the Company. Mr. Rooney has succeeded Mr. Roberts as the  President 
+     of AM Multigraphics. 
+    
+
+(2)  Amounts include shares acquirable within 60 days of November 1, 1996
+     pursuant to the exercise of currently outstanding stock options granted
+     pursuant to the Company's 1994 Long-Term Incentive Plan as follows:  Mr.
+     Andrews, 14,000 shares, Mr. Brady, 70,000 shares, Mr. Rooney, 30,000
+     shares, Mr. Anderson 1,917 shares, Mr. Moore, 1,000 shares, and 2,000
+     shares each for the remaining non-employee directors.
+
+(3)  Includes shares beneficially owned by Lion Advisors, L.P. and AIF II,
+     L.P.  Mr. Moore is an officer of the general partner of each of (i) Lion
+     Advisors, L.P. and (ii) Apollo Advisors, L.P., the managing general
+     partner of AIF II, L.P.  Mr. Moore disclaims beneficial ownership of the
+     indicated shares.  Mr. Benjamin is a limited partner of each of Lion
+     Advisors, L.P., Apollo Advisors, L.P. and AIF II, L.P.
+
+
+
+                                      -8-
+<PAGE>   11
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+   
+     On October 29, 1996 the Company entered into a definitive Merger Purchase
+Agreement with a corporation ("Buyer") newly formed by affiliates of Pacholder
+Associates, Inc., a Cincinnati-based provider of investment management,
+financial advisory and investment banking services to institutional clients.
+This agreement provides for the merger of a subsidiary of Buyer with and into
+the Company pursuant to which the current shareholders of the Company will
+receive $5.00 per common share and the Company will become a wholly-owned
+subsidiary of Buyer.  The transaction is conditioned upon a number of conditions
+including approval by a majority of the shareholders of the Company at a
+meeting tentatively scheduled for January, 1997. It is currently contemplated
+that Mr. Rooney will acquire approximately 20% of the issued and outstanding
+shares of common stock of Buyer for consideration to be agreed upon by Buyer
+and Mr. Rooney.
+    
+
+   
+    
+
+                                     -9-
+
+<PAGE>   12
+
+                                   SIGNATURES
+
+   
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Registrant has duly caused this amendment to report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+Dated:  November 26, 1996               AM INTERNATIONAL, INC.
+                                               (REGISTRANT)
+    
+
+
+   
+                                        By /S/ Thomas D. Rooney                
+                                           -----------------------------
+                                           Thomas D. Rooney
+                                           President, Multigraphics,
+                                           Vice President and Chief Financial 
+                                           Officer
+    
+
+   
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+this amendment to report has been signed on November 26, 1996 by the following
+persons on behalf of the Registrant and in the capacities indicated.
+    
+
+
+   
+<TABLE>
+<CAPTION>
+         SIGNATURE                                             TITLE
+         ---------                                             -----
+<S>                                            <C>
+*                                              CHAIRMAN, CHIEF EXECUTIVE OFFICER
+- ----------------------------------                   AND PRESIDENT
+JEROME D. BRADY                                      
+
+
+/S/ THOMAS D. ROONEY                           PRESIDENT, MULTIGRAPHICS, VICE PRESIDENT AND 
+- ----------------------------------             CHIEF FINANCIAL  OFFICER (PRINCIPAL ACCOUNTING &          
+THOMAS D. ROONEY                               FINANCIAL OFFICER)
+
+
+
+
+*                                              DIRECTOR
+- ----------------------------------
+ROBERT E. ANDERSON, III
+
+
+*                                              DIRECTOR
+- ----------------------------------
+JEFFREY D. BENJAMIN
+
+
+*                                              DIRECTOR
+- ----------------------------------
+ROBERT N. DANGREMOND
+
+
+*                                              DIRECTOR
+- ----------------------------------
+WILLIAM E. HOGAN II
+
+
+*                                              DIRECTOR
+- ----------------------------------
+JEFF M. MOORE
+
+
+*/S/THOMAS D. ROONEY                           
+- ----------------------------------
+THOMAS D. ROONEY
+ATTORNEY-IN-FACT
+
+
+</TABLE>
+    
+
+
+
+                                       12
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

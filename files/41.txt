@@ -1,0 +1,3816 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ L065xE9fjdJuww5DbBySSAgmzKRTFrBWt6iSS3xS+RhXZFn0bQGJrjvKCEnhN2y3
+ fMDoKOG3cPUkL7EeW9n59Q==
+
+<IMS-DOCUMENT>0000004911-95-000015.txt : 19950518
+<IMS-HEADER>0000004911-95-000015.hdr.sgml : 19950518
+ACCESSION NUMBER:		0000004911-95-000015
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19950224
+FILED AS OF DATE:		19950517
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000004911
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				231353403
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0226
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00230
+		FILM NUMBER:		95540616
+
+	BUSINESS ADDRESS:	
+		STREET 1:		305 RICHARDSON RD
+		CITY:			LANSDALE
+		STATE:			PA
+		ZIP:			19446
+		BUSINESS PHONE:		2158222929
+
+	MAIL ADDRESS:	
+		STREET 1:		305 RICHARDSON ROAD
+		CITY:			LANSDALE
+		STATE:			PA
+		ZIP:			19446
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN ELECTRONIC LABORATORIES INC
+		DATE OF NAME CHANGE:	19761019
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FY95 ANNUAL RPT (10-K)
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                   FORM 10-K
+
+                 Annual Report Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+For the Fiscal Year Ended February 24, 1995  Commission file number 0-230
+
+
+                              AEL INDUSTRIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+Pennsylvania                                      23-1353403
+(State or other jurisdiction of                   (IRS Employer
+incorporation or organization)                     Identification No.)
+                                                  
+
+                    305 Richardson Road, Lansdale, PA  19446
+               (Address of principal executive offices/Zip Code)
+
+       (Registrant's telephone number, including area code) (215) 822-2929
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                      NONE
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                Class A common stock Par Value $1.00 (nonvoting)
+
+                 Class B common stock Par Value $1.00 (voting)
+
+     Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the Registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+YES  /X/  NO /   /
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.   / /<PAGE>
+
+State the aggregate market value of the voting stock held by non-affiliates
+of the registrant.  $1,878,769
+
+
+     Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date. (May 5, 1995)
+
+                    Class A common stock, par value $1.00 - 3,575,319       
+  
+
+                    Class B common stock, par value $1.00 -   418,634      
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+       The following document is incorporated by reference into the Part of
+the Form 10-K specified herein:  Annual Report to Shareholders for fiscal
+year 1995 furnished to the Commission pursuant to Rule 14a-3(b) under the
+Securities Exchange Act of 1934 (but only to the extent set forth in Parts
+I and II of this Annual Report).<PAGE>
+
+                                     PART I
+ITEM 1.  BUSINESS
+
+     AEL Industries, Inc. (the "Company" or "AEL") is principally engaged
+in the Electronic Defense Products and Services business.  This business
+consists primarily of the design and manufacture of electronic
+countermeasures systems, simulation systems, radar receivers, microwave
+integrated circuits and other electronic equipment, and avionics installa-
+tion and integration services for the United States and foreign governments
+and their suppliers.  The Company also provides other services to both the
+commercial and governmental markets such as aircraft modification and
+maintenance, calibration, product testing and technical publication.
+
+     In view of recent and significant developments and consolidations in
+the defense industry, the Board of Directors ("Board") of the Company
+appointed a committee of the Board known as the Long Range Planning
+Committee ("LRPC") for the purpose of considering strategic alternatives
+for the Company.  The LRPC concluded negotiations on February 28, 1995 with
+the Company's controlling shareholders, Dr. Leon Riebman and Claire E.
+Riebman with the signing of agreements which provided the Board with
+increased flexibility in exploring the possible sale of the Company.  The
+Board has authorized the LRPC to pursue such a sale and has engaged Dillon,
+Read & Co. Inc. to assist in this matter.  
+
+     The Company's registered office and principal administrative and
+executive offices are located at 305 Richardson Road, Lansdale,
+Pennsylvania 19446, approximately 28 miles north of Philadelphia, and the
+telephone number is 215-822-2929.  
+
+                    Electronic Defense Products and Services
+
+Products and Services
+
+     The Electronic Defense Products and Services business consists
+primarily of the design, manufacture and servicing of products sold to U.S.
+Government agencies and their suppliers.  The Company also sells products
+to foreign governments and their suppliers.  Please refer to Note 10 of the
+Notes to Consolidated Financial Statements for fiscal year 1995 for
+industry segment information.
+
+     Revenues from aircraft avionics installation and integration programs
+were approximately 37%, 33% and 29% of the Company's consolidated sales and
+service revenues in fiscal years 1995, 1994 and 1993, respectively.  The
+ANVIS/HUD program, included in this group, accounted for 13%, 8% and 4% of
+the Company's consolidated sales and service revenues in fiscal years 1995,
+1994 and 1993, respectively.  Avionics installation and integration
+programs for fixed and rotary wing aircraft are of continued significance
+to the Company.  Through these programs the Company has installed
+electronic systems in a wide variety of aircraft.
+
+     Another significant product group is electronic countermeasures
+systems, which accounted for 23%, 22% and 24% of the Company's consolidated
+sales and service revenues in fiscal years 1995, 1994 and 1993,
+respectively.  These systems include the Army's TACJAM-A program which
+accounted for 14% of consolidated revenues in fiscal year 1995, 5% in
+fiscal year 1994 and 11% in fiscal year 1993.
+
+     Sales of radar warning receivers (including the AN/ALR-67 and AN/APR-
+39A programs) accounted for 13%, 10% and 8% of the Company's consolidated
+sales and service revenues in fiscal years 1995, 1994 and 1993,
+respectively.
+
+     Jamming simulator programs (including the AN/MLQ-T4, AN/FSQ-T22 and
+Embedded Radar Environment Simulators), accounted for 5%, 11% and 10% of
+the Company's consolidated sales and service revenues in fiscal years 1995,
+1994 and 1993, respectively.
+
+     In the manufacture of its products, the Company uses raw materials
+which generally are readily available from several sources.  The Company
+owns various registered trademarks.  The Company relies principally upon
+engineering and marketing skills to maintain and enhance its competitive
+position in the electronic defense markets.  Although most of the Company's
+business is not dependent upon patent or similar protection, the Company's
+research and development efforts have yielded patents in certain areas of
+technology.
+
+     The U.S. Government is a customer of particular significance to the
+Electronic Defense Products and Services business.  Sales directly to the
+U.S. Government comprised approximately 43%, 47% and 47% of the Company's
+consolidated sales and service revenues in fiscal years 1995, 1994 and
+1993, respectively.  The majority of additional domestic revenues are
+attributable to contracts with suppliers to the U.S. Government.  Contracts
+awarded to the Company by the U.S. Government and its suppliers are
+generally complex and occasionally require significant technological
+advances.  The loss of direct U.S. Government business would have a
+material adverse effect on the operations of this business and the Company. 
+Any major curtailment in Government spending or appropriations for
+electronic defense products and services could also materially and
+adversely affect the Company's operations by reducing the Company's
+opportunities to contract with other U.S. Government suppliers.
+
+     Approximately 65% of the Company's domestic revenues in fiscal year
+1995 were derived from contracts awarded on a fixed-price basis, which
+obligate the Company to deliver equipment or perform services at a fixed
+price without regard to the cost incurred.  Fixed-price contracts with the
+U.S. Government and suppliers to the U.S. Government frequently include a
+progress payment or milestone payment clause, which provides for payment to
+the Company of a significant portion of the costs of performing a contract
+as they are incurred.  The remaining 35% of domestic revenues arose from
+contracts awarded on a cost-plus or time-and-material basis, under which
+the Company is reimbursed for the cost of performance (plus a fee or
+profit) up to a negotiated ceiling amount.  Contracts with the U.S.
+Government and suppliers to the U.S. Government generally provide for
+termination at any time for the convenience of the Government, and upon
+such termination a contractor is entitled to receive payment for the work
+performed plus a pro rata portion of the profit it would have earned but
+for the termination.
+
+Competition
+
+     A considerable number of companies are engaged in the sale of
+electronic defense products and services.  Competition has significantly
+increased over the last few years as a result of decreased Government
+spending and appropriations.  Overall, there are fewer programs (especially
+start-ups) on which to bid and, therefore, the Company faces greater
+competition in its traditional product areas.  In response to competitive
+pressures, the Company sometimes agrees to invest its own funds in the
+performance of a program to enhance the likelihood of receiving a contract
+award.  Competitors of the Company include large diversified corporations
+and smaller, highly specialized firms.  The Company's competitive position
+ultimately depends on its technical expertise and the price and quality of
+its products and services.  Because of the variety of its activities, it is
+impossible to state precisely the competitive position of the Company with
+respect to each of its product groups.  The Company does not have dominance
+in the markets for its products.
+
+Marketing
+
+     The products and services of this business are marketed primarily in
+the United States to the U.S. Government and its suppliers.  The Company
+also markets its products overseas through its Systems International
+Division.  Sales are made on the basis of competitive bids or negotiated
+contracts, primarily through direct contact between the Company's technical
+and marketing employees and the technical and purchasing representatives of
+its customers.  The Company also generates sales through the use of trade
+and catalog advertising.
+
+Backlog
+
+     The backlog of firm orders was $106,558,000 at February 24, 1995 and
+$121,478,000 at February 25, 1994.  Approximately 7% of the backlog at
+February 24, 1995 was firm but unfunded.  Approximately 51% of the total
+backlog consisted of orders from the U.S. Government and 13% from foreign
+customers.  As of February 24, 1995, approximately 25% of the backlog
+consisted of orders for electronic countermeasures systems including 16%
+for TACJAM-A; 40%, orders for avionics installation/integration programs,
+including 28% for ANVIS/HUD; and 14%, orders for radar warning receivers,
+including 11% for AN/APR-39A.  Approximately 80% of the total backlog is
+expected to be completed in fiscal year 1996.  
+<PAGE>
+                           Other Business Information
+
+Research and Development
+
+     During fiscal years 1995, 1994 and 1993 the Company expended
+approximately $2,206,000, $2,162,000 and $2,501,000, respectively, on
+Company-sponsored research and development.  In addition, there were
+expenditures for customer-sponsored research and development which are not
+readily identifiable since many contracts awarded to the Company have R&D
+effort commingled with production effort.  In customer-sponsored research
+and development contracts, the proprietary rights to the development belong
+to the customer; however, the Company generally obtains technical know-how
+which it may be able to apply in other fields.  
+
+     Fluctuations in company-sponsored R&D result from changes in the
+allocation of available cash and technical resources, including personnel. 
+Company-sponsored R&D may lead to innovations which are attractive to
+potential customers and which may then be adapted to the customer's needs
+and incorporated into systems.  The Company's R&D focus is to create
+technological advantages which may be applied either to new government
+system programs or to new commercial ventures.  The Company is actively
+pursuing commercial applications for its technologies for the CATV and
+cellular industries.
+     
+     As a result of its research and development efforts, the Company may
+become one of a small number of suppliers of the items developed, which may
+result in the award of production contracts to the Company.  The Company is
+significantly involved in the field of advanced electronics which entails a
+high degree of technological obsolescence resulting from the rapid
+advancements made both by the Company and others within the industry.  It
+is therefore extremely difficult to measure the useful life of any specific
+product or service at the time of development.
+
+Employees
+
+     At April 28, 1995 the Company had 1102 employees, 334 of whom are
+engineers.  The Company believes its relations with employees are generally
+satisfactory.  The Company's employees are not covered by collective
+bargaining agreements.
+
+Foreign Sales
+
+     The Company has no foreign operations.  However, foreign sales
+accounted for approximately 15%, 13% and 10% of consolidated sales and
+service revenues in fiscal years 1995, 1994 and 1993, respectively.  All
+sales of military products to foreign customers must be approved by the
+U.S. Government; such approvals are subject to revocation and may be
+adversely affected by changes in U.S. Government export policy.  There
+exist certain risks inherent in foreign transactions which may not be
+present in domestic transactions, including currency fluctuations, changes
+in foreign government policies, differences in international laws and
+difficulties in negotiating and litigating with foreign entities.  The
+Company has taken reasonable measures to reduce such risks by requiring in
+appropriate cases payment in U.S. currency, letters of credit, advanced
+deposits, and by retaining title to goods delivered until payment.
+
+Environmental Matters - See Item 3 of this report.
+
+ITEM 2.  PROPERTIES
+
+     As of May 5, 1995, the Company owned or leased a total of
+approximately 735,000 square feet of office and plant space with main
+facilities in Pennsylvania, Illinois, Georgia, Virginia, New Jersey and
+Ohio.  The Company owns most of these facilities.  The operations of the
+Electronic Defense Products and Services business are carried on at all of
+the Company's main facilities.  No discussion of productive capacity and
+extent of utilization is provided because the Company is not involved in a
+traditional manufacturing business.  Its products are principally custom
+designed and sold in small quantities.  The present facilities are
+considered to be suitable, adequate, and well-equipped for the Company's
+operations.  
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company has provided documents relating to the AN/MLQ-T4 Ground
+Jammer program to the Department of Defense pursuant to a subpoena issued
+by its Inspector General in 1992.   At this time the Company cannot
+determine when the Government will complete its investigation or whether it
+will seek remedies in connection with this investigation.  
+
+     In 1989 the United States Environmental Protection Agency ("EPA")
+placed a site that includes the Company's Richardson Road property on the
+National Priorities List for detailed study and cleanup of alleged
+environmental contamination.  A revised Remedial Investigation/Feasibility
+Study Work Plan, written under the direction of the Company and other
+potentially responsible parties and under the overall guidance of the EPA,
+was submitted to the EPA in 1993.  The Company continues to cooperate with
+the EPA in the study of this site.  The cost of performing the Study
+defined in the Plan and the eventual remediation, if required, is not
+expected to have a material adverse impact on the Company's financial
+position.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There were no matters submitted to a vote of security holders during
+the fourth quarter ended February 24, 1995.<PAGE>
+
+                     EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+     The following table sets forth information concerning the executive
+officers of the Company.  Officers serve at the discretion of the Board of
+Directors.
+
+
+Name                Age                 Position
+
+Dr. Leon Riebman    75             Chairman of the Board, President
+                                        and Chief Executive Officer 
+
+George King         57             Executive Vice President and Chief
+                                        Financial Officer
+
+
+  Dr. Riebman is a founder of the Company and has served as a director and
+Chief Executive Officer since the Company's organization in 1950, and as
+Chairman of the Board of Directors since 1987.  In 1993 he reassumed the
+role of President, a position he had held from 1950 to 1983.  Dr. Riebman
+is also a director of Ampal Corp. (New York, NY) and Bank & Trust Co. of
+Old York Road (Willow Grove, PA).
+
+  Mr. King joined the Company as Vice President in 1975 and was named
+Senior Vice President in 1985 and Executive Vice President in 1992.<PAGE>
+
+                                 PART II
+
+ITEM 5.          MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+                              STOCKHOLDER MATTERS
+
+  The Class A common stock of the Company is traded in the over-the-counter
+market and is listed in the National Market System maintained by the
+National Association of Securities Dealers under the symbol AELNA.  The
+Class B common stock trades only sporadically in the over-the-counter
+market, which does not constitute an established public trading market.  On
+May 5, 1995 there were 1456 record holders of Class A common stock and 81
+record holders of Class B common stock.  The following table sets forth for
+the periods shown the high and low closing prices for the Company's Class A
+common stock as furnished by NASDAQ.
+
+Fiscal Year                                    High           Low
+
+1994
+
+  First Quarter..................              7-1/4          5-3/4
+  Second Quarter.................              7-1/4          5         
+  Third Quarter..................              8-1/4          6-1/2
+  Fourth Quarter.................              10-1/4         7-1/4
+
+
+1995
+
+  First Quarter..................              9-1/4          7-1/2             
+  Second Quarter.................              10             7    
+  Third Quarter..................              9-1/4          8    
+  Fourth Quarter.................              16-1/4         8-5/8
+
+
+  The Company has never paid, and there are no present plans to pay, a cash
+dividend on its common stock.  Future dividend policy will be determined by
+the Board of Directors in light of the prevailing financial needs and
+earnings of the Company and other relevant factors.  
+
+ITEM 6.   SELECTED FINANCIAL DATA
+  
+  The information appearing under the caption "Selected Financial Data"
+contained in the Company's Annual Report to Shareholders for fiscal year
+1995 is incorporated herein by reference.
+  
+
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                      CONDITION AND RESULTS OF OPERATIONS
+
+  The information appearing under the caption "Management's Discussion and
+Analysis of Results of Operations and Financial Condition" contained in the
+Company's Annual Report to Shareholders for fiscal year 1995 is incorpor-
+ated herein by reference.
+
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+  The information listed below appears in the Company's Annual Report to
+Shareholders for fiscal year 1995 and is incorporated herein by reference.
+
+  Report of Independent Auditors
+
+  Consolidated Balance Sheets at February 24, 1995 and February 25, 1994
+
+  Consolidated Statements of Operations for the three years ended February
+  24, 1995
+
+  Consolidated Statements of Cash Flows for the three years ended February
+  24, 1995
+
+  Consolidated Statements of Shareholders' Equity for the three years ended
+  February 24, 1995
+
+  Notes to Consolidated Financial Statements
+
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                      ACCOUNTING AND FINANCIAL DISCLOSURE
+
+          None.<PAGE>
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+
+A Board of seven Directors is currently serving until the next annual
+meeting of shareholders or until their respective successors shall have
+been duly elected and qualified.  
+
+                           Present Principal
+                           Occupation or                     Director
+Name                       Employment              Age       Since
+
+Francis J. Dunleavy(a)     Private investor         80       April 1982
+   
+Frederick R. Einsidler(b)  Private investor         69       July 1988
+    
+Conrad J. Fowler(c)        Private investor         73       Dec. 1950   
+     
+Leeam Lowin(d)             Private investor         49       July 1992    
+
+Lloyd W. Moffit(e)         Consultant-informa-      70       Nov. 1977  
+                              tion systems
+
+Dr. Leon Riebman(f)        Chairman of the          75       Dec. 1950
+                           Board and President
+                           of the Company (Chief
+                           Executive Officer)
+
+Robert Riebman(g)          Software Consultant      43       April 1995
+                         
+
+(a)  Prior to his retirement in 1980, Mr. Dunleavy was Vice Chairman of the
+     Board of International Telephone and Telegraph Corporation, a tele-
+     communications company.  Mr. Dunleavy is a director of the following
+     companies whose securities are publicly traded:  Quaker Chemical
+     Corp.; Crown Cork and Seal Co. Inc.; Bird, Inc.; and Selas Corporation
+     of America.
+
+(b)  Prior to his retirement in 1987, Mr. Einsidler was Chairman and Chief
+     Executive Officer of Butler International, Inc., whose principal
+     business was aviation services, engineering services and
+     telecommunications services.
+
+(c)  Mr. Fowler retired from the Company in 1986.  He was formerly
+     Executive Vice President of the Company and was Chairman of the Board
+     of Directors from 1959 to 1987.  
+
+(d)  Mr. Lowin has been a private investor and investment manager, as well
+     as a financial and business consultant, for more than 25 years.  He
+     has been instrumental in founding, financing and managing companies in
+     the medical electronics and data communications fields.
+
+(e)  Prior to his retirement in 1975, Lloyd W. Moffit was an Admiral in the
+     U.S. Navy and Deputy Operations Director (Reconnaissance and
+     Electronic Warfare) for the Chairman of the Joint Chiefs of Staff.  
+
+(f)  Dr. Riebman is also a director of Ampal Corp. and Bank & Trust Co. of
+     Old York Road.
+
+(g)  Mr. Riebman is Dr. Riebman's son.  As a software engineer and computer
+     consultant, he has worked for such companies as Siemens Medical
+     Service, Motorola and Digital Equipment Corporation.
+
+     Each of the directors has had the same principal occupation or
+employment for at least the past five years.
+
+     Through inadvertence, Dr. Riebman and Claire E. Riebman, his wife,
+each failed to timely file a Form 4 to report the change in status of
+certain individually held shares to tenants by the entirety.  All required
+filings have now been made and there remain no known delinquencies.
+<PAGE>
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+
+<TABLE>
+     The following table presents information detailing the compensation paid to the Company's
+Executive Officers for the last three (3) fiscal years.
+
+
+SUMMARY COMPENSATION TABLE
+                                                   
+<CAPTION>                                                              Long-Term     
+                                                                       Compensation  
+               Annual Compensation                                     Awards        
+<S>              <C>        <C>           <C>          <C>             <C>                <C>        
+  
+Name                                                   Other           Securities         All Other
+and                                                    Annual          Underlying         Compen-
+Principal        Fiscal                                Compensa-       Options/           sation(3)
+Position         Year(1)    Salary($)     Bonus($)     tion(2) ($)     SARs (#)             ($)
+
+
+
+LEON RIEBMAN     1995       359,208        52,500        2,344           2,500              7,976
+Chief Execu-     1994       349,002             0            0               0              6,112
+tive Officer     1993       344,618        86,000            0           2,500              5,805
+
+
+GEORGE KING      1995       184,940        21,624        1,455           1,500              6,936
+Executive Vice   1994       178,258             0            0           1,500              4,629
+President-       1993       178,092        41,746            0           1,500              4,279
+Chief Financial
+Officer
+
+
+
+
+
+
+
+
+
+<FN>
+(1)  The Company's fiscal year ends on the last Friday in February.
+(2)  Amount represents reimbursement by Company of 25% of tax liability for gain realized as a result of stock option
+     exercise in accordance with the terms of Company's Nonqualified Stock Option Plan.
+(3)  Fiscal year 1995 amount includes Company contribution to 401(k) Savings Plan for Dr. Riebman and Mr. King and
+     patent bonus of $1000 paid to Dr. Riebman.
+</FN>
+/TABLE
+<PAGE>
+ 
+OPTION GRANTS
+<TABLE>
+     The table below illustrates the number and value of stock option grants awarded to the
+Company's Executive Officers in fiscal year 1995.  Options are not exercisable until two years after
+the date of award and expire at the end of five years from the award date.
+
+OPTIONS/SAR GRANTS IN LAST FISCAL YEAR
+
+<CAPTION>
+                                                                      Potential Realizable
+                                                                      Value at Assumed Annual
+                                                                      Rates of Stock Price
+                                                                      Appreciation for Option
+                         Individual Grants                            Term
+
+
+                         
+                  Number of
+                  Securities
+                  Underlying
+                  Options/       % of Total Op-           Exercise
+                  SARS           tions/SARS Granted       or Base
+                  Granted        to Employees in          Price     Expiration               
+Name              (#)            Fiscal Year              ($/Share) Date           5%        10%  
+<S>               <C>            <C>                      <C>       <C>            <C>       <C>        
+ 
+
+
+Leon Riebman      2,500          4.0%                     $8.50     4/20/99        $5,875    $12,975
+
+
+George King       1,500          2.4%                     $10.25    1/18/00        $4,245    $9,390
+
+
+
+
+
+
+
+</TABLE>
+
+OPTION EXERCISES
+
+<TABLE>
+
+     The following table shows the number of shares acquired by the Executive Officers through the
+exercise of options during fiscal year 1995 and the value realized at the time of exercise.  This
+table also shows the number of securities underlying outstanding options and their realizable value
+at the end of the fiscal year based on a market price on February 24, 1995 of $15.00 per share.
+
+<CAPTION>
+
+        Aggregated Option/SAR Exercises In Last Fiscal Year and Fiscal Year-End Option/SAR Table
+
+                                                                 
+                                        Number of Securities     Value of Unexercised In-
+                                        Underlying Unexercised   The-Money Options/SARs at               
+                                        Options/SARs at Fiscal   Fiscal Year-End ($)
+                                        Year-End (#)
+                 Shares                                          
+                 Acquired     Value     
+                 On Exercise  Realized  Exercisable /            Exercisable /   
+Name             (#)          ($)       Unexercisable            Unexercisable     
+__________________________________________________________________________________________
+<S>                <C>        <C>       <C>                      <C> 
+Leon Riebman       2,500      $9,375    7,500/2,500              $69,600/$16,250
+
+
+
+George King        1,500      $5,820    10,500/12,000            $72,555/$62,625
+                    
+/TABLE
+<PAGE>
+
+COMPENSATION OF DIRECTORS
+
+     As adjusted effective September 1994, Directors who are not employees
+of the Company receive a retainer of $8,000 per year, a fee of $1,000 for
+each directors' meeting attended, and a fee of $660 ($760 for the
+Committtee Chairman) for each committee meeting attended, and are
+reimbursed for travel and other expenses of attending meetings.  For
+committee meetings that occur other than on a day adjacent to the regular
+Board meeting, fees are $860 for the Committee Chairman and $760 for the
+other members.
+
+     The Board of Directors appointed a Long Range Planning Committee for
+the purpose of considering strategic alternatives for the Company.  Due to
+the nature of their activities, the members of the Long Range Planning
+Committee were paid a flat fee of $3,000 each for the period November 1994
+to February 1995 in lieu of payment in accordance with the above schedule
+for committee meetings.
+<PAGE>
+PERFORMANCE GRAPH
+
+
+     Set forth below is a line graph comparing the cumulative total
+shareholder return on the Company's Class A common stock against the
+cumulative total return of the S&P 500 Stock Index and a peer group index
+prepared by the University of Chicago's Center for Research in Security
+Prices for the period of five fiscal years commencing February 23, 1990 and
+ending February 24, 1995.  The companies included in the peer group index
+below are the same as those included in the 1994 performance graph except
+for Ketema Inc. which is no longer active.
+
+
+                Comparison of Five-Year Cumulative Total Return*
+
+          AEL INDUSTRIES, INC., S & P 500 INDEX & PEER GROUP INDEX1
+
+     The points represented on the Performance Graph are as follows:
+
+
+     
+               02/23/90  02/22/91  02/28/92  02/26/93  02/25/94  02/24/95
+
+AEL Industries,
+  Inc.          100.0      86.4     145.5     118.2     154.5     272.7
+
+S&P 500 Index   100.0     117.0     136.3     150.7     162.4     175.0
+
+Peer Group 
+  Index         100.0     118.6     134.5     159.7     201.1     222.0
+
+
+
+
+
+
+
+
+
+
+* Assumes $100 invested in the Company and each index on February 23, 1990,
+and that all dividends are reinvested.
+
+1  Members of the Peer Group are Litton Industries, E-Systems, Watkins-
+Johnson, General Motors (Class H), Raytheon, ESCO Electronics, EG&G, Cubic, 
+JMAR Industries, Moog, Whitehall, Loral, Tech Sym, Sparton, Canadian Marconi,
+Edo, and Diagnostic Retrieval Systems.
+
+
+              <PAGE>
+EMPLOYMENT CONTRACTS AND TERMINATION OF EMPLOYMENT AND
+                          CHANGE-IN-CONTROL ARRANGEMENTS
+
+     On February 28, 1995, the Company's controlling shareholders, Dr. Leon
+Riebman and Claire E. Riebman, transferred all of their Class A nonvoting
+and Class B voting common stock into a voting trust controlled by four
+voting trustees, who are independent directors of the Company, to provide
+the Company's Board of Directors with increased flexibility in exploring
+the possible sale of the Company.  The voting trust has an initial term of
+nine months with an extension period of up to one additional year, subject
+to certain conditions.  The voting trustees have full power to vote the
+Riebmans' stock with regard to any proposed transaction for the sale of the
+Company.  Any proposal for the sale of the Company, and the agreements with
+the Riebmans referred to below, are subject to ratification by the Class A
+and Class B shareholders, each voting as a separate class.  Ratification of
+a proposal for the sale of the Company and ratification of the agreements
+with the Riebmans must be voted upon by the shareholders as a single
+proposition.
+
+     In consideration of the controlling shareholders entering the voting
+trust agreement, transferring their shares to the voting trust, and
+agreeing to accept the same per share price for their voting stock as other
+shareholders receive for their stock in the event of a sale of the Company,
+the Company issued 180,947 shares of Class A nonvoting stock to the
+Riebmans on February 28, 1995.  These shares have also been transferred
+into the voting trust and will be returned to the Company for cancellation
+without any payment to the Riebmans if a sale of the Company does not occur
+while the voting trust is in effect.
+
+     Under separate agreements also entered into on February 28, 1995, the
+Company has agreed to make the following payments to Dr. Riebman if the
+Company is sold while the voting trust is in effect:  payments totalling
+$675,000 for consulting services to be provided by Dr. Riebman for a three-
+year period after the sale of the Company, commencing with his employment
+termination; a change-in-control payment of $500,000 if Dr. Riebman's
+employment terminates after the sale of the Company; and a noncompetition
+payment of up to $1,900,000.  Dr. Riebman, for his part, has agreed not to
+voluntarily retire while these agreements remain in force.  During this
+period, his compensation and fringe benefits will continue to be determined
+by the Board of Directors.
+
+     In 1982, the Company entered into an Employment and Retirement
+Agreement with Dr. Riebman.  Although one of the February 1995 agreements
+served to supplement this Agreement, the amendments did not change the
+amount of retirement benefits or death benefits.  In accordance with the
+Employment and Retirement Agreement, upon his retirement, Dr. Riebman will
+receive, for ten years, annual retirement payments which are generally
+equal to 50% of his average salary and bonus during his last three years of
+full time employment (adjusted for changes in the cost of living), reduced
+by the $41,032 annuity value of the vested benefits paid to Dr. Riebman
+pursuant to the termination of the Company's pension plan. As of February
+24, 1995, Dr. Riebman's accrued retirement benefits under the agreement
+totaled $1,335,000.
+
+     In the event of Dr. Riebman's death, his employment and retirement
+payments will terminate and in lieu thereof his wife, if living, will
+receive an annual death benefit for a period of six years after his death
+(but not beyond the tenth anniversary of Dr. Riebman's retirement, or the
+date of her death, whichever is sooner) in an amount equal to the salary or
+retirement payments Dr. Riebman would have received in such years.
+
+     In 1986 the Company entered into a stock repurchase agreement with Dr.
+Riebman whereby upon the death of Dr. Riebman, his Estate has the right,
+exercisable by sending written purchase notice(s) to the Company at any
+time within one year after the date of death, to require the Company to
+purchase from the Estate the number and class of shares designated in the
+purchase notice and owned by the Estate on the date of death. Shares of
+stock owned jointly by Dr. Riebman and his wife would, for purposes of the
+agreement, be deemed owned by the Estate. The purchase price per share is
+determined by a formula designed to result in a price per share slightly
+below the market price for the Class A shares on the date the Company
+receives the purchase notice.  The total amount required to be expended by
+the Company pursuant to all purchase notices cannot exceed $250,000.  The
+initial term of the agreement was five years and the agreement will
+continue to be renewed automatically for successive five year periods
+unless the Company provides six months' prior notice of termination.  
+
+     In 1988 the Company entered into several agreements with George King,
+Executive Vice President.  The Change of Control Agreement provides that
+if, within 24 months after a change of control, Mr. King's employment is
+terminated by the Company or he resigns following a reduction in his
+salary, responsibilities or duties, then he or his surviving spouse will
+become entitled to receive certain payments (the "change of control
+benefit").  A change of control of the Company is deemed to have occurred
+when Dr. Leon Riebman and/or his wife own, in the aggregate, less than 50%
+of the outstanding Class B common stock of the Company (or, if no Class B
+common stock is outstanding, less than 15% of the outstanding Class A
+common stock, and another person owns more than 15%) and Dr. Riebman ceases
+to be Chief Executive Officer of the Company.  Mr. King or his surviving
+spouse will also be entitled to receive such payments if his employment is
+terminated without cause within twelve months prior to a change of control. 
+The value of the change of control benefit (paid over a 36-month period)
+will be approximately three times Mr. King's average annual salary, bonus
+and other taxable income from the Company for his last five years of
+employment, reduced by amounts paid contemporaneously pursuant to the
+Supplemental Benefits Agreement described below.  The value of the change
+of control benefit is also reduced by the present value of all other
+amounts paid under any other agreement, including property transferred,
+which are contingent upon a change of control.  The change of control
+benefit is expected to be a business expense deductible by the Company
+under the Internal Revenue Code.  The Change of Control Agreement
+terminates automatically upon the death or total disability of Mr. King, or
+upon his voluntary resignation (except as noted above) or termination for
+cause, and may be terminated at any time by the Company or Mr. King on 18
+months' notice.
+
+     The Supplemental Benefits Agreement provides that Mr. King will retire
+from active employment with the Company at age 65, unless the Board of
+Directors requests that he continue in his position.  If Mr. King retires
+at age 65 (or later if he continues his employment at the request of the
+Board) he or his surviving spouse will receive for ten years after
+retirement, as a supplemental retirement benefit, monthly payments equal to
+25% of average monthly earnings (salary plus bonus) for his highest paid
+three consecutive years of service with the Company.  If he leaves the
+Company prior to attaining age 65 he will be entitled to receive a reduced
+benefit (the amount of which depends on his age at the time his employment
+terminates) payable for ten years commencing when the Executive attains age
+62.  However, if he becomes completely and permanently disabled while
+employed by the Company he will receive the full 25% benefit.  If Mr. King
+dies while employed by the Company, or after terminating employment but
+before payments commence, his surviving spouse will receive, in lieu of the
+supplemental retirement benefit, a death benefit consisting of monthly
+payments equal to 25% of his average monthly earnings for his highest paid
+three consecutive years of service.  Death benefit payments will commence
+when Mr. King would have attained age 65 and will continue for ten years or
+until his surviving spouse's death, whichever occurs sooner.
+
+     Pursuant to the agreements, Mr. King received an option to purchase
+15,000 shares of Class A common stock of the Company.  The exercise price
+of each option is equal to the market price on the date of issuance.  Mr.
+King's option expires on December 31, 2002.  The option was initially
+exercisable for 10% of the total number of shares.  Additional increments 
+become exercisable approximately at five-year intervals, so that the option
+will be fully exercisable when Mr. King attains age 65.  The option also
+becomes fully exercisable if, within 24 months after a change of control,
+Mr. King's employment is terminated by the Company or he resigns following
+a reduction in his salary, responsibilities or duties.  To the extent
+unexercised, the stock option terminates upon voluntary resignation (except
+in the circumstances mentioned in the preceding sentence, in which case the
+option terminates three months after resignation) and three months after
+the termination of employment other than by voluntary resignation.  Mr.
+King's personal representative may exercise the option within three months
+after his death to the extent that he could have exercised it on the date
+of his death.
+
+     No special or separate fund is provided for the payment of any of the
+foregoing benefits but the Company is permitted to fund the same with
+insurance on the individual's life if it so desires.  All payments are
+subject to the individual's compliance with certain confidentiality, non-
+competition and other provisions.  Mr. King has waived any age
+discrimination claim related to his agreement to retire at age 65.  
+<PAGE>
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+
+    All voting rights are vested in the Company's Class B common stock,
+except that the Class A common stock votes as a class on any matter
+directly affecting the rights and privileges of such class or as otherwise
+required by law.  Dr. Leon Riebman and Conrad J. Fowler each beneficially
+own more than 5% of the Class B common stock.  Dr. Riebman is an executive
+officer and both are directors of the Company and their mailing address is
+305 Richardson Road, Lansdale, Pennsylvania  19446-1429.
+
+     On February 28, 1995 Dr. Riebman and his wife, Claire E. Riebman (the
+"Riebmans") transferred all of their AEL stock into a Voting Trust
+established pursuant to a Voting Trust Agreement between the Company and
+the Riebmans.  The Voting Trust is controlled by Francis J. Dunleavy,
+Frederick R. Einsidler, Conrad J. Fowler and Leeam Lowin, the four
+independent directors who comprise the Long Range Planning Committee of the
+Board of Directors, in their capacity as Voting Trustees.  The Voting
+Trustees have full power to vote the Riebmans' stock in any proposed
+transaction for the sale of the Company.  
+
+     The following table shows all equity securities of the Company
+beneficially owned (a), directly or indirectly, as of May 5, 1995, by each
+director and executive officer and by all directors and executive officers
+as a group:
+
+                              Class A   Percent   Class B   Percent
+                              Common    of        Common    of
+Name                          Stock(b)  Class(b)  Stock     Class
+
+Francis J. Dunleavy...          1,900     *          0        0
+Frederick R. Einsidler            627     *          0        0
+Conrad J. Fowler......            143(c)  *       76,874(c)  18%
+Leeam Lowin...........      1,075,700(d) 30%         0        0
+Lloyd W. Moffit.......            400     *          0        0
+Dr. Leon Riebman......        199,093(e)  6%     241,262(e)  58%
+Robert Riebman........          4,500     *          0        0
+George King...........         15,441(f)  *          297(f)   *
+
+All Directors and           1,297,804    36%     318,433     76%
+Executive Officers as
+a group       
+________________
+
+*less than 1%
+
+(a)The securities "beneficially owned" are determined in accordance with
+the definitions of "beneficial ownership" as set forth in the releases of
+the Securities and Exchange Commission applicable as of the date hereof, and,
+accordingly, may include securities owned by or for, among others,
+spouses and/or minor children of the individual and other relatives who
+have the same home as such individual as well as other securities as to
+which the individual has or shares voting or investment power or has the
+right to acquire under outstanding stock options within 60 days after May
+5, 1995.  Beneficial ownership may be disclaimed as to certain of the
+securities.
+
+(b)  Each share of Class B common stock is convertible, at the option of
+     the holder, into one share of Class A common stock.  The figures in
+     these columns do not reflect the additional shares of Class A common
+     stock acquirable upon conversion of Class B common stock.  
+
+(c)  The sole voting and investment power of the Class A shares 
+     belongs to Mr. Fowler's wife, who also has sole voting and investment
+     power with respect to 32,789 Class B shares.  Mr. Fowler has sole
+     voting and investment power as to the remaining Class B shares.
+
+(d)  Mr. Lowin has sole voting and investment power with respect to 583,000
+     shares and shared investment power with respect to 475,700 shares. 
+     The sole voting power with respect to these 475,700 shares rests with
+     other persons.  The sole voting and investment power of an additional
+     17,000 shares belongs to Mr. Lowin's wife.
+
+(e)  Dr. Riebman and Mrs. Riebman share voting and investment power with
+     respect to 191,593 Class A shares with Francis J. Dunleavy, Frederick
+     R. Einsidler, Conrad J. Fowler and Leeam Lowin, Voting Trustees Under
+     Voting Trust Agreement dated as of February 28, 1995.  The remaining
+     Class A shares are in the form of options exercisable within 60 days
+     after May 5, 1995, are held solely by Dr. Riebman, and are required to
+     be deposited in the Voting Trust upon acquisition.  Dr. and Mrs.
+     Riebman also share voting and investment power with respect to 241,262
+     Class B shares with Francis J. Dunleavy, Frederick R. Einsidler,
+     Conrad J. Fowler and Leeam Lowin, Voting Trustees Under Voting Trust
+     Agreement dated as of February 28, 1995.  The Voting Trustees are not 
+     benefical owners of any of these Class A or Class B shares in their
+     individual capacities.
+
+(f)  Mr. King and his wife share voting and investment power with respect
+     to 4,941 Class A shares and 297 Class B shares.  The remaining shares
+     are in the form of options exercisable within 60 days after May 5,
+     1995 and are held solely by Mr. King.
+
+     As of May 5, 1995, Raymond S. Markowitz, a Vice President of the
+Company owned less than 1% of the Company's Class A common stock and 24,963
+shares of Class B common stock (6% of the class).  His mailing address is
+305 Richardson Road, Lansdale, PA  19446-1429.  He is not an executive
+officer of the Company.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+     No reportable transactions, except as previously described under the
+heading "Employment Contracts and Termination of Employment and Change-In-
+Control Arrangements", in Item 11 of this Report.<PAGE>
+                   
+
+                               PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+     (a)  List of documents filed as part of this report.
+
+          1.        Financial statements and Financial Statement Schedules.
+
+          a.        The financial statements of the Company set forth under Item
+                    8 of this report.
+
+          b.        The Financial Statement Schedule II - Valuation and
+                    Qualifying Accounts - as required by Regulation S-X.  All
+                    other schedules are omitted since the required information
+                    is not present or is not present in amounts sufficient to
+                    require submission of the schedule, or because the
+                    information required is included in the financial 
+                    statements and notes thereto.
+
+          2.   Exhibits
+
+                    The exhibits listed in the accompanying index to exhibits
+                    are filed as part of this annual report.  EXHIBITS 10A
+                    THROUGH 10N IN THE ACCOMPANYING INDEX TO EXHIBITS, LISTING
+                    THE COMPANY'S EXECUTIVE COMPENSATION PLANS AND ARRANGEMENTS
+                    ARE FILED PURSUANT TO ITEM 14(C) OF THIS REPORT.
+
+     (b)  Reports on Form 8-K
+
+          No reports on Form 8-K were filed during the fourth quarter of
+fiscal year 1995. <PAGE>
+                                       
+                                   AEL INDUSTRIES, INC.
+                  SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                     FOR THE THREE YEARS ENDED FEBRUARY 24, 1995
+                                   (Dollars in Thousands)
+<TABLE>
+<CAPTION>
+                                   Balance at  Charged                 Balance at
+                                   beginning   to costs &              end of
+Description                        of period   expenses    Deductions  period
+- -----------------------            ---------   ---------   ---------   ---------
+<S>                                <C>         <C>         <C>         <C>
+February 26, 1993:
+
+    Allowance for contract losses  $7,571      $6,494      $9,656 (a)  $4,409
+                                   =========   =========   =========   =========
+    Inventory allowance . . . . . .$1,273        $465        $714 (b)  $1,024
+                                   =========   =========   =========   =========
+    Allowance for bad debts . . . .  $201          $7          $7 (c)    $201
+                                   =========   =========   =========   =========
+
+
+February 25, 1994:
+
+    Allowance for contract losses  $4,409      $6,650      $7,195 (a)  $3,864
+                                   =========   =========   =========   =========
+    Inventory allowance . . . . . .$1,024        $245        $311 (b)    $958
+                                   =========   =========   =========   ========
+    Allowance for bad debts . . . .  $201          $9         $26 (c)    $184
+                                   =========   =========   =========   =========
+
+
+February 24, 1995:
+
+    Allowance for contract losses  $3,864      $8,585      $8,839 (a)  $3,610
+                                   =========   =========   =========   =========
+    Inventory allowance . . . . . .  $958                    $201 (b)    $757
+                                   =========   =========   =========   =========
+    Allowance for bad debts . . . .  $184         $16          $0 (c)    $200
+                                   =========   =========   =========   =========
+
+
+
+(a)  Deductions are a result of allowance usage over the terms of the
+related contracts.
+(b)  Deductions are a result of physical disposal of inventory for which
+allowances were previously provided.
+(c)  Deductions are a result of write-offs of uncollectible accounts
+receivable for which allowances were previously provided.
+</TABLE>
+
+<PAGE>
+SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                          AEL INDUSTRIES, INC.
+Attest:
+
+                                             
+/s/John R. Cox                            By: /s/George King
+John R. Cox                               George King, Executive Vice
+Secretary                                 President and Chief Financial
+                                          Officer
+          
+
+Date: May 17, 1995
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+     
+Signature                Title                         Date
+
+(i)  Principal Executive 
+     Officer   
+
+/s/ Leon Riebman         Chairman of the Board         May 17, 1995
+Leon Riebman
+
+(ii)  Principal Financial
+      Officer
+
+/s/ George King          Executive Vice President      May 17, 1995
+George King              and Chief Financial Officer 
+
+(iii)  Principal Accounting
+       Officer
+
+/s/ John F. Sharkey      Vice President, Finance       May 17, 1995
+John F. Sharkey               
+
+
+<PAGE>
+
+
+Signature                       Title                    Date
+
+(iv)  A Majority of the Board
+      of Directors
+
+
+/s/ Francis J. Dunleavy        Director                 May 17, 1995 
+Francis J. Dunleavy
+
+
+/s/ Frederick R. Einsidler     Director                 May 17, 1995  
+Frederick R. Einsidler
+
+
+/s/ Conrad J. Fowler           Director                 May 17, 1995  
+Conrad J. Fowler
+
+
+/s/ Leeam Lowin                Director                 May 17, 1995  
+Leeam Lowin
+
+
+/s/ Lloyd W. Moffit            Director                 May 17, 1995
+Lloyd W. Moffit
+
+
+/s/ Leon Riebman               Director                 May 17, 1995   
+Leon Riebman                                              
+
+
+/s/ Robert Riebman             Director                 May 17, 1995  
+Robert Riebman
+
+<PAGE>
+
+
+
+                                INDEX TO EXHIBITS
+                        
+
+3A                       Articles of Incorporation as amended and
+                         restated through April 2, 1993 (Incorporated
+                         by reference to Exhibit 3A in the Company's
+                         Form 10K Report for the fiscal year ended
+                         February 26, 1993)
+
+3B                       Bylaws as amended through February 28, 1995.
+
+9                        Voting Trust Agreement dated February 28,
+                         1995 between AEL Industries, Inc., Dr. Leon
+                         Riebman and Claire E. Riebman, and Francis J.
+                         Dunleavy, Frederick R. Einsidler, Conrad J.
+                         Fowler and Leeam Lowin, as voting trustees
+                         (Incorporated by reference to Exhibit B in
+                         the Company's Form 8-K Report dated February
+                         28, 1995)
+
+10A                      Incentive Stock Option Plan effective January
+                         1, 1992 (Incorporated by reference to Exhibit
+                         10A in the Company's Form 10-K Report for the
+                         fiscal year ended February 28, 1992)
+
+10B                      Nonqualified Stock Option Plan as amended
+                         through April 10, 1991 (Incorporated by
+                         reference to Exhibit 10B in the Company's
+                         Form 10-K Report for the fiscal year ended
+                         February 22, 1991)
+
+10C                      AEL Bonus Plan for Senior Employees amended
+                         and restated as of February 28, 1992
+                         (Incorporated by reference to Exhibit 10C in
+                         the Company's Form 10-K Report for the fiscal
+                         year ended February 28, 1992)
+
+10D                      Stock Repurchase Agreement dated April 16,
+                         1986 between AEL Industries, Inc. and Leon
+                         Riebman (Incorporated by reference to Exhibit
+                         10G in the Company's Form 10-K Report for the
+                         fiscal year ended February 28, 1986)
+
+10E                      Employment and Retirement Agreement dated
+                         January 9, 1982 between AEL Industries, Inc.
+                         and Leon Riebman (Incorporated by reference
+                         to Exhibit 10A in the Company's Form 10-K
+                         Report for the fiscal year ended February 26,
+                         1982)
+
+10F                      Amendment No. 1 dated November 14, 1991 to
+                         Employment and Retirement Agreement dated
+                         January 9, 1982 between AEL Industries, Inc.
+                         and Leon Riebman (Incorporated by reference
+                         to Exhibit 10F in the Company's Form 10-K
+                         Report for the fiscal year ended February 28,
+                         1992)
+
+10G                      Employment and Retirement Agreement dated
+                         October 15, 1980 between AEL Industries, Inc.
+                         and Conrad J. Fowler (Incorporated by
+                         reference to Company's S-1 Registration
+                         Statement No. 2-71264, Amendment No. 2, dated
+                         May 15, 1981)
+
+10H                      Supplemental Benefits Agreement dated April
+                         25, 1988, between AEL Industries, Inc. and
+                         Mark H. Ronald (Incorporated by reference to
+                         Exhibit 10I in the Company's Form 10-K Report
+                         for the fiscal year ended February 24, 1989)
+
+10I                      Change of Control, Nonqualified Stock Option
+                         and Supplemental Benefits Agreements dated
+                         May 16, 1988, between AEL Industries, Inc.
+                         and George King (Incorporated by reference to
+                         Exhibit 10I in the Company's Form 10-K Report
+                         for the fiscal year ended February 24, 1989)
+
+10J                      Amendment No. 1 dated as of September 1, 1994
+                         to Agreements between AEL Industries, Inc.
+                         and Senior Executives dated as of August 1,
+                         1993.  (Basic Agreement incorporated by
+                         reference to Exhibit 10J in the Company's 10-
+                         K Report for the fiscal year ended February
+                         25, 1994)
+
+10K                      Agreement between AEL Industries, Inc. and
+                         Teachers Insurance and Annuity Association of
+                         America dated March 30, 1988 (Incorporated by
+                         reference to Exhibit 10M in the Company's
+                         Form 10-K Report for the fiscal year ended
+                         February 24, 1989)
+
+10L                      Agreement between AEL Industries, Inc. and
+                         Leon Riebman and Claire E. Riebman dated
+                         February 28, 1995 (Incorporated by reference
+                         to Exhibit A in the Company's Form 8-K Report
+                         dated February 28, 1995)
+
+10M                      1995 Agreement between AEL Industries, Inc.
+                         and Leon Riebman dated February 28, 1995,
+                         amending Exhibit 10E Employment and
+                         Retirement Agreement, (Incorporated by
+                         reference to Exhibit C in the Company's Form
+                         8-K Report dated February 28, 1995)
+
+10N                      Participation Rights Agreement between AEL
+                         Industries, Inc. and Leon Riebman dated
+                         February 28, 1995 (Incorporated by reference
+                         to Exhibit D in the Company's Form 8-K Report
+                         dated February 28, 1995)
+
+11                       Statement re computation of per share
+                         earnings (or loss)
+
+13                       Portions of 1995 Annual Report to
+                         Shareholders specifically incorporated by
+                         reference elsewhere in this report.
+
+22                       List of Subsidiaries
+
+23                       Consent of Ernst & Young LLP.
+
+27                       Financial Data Schedule
+                                                    
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.(II)
+<SEQUENCE>2
+<DESCRIPTION>BY-LAWS AMENDED THRU 2/28/95
+<TEXT>
+
+
+                                     BYLAWS
+
+
+
+ARTICLE I.     NAME AND SEAL.
+
+     Section 101.   Name.   The name of the Corporation is AEL Industries,
+Inc.
+
+     Section 102.   State of Incorporation.  The Corporation has been
+incorporated under the laws of the Commonwealth of Pennsylvania.
+
+     Section 103.   Seal.  The corporate seal of the Corporation shall have
+inscribed thereon the name of the Corporation, the year of its
+organization, the words "Corporate Seal", and the name of the State of
+Incorporation.  The seal may be used by any person authorized by the Board
+of Directors of the Corporation or by these Bylaws by causing the seal or a
+facsimile thereof to be impressed or affixed, or in any manner reproduced.
+
+ARTICLE II.    REGISTERED AND PRINCIPAL OFFICES.
+
+     Section 201.   Registered Office.  The registered office of the
+Corporation in the State of Incorporation shall be at 
+
+               305 Richardson Road
+               Lansdale, Pa.  19446
+
+     Section 202.   Offices.  The principal office of the Corporation and
+any other offices of the Corporation shall be located at such places,
+within and without the State of Incorporation, as the Board of Directors
+may from time to time determine or as the business of the Corporation may
+require.
+
+ARTICLE III.   MEETINGS OF SHAREHOLDERS.
+
+     Section 301.   Place of Meetings.  All meetings of the shareholders
+shall be held at such place or places, within or without the State of
+Incorporation, as shall be determined by the Board of Directors from time
+to time.
+
+     Section 302.   Annual Meetings.  The annual meeting of the
+shareholders for the election of directors and the transaction of such
+other business as may properly come before the meeting shall be held at
+such place and at such time as the Board of Directors shall fix.  Any
+business which is a proper subject for shareholder action may be transacted
+at the annual meeting, irrespective of whether the notice of said meeting
+contains any reference thereto, except as otherwise provided by applicable
+statute or regulation.
+
+     Section 303.   Conduct of Shareholders' Meetings.  The Chairman of the
+Board or the President shall preside at all shareholders' meetings, or, in
+their absence, any vice president.  The officer presiding over the
+shareholders' meeting may establish such rules and regulations for the
+conduct of the meeting as he may deem to be reasonably necessary or
+desirable for the orderly and expeditious conduct of the meeting.  The
+revocation of a proxy shall not be effective until written notice thereof
+has been given to the Secretary of the Corporation.
+
+ARTICLE IV.    DIRECTORS AND BOARD MEETINGS.
+
+     Section 401.   Management by Board of Directors.  The business and
+affairs of the Corporation shall be managed by its Board of Directors.  The
+Board of Directors may exercise all such powers of the Corporation and do
+all such lawful acts and things as are not by statute or by the Articles of
+Incorporation or by these Bylaws directed or required to be exercised or
+done by the shareholders.
+
+     Section 402.   Number of Directors.  The Board of Directors shall
+consist of not less than three (3) nor more than ten (10) directors.  The
+number of directors to be elected, subject to the foregoing limits, shall
+be determined by resolution of the Board of Directors.  The directors shall
+be elected by the shareholders at the annual meeting of shareholders to
+serve until the next annual meeting of shareholders.  Each director shall
+serve until his successor shall have been elected and shall qualify, even
+though his term of office as herein provided has otherwise expired, except
+in the event of his earlier resignation or removal.
+
+     Section 403.   Resignations.  Any director may resign at any time. 
+Such resignation shall be in writing, but the acceptance thereof shall not
+be necessary to make it effective.
+     
+     Section 404.   Compensation of Directors.  No director shall be
+entitled to any salary as such; but the Board of Directors may fix, from
+time to time, a reasonable fee to be paid each director for his services in
+attending meetings of the Board.  Directors may also be reimbursed by the
+Corporation for all reasonable expenses incurred in attending each meeting
+of the Board or any Committee of the Board.  
+
+     Section 405.   Regular Meetings.  Regular meetings of the Board of
+Directors shall be held on such day and at such hour as the Board shall
+from time to time designate.  The Board of Directors shall meet for
+reorganization at the first regular meeting following the annual meeting of
+shareholders at which the directors are elected.  Notice of regular
+meetings of the Board of Directors need not be given.
+
+     Section 406.   Special Meetings.  Special meetings of the Board of
+Directors may be called by the Chairman of the Board or the President and
+shall be called whenever two or more members of the Board so request in
+writing.  Notice of the time and place of every special meeting, which need
+not specify the business to be transacted thereat and which may be either
+verbal or in writing, shall be given by the Secretary to each member of the
+Board at least one calendar day before the date of such meeting.
+
+     Section 407.   Reports and Records.  The reports of officers and
+committees shall be filed with the Secretary.  The Board of Directors shall
+keep complete records of its proceedings in a minute book kept for that 
+purpose.  When a director shall request it, the vote of each director upon
+a particular question shall be recorded in the minutes.
+
+     Section 408.   Executive Committee.  The Board of Directors may,
+without limiting its right to establish other committees, establish an
+Executive Committee of the Board which shall consist of any two or more
+directors. The Executive Committee shall have and exercise the authority of
+the Board of Directors in the management and affairs of the Corporation,
+except as otherwise provided in the resolution establishing the Executive
+Committee.
+
+     Section 409.   Absence or Disqualification of Committee Members.  In
+the absence or disqualification of any member of any committee or
+committees established by the Board of Directors, the member or members
+thereof present at any meeting of such committee or committees, and not
+disqualified from voting, whether or not he or they constitute a quorum,
+may unanimously appoint another director to act at the meeting in the place
+of any such absent or disqualified member.
+
+ARTICLE V.     OFFICERS.
+
+     Section 501.   Officers.  The officers of the Corporation shall be a
+President, Chairman of the Board, one or more Vice Presidents, a Secretary,
+a Treasurer, and such other officers or assistant officers as the Board of
+Directors may from time to time deem advisable.  Except for the President,
+Secretary and Treasurer, the Board may refrain from filling any of the said
+offices at any time and from time to time.  Officers shall be elected by
+the Board of Directors at the time and in the manner as the Board of
+Directors from time to time shall determine.  Each officer shall hold
+office for a term extending until the first regular meeting of the Board of
+Directors following the annual meeting of shareholders and until his
+successor shall have been elected and shall qualify, except in the event of
+his earlier resignation or removal.
+
+     Section 502.  Chairman of the Board.  The Chairman of the Board shall
+be the Chief Executive Officer and shall preside at meetings of the Board
+of Directors.  He shall be responsible for directing the business of the
+Corporation with the objective of providing maximum profit and return on
+invested capital.  He shall determine the basic objectives of the
+Corporation, formulating plans and policies and allocating resources for
+the achievement of these objectives, subject to the approval of the Board
+of Directors. The Chairman of the Board shall also perform such other
+duties as may be prescribed by the Board of Directors.
+
+     Section 503.  President.  The President shall be the Chief Operating
+Officer and shall direct, administer and coordinate the activities of the
+Corporation in accordance with policies, goals and objectives established
+by the Chief Executive Officer and the Board of Directors.  He shall be
+accountable for the full range of operations of the Corporation, providing
+operational guidance and analyzing and appraising the effectiveness of all
+operations.  The President shall also perform such other duties as may be
+prescribed by the Chairman of the Board or the Board of Directors.
+
+     Section 504.   Vice Presidents.  The Vice Presidents shall perform
+such duties and do such acts as may be prescribed by the Board of Directors
+or the President.  Subject to the provisions of this Section, the Vice 
+Presidents in order of their seniority shall perform the duties and have the 
+powers of the President in the event of his absence or disability.
+
+     Section 505.  Chief Financial Officer.  The Chief Financial Officer
+shall be responsible for the Corporation's overall financial plans and
+policies and its accounting practices.  He shall direct the treasury,
+budgeting, auditing, tax and accounting activities for the Corporation and
+its subsidiaries.  He shall on request render to the Chief Executive
+Officer and the Board of Directors an account of all financial transactions
+of the Corporation and of its financial condition.  The Chief Financial
+Officer shall act under the direction of the Chief Executive Officer and
+shall also perform such other duties as may be prescribed by the Chief
+Executive Officer or the Board of Directors.
+
+     Section 506.  Treasurer.  The Treasurer shall act under the direction
+of the Chief Financial Officer.  He shall be responsible for the conduct of
+the Corporation's relationship with lending institutions, shareholders and
+the financial/investment community.  He shall be responsible for managing
+the investment of corporate funds and for overseeing the management of the
+Corporation's pension and retirement funds.  The Treasurer shall also
+perform such other duties as may be prescribed by the Chief Financial
+Officer.
+
+     Section 507.   Secretary.  The Secretary shall act under the direction
+of the Chief Executive Officer.  Unless a designation to the contrary is
+made at a meeting, the Secretary shall attend all meetings of the Board of
+Directors and all meetings of the shareholders and record all of the
+proceedings of such meetings in a book to be kept for that purpose, and
+shall perform like duties for the standing committees when required.  The
+Secretary shall give, or cause to be given, notice of all meetings of the
+shareholders and special meetings of the Board of Directors, and shall
+perform such other duties as may be prescribed by the President or the
+Board of Directors.  The Secretary shall keep in safe custody the seal of
+the Corporation, and, when duly authorized to do so, cause it to be affixed
+to any instruments requiring it.
+
+     Section 508.   Assistant Officers.  Any assistant officers elected by
+the Board of Directors shall have such duties as may be prescribed by the
+Board of Directors, the President, or the officer to whom they are an
+assistant.  Assistant officers shall perform the duties and have the power
+of the officer to whom they are an assistant in the event of such officer's
+absence or disability.
+     
+     Section 509.  Compensation.  Unless otherwise provided by the Board of
+Directors, the salaries and compensation of all officers shall be fixed by
+the Chief Executive Officer, except that the salary and compensation of the
+Chief Executive Officer shall be fixed by the Board of Directors.
+
+     Section 510.   General Powers.  The officers are authorized to do and
+perform such corporate acts as are necessary in the carrying on of the
+business of the Corporation, subject always to the directions of the Board
+of Directors.
+
+ARTICLE VI.    PERSONAL LIABILITY OF DIRECTORS AND INDEMNIFICATION.
+
+     601.  Personal Liabilities of Directors.
+
+     (a)  A director of this Corporation shall not be personally liable for
+monetary damages as such for any action taken, or any failure to take any
+action, unless
+
+          (1)  the director has breached or failed to perform the duties of
+his office under Section 8363 of the Pennsylvania Directors' Liability Act
+(which, as amended from time to time, is hereafter called the "Directors'
+Liability Act"); and
+
+          (2)  the breach or failure to perform constitutes self-dealing,
+willful misconduct or recklessness.
+
+     602.  Mandatory Indemnification of Directors and Officers.
+
+     The Corporation shall, to the fullest extent permitted by applicable
+law, indemnify its directors and officers who were or are a party or are
+threatened to be made a party to any threatened, pending or completed
+action, suit or proceeding, whether civil, criminal, administrative or
+investigative, (whether or not such action, suit or proceeding arises or
+arose by or in the right of the Corporation or other entity) by reason of
+the fact that such director or officer is or was a director or officer of
+the Corporation, or is or was serving at the request of the Corporation as
+a director, officer, employee, general partner, agent or fiduciary of
+another corporation, partnership, joint venture, trust or other enterprise
+(including service with respect to employee benefit plans), against
+expenses (including, but not limited to, attorneys' fees and costs),
+judgments, fines, (including excise taxes assessed on a person with respect
+to any employee benefit plan) and amounts paid in settlement actually and
+reasonably incurred by such director or officer in connection with such
+action, suit or proceeding, except as otherwise provided in Section 604.  A
+director or officer of the Corporation entitled to indemnification under
+this Section 602 is hereafter called a "person covered by Section 602".
+
+     
+
+
+     603.  Expenses.
+
+     Expenses incurred by a person covered by Section 602 in defending a
+threatened, pending or completed civil or criminal action, suit or
+proceeding shall be paid by the Corporation in advance of the final
+disposition of such action, suit or proceeding upon receipt of an
+undertaking by or on behalf of such person to repay such amount if it shall
+ultimately be determined that such person is not entitled to be indemnified
+by the Corporation, except as otherwise provided in Section 604.
+
+     604.  Exceptions.
+
+     No indemnification under Section 602 or advancement or reimbursement
+of expenses under Section 603 shall be provided to a person covered by
+Section 602 (a) with respect to expenses or the payment of profit arising
+from the purchase or sale of securities of the Corporation in violation of
+Section 16(b) of the Securities Exchange Act of 1934; (b) if a final
+unappealable judgment or award establishes that such director or officer
+engaged in self-dealing, willful misconduct or recklessness; (c) for
+expenses or liabilities of any type whatsoever (including, but not limited
+to, judgments, fines, and amounts paid in settlement) which have been paid
+to or for the benefit of such person by an insurance carrier under a policy
+of liability insurance the premiums for which are paid by the Corporation
+or any entity or individual other than such person; and (d) for amounts
+paid in settlement of any threatened, pending or completed action, suit or
+proceeding without the written consent of the Corporation, which shall not
+be unreasonably withheld.  The Board of Directors of the Corporation is
+hereby authorized, at any time by resolution, to add to the above list of
+exceptions from the right of indemnification under Section 602 or
+advancement of reimbursement of expenses under Section 603, but any such
+additional exception shall not apply with respect to any event, act or
+omission which has occurred prior to the date that the Board of Directors
+in fact adopts such resolution.  Any such additional exception may, at any
+time after its adoption, be amended, supplemented, waived or terminated by
+further resolution of the Board of Directors of the Corporation.
+
+     605.  Continuation of Rights.
+
+     The indemnification and advancement or reimbursement of expenses
+provided by, or granted pursuant to, this Article shall continue as to a
+person who has ceased to be a director or officer of the Corporation, and
+shall inure to the benefit of the heirs, executors and administrators of
+such person.
+
+     606.  General Provisions.
+
+     (a)  The term "to the fullest extent permitted by applicable law", as
+used in this Article, shall mean the maximum extent permitted by public
+policy, common law or statute.  Any person covered by Section 602 may, to
+the fullest extent permitted by applicable law, elect to have the right to
+indemnification or to advancement or reimbursement of expenses,
+interpreted, at such person's option, (i) on the basis of the applicable
+law on the date this Article was approved by shareholders, or (ii) on the
+basis of the applicable law in effect at the time of the occurrence of the
+event or events giving rise to the action, suit or proceeding, or (iii) on
+the basis of the applicable law in effect at the time indemnification is
+sought.
+
+     (b)  The right of a person covered by Section 602 to be indemnified or
+to receive an advancement or reimbursement of expenses pursuant to Section
+603 (i) may also be enforced as a contract right pursuant to which the
+person entitled thereto may bring suit as if the provisions hereof were set
+forth in a separate written contract between the Corporation and such
+person, (ii) to the fullest extent permitted by applicable law, is intended
+to be retroactive and shall be available with respect to events occurring
+prior to the adoption hereof, and (iii) shall continue to exist after the
+rescission or restrictive modification (as determined by such person) of
+this Article with respect to events, acts or omissions occurring before
+such rescission or restrictive modification is adopted.
+
+     (c)  If a request for indemnification or for the advancement or
+reimbursement of expenses pursuant hereto is not paid in full by the
+Corporation within sixty days after a written claim has been received by
+the Corporation together with all supporting information reasonably
+requested by the Corporation, the claimant may at any time thereafter bring
+suit against the Company to recover the unpaid amount of the claim (plus
+interest at the prime rate announced from time to time by the Corporation's
+primary banker) and, if successful in whole or in part, the claimant shall
+be entitled also to be paid the expenses (including, but not limited to,
+attorneys' fees and costs) of prosecuting such claim.  
+
+     (d)  The indemnification and advancement or reimbursement of expenses
+provided by, or granted pursuant to, this Article shall not be deemed
+exclusive of any other rights to which those seeking indemnification or
+advancement or reimbursement of expenses may be entitled under any bylaw,
+agreement, vote of shareholders or directors or otherwise, both as to
+action in his official capacity and as to action in another capacity while
+holding that office.
+
+     (e)  The provisions of this Article may, at any time (and whether
+before or after there is any basis for a claim for indemnification or for
+the advancement or reimbursement of expenses pursuant hereto), be amended,
+supplemented, waived, or terminated, in whole or in part, with respect to
+any person covered by Section 602 by a written agreement signed by the
+Corporation and such person.
+
+     (f)  The Corporation shall have the right to appoint the attorney for
+a person covered by Section 602, provided such appointment is not
+unreasonable under the circumstances.
+
+     607.  Optional Indemnification.
+
+     The Corporation may, to the fullest extent permitted by applicable
+law, indemnify, and advance or reimburse expenses for, persons (whether or
+not directors or officers) in all situations other than those covered by
+this Article.
+
+     608.  Prior Bylaws.
+
+     Any bylaw provisions which are amended, replaced or repealed by this
+Article shall continue to apply to any breach of performance of duty or any
+failure of performance of duty by any director or officer to which this
+Article does not apply by reason of Section 8367 of the Directors'
+Liability Act.
+
+ARTICLE VII.   SHARE OF CAPITAL STOCK.
+
+     Section 701.   Authority to Sign Share Certificates.  Every share
+certificate shall be signed by the Chairman of the Board, the President 
+or one of the Vice Presidents and by the Secretary or one of the Assistant
+Secretaries.  To the extent permitted by law such signatures may be
+facsimiles, engraved or printed.
+
+
+     Section 702.   Lost or Destroyed Certificates.  Any person claiming a
+share certificate to be lost, destroyed or wrongfully taken shall receive a
+replacement certificate if said shareholder shall have: (a) requested such
+replacement certificate before the Corporation has notice that the shares
+have been acquired by a bona fide purchaser; (b) provided the Corporation
+with an indemnity agreement satisfactory in form and substance to the Board
+of Directors, or President or the Secretary; and (c) satisfied any other
+reasonable requirements (including, without limitation, providing a surety
+bond) fixed by the Board of Directors, or the President or the Secretary.
+
+ARTICLE VIII.  GENERAL.
+
+     Section 801.   Fiscal Year.  The fiscal year of the Corporation shall
+be determined by the Board of Directors.
+
+     Section 802.   Signing Checks.  All checks or demands for money and
+notes of the Corporation shall be signed by such officer, officers, or
+other person or persons as the Board of Directors may from time to time
+designate.
+
+     Section 803.   Record Date.  The Board of Directors may fix any time
+whatsoever (whether or not the same is more than fifty days) prior to the
+date of any meeting of shareholders, or the date fixed for the payment of
+any dividends or distribution, or the date for the allotment of rights, or
+the date when any change or conversion or exchange of shares will be made
+or will go into effect, as a record date for the determination of the
+shareholders entitled to notice of, or to vote at any such meeting, or
+entitled to receive payment of any such dividend or distribution, or to
+receive any such allotment of rights, or to exercise the rights in respect
+to any such change, conversion or exchange of shares.
+
+     Section 804.   Text of Proposed Resolution in Written Notice. 
+Whenever the language of a proposed resolution is included in a written
+notice to shareholders, the shareholders' meeting considering the
+resolution may adopt it with such clarifying or other amendments as do not
+enlarge its original purpose, without further notice to shareholders not
+present in person or by proxy.
+
+     Section 805.   Absentee Participation in Meetings.  One or more
+directors or shareholders may participate in a meeting of the Board of
+Directors, or of a committee of the Board, or a meeting of the
+shareholders, by means of a conference, telephone or similar communications
+equipment, by means of which all persons participating in the meeting can
+hear each other.
+
+     Section 806.   Emergency Bylaws.  In the event of any emergency
+resulting from warlike damage or an attack on the United States or any
+nuclear or atomic disaster, and until the termination of such emergency,
+the following Bylaw provisions shall be in effect, notwithstanding any
+other provisions of these Bylaws:
+
+     (a)  A special meeting of the Board of Directors may be called by any
+officer or director upon one hour's notice, and
+
+     (b)  The director or directors in attendance at the meeting shall
+constitute a quorum.
+
+     Section 807.  Section 910 of the Pennsylvania Business Corporation Law
+shall not be applicable to this Corporation; the provisions of Section 910
+shall not be applicable with respect to any stock previously or hereafter
+issued, whether the same has voting rights at the time of issuance or
+acquired voting rights at any time thereafter.
+
+     Section 808.  Financial Reports.  Unless the Corporation shall have
+100 or more shareholders of record on the last day of a fiscal year, the
+directors of the Corporation shall not be required to cause to be sent to
+the share-holders annual financial statements for such fiscal year under
+Section 318 of the Pennsylvania Business Corporation Law.  If the
+Corporation shall have fewer than 100 shareholders of record on the last
+day of a fiscal year, any financial statements for such fiscal year which
+the directors in their discretion may cause to be sent to the shareholders
+need not be examined by an independent certified public accountant or by a
+firm thereof, or accompanied by such accountant's or firm's opinion
+thereof.
+
+     Section 809.   (a)  Section 911 of the Pennsylvania Business
+Corporation Law ("BCL") shall not be applicable to this Corporation.
+
+     (b)  As provided in Section 911C(3) of the BCL, this section 809 may
+be rescinded only by amendment of the Articles of Incorporation or by
+amendment of the bylaws approved by at least 85% of the whole Board of
+Directors.
+
+
+
+ARTICLE IX.    AMENDMENT OR REPEAL.
+
+     Section 901.   Amendment or Repeal by the Board of Directors.  These
+Bylaws may be amended or repealed, in whole or in part, by the affirmative
+vote of a majority of the Board of Directors at any regular or special
+meeting of the Board duly convened.
+
+     Section 902.   Recording Amendments and Repeals.  The text of all
+amendments and repeals to these Bylaws shall be attached to the Bylaws with
+a notation of the date of each such amendment or repeal and a notation of
+whether such amendment or repeal was adopted by the shareholders or the
+Board of Directors.
+<PAGE>
+ARTICLE X.     ADOPTION OF BYLAWS AND RECORD OF AMENDMENTS AND REPEALS.
+
+     Section 1001.  Adoption and Effective Date.  These Bylaws have been
+adopted and restated as the Bylaws of the Corporation this 12th day of
+July, 1988, and shall be effective as of said date.
+
+     Section 1002.  Amendments or Repeals.
+
+                              Date Amended
+Section Involved              or Repealed              Adopted By
+
+402, 407, 408, 507,
+  601 and 806                 January 9, 1990          Board of Directors
+
+810                           July 11, 1990            Board of Directors
+   
+703 and 901                   April 22, 1993           Board of Directors
+
+
+1.   The following resolution was adopted by the Board of Directors of this
+Corporation on January 9, 1990.
+
+          RESOLVED, that the Bylaws of the Corporation are hereby amended
+as set forth below:  
+
+     A.  Section 402 is amended to read in full as follows:
+      
+     Section 402.   Number of Directors.  The Board of Directors shall
+consist of not less than three (3) nor more than ten (10) directors.  The
+number of directors to be elected, subject to the foregoing limits, shall
+be determined by resolution of the Board of Directors.  The directors shall
+be elected by the shareholders at the annual meeting of shareholders to
+serve until the next annual meeting of shareholders.  Each director shall
+serve until his successor shall have been elected and shall qualify, even
+though his term of office as herein provided has otherwise expired, except
+in the event of his earlier resignation or removal.  A majority of the
+Board of Directors, whether or not he or they constitute a quorum, may
+designate a successor to fill a vacancy arising from the resignation,
+death, incapacity or disqualification of any director.
+
+     B.  Section 407 is amended to read in full as follows:
+
+     Section 407.   Reports and Records.  The reports of officers and
+committees shall be filed with the Secretary.  The Board of Directors shall
+keep complete records of its proceedings.  When a director shall request
+it, the vote of each director upon a particular question shall be recorded
+in the minutes.
+
+     C.  Section 408 is amended to read in full as follows:
+
+     Section 408.   Executive Committee.  The Board of Directors may,
+without limiting its right to establish other committees, establish an
+Executive Committee of the Board which shall consist of any two or more
+directors. The Executive Committee shall have and exercise the authority of
+the Board of Directors in the management and affairs of the Corporation,
+except as otherwise provided by applicable statute or in the resolution
+establishing the Executive Committee.
+
+     D.  Section 507 is amended to read in full as follows:
+
+     Section 507.   Secretary.  The Secretary shall act under the direction
+of the Chief Executive Officer.  Unless a designation to the contrary is
+made at a meeting, the Secretary shall attend all meetings of the Board of
+Directors and all meetings of the shareholders and record all of the
+proceedings of such meetings, and shall perform like duties for the
+standing committees when required.  The Secretary shall give, or cause to
+be given, notice of all meetings of the shareholders and special meetings
+of the Board of Directors, and shall perform such other duties as may be
+prescribed by the CEO or the Board of Directors.  The Secretary shall keep
+in safe custody the seal of the Corporation, and, when duly authorized to
+do so, cause it to be affixed to any instruments requiring it.
+
+     E.  The heading of ARTICLE VI and Section 601 is amended to read in
+full as follows:
+
+ARTICLE VI.    PERSONAL LIABILITY OF DIRECTORS AND OFFICERS;
+               INDEMNIFICATION.
+ 
+     601.  Personal Liabilities of Directors and Officers.
+
+     (a)  A director of this Corporation shall not be personally liable for
+monetary damages as such for any action taken, or any failure to take any
+action, unless
+
+          (1)  the director has breached or failed to perform the duties of
+his office under Section 8363 of the Pennsylvania Directors' Liability Act;
+and
+
+          (2)  the breach or failure to perform constitutes self-dealing,
+willful misconduct or recklessness.
+
+     (b)  An officer of this Corporation shall not be personally liable for
+monetary damages as such for any action taken, or any failure to take any
+action, unless the officer has breached or failed to perform the duties of
+his office under Section 1732 of the Pennsylvania Business Corporation Law.
+
+     F.  Section 806 is amended to read in full as follows:
+
+     Section 806.   Emergency Bylaws.  In the event of any emergency
+resulting from an attack on the United States, a nuclear disaster, or
+another catastrophe as a result of which a quorum of the board cannot
+readily be assembled, and until the termination of such emergency, the
+following Bylaw provisions shall be in effect, notwithstanding any other
+provisions of these Bylaws:
+
+     (a)  A special meeting of the Board of Directors may be called by any
+officer or director upon one hour's notice, and
+
+     (b)  The director or directors in attendance at the meeting shall
+constitute a quorum.
+
+2.   The following resolution was adopted by the Board of Directors of this
+Corporation on July 11, 1990:
+
+     RESOLVED, that the following Section 810 shall be added to the bylaws
+of the Corporation:
+     
+     Section 810.   Pennsylvania Anti-Takeover Act of 1990.  The following
+subchapters of Chapter 25 of Title 15 of Pennsylvania Consolidated Statutes
+(which subchapters were added by Pennsylvania Act No. 1990-36, formerly
+Senate Bill No. 1310) shall not be applicable to this corporation:
+
+     Subchapter G        Control Share Acquisitions
+
+     Subchapter H        Disgorgement by Certain Controlling Shareholders
+                         following Attempts to Acquire Control
+
+     Subchapter I        Severance Compensation for Employees Terminated
+                         following Certain Control-Share Acquisitions
+
+     Subchapter J        Business Combination Transactions - Labor
+                         Contracts
+
+3.   The following resolution was adopted by the Board of Directors of this
+Corporation on April 22, 1993:
+     
+     RESOLVED, that the following Section 703 shall be added to the bylaws
+of the Corporation:
+     
+     "Section 703.  Preferred Stock.  (a)  Section B of Article 4th of the
+Articles of Incorporation provides that the Board of Directors of the
+Corporation is expressly vested with authority to fix by resolution the
+designations, preferences, qualifications, limitations, restrictions and
+special or relative rights (if any) of the Preferred Stock and each series
+thereof which may be designated by the Board of Directors.  The Board of
+Directors shall act only with the unanimous approval of all directors then
+in office with respect to the designation of (1) the voting rights and
+powers (if any) of the Preferred Stock and each series thereof and (2) the
+rights (if any) of holders of Preferred Stock, and each such series
+thereof, to convert the same into, or exchange the same for, shares of any
+other classes (or series of classes) of capital stock of the Corporation,
+except shares of Class A common stock.
+
+     "(b)  This section 703 may be amended or repealed only with the
+unanimous approval of all directors then in office."
+     
+     RESOLVED, that the following Section 901 shall be added to the bylaws
+of the Corporation:
+     
+     "Section 901.  Amendment or Repeal by the Board of Directors.  Except
+as otherwise provided in any bylaw section, these Bylaws may be amended or
+repealed, in whole or in part, by the affirmative vote of a majority of the
+Board of Directors at any regular or special meeting of the Board duly
+convened."
+
+4.   The following resolution was adopted by the Board of Directors of this
+Corporation on February 28, 1995:
+
+
+     RESOLVED, that the Board of Directors of AEL INDUSTRIES, INC. , a
+Pennsylvania corporation ("Corporation"), by the affirmative vote of a
+majority of the Board of Directors of the Corporation at a meeting duly
+convened and held on February 28, 1995, does hereby amend the Bylaws of the
+Corporation as follows so as to effectuate the purposes of an Agreement
+dated February 28, 1995 between the Corporation and Dr. Leon Riebman and
+Claire Riebman.
+
+ARTICLE IV.    DIRECTORS AND BOARD MEETINGS.
+
+Section 401.   Management by Board of Directors.  Except as provided in
+Section 410 of these Bylaws, the business and affairs of the Corporation
+shall be managed by its Board of Directors, and the Board of Directors may
+exercise all such powers of the Corporation and do all such lawful acts and
+things as are not by statute or by the Articles of Incorporation or by
+these Bylaws directed or required to be exercised or done by the
+shareholders.
+
+Section 402.   Number of Directors.  (a)  The Board of Directors shall
+consist of not less than three (3) nor more than ten (10) directors.  The
+number of directors to be elected, subject to the foregoing limits, shall
+be determined by resolution of the Board of Directors.  The directors shall
+be elected by the shareholders at the annual meeting of shareholders to
+serve until the next annual meeting of shareholders.  Each director shall
+serve until his successor shall have been elected and shall qualify, even
+though his term of office as herein provided has otherwise expired, except
+in the event of his earlier resignation or removal.  A majority of the
+Board of Directors, whether or not he or they constitute a quorum, may
+designate a successor to fill a vacancy arising from the resignation,
+death, incapacity or disqualification of any director.
+
+     (b)  A majority of the Board of Directors shall be independent
+directors.  For the purpose of these bylaws the term "independent director"
+shall mean a person (i) who is not an employee of or consultant to the
+Company; (ii) is not related by blood or marriage to either Dr. Leon
+Riebman or Claire E. Riebman; and (iii), in the reasonable determination of
+the Committee, does not have a financial or other material relationship
+with either Dr. Leon Riebman or Claire E. Riebman which might influence the
+objectivity of his or her judgment as it relates to the best interests of
+the Company and its shareholders.
+
+Section 403.   Resignations.  Any director may resign at any time.  Such
+resignation shall be in writing, but the acceptance thereof shall not be
+necessary to make it effective.
+
+Section 404.   Compensation of Directors.  No director shall be entitled to
+any salary as such; but the Board of Directors may fix, from time to time,
+a reasonable fee to be paid each director for his services in attending
+meetings of the Board.  Directors may also be reimbursed by the Corporation
+for all reasonable expenses incurred in attending each meeting of the Board
+or any Committee of the Board.
+
+Section 405.   Regular Meetings.  Regular meetings of the Board of
+Directors shall be held on such day and at such hour as the Board shall
+from time to time designate.  The Board of Directors shall meet for
+reorganization at the first regular meeting following the annual meeting of
+shareholders at which the directors are elected.  Notice of regular
+meetings of the Board of Directors need not be given.
+
+Section 406.   Special Meetings.  Special meetings of the Board of
+Directors may be called by the Chairman of the Board or the President and
+shall be called whenever two or more members of the Board so request in
+writing.  Notice of the time and place of every special meeting, which need
+not specify the business to be transacted thereat and which may be either
+verbal or in writing, shall be given by the Secretary to each member of the
+Board at least one calendar day before the date of such meeting.
+
+Section 407.   Reports and Records.  The reports of officers and committees
+shall be filed with the Secretary.  The Board of Directors shall keep
+complete records of its proceedings.  When a director shall request it, the
+vote of each director upon a particular question shall be recorded in the
+minutes.
+
+Section 408.   Executive Committee.  The Board of Directors may, without
+limiting its right to establish other committees, establish an Executive
+Committee of the Board which shall consist of any two or more directors.
+The Executive Committee shall have and exercise the authority of the Board
+of Directors in the management and affairs of the Corporation, except as
+otherwise provided by applicable statute or in the resolution establishing
+the Executive Committee, and except as provided in Section 410 of these
+Bylaws.
+
+Section 409.   Absence or Disqualification of Committee Members.  In the
+absence or disqualification of any member of any committee (other than the
+Long Range Planning Committee) or committees established by the Board of
+Directors, the member or members thereof present at any meeting of such
+committee or committees, and not disqualified from voting, whether or not
+he or they constitute a quorum, may unanimously appoint another director to
+act at the meeting in the place of any such absent or disqualified member.
+
+Section 410.   Long Range Planning Committee.  (a)  All actions by the
+Company contemplated by the Agreement dated February 28, 1995 by and among
+the Company and Dr. Leon Riebman and Claire E. Riebman (the "Agreement"),
+and by the Voting Trust Agreement, the Escrow Agreement, the 1995 Agreement
+and the Participation Rights Agreement, all referred to therein, shall be
+taken on its behalf exclusively by the Long Range Planning Committee (the
+"Committee"), which shall have the full authority of the Board of Directors
+for the purposes of all four of the foregoing agreements.
+
+     (b)  All actions of the Committee shall require the approval of a
+majority of the members thereof; provided, however, if at any time there
+exist fewer than three members of the Committee, all actions at such time
+shall require the unanimous approval of the members of the Committee.
+
+     (c)  The Board of Directors shall (i) maintain the Committee in
+existence during the Initial Term, Renewal Term (as those terms are defined
+in the Agreement) or any extension of the Agreement; (ii) not change the
+present composition of the Committee except upon request of the Committee;
+and (iii) cause any successor member of the Committee to be a person who
+the Committee considers to be an independent director, as defined in
+Section 402(b) of these Bylaws.
+
+     (d)  The amendment or repeal of any provision of Article IV relating
+to the Committee shall require the approval of the Committee.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.JEXECAGMNTS
+<SEQUENCE>3
+<TEXT>
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and Bruce H. Collopy ("Executive") dated as of August 1, 
+1993 (the "Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              Bruce H. Collopy
+
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and Charles B. Cronin ("Executive") dated as of August 1, 
+1993 (the "Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              Charles B. Cronin
+
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and John R. Cox ("Executive") dated as of August 1, 1993 (the
+"Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              John R. Cox
+
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and Joseph J. Iervolino ("Executive") dated as of August 1, 
+1993 (the "Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              Joseph J. Iervolino
+
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and Joseph A. Klepchick ("Executive") dated as of August 1, 
+1993 (the "Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              Joseph A. Klepchick
+
+
+
+
+                              AMENDMENT NO. 1
+ 
+
+     This Amendment dated September 7, 1994 amends the Agreement between AEL
+Industries, Inc. and Lawrence D. Wehrheim ("Executive") dated as of August 1,
+ 1993 (the "Agreement").
+
+     1.   The Agreement shall be deemed to be renewed effective September 1, 
+1994, and all benefits available under said Agreement in the event of the 
+occurrence of the conditions specified in the Agreement, as amended to date, 
+shall inure to the benefit of the Executive as if the Agreement had been 
+executed on September 1, 1994.  The Agreement shall expire on August 31, 
+1999, unless sooner terminated as provided therein.
+
+
+
+
+
+                         AEL INDUSTRIES, INC.
+
+
+
+                         By:_____________________________________
+                              Leon Riebman
+
+
+                         
+                         ______________________________________
+                              Lawrence D. Wehrheim
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>4
+<DESCRIPTION>COMPUTATION OF EARNINGS
+<TEXT>
+
+<TABLE>
+
+                                                                  
+                                    EXHIBIT 11
+                                AEL INDUSTRIES, INC.
+                                 COMPUTATION OF NET
+                                 INCOME PER SHARE
+
+                                                                  
+Fiscal Year Ended
+
+                1995           1994           1993
+                                                        
+                -----------    -----------    -----------
+<S>             <C>            <C>            <C>
+Computation of number of shares for computation
+  of net income per share:
+
+Primary:
+
+  Average number of class A shares outstanding
+    during the year
+               3,345,000      3,314,000      3,435,000
+  Average number of class B shares outstanding
+    during the year       
+                 435,000        435,000        436,000
+  Incremental shares issuable on exercise of
+    stock options         
+                  46,000         31,000         30,000
+                                                        
+              -----------    -----------    -----------
+  Total shares for computation of net income
+    per share 
+               3,826,000      3,780,000      3,901,000
+                                                        
+              ===========    ===========    ===========
+  Net income
+              $1,769,000     $1,617,000       $484,000
+                                                        
+              ===========    ===========    ===========
+  Net income per share 
+                   $0.46          $0.43          $0.12
+                                                        
+              ===========    ===========    ===========
+Fully diluted:
+
+  Average number of class A shares outstanding
+    during the year 
+               3,345,000      3,314,000      3,435,000
+  Average number of class B shares outstanding
+    during the year        
+                 435,000        435,000        436,000
+  Incremental shares issuable on exercise of
+    stock options         
+                  97,000         63,000         31,000
+                                                        
+              -----------    -----------    -----------
+  Total shares for computation of net income
+    per share assuming full dilution
+               3,877,000      3,812,000      3,902,000
+                                                        
+              ===========    ===========    ===========
+  Net income  
+              $1,769,000     $1,617,000       $484,000
+                                                        
+              ===========    ===========    ===========
+  Net income per share assuming full
+    dilution  
+                   $0.46          $0.42          $0.12
+                                                        
+              ===========    ===========    ===========
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>5
+<DESCRIPTION>ANNUAL REPORT EXCERPTS
+<TEXT>
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Selected Financial Data
+(Dollars in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+                                                                                 Fiscal Year Ended
+                                                            ---------------------------------------------------------
+                                                            Feb. 24,    Feb. 25,    Feb. 26,    Feb. 28,    Feb. 22,
+                                                              1995        1994        1993        1992        1991
+                                                            ---------   ---------   ---------   ---------   ---------
+<S>                                                         <C>         <C>         <C>         <C>         <C>
+Sales and service revenues                                  $126,537    $123,632    $113,132    $140,112    $144,258
+
+Operating income                                               4,096       3,742       2,143       5,323       6,621
+Interest expense                                              (1,334)     (1,719)     (2,418)     (3,272)     (3,809)
+Investment income                                                259         455         843         322         321
+Other expense, net of other income                              (493)       (167)       (318)       (644)       (425)
+Provision for claims settlement                                                       (2,200)
+Gain on redemption of shares in foreign company                                                   14,368
+                                                            ---------   ---------   ---------   ---------   ---------
+                                                               2,528       2,311      (1,950)     16,097       2,708
+
+Income tax provision                                             759         694         106       5,641         986
+                                                            ---------   ---------   ---------   ---------   ---------
+Income (loss) before extraordinary credit and 
+  cumulative effect of change in accounting principle          1,769       1,617      (2,056)     10,456       1,722
+
+Extraordinary credit-benefit of net operating loss 
+  carryforward                                                                                     1,846         852
+
+Cumulative effect of change in accounting for income 
+  taxes                                                                                2,540
+                                                            ---------   ---------   ---------   ---------   ---------
+Net income                                                    $1,769      $1,617        $484     $12,302      $2,574
+                                                            =========   =========   =========   =========   =========
+
+Earnings per share:
+   Income (loss) before extraordinary credit and 
+      cumulative effect of change in accounting principle       $.46        $.43      $(.52)       $2.69        $.44
+   Extraordinary credit-benefit of net operating loss 
+     carryforward                                                                                    .47         .22
+   Cumulative effect of change in accounting for income 
+     taxes                                                                              .64 
+                                                            ---------   ---------   ---------   ---------   ---------
+   Net income                                                   $.46        $.43      $ .12        $3.16        $.66
+                                                            =========   =========   =========   =========   =========
+
+Working capital                                              $29,590     $29,241     $33,678     $42,517     $22,425
+Total assets                                                 101,418     109,156     114,646     114,384     118,120
+Long-term debt                                                15,742      19,599      25,141      32,119      37,603
+Shareholders' equity                                          60,222      58,065      56,320      56,701      44,393
+Backlog                                                      106,558     121,478     156,306     127,417     187,265
+
+
+All fiscal years contain fifty-two weeks, except fiscal year 1992 which contains fifty-three weeks.
+
+Note 8 of the consolidated financial statements describes legal matters and related uncertainties.  
+
+Backlogs include the following unfunded amounts:
+1995 - $7,833,000; 1994 - $14,747,000; 1993 - $16,039,000; 1992- $4,370,000; and 1991 - $23,915,000.
+</TABLE>
+                                       <PAGE>
+                                       
+                                       
+                                       
+Responsibility for Financial Statements
+                                       
+                                       
+            The Company's management is responsible for the fair presentation
+ of the financial statements and other financial information contained in this
+Annual Report.  The financial statements, which include amounts based on
+estimates and judgements, are prepared in accordance with generally
+accepted accounting principles.  
+                                       
+                                       
+          Management fulfills its responsibility primarily by establishing and
+maintaining accounting systems and practices which are adequately supported
+by internal accounting controls.  Controls are designed to provide
+reasonable assurance that assets are safeguarded, transactions are executed
+in accordance with management's authorization and the financial records are
+reliable for the purpose of preparing financial statements.  Controls
+include the selection and training of management and supervisory personnel;
+maintenance of an organizational structure providing for the delegation of
+authority and the establishment of responsibilities; communication of
+requirements for compliance with approved accounting, control and business
+practices throughout the organization; business planning and review; and a
+program of internal audit.  
+                                       
+                                       
+           The Board of Directors pursues its responsibility for the Company's
+financial statements through its Audit Committee comprised solely of
+outside directors, who meet periodically with the internal auditors,
+independent auditors, and representatives of management to discuss auditing
+and financial reporting matters.  The independent auditors have access to
+the Audit Committee, without management representatives present, to discuss
+the adequacy of internal accounting controls, as well as the scope and
+results of their audit and their opinion on the quality of financial
+reporting and other matters.  
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+_______________________
+Chief Financial Officer
+                                       
+                                          
+                      Report of Independent Auditors
+                                       
+                                       
+                                       
+To the Board of Directors and Shareholders of AEL Industries, Inc.
+                                       
+           We have audited the accompanying consolidated balance sheets of AEL
+Industries, Inc. as of February 24, 1995 and February 25, 1994, and the
+related consolidated statements of operations, shareholders' equity and
+cash flows for each of the three years in the period ended February 24,
+1995.  These financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these financial
+statements based on our audits.  
+                                       
+            We conducted our audits in accordance with generally accepted
+auditing  standards.  Those standards require that we plan and perform the 
+audit to obtain reasonable assurance about whether the financial statements 
+are free of material misstatement.  An audit includes examining, on a test 
+basis, evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.  
+                                       
+            In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+AEL Industries, Inc. at February 24, 1995 and February 25, 1994, and the
+consolidated results of its operations and its cash flows for each of the
+three years in the period ended February 24, 1995, in conformity with
+generally accepted accounting principles.  
+                                       
+            As discussed in the last paragraph of Note 8 to the consolidated
+financial statements, the outcome of a U.S. Government investigation
+associated with a fixed-price contract is presently not determinable.  No
+provision for any liability that may result from this matter has been made
+in the accompanying financial statements.  
+                                       
+          As discussed in Note 5 to the consolidated financial statements, the
+Company changed its method of accounting for income taxes in fiscal year
+1993.  
+                                         
+  
+
+
+                                       
+                                       
+  Philadelphia, Pennsylvania
+  March 24, 1995
+                                       <PAGE>
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Balance Sheets
+February 24, 1995 and February 25, 1994 
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+Assets                                                                                   1995        1994
+- ----------------------------------------------------------------------------------------------------------
+<S>                                                                                  <C>         <C>
+Current assets:
+   Cash and equivalents                                                                $3,140     $10,414
+   Marketable securities                                                                  724       1,428
+   Receivables, including unbilled amounts of $29,244 at February 24, 1995, and
+            $28,313 at February 25, 1994:
+                   U.S. Government                                                     40,695      37,045
+                   Other                                                                5,273       4,202
+                                                                                     ---------   ---------
+                                                                                       45,968      41,247
+
+   Inventories                                                                          1,312       3,047
+   Deferred income taxes                                                                1,928       2,646
+   Other current assets                                                                   208         238
+                                                                                     ---------   ---------
+         Total current assets                                                          53,280      59,020
+
+Property, plant and equipment, at cost:
+   Land                                                                                 1,860       1,897
+   Buildings and improvements                                                          39,555      40,256
+   Machinery and equipment                                                             41,414      39,327
+   Office furniture and equipment                                                      16,751      15,218
+                                                                                     ---------   ---------
+                                                                                       99,580      96,698
+    Less accumulated depreciation                                                      56,941      52,375
+                                                                                     ---------   ---------
+             Net property, plant and equipment                                         42,639      44,323
+
+
+Other assets                                                                            5,499       5,813
+                                                                                     ---------   ---------
+                                                                                     $101,418    $109,156
+                                                                                     =========   =========
+
+Liabilities and Shareholders' Equity                                                     1995        1994
+- ----------------------------------------------------------------------------------------------------------
+Current liabilities:
+   Accounts payable                                                                    $7,732      $4,795
+   Accrued salaries, wages and employee benefits                                        5,062       5,811
+   Other current liabilities                                                            7,039      13,631
+   Current portion of long-term debt                                                    3,857       5,542
+                                                                                     ---------   ---------
+      Total current liabilities                                                        23,690      29,779
+
+Long-term debt, net of current portion                                                 15,742      19,599
+
+Other liabilities                                                                       1,764       1,713
+
+Commitments and contingent liabilities-Note 8
+
+Shareholders' equity:
+   Class A common stock (non-voting), $1 par value; 20,000,000 shares authorized;
+      shares issued and outstanding, 1995 - 3,369,000; 1994 - 3,333,000                 3,369       3,333
+   Class B common stock (voting), $1 par value; 440,000 shares authorized;
+      shares issued and outstanding, 1995 and 1994 - 435,000                              435         435
+   Capital in excess of par value                                                       2,923       2,557
+   Retained earnings                                                                   53,303      51,740
+   Unrealized gain on marketable securities, net of tax                                   192
+                                                                                     ---------   ---------
+      Total shareholders' equity                                                       60,222      58,065
+                                                                                     ---------   ---------
+                                                                                     $101,418    $109,156
+                                                                                     =========   =========
+
+See accompanying notes.
+</TABLE>
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Operations
+Three years ended February 24, 1995
+(Dollars in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+                                                                         1995         1994         1993
+                                                                      ----------   ----------   ----------
+<S>                                                                   <C>          <C>          <C>
+Sales and service revenues                                             $126,537     $123,632     $113,132
+
+Operating costs and expenses:
+   Cost of products and services                                         97,448       94,164       84,696
+   Administrative and selling expenses                                   17,657       17,674       18,824
+   Bid and proposal costs                                                 5,130        5,890        4,968
+   Research and development costs                                         2,206        2,162        2,501
+                                                                      ----------   ----------   ----------
+                                                                        122,441      119,890      110,989
+                                                                      ----------   ----------   ----------
+Operating income                                                          4,096        3,742        2,143
+                                                                      ----------   ----------   ----------
+
+Interest expense                                                         (1,334)      (1,719)      (2,418)
+Investment income                                                           259          455          843
+Other expense, net of other income                                         (493)        (167)        (318)
+Provision for claims settlement                                                                    (2,200)
+                                                                      ----------   ----------   ----------
+                                                                         (1,568)      (1,431)      (4,093)
+                                                                      ----------   ----------   ----------
+Income (loss) before income taxes and cumulative
+  effect of change in accounting principle                                2,528        2,311       (1,950)
+
+Income tax provision                                                        759          694          106
+                                                                      ----------   ----------   ----------
+Income (loss) before cumulative effect
+  of change in accounting principle                                       1,769        1,617       (2,056)
+
+Cumulative effect of change in accounting for income taxes                                          2,540
+                                                                      ----------   ----------   ----------
+Net income                                                               $1,769       $1,617         $484
+                                                                      ==========   ==========   ==========
+
+Earnings per share:
+    Income (loss) before cumulative effect
+      of change in accounting principle                                    $.46         $.43       $(.52)
+   Cumulative effect of change in accounting for income taxes                                        .64 
+                                                                      ----------   ----------   ----------
+   Net income                                                              $.46         $.43      $  .12 
+                                                                      ==========   ==========   ==========
+                                                                      
+Weighted average shares outstanding                                   3,826,000    3,780,000    3,901,000
+                                                                      ==========   ==========   ==========
+
+See accompanying notes.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Cash Flows
+Three years ended February 24, 1995
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+                                                                               1995        1994        1993
+- ------------------------------------------------------------------------------------------------------------
+<S>                                                                        <C>         <C>         <C>
+Cash flows from operating activities:
+   Net income                                                                $1,769      $1,617        $484
+   Adjustments to reconcile net income to net cash provided by
+      operating activities:
+         Depreciation                                                         6,240       6,519       6,734
+         Amortization of other assets                                           419         407         407
+         Cumulative effect of change in accounting for income taxes                                  (2,540)
+         Deferred income taxes                                                  695         274         610
+         Accrued retirement benefits                                             51        (294)         45
+         Other                                                                   11        (131)
+   Increase in receivables                                                   (4,721)     (1,610)     (4,856)
+   Decrease in inventories and other current assets                           1,765       1,521         725
+   (Decrease) increase in accounts payable, accrued liabilities
+      and other current liabilities                                          (4,404)        513       1,446
+                                                                           ---------   ---------   ---------
+      Net cash provided by operating activities                               1,825       8,816       3,055
+
+Cash flows from investing activities:
+   Additions to property, plant and equipment                                (5,281)     (6,386)     (8,694)
+   Proceeds from sales of property, plant and equipment                         683
+   Purchases of marketable securities                                                               (31,369)
+   Liquidations of marketable securities                                        979      10,687      22,016
+   Other                                                                        (60)         29         237
+                                                                           ---------   ---------   ---------
+      Net cash (absorbed) provided by investing activities                   (3,679)      4,330     (17,810)
+
+Cash flows from financing activities:
+   Reductions in long-term debt                                              (5,542)     (6,978)       (728)
+   Stock option exercises                                                       352         302          27
+   Repurchases of common stock                                                 (230)       (224)       (892)
+                                                                           ---------   ---------   ---------
+      Net cash absorbed by financing activities                              (5,420)     (6,900)     (1,593)
+                                                                           ---------   ---------   ---------
+(Decrease) increase in cash and equivalents                                  (7,274)      6,246     (16,348)
+Cash and equivalents at beginning of period                                  10,414       4,168      20,516
+                                                                           ---------   ---------   ---------
+Cash and equivalents at end of period                                        $3,140     $10,414      $4,168
+                                                                           =========   =========   =========
+
+See accompanying notes.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+AEL INDUSTRIES, INC.
+Consolidated Statements of Shareholders' Equity
+Three years ended February 24, 1995
+(Dollars in thousands)
+<TABLE>
+<CAPTION>
+                                                                                                  Unrealized              Total
+                                                       Common Stock       Capital in               Gain on     Class A     Share-
+                                                  ---------------------   Excess of   Retained    Marketable  Treasury    holders'
+                                                   Class A     Class B    Par Value   Earnings    Securities   Shares      Equity
+- -----------------------------------------------------------------------------------------------------------------------------------
+<S>                                               <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Balance at February 28, 1992                        $4,443        $436      $2,235     $58,932                $(9,345)     $56,701
+   Stock option exercises                                5                      22                                              27
+   Purchases of common stock for treasury                                                                        (892)       (892)
+   Retirement of treasury stock                     (1,143)                             (9,094)                10,237
+   Net income for the year                                                                 484                                 484
+                                                  ---------   ---------   ---------   ---------   ---------   ---------   ---------
+Balance at February 26, 1993                         3,305         436       2,257      50,322                    -         56,320
+   Conversion of Class B to Class A                      1          (1)
+   Stock option exercises                               52                     250                                             302
+   Tax benefit from stock option exercises                                      50                                              50
+   Purchases of common stock for treasury                                                                         (224)       (224)
+   Retirement of treasury stock                        (25)                               (199)                    224
+   Net income for the year                                                               1,617                               1,617
+                                                  ---------   ---------   ---------   ---------   ---------   ---------   ---------
+Balance at February 25, 1994                         3,333         435       2,557      51,740                    -         58,065
+   Stock option exercises                               60                     292                                             352
+   Tax benefit from stock option exercises                                      74                                              74
+   Purchases of common stock for treasury                                                                         (230)       (230)
+   Retirement of treasury stock                        (24)                               (206)                    230           0
+   Change in unrealized gain on securities available                                                                             0
+      for sale, net of tax                                                                             192                     192
+   Net income for the year                                                               1,769                               1,769
+                                                  ---------   ---------   ---------   ---------   ---------   ---------   ---------
+Balance at February 24, 1995                        $3,369        $435      $2,923     $53,303        $192        -        $60,222
+                                                  =========   =========   =========   =========   =========   =========   =========
+
+
+See accompanying notes.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+1.  Summary of Significant Accounting Policies:
+
+    Fiscal Year.  The Company's fiscal year ends on the last Friday in
+    February.  Fiscal years in the three-year period ended February 24,
+    1995 each contain fifty-two weeks.  
+
+    Principles of Consolidation.  The consolidated financial statements
+    include the accounts of the Company and its wholly-owned subsidiaries. 
+    Intercompany accounts and transactions have been eliminated in
+    consolidation.  
+
+    Revenue Recognition.  Contract revenue is recognized principally on
+    the percentage-of-completion method in the ratio that cost incurred
+    bears to estimated cost at completion.  Other revenue is recorded on
+    the basis of shipment of products or performance of services.  
+
+    Contract Provisions.  Under fixed price contracts, the Company may
+    encounter, and on certain programs from time to time has encountered,
+    cost overruns caused by increased material, labor, or overhead costs,
+    design or production difficulties and various other factors such as
+    technical and manufacturing complexity, which must be, and in such
+    cases have been, borne by the Company.  Adjustments to contract cost
+    estimates are made in the periods in which the facts requiring such
+    revisions become known.  When the revised estimate indicates a loss,
+    such loss is provided for currently in its entirety.  In addition, the
+    Company from time to time commits to invest its own funds,
+    particularly in the case of high-technology seed programs.  The
+    estimated costs of such investments in excess of the related contract
+    values are provided for currently in their entirety upon receipt of
+    such contracts by the Company.  
+
+    Cash and Equivalents.  Cash and equivalents include all highly liquid
+    investments with original maturities of three months or less.  
+
+    Marketable Securities.  In fiscal year 1995, the Company adopted
+    Statement of Financial Accounting Standards No. 115, "Accounting for
+    Certain Investments in Debt and Equity Securities".  Accordingly, on
+    February 24, 1995, the company's marketable securities are classified
+    as available-for-sale securities and carried at market value as
+    determined based on quoted market prices, and the unrealized gain is
+    reported net of tax as a separate component of shareholders' equity. 
+    The cost basis of the marketable securities at February 24, 1995 is
+    $449,000.  Prior year financial statements have not been restated to
+    reflect the change in accounting method.  At February 25, 1994,
+    marketable securities were carried at cost and the aggregate market
+    value was $1,697,000.   
+
+    Receivables.  Unbilled receivables represent costs and profits in
+    excess of billed amounts on contracts accounted for on the percentage-
+    of-completion method and are billable upon shipment of the product or
+    performance of the service, achievement of milestones or completion of
+    the contract.  Such amounts are generally billed and collected within
+    one year.  However, approximately $4,000,000 of unbilled receivables
+    at February 24, 1995 are expected to be billed and collected after one
+    year, including $2,200,000 for costs subject to future negotiations
+    with the U.S. Government.  
+
+    Inventories.  Inventories are stated at the lower of cost or market
+    and consist primarily of raw materials and work in process.  Raw
+    materials are valued generally at an average cost; work-in-process and
+    finished goods are valued generally on a first-in, first-out basis.  
+
+    Plant and Equipment.  Depreciation of plant and equipment is computed
+    on the straight-line method based upon the following estimated useful
+    lives:  
+
+         Buildings and improvements              10 to 40 years
+         Machinery and equipment                  3 to 10 years
+         Office furniture and equipment           5 to  8 years
+
+    Other Assets.  Other assets include $7,300,000 representing the excess
+    of the purchase price over the fair value of the assets acquired and
+    liabilities assumed in connection with an acquisition in 1987.  Such
+    amount is being amortized on a straight-line basis over 20 years. 
+    Accumulated amortization was $2,768,000 and $2,403,000 at February 24,
+    1995 and February 25, 1994, respectively.  
+
+    Income Taxes.  The Company uses the asset and liability method of
+    accounting for income taxes.  Accordingly, deferred tax assets and
+    liabilities are recognized for the tax consequences of temporary
+    differences by applying enacted statutory tax rates applicable to
+    future years to differences between the financial statement carrying
+    amounts and the tax bases of existing assets and liabilities.  
+
+    Interest.  The Company capitalizes interest costs associated with the
+    cost of constructing major new facilities.  Interest of $88,000 and
+    $61,000 incurred in fiscal years 1994 and 1993, respectively, has been
+    capitalized.  
+
+    Earnings Per Share.  Per share data are based on the weighted average
+    number of shares of stock outstanding each year including the dilutive
+    effect of stock options.  Per share computations on a fully diluted
+    basis are the same as those reported.  
+
+    Reclassifications.  Certain financial statement items for fiscal year
+    1994 have been reclassified in order to conform with the current
+    year's presentation.  
+
+2.  Possible Sale of the Company
+
+         On February 28, 1995, the Company's controlling shareholders, Dr.
+    Leon Riebman and Claire E. Riebman, transferred all of their class A
+    nonvoting and class B voting common stock into a voting trust
+    controlled by four independent directors of the Company to provide the
+    Company's Board of Directors with increased flexibility in exploring
+    the possible sale of the Company.  The voting trust has an initial
+    term of nine months with an extension period of up to one additional
+    year, subject to certain conditions.  The voting trustees have full
+    power to vote the Riebmans' stock with regard to any proposed
+    transaction for the sale of the Company.   Such stock constitutes
+    approximately 7% of all outstanding shares, before issuance of the
+    180,947 class A shares described below, and 55% of the class B voting
+    shares at February 24, 1995.  Any proposal for the sale of the
+    Company, and the agreements with the Riebmans referred to below, are
+    subject to ratification by the class A and class B shareholders, each
+    voting as a separate class.  Ratification of a proposal for the sale
+    of the Company and ratification of the agreements with the Riebmans
+    must be voted upon by the shareholders as a single proposition.  
+
+         In consideration of the controlling shareholders entering the
+    voting trust agreement, transferring their shares to the voting trust,
+    and agreeing to accept the same per share price for their voting stock
+    as other shareholders receive for their stock in the event of a sale
+    of the Company, the Company issued 180,947 shares of class A nonvoting
+    stock to the Riebmans on February 28, 1995.  These shares have also
+    been transferred into the voting trust and will be returned to the
+    Company for cancellation without any payment to the Riebmans if a sale
+    of the Company does not occur while the voting trust is in effect.  If
+    a sale does occur, the issuance of 180,947 shares will result in a
+    charge against income for an amount equal to market value of the
+    shares at the time the Company is sold.  
+
+         Under separate agreements also entered into on February 28, 1995,
+    the Company has agreed to make the following payments to Dr. Riebman
+    if the Company is sold while the voting trust is in effect:  payments
+    totalling $675,000 for consulting services to be provided by Dr.
+    Riebman for a three-year period commencing with his employment
+    termination; a change-in-control payment of $500,000 if Dr. Riebman's
+    employment terminates after the sale of the Company; and a
+    noncompetition payment of up to $1,900,000.  
+
+         The Company also has agreements with seven other officers which
+    could result in severance payments to those officers if their
+    employment were to terminate during a two-year period following a
+    change in control of the Company. Aggregate severance payments under
+    such agreements could range up to approximately $2,500,000 depending
+    on the number of officers terminated and the timing of the
+    terminations. 
+
+         The Company expensed costs of approximately $675,000 in fiscal
+    year 1995 related to the possible sale of the Company.  
+
+3.  Line of Credit and Letters of Credit
+
+         The Company has a line of credit agreement expiring June 30, 1995
+    which provides for unsecured borrowings of up to $8,000,000 at the
+    prime rate. The Company had only nominal temporary borrowings under
+    the line of credit agreement during the year ended February 24, 1995,
+    and did not borrow during the year ended February 25, 1994.  The terms
+    of the line of credit agreement contain, among other provisions,
+    requirements for maintaining defined levels of working capital, net
+    worth, annual capital expenditures and a debt-to-equity ratio.  The
+    agreement also requires an annual commitment fee of approximately
+    $50,000.  
+
+         At February 24, 1995, standby letters of credit of approximately
+    $12,800,000 have been issued under an agreement, expiring June 30,
+    1995, which are being maintained as security for performance and
+    advances received on long-term contracts, and as security for debt
+    service payments under industrial revenue bond loan agreements.  The
+    agreement provides a maximum commitment for letters of credit of
+    $14,500,000 and requires an annual commitment fee of approximately
+    $73,000.  
+
+4.  Long-Term Borrowings
+
+    Long-term borrowings consist of:
+                                              (Dollars in thousands)
+                                            February 24,   February 25,
+                                                1995           1994       
+                                            ___________    ___________
+
+    10.03% senior unsecured note payable, 
+    principal due annually through April 
+    1997.                                     $ 8,400        $13,400
+
+    Industrial revenue bonds, interest is 
+    variable, (4.4% at February 24, 1995 
+    and 2.8% at February 25, 1994), prin-
+    cipal due annually through 2010.  
+    (Bonds are collateralized by certain 
+    property and equipment at the Company's 
+    St. Louis Regional Airport facility.)       6,295          6,500
+
+    Industrial revenue bonds, interest is 
+    variable, (4.4% at February 24, 1995 
+    and 2.8% at February 25, 1994), prin-
+    cipal due April 2009.  (Bonds are col-
+    lateralized by certain property and 
+    equipment of the Company's Cross Sys-
+    tems Division.)                             4,000          4,000
+
+    Obligation under capital lease, inter-
+    est at prime plus 1%, principal due 
+    quarterly through December 1996.  (Lease 
+    is collateralized by data processing 
+    equipment.)                                   519            779
+
+    Other                                         385            462
+                                              _______        _______
+
+                                               19,599         25,141
+    Less current portion                        3,857          5,542
+                                              _______        _______
+
+                                              $15,742        $19,599
+                                              =======        =======
+
+        Aggregate maturities of long-term borrowings over the next five
+    fiscal years are as follows:  1996 - $3,857,000; 1997 - $3,872,000;
+    1998 - $2,127,000; 1999 - $342,000; and 2000 - $362,000.  
+
+        The terms of certain financing agreements contain, among other
+    provisions, requirements for maintaining defined levels of working
+    capital, net worth, capital expenditures and various financial ratios,
+    including debt to equity.  
+
+        The Company paid interest of $1,511,000, $1,965,000 and $2,507,000
+    during fiscal years 1995, 1994 and 1993, respectively. 
+
+5.  Income Taxes:
+
+        Effective for fiscal year 1993, the Company adopted Statement of
+    Financial Accounting Standards (SFAS) No. 109, "Accounting for Income
+    Taxes".  The cumulative effect of the accounting change as of the
+    beginning of fiscal year 1993 was $2,540,000, or $.64 per share,
+    primarily resulting from recording tax benefits related to contract
+    loss provisions recorded in prior years and adjusting tax rates on
+    previously recorded tax assets and liabilities.  The cumulative effect
+    included the recognition of a valuation allowance of $200,000 to
+    reflect the potential loss of state tax benefits.  The effect of the
+    adoption of SFAS No. 109 on fiscal year 1993's income tax provision
+    decreased net income by $920,000, or $.24 per share, primarily
+    relating to the establishment of a valuation allowance for the
+    deferred tax assets.  
+
+        The income tax provisions for the three years ended February 24,
+    1995 are comprised of the following: 
+
+
+                                              (Dollars in thousands)
+                                             1995      1994      1993
+                                             ____      ____      ____
+
+Current:
+      Federal                                $(26)     $420      $(533)
+      State                                    90                   29
+                                             ____      ____      _____
+                                               64       420       (504)
+Deferred:
+      Federal                                 600       177        669 
+      State                                    95        97        (59)
+                                             ____      ____      _____
+                                              695       274        610 
+                                                                       
+Total provision                              $759      $694      $ 106 
+                                             ====      ====      =====
+
+    The provisions for income taxes for the three years ended February 24,
+1995 differ from the provisions computed by applying the statutory federal
+income tax rate due to the following:  
+
+                                                (Dollars in thousands)
+                                            1995       1994       1993
+                                            ____       ____       ____ 
+
+Statutory federal income tax                $ 860     $ 786     $ (663)
+Increase (decrease) resulting from:
+      Tax exempt investment income            (21)      (79)      (237)
+      Amortization of intangible assets       124       124        124    
+      State income taxes                      185        97        (42)
+      Tax credits                            (364)     (303)      (110)
+      Foreign income                           32        42         39 
+      Costs related to possible sale
+         of the Company                       229
+      Reversal of tax liabilities            (350)
+      Valuation allowance                                          980 
+      Other                                    64        27         15 
+                                            _____     _____     ______
+                                            $ 759     $ 694     $  106 
+                                            =====     =====     ======
+
+
+         The Company's federal income tax returns for fiscal years prior
+    to 1992 have been closed to assessments by the Internal Revenue
+    Service.  Accordingly, the Company reversed related tax liabilities,
+    reducing its income tax provision in fiscal year 1995 by $350,000.  
+
+         The significant components of the deferred tax liabilities and
+    assets are as follows:  
+
+                                              (Dollars in thousands)
+                                             February 24,  February 25,
+                                                 1995         1994     
+                                             ___________   ___________
+
+      Deferred tax liabilities:
+        Depreciation                          $(1,219)       $(1,197)
+        Other                                    (144)            (7)
+                                              _______        _______
+                                               (1,363)        (1,204)
+      Deferred tax assets:
+        Employee benefits                       1,595          1,437 
+        Inventory and contract loss 
+          allowances                            2,147          2,304 
+        Provision for claims settlement                          440 
+        Tax credit carryforwards                  707            768 
+        Other                                     212            331 
+                                              _______        _______
+                                                4,661          5,280 
+      Valuation allowance                      (1,180)        (1,180)
+                                              _______        _______
+      Net deferred tax asset                  $ 2,118        $ 2,896 
+                                              =======        =======
+
+         At February 24, 1995, the Company has general business credit
+    carryforwards of approximately $390,000 which expire in the years 2008
+    through 2010.  The Company also has alternative minimum tax credit
+    carryforwards of approximately $317,000 that do not expire.  
+
+         The Company paid income taxes, net of refunds, of $315,000,
+    $380,000 and $75,000 in fiscal years 1995, 1994 and 1993,
+    respectively.  
+
+6.  Employee Benefit Plans
+
+         Under the Company's Retirement Savings Plan which covers all
+    eligible employees, the Company makes a matching contribution not
+    exceeding three percent of an employee's annual compensation, but
+    otherwise equivalent to one-half of the employee's contribution. 
+    Starting from January 1994, the Company is also making additional
+    contributions to the plan, for all eligible employees, equal to 1% of
+    their compensation, until compensation exceeded the Federal Insurance
+    Contributions Act maximum taxable wage base, at which point the Com-
+    pany doubled its additional contribution.  The Company's aggregate
+    contributions to the Retirement Savings Plan for fiscal years 1995,
+    1994 and 1993 were $1,437,000, $1,139,000 and $1,017,000,
+    respectively.  
+
+         The Company also maintains individual unfunded supplemental
+    retirement benefit plans for two current executive officers and one
+    former executive officer.  Supplemental retirement benefits are based
+    on the officers' final average annual earnings from the Company and
+    are payable in installments over ten years upon retirement,
+    disability, death, or, if no longer employed by the Company, at age
+    62.  Expense recognized for the benefits accrued under the plans was
+    $91,000, $95,000 and $61,000 in fiscal years 1995, 1994 and 1993, 
+    respectively.  In addition, the resignation of an executive resulted
+    in a curtailment gain of $381,000 recognized in fiscal year 1994. 
+    Other liabilities on the consolidated balance sheets as of February
+    24, 1995 and February 25, 1994, include amounts of $1,716,000 and
+    $1,625,000, respectively, for the supplemental retirement benefit
+    plans.  
+
+7.  Other Current Liabilities
+
+         Other current liabilities at February 24, 1995 and February 25,
+    1994 include allowances for contract losses and other contract al-
+    lowances aggregating $3,600,000 and $3,900,000, respectively.  Other
+    current liabilities at February 25, 1994 also include billings in
+    excess of revenues recognized on uncompleted contracts of approxi-
+    mately $4,600,000.  
+
+         In fiscal year 1993, the Company established an allowance of
+    $2,200,000 based on an agreement to settle civil claims pertaining to
+    the pricing of a 1985 fixed-price contract modification.  The Company
+    paid $1,100,000 in each fiscal year 1995 and 1994.  
+
+ 8. Commitments and Contingencies
+
+         Rent expense under operating leases was $858,000, $735,000 and
+    $703,000 for fiscal years 1995, 1994 and 1993, respectively.  Fiscal
+    year minimum lease payments under noncancellable operating leases are
+    as follows: 1996 - $400,000; 1997 - $373,000; 1998 - $220,000; 1999 -
+    $90,000; 2000 - $62,000 and 2001 and beyond - $348,000.  
+
+         From time to time, the Company may be involved in lawsuits,
+    investigations and other legal proceedings arising from the ordinary
+    conduct of its business with the U.S. Government and others.  One such
+    action relates to the U.S. Environmental Protection Agency (EPA)
+    which, in 1989, placed a site that includes the Company's Richardson
+    Road property on the National Priorities List for detailed study and
+    cleanup of alleged environmental contamination.  The Company continues
+    to cooperate with the EPA in the study of this site.  In the opinion
+    of management, except for the matter described below, these legal pro-
+    ceedings will not have a material adverse effect on the consolidated
+    financial position.  
+
+         The Company continues to cooperate with the Department of Defense
+    in an investigation which commenced in 1992 regarding the AN/MLQ-T4
+    Ground Jammer Program.  At this time, management is unable to
+    determine when the Government will complete its inquiry or whether it
+    will seek any remedies.  
+
+ 9. Common Stock and Stock Option Plans
+
+         At February 24, 1995, shares of class A common stock were
+    reserved as follows:  926,000 shares for the exercise of stock options
+    and 435,000 shares for the conversion of class B common stock.  Class
+    B common shares are convertible into class A common shares on a one-
+    for-one basis.  If, at any time, a majority of class B common share-
+    holders vote in favor of conversion or if less than 50,000 class B
+    common shares remain outstanding, all class B common shares will
+    automatically be deemed converted into class A common shares, which
+    will then assume voting rights.  
+
+         At February 24, 1995, options were exercisable for 76,000 class A
+    shares at prices ranging from $4.75 to $10.00 per share.  Changes in
+    the number of shares of class A common stock subject to outstanding
+    but unexercised options for the two years ended February 24, 1995 are
+    as follows: 
+
+                                                     (in thousands)
+                                                  1995            1994
+                                                  ____            ____
+
+      Balance, beginning of period                202             298  
+      Options granted at prices of 
+        $6.63 to to $10.25 per share               62              53
+      Options exercised at prices of 
+        $4.56 to $8.81 per share                  (60)            (52)    
+      Options cancelled and terminated            (21)            (97) 
+                                                  ___             ___
+      Balance, end of period                      183             202
+                                                  ===             ===
+         Generally, options granted are fully exercisable two years from
+    the date granted and all unexercised options terminate five years
+    after the date granted, upon the resignation of the optionee, or three
+    months after the termination of employment if by other than
+    resignation.  No charges to income have been made in accounting for
+    options.  Options are granted at a price equal to the fair market
+    value of class A common stock on the date of grant.  
+
+10. Segment Reporting
+
+         The Company's principal business is electronic defense products
+    and services, which consists primarily of the design and manufacture
+    of electronic countermeasures systems, simulation systems, radars and
+    receivers.  The Company is also engaged in the installation and
+    integration design of avionics and electronic warfare systems.  
+
+         The Company provides other products such as antennas, microwave
+    integrated circuits and hybrid microcircuits, and services such as
+    calibration, product testing and technical publication.  
+
+         Presented below are the sources of revenues for each segment by
+    type of customer for the three years ended February 24, 1995:  
+
+                                               (Dollars in thousands)
+                                              1995      1994      1993
+                                              ____      ____      ____
+      Sales and service revenues:
+        Domestic:
+          U.S. Government:
+            Electronic Defense Products
+               and Services                 $ 96,357  $ 98,282  $ 93,913  
+            Other Products and Services           69        50        99  
+          Commercial:
+            Electronic Defense Products
+               and Services                    2,227     1,160     1,568  
+            Other Products and Services        9,082     7,772     5,851
+                                            ________  ________  ________
+                                             107,735   107,264   101,431  
+        International:
+          Electronic Defense Products
+               and Services                   18,802    16,368    11,701
+                                            ________  ________  ________
+          
+                                            $126,537  $123,632  $113,132
+                                            ========  ========  ========
+
+         Sales and service revenues from the U.S. Government include sales
+    and service revenues recognized under contracts with suppliers to the
+    U.S. Government.  
+
+<PAGE>
+11. Quarterly Financial Information (Unaudited)
+<TABLE>
+<CAPTION>
+                                                      (Dollars in thousands, except per share data)
+                                                                Quarter Ended
+                                          May 27,    Aug. 26,    Nov. 25,    Feb. 24,
+Fiscal Year 1995                           1994        1994        1994        1995
+- --------------------------------------------------------------------------------------
+<S>                                      <C>         <C>         <C>         <C>
+Revenues                                  $30,574     $30,911     $30,939     $34,113
+Operating expenses                         29,789      29,895      29,747      33,010
+                                         ---------   ---------   ---------   ---------
+Operating income                              785       1,016       1,192       1,103
+Other expense, net of other income           (305)       (510)       (297)       (456)
+                                         ---------   ---------   ---------   ---------
+                                              480         506         895         647
+Income tax provision                          144         152         268         195
+                                         ---------   ---------   ---------   ---------
+Net income                                   $336        $354        $627        $452
+                                         =========   =========   =========   =========
+
+Net income per share                         $.09        $.09        $.16        $.12
+                                         =========   =========   =========   =========
+
+                                                                Quarter Ended
+                                          May 28,    Aug. 27,    Nov. 26,    Feb. 25,
+Fiscal Year 1994                           1993        1993        1993        1994
+- --------------------------------------------------------------------------------------
+
+Revenues                                  $30,731     $27,754     $27,292     $37,855
+Operating expenses                         29,682      26,561      26,504      37,143
+                                         ---------   ---------   ---------   ---------
+Operating income                            1,049       1,193         788         712
+Other expense, net of other income           (251)       (462)       (362)       (356)
+                                         ---------   ---------   ---------   ---------
+                                              798         731         426         356
+Income tax provision                          360         326           0           8 (a)
+                                         ---------   ---------   ---------   ---------
+Net income                                   $438        $405        $426        $348
+                                         =========   =========   =========   =========
+
+Net income per share                         $.12        $.10        $.12         $.09  
+                                         =========   =========   =========   =========
+
+(a) Income tax provisions in the third and fourth quarters of fiscal year 1994 were reduced by deferred tax benefits 
+      pertaining to the retroactive reenactment of federal income tax research credits.
+</TABLE>
+<PAGE>
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS
+                     OF OPERATIONS AND FINANCIAL CONDITION
+
+
+
+         The following discussion and analysis provide information which
+management believes is relevant to an assessment and understanding of the
+Company's consolidated results of operations and financial condition.  The
+discussion should be read in conjunction with the consolidated financial
+statements and notes thereto.  
+
+Results of Operations - Fiscal 1995 versus Fiscal 1994
+
+         Sales and service revenues of $126,537,000 reflect a slight increase
+over the $123,632,000 in revenues reported for fiscal year 1994.  Fiscal
+year 1995 was favorably impacted by higher revenues from TACJAM-A, an
+electronic countermeasures program, which provided revenues of $17,795,000
+in fiscal year 1995 versus $6,615,000 in fiscal year 1994.  In addition,
+two avionics installation/ integration programs provided significantly
+higher revenues in fiscal year 1995.  One avionics program with a foreign
+customer generated revenues of $8,882,000 in fiscal year 1995, up from
+$3,590,000 in fiscal year 1994.  The other avionics program, ANVIS/HUD,
+generated revenues of $16,941,000 in fiscal year 1995, up from $10,285,000
+in fiscal year 1994.  Avionics programs in the aggregate provided
+$46,843,000 and $41,307,000 of revenues in fiscal years 1995 and 1994,
+respectively.  Partially offsetting these increases, revenues from the Band
+9/10 electronic countermeasures program fell to $6,314,000 in fiscal year
+1995 from $10,830,000 in fiscal year 1994, and several radar environmental
+simulator programs and other programs contributed less to total revenues in
+fiscal year 1995 due to program maturation.  
+
+         Operating income for fiscal year 1995 was $4,096,000 as compared with
+$3,742,000 for fiscal year 1994.  The increase in operating income was
+primarily due to a decrease in adverse cost estimates and profitability
+adjustments, which in the aggregate had unfavorable effects of $3,000,000
+in fiscal year 1995 and $3,900,000 in fiscal year 1994, and a decrease of
+$760,000 in bid and proposal spending. The decrease in adverse cost esti-
+mates and profitability adjustments was attributable to performance
+improvements during fiscal year 1995 in the radar warning receivers program
+group, particularly the APR-39A program. The favorable items affecting
+operating income were partially offset by overall lower gross margins on
+revenues for fiscal year 1995, and approximately $675,000 charged against
+income in fiscal year 1995 for costs related to the possible sale of the
+Company. Research and development costs in fiscal year 1995 were constant
+with the amount reported in the prior year.  
+
+         Interest expense in fiscal year 1995 decreased $385,000 from fiscal
+year 1994 due to lower average debt levels.  In the first quarter of fiscal
+year 1995, the Company repaid $5,000,000 of the $13,400,000 remaining
+balance of its 10.03% unsecured note payable.  Investment income decreased
+$196,000 from fiscal year 1994 primarily due to the use of cash equivalents
+to satisfy the Company's operating needs. Other income for fiscal year 1995
+and fiscal year 1994 included $243,000 and $498,000, respectively, for
+royalties received under a license agreement with a foreign vendor.  
+
+         The income tax provision for fiscal year 1995 was based on an annual
+effective tax rate of 30% which is consistent with the annual effective tax
+rate in fiscal year 1994.  The Company's federal income tax returns for
+fiscal years prior to 1992 have been settled by the Internal Revenue
+Service.  Accordingly, the Company reversed related tax liabilities, redu-
+cing its income tax provision in fiscal year 1995 by $350,000.  See Note 5
+to the consolidated financial statements for the reconciliation of the
+statutory federal income tax rate to the Company's effective tax rates in
+fiscal years 1995 and 1994. 
+
+Results of Operations - Fiscal 1994 versus Fiscal 1993
+
+         Sales and service revenues in fiscal year 1994 were $123,632,000, an
+increase of 9% from the $113,132,000 in revenues reported for fiscal year
+1993.  The revenue increase was primarily attributable to the avionics
+installation/integration programs which generated revenues of $41,307,000
+in fiscal year 1994 compared with revenues of $32,732,000 in fiscal year
+1993. The Company's ANVIS/HUD avionics program individually produced
+revenues of $10,285,000 in 1994 versus $4,262,000 in 1993. In addition to
+the avionics programs, revenues from radar warning receiver programs
+increased $3,357,000 in fiscal year 1994, primarily due to the AN/APR-39A
+program revenues of $10,352,000 which were approximately double the
+revenues reported in fiscal year 1993.  Partially offsetting the revenue
+growths in the avionics and receiver programs was a decline in revenues
+from the electronic countermeasures program group in fiscal year 1994.
+Within the countermeasures group, the TACJAM-A program contributed revenues
+of $6,615,000 in fiscal year 1994, down from $12,996,000 in fiscal year
+1993. However, in fiscal year 1994, the Band 9/10 program, another major
+electronic countermeasures program, increased its contribution to revenues
+by $2,656,000, and revenues from a major electronic countermeasures program
+with a foreign government increased by $2,012,000.  
+
+         Operating income for fiscal year 1994 was $3,742,000 as compared with
+$2,143,000 for fiscal year 1993.  The increase in operating income was
+primarily due to growth in sales and service revenues, a reduction in
+administrative and selling expenses, and significantly less costs in fiscal
+year 1994 associated with restructuring, corporate downsizing, and
+consolidation of resources. The administrative and selling expenses
+reduction reflected the Company's continuing efforts to contain costs in
+those areas, as well as a one-time curtailment gain of $381,000 related to
+a supplemental retirement benefit plan for a former executive officer. 
+Partially offsetting these favorable items, operating income in fiscal year
+1994 was adversely impacted by an increase in bid and proposal spending, as
+well as contract cost estimate and profitability adjustments, which in the
+aggregate had an unfavorable effect of $3,900,000 in fiscal year 1994 as
+compared with $2,500,000 in fiscal year 1993.  Revisions to the estimated
+final costs on several engineering development programs resulted in
+contract loss provisions in fiscal year 1994 which were $3,100,000 above
+comparable provisions for those programs in fiscal year 1993. Conversely, a
+profitability adjustment to the AN/MLQ-34 TACJAM program, resulting from a
+prolonged contract modification negotiation, produced a favorable impact of
+$1,800,000 on operating income in fiscal year 1994 with no comparable
+adjustments in fiscal year 1993.  Bid and proposal costs increased $922,000
+in fiscal year 1994 reflecting the Company's increased bidding activity for
+a major aircraft modification program and development programs associated
+with long-term production contracts.  Finally, company-sponsored research
+and development spending decreased $339,000 in fiscal year 1994 due to the
+Company's re-allocation of available technical resources, including
+personnel, to customer-sponsored engineering development efforts, including
+the development programs referenced above.  
+
+         Interest expense in fiscal year 1994 decreased $699,000 from fiscal
+year 1993 primarily due to lower average debt levels.  In the first quarter
+of fiscal year 1994, the Company repaid $6,600,000 of its $20,000,000,
+10.03% unsecured note payable.  Investment income for fiscal year 1994 de-
+creased $388,000 from the prior fiscal year, primarily due to the
+liquidation of marketable securities to meet the $6,600,000 debt repayment. 
+Also, marketable securities were liquidated to fund capital expenditures
+including a significant building addition at the Company's Richardson Road
+facility which was completed in fiscal year 1994 at a total cost of
+approximately $4,300,000.  Other income for fiscal years 1994 and 1993
+included $498,000 and $368,000, respectively, for royalties received under
+a license agreement with a foreign vendor.  Finally, in fiscal year 1993
+the Company established an allowance of $2,200,000 relating to a settlement
+of civil claims pertaining to the pricing of a 1985 fixed-price contract
+modification.  
+
+        The income tax provisions for fiscal years 1994 and 1993 were based on
+annual effective tax rates of 30% and 42%, respectively.  Operating results
+for the purpose of calculating the annual effective tax rate in fiscal year
+1993 exclude the provision for claims settlement of $2,200,000.  See Note 5
+to the consolidated financial statements for the reconciliation of the
+statutory federal income tax rate to the Company's effective tax rates in
+fiscal years 1994 and 1993.  
+
+         As of  the beginning of fiscal year 1993, the Company adopted
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" and recorded the cumulative effect of the accounting change of
+$2,540,000, or $.64 per share, primarily resulting from the recording of
+tax benefits related to contract loss provisions recorded in prior years
+and adjusting tax rates on previously recorded tax assets and liabilities. 
+
+
+Possible Sale of the Company
+
+         In February 1995, the Company's controlling shareholders, Dr. Leon
+Riebman and Claire E. Riebman, transferred all of their class A nonvoting
+and class B voting common stock into a voting trust controlled by four
+independent directors of the Company to provide the Company's Board of
+Directors with increased flexibility in exploring the possible sale of the
+Company.  The voting trust has an initial term of nine months with an
+extension period of up to one additional year, subject to certain
+conditions.  The voting trustees have full power to vote the Riebmans'
+stock with regard to any proposed transaction for the sale of the Company.
+Such stock constitutes approximately 7% of all outstanding shares, before
+issuance of the 180,947 class A shares described below, and 55% of the
+class B voting shares at February 24, 1995.  Any proposal for the sale of
+the Company, and the agreements with the Riebmans referred to below, are
+subject to ratification by the class A and class B shareholders, each vot-
+ing as a separate class.  
+
+         In consideration of the controlling shareholders entering the voting
+trust agreement, transferring their shares to the voting trust, and
+agreeing to accept the same per share price for their voting stock as other
+shareholders receive for their stock in the event of a sale of the Company,
+the Company issued 180,947 shares of class A nonvoting stock to the
+Riebmans on February 28, 1995.  These shares have also been transferred
+into the voting trust and will be returned to the Company for cancellation
+without any payment to the Riebmans if a sale of the Company does not occur
+while the voting trust is in effect.  If a sale does occur, the issuance of
+180,947 shares will result in a charge against income for an amount equal
+to market value of the shares at the time the Company is sold.  
+
+         Under separate agreements also entered into during February 1995, the
+Company has agreed to make the following payments to Dr. Riebman if the
+Company is sold while the voting trust is in effect:  payments totalling
+$675,000 for consulting services to be provided by Dr. Riebman for a three-
+year period commencing with the termination of his employment; a change-in-
+control payment of $500,000 if Dr. Riebman's employment terminates after
+the sale of the Company; and a noncompetition payment of up to $1,900,000.
+Such costs will be charged against income at the time of, or subsequent to,
+the sale of the Company.
+
+         The Company also has agreements with seven other officers which
+could result in severance payments to those officers if their employment were
+to terminate during a two-year period following a change in control of the
+Company.  Aggregate severance payments under such agreements could range up to 
+approximately $2,500,000 depending on the number of officers terminated and
+the timing of the terminations.  Such costs will be charged against income
+when it is probable that a liability has been incurred.  
+
+         In fiscal year 1995, the Company expensed costs of approximately
+$675,000 related to the possible sale of the Company. Additional costs are
+expected in fiscal year 1996 as efforts to sell the Company continue. If
+the Company is sold while the voting trust is in effect, a fee of $500,000,
+plus an additional amount based on the selling price of the Company, will
+be paid. 
+
+
+Results of Operations - Outlook for Fiscal Year 1996
+
+         The Company completed fiscal year 1995 with a firm orders backlog of
+$106,558,000, including an unfunded amount of $7,833,000. The backlog at
+February 24, 1995 dropped approximately 12% from the backlog amount
+reported at the end of fiscal year 1994 primarily due to delays in new
+contract awards, many of which are now expected in fiscal year 1996. The
+overall level of new orders in fiscal year 1996 is expected to exceed the
+level of orders received in fiscal year 1995. In addition, fiscal year 1996
+sales and service revenues are also expected to exceed the level reported
+in fiscal year 1995. However, there are no assurances that either new
+orders or revenues will exceed the levels reported in 1995, and revenues
+recognized will at least be partially dependent upon the timing and amounts
+of anticipated new orders. The projected increases in new orders and
+revenues are expected to have an offsetting impact on backlog, resulting in
+a projected backlog at the end of fiscal year 1996 consistent with the
+amount reported at February 24, 1995. It is anticipated that approximately
+80% of the backlog at February 24, 1995 will be completed in fiscal year
+1996.  
+
+         Besides the potential impact of a possible sale of the Company as
+described above, fiscal year 1996 operating results will be influenced by
+various other internal and external factors.  The Company is presently
+engaged in several programs involving complicated engineering development
+efforts and, as is the case with most development efforts, technical and
+other complexities are often encountered.  These complexities have resulted
+in increased contract cost estimates in the past and could have the same
+result in the future.  The Company could also encounter similar risks on
+other long-term contracts and such factors could impact future operating
+results.  The Company presently has a program for which certain unanticipa-
+ted costs, incurred and to be incurred, are subject to negotiations with
+the U.S. Government, and the outcome of those negotiations could impact
+future operating results. At February 24, 1995, the Company had recorded an
+unbilled receivable of  $2,200,000 relating to such costs.  In addition,
+the Company in the past has sought high-technology seed programs and may do
+so again in the future.  Such programs, which are intended to provide a
+base for the Company's future operations, may require contract investment
+provisions or significant Company-sponsored research and development
+expenditures, both reflecting the Company's commitment of its own funds.  
+
+         Management is continuing its strategic planning efforts in order to
+enhance the Company's ability to be responsive to the Government's changing
+national defense requirements and to select products and business areas
+which will enable the Company to effectively compete and perform in a very
+demanding marketplace.  Although the uncertainties of future world events
+and changes in national defense spending hang over the defense industry,
+the Company's products, heavily concentrated in the field of defense
+electronics, and management's constant thrust to improve its design,
+manufacturing and quality systems, provide the Company with the
+prerequisites to be competitive.  The U.S. Government and its suppliers
+continue to be the most significant customers of the Company, and a
+significant reduction in one or more of the Company's major defense pro-
+grams, existing or anticipated, could adversely effect the Company's future
+operating results.  In addition to its business with the U.S. Government,
+the Company continues to seek commercial applications for its products and
+services, including the development of wide dynamic range fiber optic links
+for use in CATV and cellular communications systems, and the expansion of
+its aircraft modification business into commercial aviation.  
+
+         The Company from time to time is subject to claims and investigations
+arising from the conduct of its business with the U.S. Government.  In one
+such instance, the Company continues to cooperate with the Department of
+Defense in an investigation which commenced in 1992 regarding the AN/MLQ-T4
+Ground Jammer program.  At this time, management is unable to determine
+when the Government will complete its inquiry or whether it will seek any
+remedies.  This matter and other ongoing legal matters which may impact
+future operating results are described in Note 8 to the consolidated
+financial statements.  
+
+         The Company's consolidated balance sheet at February 24, 1995 contains
+a net deferred tax asset of $2,118,000 including a valuation allowance of
+$1,180,000 primarily for the uncertainty relating to the realization of
+future income tax benefits.  The Company believes it is more likely than
+not that the majority of the net deferred tax asset will be realized
+through future reversals of existing taxable temporary differences and
+future taxable income.  The Company's conclusion that it is "more likely
+than not" that the majority of the deferred tax asset will be realized is
+based on a history of earnings, forecasted earnings for fiscal year 1996
+and the prospects for continued earnings after 1996.  However, significant
+subsequent events related to the uncertainties discussed above could have a
+material adverse effect on expected future income and, consequently, the
+realization of the Company's deferred tax asset.  The Company will continue
+to periodically review the tax criteria related to the recognition of the
+deferred tax asset.  
+
+Inflation
+
+         Because the Company's products and services are predominantly
+custommade, the impact of inflation on operating results is typically not
+significant.  The Company attempts to alleviate inflationary pressures by
+increasing selling prices to help offset rising costs (subject to
+competitive conditions and regulatory requirements), increasing
+productivity and improving design and manufacturing techniques.  
+
+Liquidity and Capital Resources
+
+         The Company's primary source of short-term financing is from cost
+reimbursements under contracts with the U.S. Government and its suppliers. 
+That financing is supplemented, when necessary, through borrowings under a
+line of credit agreement.  The absorption of cash flows in fiscal year 1995
+was primarily to repay long-term debt and fund capital expenditures.  At
+February 24, 1995, the Company has available cash and equivalents of
+approximately $3,100,000 and a line of credit agreement, which expires June
+30, 1995, providing for borrowings up to $8,000,000.  The Company had no
+borrowings under the line of credit agreement at February 24, 1995.  
+
+         The Company's ratio of current assets to current liabilities increased
+from 2 to 1 at February 25, 1994 to 2.2 to 1 at February 24, 1995, and the
+long-term debt to equity ratio at February 24, 1995 was essentially
+unchanged from the ratio at February 25, 1994. The Company's liquidity
+position remains strong at the end of fiscal year 1995 with approximately
+$29,600,000 in working capital.  
+
+         The Company's third installment repayment of $3,300,000 on its 10.03%
+unsecured note obligation is due April 1995. Management believes that the
+Company's current cash and working capital positions, and available
+borrowing capacity, should provide sufficient capital resources to meet the
+Company's operating needs for the foreseeable future as well as the
+maturing debt obligation due in April 1995.  
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>6
+<TEXT>
+
+
+                        SUBSIDIARIES OF THE REGISTRANT
+                                       
+                                       
+NAME                          STATE OR JURISDICTION OF INCORPORATION
+
+
+AEL Foreign Sales Corp.       U.S. Virgin Islands
+
+AEL International Marketing
+Services, Inc.                Delaware
+
+UltraVest Corp.               Delaware
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>7
+<DESCRIPTION>CONSENT OF AUDITORS
+<TEXT>
+
+    
+                                       
+                                  Exhibit 23
+
+
+
+                       Consent of Independent Auditors
+
+
+We consent to the incorporation by reference in this Annual Report (Form
+10-K) of AEL Industries, Inc. of our report dated March 24, 1995, included
+in the 1995 Annual Report to Shareholders of AEL Industries, Inc.
+
+Our audits also included the financial statement schedule of AEL
+Industries, Inc. listed in Item 14(a).  This schedule is the responsibility
+of the Company's management.  Our responsibility is to express an opinion
+based on our audits.  In our opinion, the financial statement schedule
+referred to above, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+We also consent to the incorporation by reference in the Registration
+Statements pertaining to the Incentive Stock Option Plans (Form S-8 No. 2-
+87030 and No. 33-64512) and the Non-Qualified Stock Option Plans (Forms S-8
+No. 2-18195, No. 33-41025, and No. 33-64510) of AEL Industries, Inc. of our
+report dated March 24, 1995, with respect to the financial statements
+incorporated herein by reference and our report included in the preceding
+paragraph with respect to the financial statement schedules included in the
+1995 Annual Report (Form 10-K) of AEL Industries, Inc.
+
+
+
+/s/ Ernst & Young LLP
+
+
+Philadelphia, Pennsylvania
+May 16, 1995
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>8
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED
+FROM AEL
+INDUSTRIES, INC. FORM 10-K FOR YEAR ENDED FEBRUARY 24, 1995 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1000
+       
+<S>                                        <C>
+<PERIOD-TYPE>                              YEAR
+<FISCAL-YEAR-END>                          FEB-24-1995
+<PERIOD-END>                               FEB-24-1995
+<CASH>                                           3,140
+<SECURITIES>                                       724
+<RECEIVABLES>                                   45,968
+<ALLOWANCES>                                         0
+<INVENTORY>                                      1,312
+<CURRENT-ASSETS>                                 2,136
+<PP&E>                                          99,580
+<DEPRECIATION>                                  56,941
+<TOTAL-ASSETS>                                 101,418
+<CURRENT-LIABILITIES>                           23,690
+<BONDS>                                         15,742
+<COMMON>                                         3,804
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      56,418
+<TOTAL-LIABILITY-AND-EQUITY>                   101,418
+<SALES>                                        126,537
+<TOTAL-REVENUES>                               126,537
+<CGS>                                           97,448
+<TOTAL-COSTS>                                   97,448
+<OTHER-EXPENSES>                                 2,206
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,334
+<INCOME-PRETAX>                                  2,528
+<INCOME-TAX>                                       759
+<INCOME-CONTINUING>                              1,769
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,769
+<EPS-PRIMARY>                                      .46
+<EPS-DILUTED>                                      .46
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

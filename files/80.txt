@@ -1,0 +1,3389 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RQMURCnlP3v7On+3sbSk1VXQeOPL5ukKpeyyQBoe0XW7uVH79NAXLq0h58TbyqjL
+ HDJceKX4UqZBbOpNlRU/rg==
+
+<SEC-DOCUMENT>0000950137-96-002075.txt : 19961030
+<SEC-HEADER>0000950137-96-002075.hdr.sgml : 19961030
+ACCESSION NUMBER:		0000950137-96-002075
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19960731
+FILED AS OF DATE:		19961029
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AM INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000002310
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTING TRADES MACHINERY & EQUIPMENT [3555]
+		IRS NUMBER:				340054940
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00683
+		FILM NUMBER:		96649493
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9399 W HIGGINS RD
+		CITY:			ROSEMONT
+		STATE:			IL
+		ZIP:			60018
+		BUSINESS PHONE:		7088181294
+
+	MAIL ADDRESS:	
+		STREET 1:		9399 W HIGGINS ROAD
+		CITY:			ROSEMONT
+		STATE:			IL
+		ZIP:			60018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADDRESSOGRAPH MULTIGRAPH CORP
+		DATE OF NAME CHANGE:	19790322
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549       
+
+                                   FORM 10-K
+
+x   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+                    For the fiscal year ended July 31, 1996
+                          Commission File Number 1-683
+
+                             AM INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+               DELAWARE                              34-0054940         
+        (State of Incorporation)          (I.R.S. Employer Identification No.)
+           431 LAKEVIEW COURT
+         MT. PROSPECT, ILLINOIS                        60056
+(Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code: (847) 375-1700
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                Name of each exchange on
+     Title of each class                            which registered 
+    ---------------------                       ------------------------
+Common Stock, $0.01 par value                    American Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:
+                                       None            
+
+                    Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period
+that the Registrant was required to file such reports) and (2) has been subject
+to such filing requirements for the past 90 days.
+
+                              Yes   X     No
+                                   ----      ----
+                               
+<PAGE>   2
+
+                    Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of Registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. [ X ]
+
+                    The aggregate market value of voting stock held by
+nonaffiliates of the Registrant as of October 28, 1996:
+
+                          Common Stock, $0.01 par value:   $12,431,950
+
+
+                    Indicate by check mark whether the Registrant has filed all
+documents and reports required to be filed by Sections 12, 13 or 15(d) of the
+Securities Exchange Act of 1934 subsequent to the distribution of securities
+under a plan confirmed by a court.
+
+                              Yes   X     No_____
+
+                    Indicate the number of shares outstanding of the
+Registrant's classes of common stock as of October 28, 1996:
+
+            7,008,421 shares of Registrant's common stock, par value
+   $0.01 per share were outstanding as of October 28, 1996.
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of Registrant's definitive proxy statement for Registrant's next Annual
+Meeting of Stockholders (the "1996 Proxy Statement") are incorporated by 
+reference into Part III.
+
+<PAGE>   3
+
+                                     PART I
+
+
+ITEM 1. BUSINESS
+
+(a)      General Development of Business and Recent Events
+
+         1.     Introduction.
+
+                AM International, Inc. is incorporated in Delaware.  As used
+herein, "Registrant" or the "Company" means AM International, Inc. and its
+subsidiaries, unless the context indicates the contrary.
+
+                Registrant currently conducts its business through one business
+segment, AM Multigraphics, which serves the graphics arts industry in the United
+States. In September, 1996, Registrant sold its interest in AM Japan Co., Ltd.
+On October 17, 1996, Registrant's Canadian subsidiary initiated bankruptcy
+proceedings.  Both of these subsidiaries were included as part of AM
+Multigraphics for financial reporting purposes. In the last eighteen months, as
+previously reported, Registrant has divested its Sheridan Systems and AM
+Multigraphics - International business segments.
+
+                On August 27, 1996, Registrant sold substantially all of the
+assets and liabilities of the Sheridan Systems division, a leading supplier of
+systems and components to both the printing and newspaper publishing
+industries, to Heidelberger Druckmaschinen AG. The sale included substantially
+all of the assets and liabilities of Registrant's AM Graphics International
+Limited subsidiary in Slough, England.
+
+                The disposition of the AM Multigraphics - International
+operations has taken place in stages, as Registrant has divested its
+unprofitable foreign subsidiaries. In February, 1996, Registrant's AM
+International UK Limited subsidiary in England entered into an Adminstration
+proceeding, which resulted in the sale of certain portions of that business.  In
+March, 1996, Registrant sold its Netherlands holding company, including all its
+subsidiaries in the Netherlands, France and Belgium, to a local management
+buyout team.
+
+                All financial information has been restated to reflect the
+Sheridan Systems and the AM Multigraphics - International operations as
+discontinued operations.  AM Multigraphics is a distributor of an extensive
+range of equipment, supplies and services to the graphics arts industry, having
+recently undertaken the final steps to exit the manufacture of equipment. The
+majority of Registrant's equipment, systems and supplies are sold under the AM
+Multigraphics(R) brand name.  To complement and expand its product lines,
+Registrant purchases additional products from outside suppliers, which are sold
+either under Registrant's or the producing company's trade names.
+
+                On October 29, 1996 the Company entered into a definitive Merger
+Purchase Agreement with a corporation newly formed by affiliates of Pacholder
+Associates, Inc., a Cincinnati-based provider of investment management,
+financial advisory and investment banking services to institutional clients.
+This agreement provides for the merger of a subsidiary of purchaser with and
+into the Company pursuant to which the current shareholders of the Company will
+receive $5.00 per common share and the Company will become a wholly-owned
+subsidiary of the purchaser. The transaction is conditioned upon the purchaser
+finalizing a credit facility within 30 days as well as a number of additional
+conditions, including approval by a majority of the shareholders of the 
+Company at a meeting tentatively scheduled for January, 1997.
+
+         2.     Bankruptcy Proceedings.
+
+                On May 17, 1993, Registrant and its subsidiary,
+Addressograph-Multigraph Corporation ("AMC"), filed for protection under
+Chapter 11 of the United States Bankruptcy Code, in The United States
+Bankruptcy Court for the District of Delaware (the "Bankruptcy Court") case
+numbers 93-582 through 93-583 (the "Bankruptcy Proceedings").  Registrant also
+filed on that date a proposed Plan of Reorganization.  The Chapter 11 filing
+related to Registrant's domestic operations and did not include its foreign
+subsidiaries.
+
+<PAGE>   4
+
+                On August 26, 1993, a hearing was held by the Bankruptcy Court
+to consider approval of a Disclosure Statement to be distributed to creditors
+and shareholders of Registrant.  After that hearing, and by Order of the
+Bankruptcy Court dated August 26, 1993, the Second Amended Disclosure Statement
+(hereinafter the "Disclosure Statement") was approved as containing "adequate
+information" for creditors and shareholders of Registrant in accordance with
+Section 1125(b) of the Bankruptcy Code.  Further information on the First
+Amended Plan of Reorganization as amended by Amendment No. 1 thereto (as so
+amended the "Plan") and the disclosures made in connection therewith, is
+available in the Disclosure Statement and the Plan incorporated
+herein by reference to Exhibits 28 and 10(A), respectively, to the Company's
+Annual Report on Form 10-K for the fiscal year ended July 31, 1993, File No.
+1-683.
+
+                On September 29, 1993, Registrant's Plan was confirmed by the
+Bankruptcy Court.  In general, the Plan provided for distribution of
+approximately 7,000,000 shares of new Common Stock ("Common Stock"), of which   
+approximately  97% was distributed to former holders of Registrant's 12% Senior
+Subordinated Debentures, 2% to former holders of Registrant's $2.00 Convertible
+Exchangeable Preferred Stock ("Old Preferred Stock") and 1% to former holders
+of Registrant's Common Stock ("Old Common Stock").  The Plan also provided for
+distribution of 1,095,000 Warrants to Purchase Common Stock ("Warrants") to
+former holders of Old Preferred Stock.  The Warrants permitted the holder to
+purchase an aggregate of 1,095,000 shares of Common Stock until October 15,
+1996 at an exercise price of $18.00 per share, but have now expired and are of
+no further effect.  Under the Plan, general unsecured creditors are to be paid
+in full over a period of five years with interest at 5% per annum unless they
+elected to be paid in full under the convenience class (claims under $2,000) or
+unless they elected before September 29, 1993 to receive Common Stock in lieu
+of cash.
+
+                The Plan became effective on October 13, 1993 (the "Effective
+Date").  Distributions provided for in the Plan, including Common Stock and
+Warrants, commenced on that date.  On the Effective Date, all Old Preferred
+Stock, Old Common Stock, Old Warrants to Purchase Common Stock and Old
+Preferred Stock Purchase Rights attached to the Old Common Stock were canceled
+and became of no further force and effect except as evidence of the holder's
+entitlement to a distribution under the Plan.  All exchange rights associated
+with the Old Preferred Stock and Old Common Stock expired on October 13, 1995.
+For information relating to shares of Common Stock outstanding and shares of
+Common Stock held for exchange as described above, see Notes 4 and 14 of the
+"Notes to Consolidated Financial Statements" contained in Item 8 hereof.  Also
+on the Effective Date the former directors of Registrant were replaced.
+
+         3.     Events Leading to Bankruptcy Proceedings.
+
+                Reference is made to Section D of Part III of the Disclosure
+Statement (pages 22 to 29), incorporated herein by reference to Exhibit 28 to
+the Company's Annual Report on Form 10-K for the fiscal year ended July 31,
+1993, File No. 1-683, for information on the general development of the
+business of Registrant and events which led to commencement of the Bankruptcy
+Proceedings on May 17, 1993.
+
+         4.     Corporate Structure of Registrant
+
+                Registrant, AM International, Inc., was originally incorporated
+in Delaware in 1924 as Addressograph Securities Corporation.  Registrant has
+had several name changes, one of which was Addressograph-Multigraph Corporation
+for the period May 6, 1931 to January 2, 1979.  Registrant's subsidiary,
+Addressograph-Multigraph Corporation ("AMC") was originally incorporated in
+Delaware in 
+
+                                       2
+<PAGE>   5
+
+August 1972 as AM International, Inc. and changed its name to
+Addressograph-Multigraph Corporation on January 2, 1979.  Until October 13,
+1993, AMC was a wholly owned subsidiary of Registrant and was a holding company
+for certain foreign subsidiaries.  Pursuant to the Plan, AMC was merged with
+and into Registrant on October 13, 1993.
+
+
+(b)      Financial Information About Industry Segments
+
+                See the information in the section entitled "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" and
+in Note 12 to the "Notes to Consolidated Financial Statements" under the
+section entitled "Geographic Segments" contained in Items 7 and 8 of this
+Report, respectively.
+ 
+ (c)     Narrative Description of Business
+
+                Registrant currently conducts its business through its one
+remaining business segment:  AM Multigraphics, which currently has
+approximately 800 employees.  AM Multigraphics is a distributor of equipment,
+supplies and services to the graphic arts industry, and is currently exiting
+the engineering and manufacturing of offset duplicating equipment and supplies
+to focus  exclusively on distribution of equipment, supplies and service.  In
+1996, the Registrant divested its Sheridan Systems and AM
+Multigraphics - International operations in previously reported transactions.
+
+         AM Multigraphics is headquartered in Mount Prospect, Illinois, where,
+historically, it has manufactured and distributed a broad product line of
+equipment and supplies and provided services for the graphics arts industry
+through its own direct sales and service organizations in the United States.
+AM Multigraphics products traditionally have included small offset printing
+equipment, automated copy/duplicating systems, digital color printing systems,
+pre and post press products and supplies.
+
+                Presently, AM Multigraphics is completing its plans to exit the
+engineering and manufacturing of offset duplicating equipment to focus entirely
+on distribution of supplies, services and equipment to the graphics arts
+industry.  The declining market for the segment's traditional offset duplicator
+products, due to inroads by alternative technologies, resulted in the
+re-evaluation of its traditional strategy and the decision to exit
+manufacturing and focus upon the distribution of supplies, services and
+equipment.  Accordingly, the Registrant today is focused on (1) supplies and 
+prepress products, and (2) service and parts.  
+
+         The supplies and prepress category consists of consumable products
+used in the production of printed materials, such as films, inks, plates,
+rubber rollers, cleaning solutions and cotton pads, as well as pre-press
+products such as platemakers and image-setters.  The Registrant tracks various
+categories of these products, none of which accounts for more than 10% of its
+revenues.  Similarly, no single supplier accounts for more than 10% of
+Registrant's revenues.
+
+         The service and parts category provides service for the traditional
+installed base of offset duplicators and associated prepress products and
+simple bindery equipment.  The Company has 400 service representatives.
+
+         The following table sets forth the breakdown of revenues among
+machines, supplies and services in the United States, Canada and Japan for
+fiscal 1996, 1995 and 1994.
+
+
+<TABLE>
+<CAPTION>
+
+
+                              Twelve Months Ended July 31,      
+                        ----------------------------------------
+                          1996            1995            1994  
+                        --------        --------        --------
+<S>                     <C>             <C>             <C>
+UNITED STATES
+  Machines              $ 39,598        $ 50,829        $ 46,775
+  Supplies                40,921          43,578          45,599
+  Services                47,511          52,748          55,936
+                        --------        --------        --------
+                         128,030         147,155         148,310
+                        --------        --------        --------
+                                                                
+CANADA                                                          
+  Machines                 4,352           3,849           4,599
+  Supplies                 2,312           2,842           2,865
+  Services                 3,287           3,594           4,093
+                        --------        --------        --------
+                           9,951          10,285          11,557
+                        --------        --------        --------
+                                                                
+JAPAN
+  Machines                13,574          15,928          14,889
+  Supplies                11,361          12,383          10,376
+  Services                 5,136           5,734           5,216
+                        --------        --------        --------
+                          30,071          34,045          30,481
+                        --------        --------        --------
+                                                                
+TOTAL                                                           
+  Machines                57,524          70,606          66,263
+  Supplies                54,594          58,803          58,840
+  Services                55,934          62,076          65,245
+                        --------        --------        --------
+                        $168,052        $191,485        $190,348
+                        ========        ========        ========
+</TABLE>
+
+
+
+
+
+
+
+                                       3
+<PAGE>   6
+
+
+         AM Multigraphics also manages a network of approximately 74
+independent dealers and sales representatives selling in approximately 95 other
+countries.
+
+                The principal customers of AM Multigraphics include in-plant
+print shops, franchised and independent quick print shops, small commercial
+printers and governmental and educational institutions.  AM Multigraphics has
+in excess of 50,000 customers.  No customer accounts for more than 10% of
+Registrant's revenues.
+
+         5.  Competition and Competitive Conditions
+
+                The Company operates in a highly competitive market in which
+price, delivery and customer service are key factors.  The Registrant's
+customers are in-plant, quick print and small commercial printer market
+segments.  The market for small offset duplicator presses, the traditional
+proprietary equipment of the division, is mature and continues to face
+competition from alternative technologies.  Because the installed base of
+equipment has historically provided the primary market for many of Registrant's
+services and supplies, the Company is increasingly reliant on its general
+distribution capabilities in continuing to serve its market segments.  Gross
+margins are expected to decrease as the Company seeks to add product lines
+through distribution agreements, joint ventures and affiliations with third
+parties.  To offset the lower margins the Company has invested in information
+systems and has undertaken other reorganization measures to increase efficiency
+and lower expenses.
+
+         The competitive market is also one of heavy regional competition, but
+consolidation of dealers is occurring, which brings consolidated buying power
+and distribution cost efficiencies.  The Registrant's investments in
+information systems and other reorganization measures are designed to enable it 
+to expand its business opportunities with existing customers and possibly to
+add volume through acquisitions over time.
+
+         6.     Cyclical Nature of Business and Liquidity
+
+                The revenues of Registrant are dependent upon trends in the
+printing industry, which are a function of (among other factors) overall
+economic factors and advertising expenditures.  The backlog for the AM
+Multigraphics segments is less than 5% of annual revenues and is not a material
+factor in the conduct of the business.  Registrant believes that substantially
+all of this backlog will be shipped during the 1997 fiscal year.
+
+                Certain customers of  AM Multigraphics require long-term
+financing for purchases of equipment distributed by the Company.  Registrant
+cooperates with various independent finance and leasing companies to provide
+such financing.  These agreements are sometimes on a partial recourse basis
+with remarketing arrangements on a non-discretionary, non-priority basis.  From
+time to time, Registrant's operations enter into long-term leases with their
+customers.  Registrant periodically sells identified pools of lease receivables
+and pools of rental equipment to financial institutions on a limited recourse
+basis. The existence of such financing is not, however, significant to
+Registrant's domestic or international operations each taken as a whole.
+
+         7.     Research and Development; Patent and Trademarks
+
+
+                                       4
+<PAGE>   7
+
+                Approximately $0.4 million was expended by Registrant for
+research and development in fiscal 1996, $0.7 million in 1995, and $0.6
+million in 1994.   Registrant's research, development and engineering
+expenditures are made primarily to maintain competitive product offerings.
+
+                Registrant owns or is licensed under various patents and
+trademarks.  While such rights are important, Registrant does not believe that
+its business as a whole is materially dependent on any one patent or trademark
+or group of patents or trademarks.
+
+
+                                       5
+<PAGE>   8
+
+ITEM 2.  PROPERTIES
+
+                Registrant's principal executive offices are located in Mt.
+Prospect, Illinois.  Registrant moved its corporate headquarters from Rosemont,
+Illinois to its current headquarters in September, 1996, following the
+disposition of Registrant s Sheridan Systems division.  Registrant moved to
+Rosemont in April, 1995 and previously had been located at the AM Multigraphics
+facility in Mt. Prospect, Illinois since March 22, 1993 when it moved from its
+downtown Chicago location.
+
+                In 1996, Registrant undertook the relocation of its AM
+Multigraphics operations from its 700,000 square foot manufacturing and office
+facility in Mt. Prospect to newer, more cost efficient facilities.  The project
+consisted of three parts:  (1) relocation of the business offices to a 64,400
+square foot facility in Mt. Prospect; (2) relocation of the distribution center
+to an 80,000 square foot nearby complex in Arlington Heights, Illinois, to
+enhance the unit's distribution capabilities; and, (3) the sale of  its former
+Mount Prospect, Illinois facility for approximately $6.8 million in 1996.
+
+                Registrant owns or leases distribution, sales and service
+facilities throughout the United States.  In the United States, Registrant
+occupies 30 leased facilities with total square footage of 455,000.  Leases for
+approximately 185,000 square feet will expire in April and May of 1997, and
+will not be renewed.
+
+                The facilities occupied by Registrant as of October 28, 1996,
+which have more than 20,000 square feet of space or which are otherwise
+material to Registrant's businesses, are set forth below.  Although certain
+facilities remain underused, Registrant believes that the properties and
+equipment included therein are well maintained, in good operating condition and
+adequate for the current needs of its operations.
+
+
+                                       6
+<PAGE>   9
+
+                                FACILITIES
+
+<TABLE>
+<CAPTION>
+                                                                            APPROXIMATE SQUARE
+                                                                            FEET OF FLOOR AREA  
+                                                                           --------------------
+         LOCATION AND BUSINESS SEGMENT              USE (1)                 OWNED       LEASED 
+         -----------------------------              -------                 -----       -------
+         <S>                                           <C>                 <C>      <C>   
+
+         Corporate
+         ---------
+         Rosemont, Illinois                                     ADM                  10,700  (2)
+
+         AM Multigraphics - Domestic
+         ---------------------------
+         Arlington Heights, Illinois                           DIST                  79,700  (3)
+         Mt. Prospect, Illinois                        MFG/ADM/DIST                 175,000  (4)
+         Mt. Prospect, Illinois                                 ADM                  64,400  (3)
+</TABLE>
+
+
+
+
+
+         ______________________________________________
+         (1) ADM = Administrative; MFG = Manufacturing and
+             Engineering; DIST - Distribution Center; R&D = Research and
+             Development.
+         (2) Lease expires in May, 1997, and will not be renewed.
+         (3) Leases expire in 2005.
+         (4) Manufacturing operations are winding up and lease for this
+             facility will expire in April, 1997, and will not be renewed.
+
+                                       7
+<PAGE>   10
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+                 Reference is made to Item 1, Section (a) Paragraph 2, for
+information on Registrant's Bankruptcy Proceedings.  The commencement of the
+Bankruptcy Proceedings resulted in an automatic stay of certain litigation
+against Registrant pursuant to Section 362 of the Bankruptcy Code as of May 17,
+1993.  Therefore, with certain exceptions, all legal proceedings against
+Registrant pending as of May 17, 1993, will be resolved through the bankruptcy
+process.  In addition, there are significant claims pending in the Bankruptcy
+Proceeding.  Registrant believes the resolution of these legal proceedings and
+claims will not have a material adverse effect on the business or the financial
+position of Registrant.
+
+                 Registrant has been notified of various environmental matters
+in connection with certain current or former locations in  Illinois, Indiana,
+Ohio, Pennsylvania, and Rhode Island.  Registrant believes that the legal
+liability relating to such matters, if any, will either be resolved
+consensually between Registrant and relevant governmental authorities or will
+be subject to resolution through the bankruptcy process as with other disputed
+claims.  Registrant believes the resolution of these matters will not have a
+material adverse effect on the business or the financial position of
+Registrant.
+
+                 Registrant is involved in various other administrative and
+legal proceedings incidental to its business, including product liability and
+general liability lawsuits against which Registrant is partially insured.  The
+resolution of these other proceedings is not expected to have a material
+adverse effect on the business or the financial position of Registrant.
+
+
+ITEM 4.    RESULT OF VOTES OF SECURITY HOLDERS.
+
+                 None.
+
+ITEM 4(A). EXECUTIVE OFFICERS OF THE REGISTRANT
+
+                 The following is a list of the names and ages, as of October
+28, 1996, of all of the executive officers of Registrant and all positions and
+offices of Registrant held by each person and each such person's occupation or
+employment on such date and during the preceding five years.  All such persons
+have been elected to serve until their successors are elected or until their
+earlier resignation or retirement.
+
+                                       8
+<PAGE>   11
+<TABLE> 
+<CAPTION>         
+                                   Positions and Offices Held and                                                           
+                                   Principal Occupations or Employment                                                      
+Name                     Age       During the Past Five Years                                                               
+- ------------------       ---       -------------------------------------------------                                        
+<S>                      <C>       <C>                                                                                        
+Jerome D. Brady          52        Chairman of the Board of Directors, Chief Executive Officer and President                
+                                   since September 1994.  Mr. Brady was Vice President of FMC Corporation, a                
+                                   manufacturer of chemicals and machinery, and General Manager of its Food                 
+                                   Machinery Group from October 1992 until he joined the Company.  From 1978 to             
+                                   1992 Mr. Brady held a number of senior management positions at Harsco                    
+                                   Corporation, a diversified industrial manufacturing and services company,                
+                                   most recently as Senior Vice President of Operations responsible for the                 
+                                   Industrial Services and Building Products Group.                                         
+                                                                                                                            
+Steven R. Andrews        43        Vice President, General Counsel and Secretary of Registrant since June 1994.             
+                                   Mr. Andrews was Vice President and General Counsel of Amana Refrigeration,               
+                                   Inc., a manufacturer of major household appliances, from February 1993 to                
+                                   June 1994 and Senior Deputy General Counsel of Registrant from January 1992              
+                                   to February 1993.  From 1988 to 1991 Mr. Andrews was Associate General                   
+                                   Counsel of Tonka Corporation, an international manufacturer and marketer of              
+                                   toys and games.                                                                          
+                                                                                                                            
+Gregory T. Knipp         41        Treasurer of Registrant since September 1995.  From 1987 to 1994 Mr. Knipp               
+                                   held several treasury-related management positions of Registrant, including              
+                                   that of Assistant Treasurer from 1994 to 1995.  From 1981 to 1987, Mr. Knipp             
+                                   was the Cash Manager of Woodland Services Co., a spinoff company of Masonite             
+                                   Corporation.  Prior to 1981, Mr. Knipp was an auditor with Peat Marwick  
+                                   Mitchell & Co.                                                           
+                                                                                                                            
+Thomas D. Rooney         49        President of Multigraphics since August of 1996, Vice President of               
+                                   Registrant since February 1986, Chief Financial Officer since August 1993,       
+                                   and Controller and Chief Accounting Officer of Registrant from September         
+                                   1989 to August 1993.  From 1986 to 1989 Mr. Rooney was President of              
+                                   Registrant's former AM Bruning division, a manufacturer and distributor of                     
+                                   equipment, supplies and services for the engineering graphics market.            
+</TABLE>
+                                       9
+
+<PAGE>   12
+
+                                    PART II
+
+ITEM 5.    MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED
+           STOCKHOLDER MATTERS
+
+                 (a) Market and Other Information
+
+                 Registrant's Plan of Reorganization provided for the amendment
+and restatement of Registrant's Certificate of Incorporation and Bylaws.  The
+new charter authorized 50 million shares of stock of which 40 million shares
+were reserved for issuance as new Common Stock and 10 million shares were
+reserved for issuance as new Preferred Stock.  On the Effective Date of the
+Plan, the Board of Directors authorized the issuance of 7 million shares of new
+Common Stock, $.01 par value, to holders of claims and interests as described
+in Note 14 of "Notes to Consolidated Financial Statements" contained in Item 8
+hereto.
+
+                 On the Effective Date, Registrant also issued 1,095,000 new
+Warrants to Purchase Common Stock at an exercise price of $18.00 per share
+which expired on October 15, 1996, and are of no further effect.
+
+                 At the Annual Meeting of Stockholders held on December 8,
+1994, Registrant's stockholders approved the 1994 Long- Term Incentive Plan
+(the "Plan").  In conjunction therewith, an additional aggregate of 1,400,000
+Common Stock shares are available pursuant to and in accordance with the terms
+of the Plan, subject to adjustments as provided in Section 6.7 of the Plan.
+
+                 Registrant's new Common Stock, $.01 par value commenced
+trading on the American Stock Exchange on December 6, 1993 under the ticker
+symbol "AM."
+
+                 For information regarding quarterly stock prices for the
+Common Stock, see Note 13 to the "Notes to Consolidated Financial Statements"
+in Item 8 entitled "Quarterly Financial Information."
+
+         (b)     Holders
+
+                 At October 28, 1996, Registrant had approximately 1,200
+                 stockholders of record.
+
+         (c)     Dividends
+
+                 Registrant has not paid cash dividends on its Common Stock
+                 since August 15, 1981.
+
+
+
+
+                                       10
+<PAGE>   13
+
+ITEM 6.    SELECTED FINANCIAL DATA
+
+FIVE YEAR FINANCIAL SUMMARY - Financial information has been restated to
+reflect the Sheridan Systems and the Multigraphics - International operations
+as discontinued operations.
+
+
+<TABLE>
+<CAPTION>
+                                              Reorganized Company             |           Predecessor Company
+                                  --------------------------------------------|------------------------------------------
+                                          Years  Ended         Sept. 30, 1993 | Aug. 1, 1993       Years Ended July, 31
+                                  ----------------------------     Through    |     Through        --------------------- 
+                                  July 31, 1996  July 31, 1995 July 31, 1994  | Sept. 29, 1993       1993        1992
+                                  -------------  ------------- -------------  |--------------     ----------- ---------
+<S>                                <C>        <C>              <C>            | <C>                <C>        <C>
+OPERATIONS                                                                    |
+   Revenues                        $168.1      $191.5          $163.8         | $26.5              $195.7      $202.4
+   Gross profit                      37.6        52.7            51.4         |   7.0                57.0        62.5
+     as a percent of revenues        22.4%       27.5%           31.4%        |  26.4%               29.1%       30.9%
+  Unusual items (inc.)/exp.           7.0         0.0             0.0         |   0.0                37.6         0.0
+  Operating income (loss)           (16.4)       (2.5)            6.8         |  (2.0)              (34.3)      (75.4)
+     as a percent of revenues        (9.8%)      (1.3%)          (4.2%)       |  (7.5%)             (17.5%)     (37.3%)
+  Net Income (Loss) from                                                      |
+      Continuing Operations         (20.2)       (4.2)            2.1         |  21.8               (43.8)      (83.1)
+  Income (Loss) from                                                          |
+     discontinued operations        (25.3)        8.8             4.6         | (27.8)              (81.9)      (41.7)
+  Extraordinary Gain                  0.0         0.0             0.0         |  58.7                 0.0         0.0
+  Net income (loss)                ($45.5)       $4.6            $6.7         | $52.7             ($125.7)    ($124.8)
+Capital Employed                                                              |
+  Working capital                   (38.9)       61.5             8.7         |  (17.6)                5.6       (23.6)
+  Total assets                       98.0       163.1           169.2         |  164.4               175.4       271.8
+  Long-term debt                      8.5        14.9            19.4         |   25.5               129.0        62.6
+  Shareholders' equity                2.3        48.3            42.8         |   36.0               (49.7)       69.3
+Per Common Share                                                              |
+  Net income (loss) from                                                      |
+   continuing operations           ($2.88)     ($0.59)          $0.30         |    N/A                 N/A         N/A
+  Market price - High (1)(3)       $8.375     $12.250         $11.875         |    N/A                 N/A         N/A
+                    Low (1)(3)     $1.875      $8.125          $8.750         |    N/A                 N/A         N/A
+Average number of common  shares                                              |
+  and equivalents (in thousands)(2) 7,009       7,021           7,006         |    N/A                 N/A         N/A
+NUMBER OF EMPLOYEES AT YEAR END     1,121       1,378           1,520         |  1,633               1,662       1,897
+                                   ------      ------        --------         | ------              ------      ------
+</TABLE>
+
+     (1)  Trading of Reorganized Company Common Stock commenced on December 6, 
+1993.
+
+     (2) The net income per common share and average number of common shares  
+and equivalents for the Company has not been presented as this information  is  
+not comparable.
+
+     (3) Trading of Predecessor Company Common Stock and Preferred Stock
+was suspended on May 21, 1993.  Periods prior to this date are not presented
+as they are not comparable.
+
+Refer to Management's Discussion and Analysis for explanations of significant 
+factors affecting comparability of the above date.
+
+
+
+ITEM 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+           RESULTS OF OPERATIONS
+                      
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ANALYSIS OF CONTINUING OPERATIONS AND DISCONTINUED OPERATIONS
+
+         Over the past several years, the Company has formulated and executed
+various restructuring plans in order to improve operating results.  These plans
+have included the exit from certain unprofitable foreign subsidiaries, the
+divestitures of non-core product lines, the exit from manufacturing operations
+at AM Multigraphics and the implementation of strategic investments in new
+products and capabilities.  In July 1996 the Company entered into an Asset
+Purchase Agreement with Heidelberger Druckmaschinen AG for the sale of its
+Sheridan Systems segment.  The sale of Sheridan Systems was concluded in August
+1996.  In addition, during 1996 the Company disposed of its AM
+Multigraphics-International Operations.  These segments are reflected as
+discontinued operations.  Included in Continuing Operations are results of the
+two remaining foreign subsidiaries; however, the Company sold its interest in
+AM Japan Co., Ltd. in September, 1996, and on October 17, 1996, AM Canada filed
+a voluntary assignment in bankruptcy.
+
+
+CONTINUING OPERATIONS
+
+Results of Operations
+
+(dollars in millions)
+<TABLE>
+<CAPTION>
+                                                  Year ended July 31,
+                                     1996             1995               1994
+                                    ------           ------             ------
+<S>                                <C>              <C>               <C>
+Revenues                            $168.1           $191.5             $190.3
+Operating Income (Loss)               16.4)            (2.5)               4.8
+Non Operating Expenses                (3.9)            (3.2)              21.5
+                                    ------           ------             ------
+Pre Tax Income (Loss)                (20.3)          $ (5.7)            $ 26.3
+Net Income (Loss)                    (20.2)          $ (4.2)            $ 23.9
+                                    ======           ======             ======
+</TABLE>
+
+          Note: To facilitate a meaningful discussion of the Company's
+comparative operating performance in fiscal years 1996, 1995, and 1994, the
+results are presented on a traditional comparative basis for all periods.
+Consequently, the information presented for fiscal year 1994 does not comply
+with the accounting requirements for companies upon emergence from bankruptcy,
+which calls for separate reporting for the Reorganized Company and the
+Predecessor Company.
+
+OPERATING RESULTS
+
+         The Continuing Operations are comprised of one business segment, the
+AM Multigraphics segment.  The AM Multigraphics segment serves the graphics
+arts industries in North America, and until September 1996 Japan, by 
+distributing an extensive range of sheet fed offset duplicating presses, 
+digital color printing equipment, pre and post press equipment, and a wide 
+range of supplies and technical 
+
+
+                                       11
+<PAGE>   14
+
+services. In 1995 the operation initiated efforts to transition out of 
+engineering and manufacturing to focus primarily on distribution, sales and 
+service activities.
+
+         In response to declining demand for manufactured duplicator products
+and services, AM Multigraphics developed a strategic plan during 1995 to
+transition from being a manufacturing based supplier to becoming a broad based
+distributor of equipment, supplies and services to the graphics arts markets.
+Efficiency in providing a broad line of products and services to its large
+customer base and differentiation through the provision of technical service
+and support are the tactical objectives of the strategy.  The Company has
+efforts underway to phase out its manufacturing operations, expand its product
+offering through new distribution agreements and transition its organization
+structure and capabilities to function as an efficient distribution business.
+While progress has been made in adding new products, updating and enhancing
+systems and restructuring the organization, significant efforts to complete the
+transition from a manufacturing based supplier to a distribution business still
+need to be completed.  In addition, with the divestiture of Sheridan Systems,
+it will be necessary for the Company to restructure its corporate staff and
+eliminate excess facilities and equipment.
+
+         During September of fiscal year 1994, the Company emerged from Chapter
+11 Bankruptcy.  The Company had operated under the protection of Chapter 11
+following a voluntary petition for reorganization filed in May 1993.  With the
+emergence from Chapter 11 in 1994, the Company adopted Fresh Start Reporting,
+which resulted in material changes to the balance sheet, including valuation
+changes of assets and liabilities at fair market value and valuation of equity
+based on the appraised reorganization value of the business.
+
+          Revenues in 1996 declined $23.4 million, or 12% from the prior year
+period. In 1995 revenues increased slightly after a decline of 3% in 1994 from
+1993. The decline in revenues, which has been consistent with longer term
+trends, has occurred principally in the sheet fed offset duplicator products
+which include press and post-press machines, supplies and maintenance services.
+The duplicator machines and supplies are products which have been largely
+manufactured by the Company. Market demand for the Company's duplicator
+products has declined due to inroads from competing printing
+technologies. As a result of these competitive inroads, the installed base of
+duplicator equipment has experienced long term decline which has led to
+decreased sales of equipment, supplies and services. In addition, the Company
+experienced significant liquidity problems during 1996 which led to a reduction
+in inventory levels, among other things. The lower inventory level negatively
+affected the Company's ability to serve its supply and service customers which
+resulted in lower revenues and gross margin. The subsidiaries in Japan and
+Canada, which the Company has divested, contributed revenues of $40.0 million
+in 1996, $44.3 million in 1995 and $42.1 in 1994.
+
+         Non Operating Expenses consisted primarily of interest expense in
+1996, 1995 and 1994.  The interest expense related primarily to borrowings
+under the Domestic Revolving Credit Agreement, which have been required to fund
+operations, and interest on general unsecured claims and priority tax claims
+from the Company's reorganization.  In 1994 the Company recorded reorganization
+income of $23.9 million which pertained to the adoption of Fresh Start
+Reporting, as previously described.  The income resulted from fair market
+adjustments to tangible 
+
+
+                                       12
+<PAGE>   15
+
+assets and liabilities of $8.0 million, a provision of $10.1 million to accrue
+for professional fees related to the reorganization, and to record the
+Reorganization Value in Excess of Fair Market Value of $26.0 million.
+
+         The net loss of $20.2 million from Continuing Operations in 1996
+worsened by $16.0 million as compared with 1995.  The increased loss was
+primarily due to volume driven margin erosion in 1996, declines in gross margin
+rates resultant from shifts in product mix to lower margin distributed
+products, and restructuring charges.  The restructuring charges of $7.0 million
+in 1996 related to the shutdown of manufacturing operations, the closure of
+corporate offices and the exit costs for the Canadian subsidiary.  Continuing
+Operations had a net loss of $4.2 million in 1995 compared with a net income of
+$23.9 million in 1994.  With the emergence from Chapter 11 in 1994, the Company
+adopted Fresh Start Reporting, which resulted in material changes to the
+balance sheet, including valuation changes of assets and liabilities at fair
+market value and valuation of equity based on the appraised reorganization
+value of the business.  The reorganization and adoption of Fresh Start
+Reporting in 1994 resulted in a one time reorganization income of $23.9
+million.
+
+  The decrease in net income for the year ended July 31, 1995 as compared with
+fiscal year 1994 was again primarily due to lower gross margins related to the
+change in product mix to lower margin distributed products.  In addition, in
+1994 the Company recorded a favorable adjustment of $23.9 million which
+resulted from the adoption of Fresh Start Reporting in 1994, as previously
+described.
+
+DISCONTINUED OPERATIONS
+
+Results of Operations
+
+<TABLE>
+<CAPTION>
+                 (dollars in millions)                          Year Ended July 31,
+                                                            1996        1995       1994
+                                                            ------     ------     ------
+<S>                                                        <C>         <C>
+Revenues
+
+   Sheridan Systems                                         $109.3     $182.2     $158.1
+   AM Multigraphics - International                           40.0      135.8      142.4
+                                                            ------     ------     ------
+            Total                                            149.3      318.0      300.5
+
+Operating income (loss)
+   Sheridan Systems                                           (2.6)      17.8       14.4
+   AM Multigraphics - International                           (4.2)      (5.7)      (2.5)
+   Unusual items income (expense)                                -        4.8          -
+                                                            ------     ------     ------
+             Total                                            (6.8)      16.9       11.9
+
+Non operating expense                                         (2.6)      (3.5)     (30.9)
+                                                            ------     ------     ------
+Pre-tax income (loss)                                         (9.4)      13.4      (19.0)
+
+Income (loss)                                                (10.1)       8.8      (23.2)
+
+Loss on sale                                                 (15.2)         -          -
+                                                            ------     ------     ------
+
+Income (loss) from discontinued operations                  $(25.3)    $  8.8     $ 23.2
+                                                            ======     ======     ======
+</TABLE>
+
+                                       13
+<PAGE>   16
+
+          Note: To facilitate a meaningful discussion of the Company's
+comparative operating performance in fiscal years 1996, 1995 and 1994 the
+results are presented on a traditional comparative basis for all periods.
+Consequently, the information presented for fiscal year 1994 does not comply
+with the accounting requirements for companies upon emergence from bankruptcy,
+which calls for separate reporting for the Reorganized Company and the
+Predecessor Company. 
+
+
+OPERATING RESULTS
+
+         The Discontinued Operations is comprised of two business segments, the
+Sheridan Systems segment and the divested AM Multigraphics - International
+segment.  The Sheridan Systems business serves the printing and newspaper
+publishing industries by providing bindery systems and newspaper mailroom
+systems.  The products sold by Sheridan Systems were largely capital equipment
+items and market demand has historically been cyclical.  The divested AM
+Multigraphics - International segment served certain foreign graphics arts
+markets through wholly owned subsidiaries, situated primarily in Europe.  The
+divested AM Multigraphics - International subsidiaries distributed an extensive
+range of sheet-fed offset duplicating presses, digital color printing
+equipment, pre and post press equipment and a wide range of  supplies and
+technical services.
+
+          The net loss from Discontinued Operations was $25.3 million in 1996
+compared to net income of $8.8 million in 1995, and a net loss of $23.2 million
+in 1994.  The increased loss in 1996 over 1995 resulted primarily from
+deteriorating market conditions for the Sheridan Systems segment in 1996, and a
+$15.2 million loss recorded on the sale of the segment.  During September of
+fiscal year 1994, the Company emerged from Chapter 11 Bankruptcy. The Company
+had operated under the protection of Chapter 11 following a voluntary petition
+for reorganization filed in May 1993.  With the emergence from Chapter 11 in
+1994, the Company adopted Fresh Start Reporting, which resulted in material
+changes to the balance sheet, including valuation changes of assets and
+liabilities at fair market value and valuation of equity based on the appraised
+reorganization value of the business.  The reorganization and adoption of Fresh
+Start Reporting in 1994 resulted in a one time reorganization expense of $27.0
+million.
+
+         The operating results of Sheridan Systems significantly varied from
+period to period primarily due to the cyclical nature of the business which
+dramatically affected revenue levels and gross margins. Orders for Sheridan
+Systems bindery and newspaper mailroom products have been in the millions of
+dollars and therefore revenues, margins and customer backlogs varied
+significantly depending on the timing of customer orders.  In 1996 Sheridan
+Systems revenues declined $72.9 million from the prior year . Weak market
+demand and a low beginning backlog were the principal reasons for the decrease
+in revenues.  The weak market demand was attributable to a combination of
+factors which include a reduction in printed product for magazines, catalogs
+and direct mail and the existence of excess capacity in the printing industry.
+Historically, the health of the retail sector of the U.S. economy which
+directly impacts advertising expenditures impacts market demand.  Sheridan
+Systems incurred an operating loss of $2.6 million in 1996, compared to income
+of $17.8 million in the prior year period due principally to the lower volume.
+Fiscal year 1995 revenues increased 15% over 1994 largely due to higher orders
+particularly for bindery equipment, and a reduction in backlog.  In 1995
+Sheridan Systems recognized approximately 
+
+                                       14
+<PAGE>   17
+
+$20.0 million in revenues from prototype equipment which had been shipped 
+in 1994 and accepted by customers in 1995. The operating income in 1995 of 
+$17.8 million improved by $3.4 million over 1994 due to the increased revenue 
+level and related gross margin increase. The 1994 operating results reflected 
+revenues of $158.1 million which was only slightly improved over 1993.
+
+         The results of the divested AM Multigraphics - International segment
+consistently reflected operating losses and declining revenues.  The revenue
+decreases, throughout the periods, were attributable to declining market demand
+for offset duplicating presses and the related erosion of the installed base of
+duplicating equipment.  The decline in market demand has been the result of
+inroads made by competing printing technologies.  The users of duplicators have
+been the principal customers for the related supplies and services. The
+divested AM Multigraphics - International operations were also adversely
+impacted by decreases in sales and margins of electronic pre-press products due
+to competitive pressures in all periods.  The Company undertook numerous
+restructuring initiatives in response to the declining revenues and 
+operating losses, with significant headcount reductions accomplished and
+overall cost reductions implemented over the reporting periods.  The
+restructurings were costly due to local statutory requirements and required
+labor negotiations which slowed the implementation of cost reduction actions.
+Despite these restructuring efforts and cash expenditures the Company was not
+able to eliminate the operating losses which ultimately led to the divestiture
+of these operations.
+
+         In 1996 the Company had unusual item expense of $15.2 million which
+resulted from the sales of substantially all of the assets and liabilities of
+the Sheridan Systems division.  In 1995 the Company had unusual item income of
+$4.8 million.  This income resulted from divestitures of non-core product lines
+in the Discontinued Operations.  The divestitures included the sale of certain
+assets related to the service of forms and sheetfed presses, the service and
+supply business formerly known as Advanced Imaging Products, and the U.K.
+copier business.
+
+         Non Operating expenses include interest expense, primarily on
+borrowings under the Revolving Credit Agreement and goodwill amortization
+expense.  In 1994 the Company recorded reorganization expense of $27.0 million
+which pertained to the adoption of Fresh Start Reporting, as previously
+described.  The expense resulted from fair market adjustments to tangible
+assets and liabilities of $9.7 million, a write off of existing Goodwill of
+$39.8 million and to record the Reorganization Value on Excess of Fair Market
+Value of $22.5 million.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+         The Company's total cash and cash equivalents were $2.6 million as of
+July 31, 1996 as compared with $12.6 million on July 31, 1995. In addition to
+the reduction in cash balances, net short term borrowings increased $8.2
+million from prior year levels.
+
+         During 1996, the primary sources of cash from operating activities
+were a reduction in inventories of $13.1 million, and an accounts receivable
+reduction of $6.3 million. The inventory reduction in the current period was
+primarily the result of the phase out of machine manufacturing 
+
+
+
+                                       15
+<PAGE>   18
+
+activities and a related reduction in parts and finished goods inventories.
+The reduction in accounts receivable was the result of the collection of
+comparatively higher outstanding balances which existed at July 31, 1995 due to
+a higher revenue level in the period. Throughout the reporting periods, 
+collection rates have remained relatively consistent while increases and 
+decreases in the overall accounts receivable balance were due principally to 
+changes in revenue levels.
+
+         The primary use of cash in 1996 was the net loss of $45.5 million.
+The net loss included a loss of $25.3 million from discontinued operations.
+This loss in discontinued operations was offset by a reduction in assets of
+discontinued operations prior to their divestiture of $26.3 million.  The
+reduction in the discontinued operations assets was primarily the collection of
+accounts receivable and other long term assets, primarily lease receivables.
+
+         Capital expenditures of $9.0 million in 1996 were primarily to upgrade
+systems and equipment and to provide for leasehold improvements. The Company
+received $6.8 million in proceeds for the sale of its AM Multigraphics
+headquarters, manufacturing and distribution facility in Mt. Prospect,
+Illinois.  The Company has committed to capital expenditures related to certain
+increased systems capabilities. These expenditures will be financed utilizing a
+combination of cash balances, funds obtained under the revolving credit
+facility, and third party lease arrangements.
+
+         The Company's principal credit facility as of July 1996 was its $25.0
+million revolving credit facility, which expired in October 1996.  The
+utilizations under this facility were limited by a borrowing base which as of
+July 31, 1996, was approximately $18.4 million.  The $8.2 million increase in
+short-term borrowings for the year ended July 31, 1996, was required to
+principally fund the net loss, required payments to holders of general unsecured
+claims, and priority tax claims under the Company's Plan of Reorganization and 
+lease obligations.
+
+         In August 1996 the Company completed the sale of its Sheridan Systems
+segment for proceeds of $50.1 million.  In September the Company collected
+approximately $11.0 million from the sale of its interest in AM Japan Co., Ltd. 
+The increase in cash balances from these transactions provides the Company with
+adequate financial resources for the foreseeable future.  At September 28,
+1996, the Company had a cash balance of $41.2 million after repaying bank debt
+and meeting other short-term obligations.  The Company is currently seeking to
+obtain new banking facilities to provide for the issuance of letters of credit,
+fund selected customer financing programs, and increase liquidity to the
+Company.
+
+PLAN OF REORGANIZATION
+
+          On September 29, 1993 the Company's Reorganization Plan (the Plan) was
+confirmed by the United States Bankruptcy Court, with the Plan being consummated
+on October 13, 1993.  As a result of the reorganization and the recording of the
+restructuring transaction and implementation of Fresh Start Reporting, the
+Company's results of operations for the year ending July 31, 1996 are not
+comparable to the two preceding years.  See Note 14 of "Notes to
+                                          
+                                       16
+<PAGE>   19
+ 
+Consolidated Financial Statements" for information on consummation of 
+the Plan and implementation of Fresh Start Reporting.
+
+         The most significant adjustments which resulted from recording the
+restructuring transaction and the implementation of Fresh Start Reporting
+affected the Company's Statement of Operations.  These adjustments related to
+decreased interest expense, decreased amortization of intangibles and increased
+income tax expense.  In the Consolidated Balance Sheet, the most significant
+adjustments affected long term debt and equity.
+
+
+                                       17
+<PAGE>   20
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+
+                                         AM INTERNATIONAL, INC.
+                                  CONSOLIDATED STATEMENT OF OPERATIONS
+                             (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+<TABLE>
+<CAPTION>
+                                                         REORGANIZED  COMPANY (A)                     | PREDECESSOR COMPANY
+                                            -------------------------------------------------------   |  -------------------
+                                                                                        TEN MONTHS    |        TWO MONTHS   
+                                                    TWELVE MONTHS ENDED                   ENDED       |           ENDED
+                                           JULY 31, 1996          JULY 31, 1995       JULY 31, 1994   |     SEPT. 29, 1993
+                                           -------------          -------------       -------------   |     --------------
+<S>                                         <C>                     <C>                <C>            |       <C>
+REVENUES                                     $168,052               $191,485             $163,816     |         $26,532
+                                                                                                      |
+COST OF SALES                                 130,421                138,752              112,395     |          19,526
+                                                                                                      |
+GROSS MARGIN                                   37,631                 52,733               51,421     |           7,006
+                                                                                                      |
+OPERATING EXPENSES                                                                                    |
+  Selling, general and administrative          47,048                 55,224               44,632     |           9,032
+  Unusual items                                 7,032                      0                    0     |               0
+                                             --------               --------             --------     |        --------
+    TOTAL OPERATING EXPENSES                   54,080                 55,224               44,632     |           9,032
+                                                                                                      |
+                                                                                                      |
+OPERATING INCOME (LOSS)                       (16,449)                (2,491)               6,789     |          (2,026)
+                                                                                                      |
+Non-operating income (expense):                                                                       |
+  Interest income                                 169                    222                  517     |               2
+  Interest expense                             (3,762)                (3,355)              (2,663)    |             (51)
+  Reorganization items, net                         0                      0                  575     |          23,946
+  Other, net                                     (212)                   (53)                (742)    |             (76)
+                                             --------               --------             --------     |        --------
+Income (loss) before income taxes,                                                                    |
+  discontinued operations and                                                                         |
+  extraordinary gain                          (20,254)                (5,677)               4,476     |          21,795
+Income tax expense (benefit)                      (97)                (1,526)               2,394     |               0
+                                             --------               --------             --------     |        --------    
+  Net income (loss) before discontinued                                                               |
+    operations and extraordinary gain         (20,157)                (4,151)               2,082     |          21,795
+Net income (loss) of discontinued                                                                     |
+  operations, net of tax                      (25,342)                 8,764                4,570     |         (27,810)
+                                             --------               --------             --------     |        --------
+Net income (loss) before extraordinary                                                                |
+  gain                                       $(45,499)                $4,613               $6,652     |         $(6,015)
+                                             --------               --------             --------     |        --------    
+Extraordinary gain                                  0                      0                    0     |          58,704
+                                             --------               --------             --------     |        --------     
+NET INCOME (LOSS)                            $(45,499)                $4,613               $6,652     |         $52,689
+                                             ========               ========             ========     |        ========       
+                                                                                                      |
+                                                                                                      |
+PER SHARE OF COMMON STOCK: (B)                                                                        |
+Income (loss) from continuing                                                                         |
+  operations                                   $(2.88)                $(0.59)               $0.30     |           N/A
+Income (loss) from discontinued                                                                       |
+   operations                                   (3.62)                  1.25                 0.65     |           N/A
+                                             --------               --------             --------     |         --------
+     Net income (loss)                         $(6.49)                 $0.66                $0.95     |           N/A
+                                             ========               ========              =======     |         ========      
+                                                                                                      |
+Weighted average shares of common stock                                                               |
+     and common stock equivalents                                                                     |
+     outstanding (in thousands)                 7,009                  7,021                7,006     |           N/A
+                                              =======               ========             ========     |         ========
+</TABLE>
+
+
+
+(a)  Due to the Reorganization and implementation of Fresh Start Reporting,
+     financial statements for the Reorganized Company (period starting  
+     September 30, 1993) are not comparable to those of the Predecessor 
+     Company.   See Notes to the Financial Statements (Note 14) for additional 
+     information.
+
+(b)  The weighted average number of common shares outstanding and net income
+     per common share for the Predecessor Company have not been presented
+     because due to the Reorganization and implementation of Fresh Start
+     Reporting, they are not comparable to subsequent periods.
+
+The Notes to Consolidated Financial Statements are an integral part of these
+financial statements.
+
+
+                                      18
+<PAGE>   21
+
+                                 AM INTERNATIONAL, INC.
+                              CONSOLIDATED BALANCE SHEETS
+                    (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+
+<TABLE>
+<CAPTION>                                                                                     JULY  31,              JULY  31,
+                                                                                                1996                   1995
+                                                                                              ---------              ---------
+<S>                                                                                           <C>                   <C>
+ ASSETS
+ CURRENT ASSETS:
+  Cash and cash equivalents                                                                     $2,560                $12,563
+  Accounts receivable, net                                                                      19,774                 36,409
+  Inventories, net                                                                              11,602                 28,432
+  Prepaid expenses and other assets                                                              1,069                  1,722
+  Net assets held for sale                                                                       7,698                      0
+  Net assets of discontinued operations                                                         42,940                 61,301
+                                                                                               --------              --------
+ TOTAL CURRENT ASSETS                                                                           85,643                140,427
+  Property, plant and equipment, net                                                            10,867                 12,453
+  Excess reorganization value                                                                        0                  5,430
+  Other assets, net                                                                              1,452                  4,762
+                                                                                               -------               --------
+          TOTAL ASSETS                                                                         $97,962               $163,072
+                                                                                               =======               ========
+                                                                                               
+LIABILITIES AND SHAREHOLDERS' EQUITY
+ CURRENT LIABILITIES:
+  Short-term borrowings and current maturities of long-term debt                               $14,381                 $6,132
+  Accounts payable                                                                              15,435                 21,134
+  Service contract deferred income                                                              12,924                 17,312
+  Payroll related expenses                                                                      13,227                 13,175
+  Other current liabilities                                                                     17,956                 21,172
+                                                                                               -------                -------
+ TOTAL CURRENT LIABILITIES                                                                      73,923                 78,925
+
+
+ Long-term debt                                                                                  8,527                 14,915
+ Other long-term liabilities                                                                    13,216                 20,931
+                                                                                               -------               -------- 
+           TOTAL LIABILITIES                                                                    95,666                114,771
+
+ COMMITMENTS AND CONTINGENCIES (NOTE 5)
+ SHAREHOLDERS' EQUITY:
+ Common stock, $.01 par value; 40 million shares authorized;
+ 7,010,000 issued as of July 31, 1996 and July 31, 1995                                             70                     70
+ Capital in excess of par value                                                                 35,865                 35,637
+ Less:  treasury stock, at cost, 1,579 shares as of July 31, 1996
+ and 1,245 shares as of July 31, 1995                                                               (6)                    (6)
+ Warrants, 1,095,000 issued, exercise price of $18.00
+ as of July 31, 1996 and July 31, 1995                                                             383                    383
+ Accumulated earnings (deficit)                                                                (34,234)                11,265
+ Cumulative translation adjustment                                                                 218                    952
+                                                                                               -------               --------
+ TOTAL SHAREHOLDERS' EQUITY                                                                      2,296                 48,301
+                                                                                               -------               --------
+ TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                                                    $97,962               $163,072
+                                                                                               =======               ========  
+</TABLE>
+
+The Notes to Consolidated Financial Statements are an integral part of these
+financial statements.
+
+                                      19
+<PAGE>   22
+                            AM INTERNATIONAL, INC
+               CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                            (DOLLARS IN THOUSANDS)
+
+
+<TABLE>
+<CAPTION>
+                                    Preferred Stock          Common Stock            Treasury Stock               Warrants     
+                                  ------------------      -------------------      -------------------      -------------------   
+                                    Number                  Number                   Number                   Number              
+                                  of Shares   Amount      of Shares    Amount      of Shares    Amount      of Shares    Amount   
+                                  ------------------      -------------------      -------------------      -------------------   
+ <S>                              <C>         <C>         <C>          <C>         <C>          <C>         <C>          <C>      
+ PREDECESSOR COMPANY:                                                                                                             
+ Balance July 31, 1993            3,414,065   $ 34        52,477,683   $ 525         5,483,600  $(23,107)                           
+                                                                                                                                  
+Net Income                                                                                                                        
+Reorganization Items:                                                                                                             
+  Cancellation of Stock          (3,414,065)   (34)       52,477,683    (525)       (5,483,600)   23,107          -        -   
+  Fresh Start Adjustments                 -      -                 -       -                 -         -                            
+  Aggregate effect of                                                                                                             
+    current year translation                                                                                                      
+    adjustments                                                                                                                   
+  Issuance of New Common Stock                             7,000,000      70                                                      
+  Issuance of Warrants                                                                                      1,095,000     383     
+                                  ---------     --       -----------     ---         ---------    ------    ---------    ----  
+ Reorganized Company Balance,                                                                                                     
+   September 30, 1993 (a)                 -      -         7,000,000      70                 -         -    1,095,000     383
+                                  ---------     --       -----------     ---         ---------    ------    ---------    ----  
+                                                                                                                                  
+ REORGANIZED COMPANY                                                                                                              
+   Net Income                                                                                                                     
+   Aggregate effect of                                                                                                            
+     current year translation                                                                                                     
+     adjustments                                                                                                                  
+  Purchase of Treasury Stock                                                            1,119        (6)                            
+                                  ---------    --         -----------  ---          ---------    ------      ---------    ----  
+  Balance July 31, 1994                  -      -           7,000,000   70              1,119        (6)     1,095,000            
+   Net Income                                                                                                                     
+   Aggregate effect of                                                                                                            
+     current year translation                                                                                                     
+     adjustments                                                                                                                  
+   Issuance of new common stock                                10,000    -                                                     
+                                                                                                                                  
+   Purchase of Treasury                                                                                                           
+     Stock                                                                                126         -                            
+                                  ---------    --         -----------  ---          ---------    ------      ---------    ----  
+  Balance at July 31, 1995                -     -           7,010,000   70              1,245        (6)     1,095,000     383   
+                                  ---------    --         -----------  ---          ---------    ------      ---------    ----  
+   Net loss                                                                                                                       
+   Aggregate effect of                                                                                                            
+     current year translation                                                                                                     
+     adjustments                                                                                                                  
+   Purchase of Treasury Stock                                                             334         -                            
+   Other, net                                                                                         -                             
+                                  ---------    --         -----------  ---          ---------    ------      ---------    ----  
+ Balance at July 31, 1996                 -   $ -           7,010,000  $70              1,579       $(6)     1,095,000    $383   
+                                  =========    ==         ===========  ===          =========    ======      =========    ====    
+                                                                                                                                  
+                                                                                                                                  
+
+<CAPTION>
+                                     Capital in                                        Cumulative                 Total
+                                     Excess of                Accumulated             Translation             Shareholders'
+                                      Par Value             Earnings(Deficit)          Adjustment                Equity
+                                  ------------------      -------------------      -------------------      -----------------   
+ <S>                              <C>                     <C>                      <C>                      <C>
+ PREDECESSOR COMPANY:             
+ Balance July 31, 1993              $ 339,781                $(368,842)                 $ 1,958              $ (49,651)
+                                  
+Net Income                                                      52,689                                          52,689
+Reorganization Items:             
+  Cancellation of Stock              (339,781)                                                                (317,233)
+  Fresh Start Adjustments                   -                  316,153                   (2,125)               314,028
+  Aggregate effect of             
+    current year translation      
+    adjustments                                                                             167                    167
+  Issuance of New Common Stock         35,547                                                                   35,617
+  Issuance of Warrants                                                                                             383
+                                    ---------                  -------                    -----                -------   
+ Reorganized Company Balance,     
+   September 30, 1993 (a)              35,547                        -                        -                 36,000
+
+ REORGANIZED COMPANY              
+   Net Income                                                    6,652                                           6,652
+   Aggregate effect of            
+     current year translation     
+     adjustments                                                                            130                    130
+  Purchase of Treasury Stock                                                                 (6)
+                                    ---------                  -------                    -----                -------   
+  Balance July 31, 1994                35,547                    6,652                      130                 42,776
+   Net Income                                                    4,613                                           4,613
+   Aggregate effect of            
+     current year translation     
+     adjustments                                                                            822                    822
+   Issuance of new common stock            90                                                                       90
+   Purchase of Treasury Stock                                                                                        -
+                                    ---------                  -------                    -----                -------   
+  Balance at July 31, 1995             35,637                   11,265                      952                 48,301
+                                    ---------                  -------                    -----                -------   
+   Net loss                                                    (45,499)                                        (45,499)
+   Aggregate effect of            
+     current year translation     
+     adjustments                                                                           (734)                  (734)
+   Purchase of Treasury Stock                                                                                        -
+   Other, net                              228                                                                     228
+                                    ----------                  -------                    -----                -------   
+ Balance at July 31, 1996           $   35,865                $ (34,234)                $    218             $    2,296
+                                   ===========                =========                 ========             ==========    
+</TABLE>
+
+(a)  Due to the Reorganization and implementation of Fresh Start Reporting,
+     financial statements for the Reorganized Company (period starting       
+     September 30, 1993) are not comparable to the Predecessor Company.  See 
+     Notes to the Financial Statements (Note 14) for additional information.
+
+The Notes to Consolidated Financial Statements are an integral part of these
+financial statements.
+
+                                      20
+<PAGE>   23
+
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Dollars in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                                         REORGANIZED  COMPANY                  | PREDECESSOR COMPANY
+                                                          -----------------------------------------------------|--------------------
+                                                                                                SEPT. 30, 1993 |AUGUST  1, 1993
+                                                                  TWELVE MONTHS ENDED              THROUGH     |    THROUGH
+                                                          JULY 31, 1996       JULY 31, 1995     JULY 31, 1994  |SEPT. 29, 1993
+                                                          -------------       -------------     -------------  |----------------
+<S>                                                        <C>                   <C>              <C>          |  <C>  
+CASH FLOWS FROM OPERATING ACTIVITIES:                                                                          |
+NET INCOME (LOSS)                                          $(45,499)              $4,613            $6,652     |   $52,689
+ADJUSTMENTS TO RECONCILE NET INCOME TO CASH FLOW                                                               |
+  FROM OPERATING ACTIVITIES:                                                                                   |
+  Depreciation of property, plant and equipment               3,769                1,632             2,204     |       327
+  Amortization and writedown of other assets                    407                  706             1,395     |         -
+  Benefit from operating loss carryforwards                       -                8,037            10,494     |         -
+     Discontinued operations                                 26,284              (15,715)           12,636     |     9,596
+     Net assets held for sale                                (2,682)                   -                 -     |         -
+  Change in assets and liabilities:                                                                            |
+     Accounts receivable, net                                 6,308                 (391)           (5,105)    |     6,855
+     Inventory, net                                          13,056                2,703            (4,455)    |      (559) 
+     Prepaid expenses and other assets                         (334)                (372)           (2,816)    |       314
+     Accounts payable and accruals                             (288)              (2,157)           (6,843)    |    10,704
+     Other, net                                              (2,794)              (3,950)            3,130     |     1,041
+     Changes due to Fresh Start Reporting                                                                      |
+        and reorganization                                        -                    -                 -     |   (82,650) 
+                                                             -------              ------            ------     |   -------
+CASH FLOW FROM OPERATING ACTIVITIES                          (1,773)              (4,894)           17,292     |    (1,683) 
+                                                             -------              ------            ------     |   -------
+CASH FLOWS FROM INVESTING ACTIVITIES:                                                                          |
+  Capital expenditures                                       (8,990)              (2,362)           (1,560)    |      (135)
+  Proceeds from disposition of property                       6,822                    -                 -     |         -
+    Discontinued operations                                  (1,262)                 886            (2,973)    |         -
+                                                             -------              ------            ------     |   -------
+CASH FLOW FROM INVESTING ACTIVITIES                          (3,430)              (1,476)           (4,533)    |      (135)  
+                                                             -------              ------            ------     |   -------
+CASH FLOWS FROM FINANCING ACTIVITIES:                                                                          |
+  Net borrowings (payments) under short-term                                                                   |
+    borrowing agreements                                       8,249                 131            (1,074)    |       100
+  Principal borrowings (payments) on long-term debt           (6,388)             (4,443)           (5,126)    |     1,831
+  Discontinued operations                                     (6,661)              2,133             2,565     |     1,061
+                                                             -------              ------            ------     |   -------
+CASH FLOW FROM FINANCING ACTIVITIES                           (4,800)             (2,179)           (3,635)    |     2,992
+                                                             -------              ------            ------     |   -------
+INCREASE (DECREASE) IN CASH AND                                                                                |
+  CASH EQUIVALENTS                                           (10,003)             (8,549)            9,124     |     1,174
+Cash and cash equivalents at beginning of period              12,563              21,112            11,988     |    10,814
+                                                             -------              ------            ------     |   -------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD                  $  2,560             $12,563           $21,112     |  $ 11,988
+                                                             =======              ======            ======     |   =======
+</TABLE>
+
+(a) Due to the Reorganization and implementation of Fresh Start Reporting, 
+    financial statements for the Reorganized Company (period starting 
+    September 30, 1993) are not comparable to those of the Predecessor 
+    Company. See Notes to the Financial Statements (Note 14 for additional 
+    information).
+
+The Notes to Consolidated Financial Statements are an integral part of these
+financial statements.
+
+                                      21
+<PAGE>   24
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+(Dollars in thousands, except as otherwise noted and per share amounts)
+NOTE 1 - NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+
+Nature of Operations:  AM International, Inc. (the "Company"), a Delaware
+corporation, distributes equipment and supplies, and provides services for the
+graphics arts industry.  The Company is in process of executing plans to exit
+its' machine manufacturing business, consistent with management's strategic
+objectives.  The Company's continuing distributed products consist primarily of
+pre-press equipment, supplies and services.  The Company has in excess of
+50,000 customers, including small commercial printers, large quick print
+franchises, company run in-house print shops, governmental agencies, and
+educational institutions.  No individual customer accounts for more than 10% of
+net revenue.
+
+The Company's headquarters and primary operations are located in Mt. Prospect,
+Illinois.  Products are distributed throughout the United States utilizing six
+distribution facilities.  To a lesser extent, products are distributed
+internationally through independent dealers.  The Company employs approximately
+400 service technicians throughout the United States to provide technical
+service and training.
+
+Basis of Presentation: The Consolidated Financial Statements of the Reorganized
+Company (period beginning September 30, 1993)  and the Predecessor Company
+(periods prior to September 30, 1993) include the accounts of AM International,
+Inc. and its subsidiaries (the "Company").  All significant intercompany
+transactions have been eliminated.  The Company's fiscal year end is July 31.
+All references to years, unless otherwise indicated, refer to the fiscal year.
+Certain prior year amounts have been reclassified to be consistent with current
+year presentation.
+
+Use of Estimates:  The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the
+reporting period.  Actual results could differ from those estimates.
+
+Cash Equivalents: The Company considers all highly liquid investments purchased
+with a maturity of three months or less to be cash equivalents.
+
+Inventories: Inventories are valued at the lower of cost, which includes
+material, labor and overhead, determined by the first-in, first out (FIFO)
+method, or market.
+
+Properties, Equipment and Depreciation: Properties and Equipment are stated at
+cost and are depreciated over estimated useful lives, ranging from 5 to 30
+years, primarily on a straight-line basis. The Company adjusts the net book
+value to recognize impairments in accordance with "SFAS 121: Accounting for the
+Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed Of."
+
+Intangibles: Excess reorganization values are amortized on a straight-line
+basis over periods not exceeding 20 years.  Identifiable intangible assets are
+amortized on a straight-line basis over their estimated useful lives.
+Accumulated amortization of excess reorganization value was  $2,472 at July 31,
+1996 and $2,065 at July 31, 1995.   The Company continually evaluates current
+events and circumstances in order to determine whether the estimated useful
+lives and recorded balances of excess reorganization value have been impaired.
+The Company utilizes evaluations of estimated undiscounted future cash flows
+and financial ratios in this review.
+
+Currency Translation: Foreign assets and liabilities have been translated into
+United States dollars at current exchange rates as of the balance sheet dates,
+and revenues and expenses have been translated at the average exchange rates in
+effect during each period.  Translation adjustments are reported as a separate
+component of Shareholders  Equity.  Exchange gains and losses on foreign
+currency transactions are included in the Consolidated Statement
+of Operations and are not material.
+
+                                      22
+<PAGE>   25
+
+NOTE 1 - NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+Revenue Recognition: Revenue is recognized from sales when a product is
+shipped.  Amounts billed for service contracts are credited to Service Contract
+Deferred Income and recognized as revenues over the term of the contracts.  The
+Company recognizes warranty and equipment installation expenses at the time a
+product is shipped, if applicable.  The expense is estimated considering
+current warranty policies and historical expense.
+
+Research and Development Expense: Expenses for research and development are
+charged to income as incurred.  For the reorganized company, such expenses were
+$364 in 1996, $744 in 1995, and $559 in 1994.  Such expenses were $95  for the
+Predecessor Company in 1994.
+
+Income Taxes: Income taxes are provided based on the liability method of
+accounting pursuant to Statement of Financial Accounting Standards (SFAS) No.
+109, " Accounting for Income Taxes."  Deferred income taxes are recorded to
+reflect the future tax consequences of differences between the tax basis of
+assets and liabilities and their financial reporting amounts at each year end.
+
+Income per Common Share: Income per share amounts are determined after
+deducting any dividend requirements of preferred shares and are based on the
+weighted average shares of common stock and common stock equivalents
+outstanding during each period.
+
+Financial Instruments: The carrying value of financial instruments approximates
+fair market value of those assets and liabilities.
+
+Future Adoption of Accounting Standards:  In fiscal 1997, the Company is
+required to adopt "SFAS 123: Accounting for Stock-Based Compensation."  The
+adoption of this accounting standards is not expected to have a material impact
+on the financial statements.
+
+                                      23
+<PAGE>   26
+NOTE 2 - DISCONTINUED OPERATIONS
+
+
+In August 1996, the Company completed the sale of substantially all of the
+assets and liabilities of  the Sheridan Systems division for proceeds of
+$50,100.  A loss of  $15,212 has been recorded in the fourth quarter of the
+Company's fiscal year ended July 31, 1996 as a result of the transaction, with
+no recorded tax benefit.
+
+During the year, the Company completed the exit of its AM Multigraphics -
+International subsidiaries with the sale of its subsidiaries in the Netherlands,
+France, and Belgium and the placement of the Company's AM Multigraphics UK
+holding company into an Administration Proceeding.  The sale of the subsidiaries
+in the Netherlands, France, and Belgium required the Company to provide
+consideration of approximately $3,000 in the form of cash and other assets.  No
+gain or loss was recorded as a result of the exit of the AM Multigraphics -
+International subsidiaries.
+
+The results of these discontinued business units are included in the
+consolidated statements of income under "discontinued operations."  The
+following table summarizes key financial data related to the above discontinued
+operations:
+
+
+<TABLE>
+<CAPTION>
+                                        Twelve Months          Ten Months     |    Two Months
+                                           Ended                  Ended       |      Ended
+                               July 31, 1996  July 31, 1995   July 31, 1994   |  Sept. 29, 1993
+                               -------------  -------------   -------------   |  --------------
+<S>                              <C>             <C>            <C>           |  <C>
+Net sales                        $149,256        $318,016       $257,809      |    $ 42,682
+Gross margin                       34,709          86,219         77,115      |      11,722
+Unusual income                        -            (4,845)           -        |         -
+Operating income (loss)            (6,749)         16,944         12,220      |        (323)
+Non-operating (income)                                                        |
+  expense                           2,136           3,212          3,046      |         443
+Allocated interest expense            581             314            315      |           0
+Reorganization items, net             -               -              -        |      27,049
+Income tax provision                                                          |
+ (benefit) applicable to                                                      |
+  discontinued businesses             664           4,654          4,289      |          (5)
+                                 --------        --------       --------      |    --------
+Income (loss) from                                                            |
+  operations of discontinued                                                  |
+  business net of applicable                                                  |
+  taxes                           (10,130)          8,764          4,570      |     (27,810)
+Loss on sale                      (15,212)            -              -        |         -
+                                 --------        --------       --------      |    --------
+Income (loss) from                                                            |
+  discontinued operations        $(25,342)       $  8,764       $  4,570      |    $(27,810)
+                                 ========        ========       ========      |    ========
+</TABLE>                                                                      
+
+The results of operations, net of taxes, and the net assets of Sheridan Systems
+and the divested AM Multigraphics - International operations are presented in
+the consolidated financial statements as discontinued operations.  Interest
+expense pertaining to the Company's Revolving Credit Facility has been
+allocated based upon the ratio of the net assets of the discontinued operations
+to the consolidated capitalization of the Company.  Continuing operations and
+discontinued operations reflect the net tax benefit or tax expense generated by
+the respective operations, limited, however, by the income tax benefit or tax
+expense recognized in the Company's historical financial statements.  No
+general corporate expenses have been allocated to the discontinued operations.
+The results of the discontinued operations are not necessarily indicative of
+the results of operations which may have been obtained had the continuing and
+discontinued operations been operating independently.
+
+
+                                      24
+<PAGE>   27
+
+NOTE 2 - DISCONTINUED OPERATIONS (CONTINUED)
+
+
+The net assets of discontinued operations included in the Consolidated
+Balance Sheets at July 31, 1996 and July 31, 1995 amounted to $42,940 and
+$61,301, respectively, and consisted primarily of receivables inventory,
+property and equipment, intangible assets related to the discontinued
+operations, net of accounts payable and accrued liabilities.
+
+The net assets of discontinued operations included in the Consolidated Balance
+Sheet at July 31, 1996 is net of approximately $7,000 of liabilities to be paid
+from the $50,100 sale proceeds.
+
+                                      25
+<PAGE>   28
+
+NOTE 3 - BORROWING ARRANGEMENTS
+
+
+The Company's short and long-term borrowings are comprised of the following:
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                         July 31, 1996                  July 31, 1995
+                                                         -------------                  -------------
+<S>                                                      <C>                            <C>
+   Revolving Credit Facility                             $      5,430                   $          -
+   General Unsecured Claims & Priority Tax Claims              13,795                         21,047
+   Capital Leases                                               3,683                              -
+                                                         -------------                  -------------
+                     Total                               $     22,908                   $     21,047
+                                                         =============                  =============
+Classified in the Consolidated Balance Sheet
+as follows:
+   Short-term                                            $     14,381                   $      6,132
+   Long-term                                                    8,527                         14,915
+                                                         -------------                  -------------
+                    Total                                $     22,908                   $     21,047
+                                                         =============                  =============
+</TABLE>
+
+The Company maintained a $25,000 three year secured domestic Revolving Credit
+Facility (subject to borrowing base limitations) which expired October 12, 1996
+with BT Commercial Corporation and LaSalle National Bank.  The Revolving Credit
+Facility included a $10,000 sub-facility for the issuance of letters of credit.
+As of July 31, 1996, the calculated borrowing base was approximately $18,400.
+As security for utilizations of the Revolving Credit Facility, the Company
+granted a security interest and general lien upon its domestic assets.  As of
+July 31, 1996 the Company had borrowings of $5,430 under the Revolving Credit
+Facility and was utilizing $3,347 of the facility to secure outstanding letters
+of credit.  Interest was charged at a rate of 1.75% in excess of the prime
+lending rate of Bankers Trust Company.  Letter of credit fees were 2.5% per
+annum plus a 0.5% facing fee on standby letters of credit and 1.5% per annum on
+commercial documentary letters of credit.  As of July 31, 1996, the interest
+rate was 10.0%.
+
+The Revolving Credit Facility agreement contained restrictive covenants which
+limited capital expenditures, restricted the payment of dividends and other
+payments and provided for quarterly measures of pretax net income and interest
+coverage, among other things.  In addition, the agreement limited the Company's
+ability to borrow or to request letters of credit following a material adverse
+change as determined by the lenders.
+
+In August, 1996 the Company completed the sale of substantially all of the
+assets and liabilities of the Sheridan Systems division for proceeds of $50,100.
+The proceeds of the sale were used in part to pay off all outstanding
+borrowings on the Revolving Credit Facility and to cash collateralize
+outstanding letters of credit.  At September 28, the Company had a cash balance
+of $41,228 after repaying bank debt and meeting other short term obligations.
+The Company is currently seeking to obtain new banking facilities to provide
+for the issuance of letters of credit, fund selected customer financing
+programs, and increase liquidity to the Company.
+
+                                      26
+<PAGE>   29
+NOTE 3 - BORROWING ARRANGEMENTS (CONTINUED)
+
+On October 13, 1993 the Company concluded a reorganization when the United
+States Bankruptcy Court for the District of Delaware confirmed the Company's
+Plan of Reorganization (Plan).  The Plan provides that holders of allowed
+general unsecured claims receive cash payments toward satisfaction of the full
+amount of their claims in equal quarterly payments payable on the last business
+day of each calendar quarter ending after October 13, 1993 over a five-year
+period, together with interest at 5% per annum.  Holders of priority tax claims
+are paid 10% of the allowed claim together with accrued and unpaid interest at
+8% per annum on the then outstanding amount on each anniversary of October 13,
+1993 which occurs prior to the sixth anniversary of the date of assessment and
+the balances of such claims along with accrued and unpaid interest on the sixth
+anniversary.  For financial reporting purposes interest on general unsecured
+claims has been imputed at 9% per annum.  At July 31, 1996 the Company had $872
+of restricted cash which primarily pertains to the settlement of disputed claims
+in accordance with the Plan.
+
+As of July 31, 1996, aggregate maturities of total debt, excluding capitalized
+leases, are as follows:
+
+<TABLE>
+   <S>                                               <C>
+    Due fiscal year ending:
+           1997                                      $13,178
+           1998                                        4,855
+           1999                                        1,192
+           2000                                            -
+           2001                                            -
+           Thereafter                                      -
+</TABLE>
+
+Cash paid for interest was $2,282 during 1996, $1,103 during fiscal 1995, 
+and $655 for the ten months ended of the Reorganized Company in 1994. 
+The Predecessor Company paid no interest in the two months ended 1994.
+
+                                      27
+<PAGE>   30
+
+NOTE 4 - CAPITAL STRUCTURE
+
+
+The Company s charter authorizes 50 million shares of stock, of which 40
+million shares are reserved for issuance as Common Stock and 10 million shares
+are reserved for issuance as Preferred Stock.  The Board of Directors has
+authorized the issuance of 7,010,000 of such shares of $.01 par value Common
+Stock.  Of these shares, 7,000,000 were issued on the effective date to holders
+of claims and interests as described in Note 14.  In addition, the Company
+issued Warrants on the Effective Date to purchase 1,095,000 shares of Common
+Stock.  The Warrants were exercisable at $18.00 per share and expired on
+October 15, 1996.  No  warrants were exercised prior to their expiration.  As
+of July 31, 1996 the Company has not yet issued any Preferred Stock.  The
+Common Stock and all other equity securities issued under the new charter are
+voting securities (although the voting rights of any preferred stock issued
+would differ from those of the Common Stock) and will not have any preemptive
+rights to subscribe for additional shares.  The Common Stock is not subject to
+conversion or redemption and when issued is fully paid and non-assessable.
+
+                                      28
+<PAGE>   31
+
+NOTE 5 - COMMITMENTS AND CONTINGENCIES
+
+
+The Company received creditor claims during its bankruptcy proceedings which
+the Company believes are duplicative, erroneous or exaggerated and to which the
+Company believes it has valid defenses.  The Company has filed objections to
+these disputed claims in the United States Bankruptcy Court in Delaware.  As of
+July 31, 1995 and July 31, 1996, disputed claims amounted to $50,700 and
+$31,300, respectively.  The disputed claims are primarily comprised of
+environmental and product liability claims.  The Company has been notified of
+various environmental matters in connection with certain current or former
+Company locations in Illinois, Ohio, Indiana, Pennsylvania, and Rhode Island.
+In the third quarter of 1996 the Company recorded a $2,800 favorable adjustment
+due to the resolution of legal disputes which had been previously reserved.
+The Company is also involved in various other administrative and legal
+proceedings incidental to its business, including product liability and general
+liability lawsuits against which the Company is partially insured.  The
+disputed claims are in many cases in excess of recorded reserves.  At the
+present time, it is management s opinion, based on information available to the
+Company and management s experience in such matters, that the resolution of
+these legal proceedings is not expected to have a material adverse effect on
+the Company s financial condition, results of operations or liquidity.
+
+The Company has sold certain receivables related to machine sales, subject to
+recourse provisions and repurchase provisions.  Management believes
+unreserved exposures pertaining to these contingencies will not materially
+impact the Company's financial condition, results of operations or liquidity.
+
+                                      29
+<PAGE>   32
+NOTE 6 - INCOME TAXES
+
+
+The components of income tax expense (benefit) are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                   Reorganized Company                 | Predecessor Company
+                                        ---------------------------------------------- |   --------------
+                                                 Twelve Months            Ten Months   |    Two Months
+                                                     Ended                  Ended      |      Ended
+                                        July 31, 1996    July 31, 1995   July 31, 1994 |   Sept. 29, 1993
+                                        -------------    -------------   ------------- |   --------------
+<S>                                      <C>              <C>             <C>          |     <C>
+The domestic and foreign                                                               | 
+  components of income (loss) from                                                     | 
+  continuing operations are as                                                         | 
+  follows:                                                                             | 
+Domestic                                  $(18,857)        $ (5,302)       $4,029      |       $21,988
+Foreign                                     (1,397)            (375)          447      |         (193)
+                                          --------         --------        ------      |       -------
+                                          $(20,254)        $ (5,677)       $4,476      |       $21,795
+                                          ========         ========        ======      |       =======
+Provision (benefit) for income taxes                                                   | 
+  for continuing operations:                                                           | 
+  Domestic                                $      -         $ (1,744)       $2,050      |       $     -
+  Foreign                                      (97)             218           344      |             -
+                                          --------         --------        ------      |       -------
+                                          $    (97)        $ (1,526)       $2,394      |       $     -
+                                          ========         ========        ======      |       =======
+A reconciliation of the income tax                                                     |
+expense (benefit) on income (loss)                                                     |
+per the U.S. federal statutory rate to                                                 |
+the reported income tax expense                                                        |
+(benefit) follows:                                                                     |
+                                                                                       |
+US Federal statutory rate                                                              |
+ applied to pretax income                 $ (6,886)        $ (1,930)       $1,521      |       $ 7,410
+Intangibles with no tax benefit                138              240           474      |             -
+Operating loss with no current                                                         |  
+ tax benefit and varying tax rates                                                     |  
+ of other national governments               6,597              130           192      |           732
+State income tax                                 -                -           162      |             -
+Non taxable reorganization items                 -                -             -      |        (8,142)
+Other                                           54               34            45      |             -
+                                          --------         --------        ------      |       -------
+INCOME TAX EXPENSE (RECOVERY)             $    (97)        $ (1,526)       $2,394      |       $     -
+                                          ========         ========        ======      |       =======
+</TABLE>
+
+                                      30
+<PAGE>   33
+NOTE 6 - INCOME TAXES (CONTINUED)
+
+
+The Company accounts for income taxes pursuant to Statement of Financial
+Accounting Standard (SFAS) No. 109.  At July 31, 1996 and July 31, 1995 the
+approximate amounts of deferred tax assets and deferred tax liabilities
+resulting from temporary differences and carryforwards were as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                 1996           1995
+                                               --------      --------
+<S>                                           <C>            <C>
+Deferred Tax Assets
+   Inventory valuation                         $  3,600      $  2,400
+   Insurance reserves                             6,400         7,000
+   Other                                         10,700        10,700
+                                               --------      --------
+Subtotal                                         20,700        20,100
+Domestic tax operating loss carryforwards
+   limited by Sec 382.                           21,000        21,000
+Domestic tax operating loss carryforwards        49,800        37,400
+Foreign tax operating loss carryforwards          2,700         2,400
+AMT credit carryforward                           1,800         1,800
+                                               --------      --------
+Deferred Tax assets                              96,000        82,700
+   Valuation allowance                          (96,000)      (82,700)
+                                               --------      --------
+Net deferred tax asset                         $      -      $      -
+                                               ========      ========
+</TABLE>
+
+The Sec. 382 ownership change which resulted from the 1993 bankruptcy
+reorganization imposed a limitation on the usage of pre-reorganization domestic
+tax operating loss carryforwards.  Usage of this loss carryforward is limited
+to $3,689 per year or $55,335 for a period of 15 years following the ownership
+change.  In addition, as of July 31, 1996 the Company had domestic tax loss
+carryforwards of approximately $131,000 attributable to post-reorganization
+periods and therefore not subject to limitation.  The domestic tax loss
+carryforwards will expire from 1997 to 2011.  The AMT credit, although subject
+to the Sec. 382 limitation, has no expiration date.
+
+During 1996, the deferred tax asset increased by $13,300 primarily due to the
+creation of additional domestic loss carryforwards.  Due to the uncertainty as
+to the realizability of the deferred tax assets, the Company has established
+valuation allowances in accordance with SFAS No. 109 to offset the asset.
+
+To the extent the Company realizes a tax benefit as a result of future
+reductions in the valuation allowance related to the utilization of
+pre-reorganization deferred tax assets, fresh start accounting rules provide
+for the reporting of such benefit first by reducing "Reorganization Value in
+Excess of Amounts Allocable to Identifiable Assets" and thereafter increasing
+Capital in excess of par value.  Although the future recognition of this
+benefit will have no impact on net earnings, the Company will realize a cash
+benefit from utilization of the "Pre-Reorganization Benefits" against any
+future tax liabilities.
+
+
+                                      31
+<PAGE>   34
+
+NOTE 7 - DEFERRED COMPENSATION
+
+
+The Company's 1994 Long Term Incentive Plan provides for the issuance of
+1,400,000 shares of new $.01 par value Common Stock.  Options to purchase the
+Common Stock are awarded at a price not less than 100% of the market price on
+the date of grant, which becomes exercisable at various dates generally from
+one to four years after the date of grant, and expire ten years after the date
+of grant.  In the event a holder of options is no longer employed by the
+Company, the unvested shares are cancelled upon the employee's termination and
+any vested shares must be excercised within 90 days or they are also cancelled.
+The number of shares outstanding at the end of 1996 includes 57,200 unvested
+and 35,336 vested shares with an option price range of $2.130 - $9.625 which
+are held by Sheridan Systems employees.  The unvested shares were cancelled on
+the date of the Sheridan Systems sale, August 27, 1996, and the vested shares
+may be exercised by no later than November 25, 1996.
+
+
+<TABLE>
+<CAPTION>
+                                   1996                             1995
+                        ---------------------------       -------------------------
+                                      Option Price                     Option Price
+                        Number of         Range           Number of       Range
+                         Shares         Per Share          Shares       Per Share
+                        ---------     -------------        -------    -------------
+<S>                     <C>           <C>                <C>         <C>        
+Outstanding at
+ Beginning of the Year   598,417      $8.750-12.125       376,000     $9.625-11.500
+Granted                   91,236       $2.130-8.125       277,917     $8.750-12.125
+Exercised                     -                 -             -                 -
+Canceled                (183,500)     $2.130-12.125       (55,500)    $9.625-10.000
+                         -------      -------------        ------     -------------
+Outstanding at
+End of Period            506,153      $8.750-12.125       598,417     $8.750-12.125
+                         =======      =============       =======     =============
+
+Exercisable at
+End of Period            205,600      $8.125-12.125       127,900     $9.125-11.500
+                         =======      =============       =======     =============
+</TABLE>
+
+
+                                      32
+<PAGE>   35
+
+NOTE 8 - UNUSUAL ITEMS
+
+During 1996, the Company committed to certain restructuring actions in an
+effort to realign the operations with established strategic objectives.   The
+restructuring actions are summarized as follows:
+
+<TABLE>
+          <S>                                                             <C>
+          Change in Control Payments                                      $1,250
+          Corporate Restructuring                                          1,595
+          Bankruptcy of Canadian Subsidiary                                3,561
+          Exit of Manufacturing Operations and Office Closures               626
+                                                                          ------
+          Total Restructuring Costs                                       $7,032
+</TABLE>                                                                  ======
+
+On August 27, 1996 the Company completed the sale of substantially all the
+assets of its Sheridan Systems division.  As a result of the event, "Change in
+Control" provisions included within employment agreements of certain Company
+executives were activated.  Total charges pertaining to such provisions amounted
+to $1,250 and were paid in the first quarter of fiscal 1997.
+
+In conjunction with the Sheridan Systems sale and in an effort to reduce costs,
+management committed to a plan to close its Corporate headquarters and
+consolidate certain functions within the AM Multigraphics operations.  This
+decision ultimately will result in the termination of seven employees, including
+three officers.  Severance and benefits associated with these terminations
+amounted to $1,595.
+
+During the fourth quarter, the Company committed to a plan to exit its Canadian
+subsidiary.  On October 17, 1996 the subsidiary filed for a voluntary
+assignment in bankruptcy.  In connection with the exit plan, reserves were
+established to write-off net assets of the operation.  The Canadian subsidiary
+had revenues of $9,951, $10,285 and $11,557 in 1996, 1995 and 1994,
+respectively.
+
+During the year, management finalized plans to exit the machine manufacturing
+business and consolidate its field sales and service facilities.  Costs
+associated with the exit plan are comprised primarily of facility closure
+costs, disposal of manufacturing equipment and severance costs.  The Company
+began implementation of such plans during the fourth quarter and anticipates
+all actions to be completed within one year.
+
+                                      33
+<PAGE>   36
+NOTE 9 - BALANCE SHEET ACCOUNTS
+
+The components of certain balance sheet accounts are as follows:
+
+<TABLE>
+<CAPTION>
+                                      July 31, 1996     July 31, 1995     
+                                      -------------     -------------     
+<S>                                     <C>               <C>             
+ACCOUNTS RECEIVABLE:                                                      
+  Accounts receivable                   $20,596           $37,721         
+  Allowance for doubtful accounts          (822)           (1,312)        
+                                        -------           -------         
+     Total accounts receivable, net     $19,774           $36,409         
+                                        =======           =======         
+                                                                          
+INVENTORIES:                                                              
+  Raw materials                         $ 1,407           $ 1,415         
+  Work-in-process                         2,959             3,485         
+  Finished goods                          7,236            23,532         
+                                        -------           -------         
+     Total inventories, net             $11,602           $28,432         
+                                        =======           =======         
+PROPERTY, PLANT AND EQUIPMENT                                             
+  Land                                  $    -            $ 4,600         
+  Buildings                                  -              2,101         
+  Machinery and equipment                13,240             8,699         
+  Leasehold improvements                  3,026               608         
+                                        -------           -------         
+                                         16,266            16,008         
+  Less accumulated depreciation and                                       
+   amortization                          (5,399)           (3,555)        
+                                        -------           -------         
+     Net property, plant and equipment  $10,867           $12,453         
+                                        =======           =======         
+
+</TABLE>
+
+
+                                      34
+<PAGE>   37
+
+NOTE 10 - RETIREMENT BENEFIT PLANS
+
+The Company maintains defined contribution retirement plans for  domestic
+employees comprised of savings plans (401(k)) and a  Retirement Accumulation
+Plan.   Contributions to these  plans take  the form  of (i)  company
+contributions to match a  portion of employee contribution  and (ii)
+contributions  made at the discretion  of the Board of Directors.  The
+Company's contributions to the domestic defined contribution plans  were $1,317,
+$1,778  and $2,019  for  the Reorganized  Company  in  1996, 1995  and  1994
+respectively,  and  $403 for  the Predecessor Company in 1994.
+
+The Company also maintains defined benefit pension plans for certain U.S.
+employees under a Company maintained plan.   The components of net periodic
+pension cost for these plans are shown below for 1996, 1995 and 1994:
+
+
+<TABLE>
+<CAPTION>
+                                                                                          PREDECESSOR
+                                                      REORGANIZED COMPANY                   COMPANY                    
+                                          --------------------------------------------|  --------------  
+                                                                        Ten Months    |    Two Months    
+                                           Twelve Months Ended            Ended       |       Ended      
+                                         July 31 1996  July 31 1995    July 31, 1994  |  Sept. 29, 1993  
+                                         ------------  -------------   -------------  |  --------------  
+<S>                                           <C>          <C>              <C>       |       <C>        
+Benefits earned during the year                $ 233         $ 226            $  92   |          $  18   
+Interest accrued on projected benefit                                                 |                  
+  obligation                                      63            41               41   |              8   
+Actual return on assets                            -             -                -   |              -   
+Net amortization and deferral                     12            24                -   |              7   
+                                               -----         -----            -----   |          -----   
+Net periodic pension cost                      $ 308         $ 291            $ 133   |          $  33   
+                                               =====         =====            =====   |          =====   
+</TABLE>
+
+       The status of the defined benefit pension plans at July 31 was as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                            1996       1995
+                                                            ----       ----
+<S>                                                         <C>     <C>
+Plan assets at fair value                                $     -    $     -
+Actuarial present value of benefit obligation                   
+   Vested                                                  1,069      1,186
+   Nonvested                                                   -          - 
+                                                         -------    -------
+Accumulated Benefit Obligation                             1,069      1,186
+Effect of projected future salary increases                    -        265
+                                                         -------    -------
+Projected benefit obligation                               1,069      1,451
+                                                         -------    -------
+Plan assets in excess of (less than) projected                  
+ benefit obligation                                       (1,069)    (1,451)
+Unrecognized net transition (asset) obligation                -           -
+Unrecognized net (gain) loss                                 190        468
+                                                         -------    -------
+Prepaid (accrued) pension cost at year end               $  (879)   $  (983)
+                                                         =======    =======
+</TABLE>
+
+
+                                      35
+
+<PAGE>   38
+NOTE 10 - RETIREMENT BENEFIT PLANS (CONTINUED)
+
+The assumed discount rate on benefit obligations was 7.0% in 1996 and 1995.  
+The assumed rates of compensation increases were 4.0% in 1996 and 3.3% in 1995.
+
+The Company's operations in Canada and Japan also maintain defined benefit
+pension plans.  The unfunded benefit obligation for Japan amounted to $3,508 in
+1996 and $4,519 in 1995.  The prepaid pension cost in Canada was $3,114 in
+1996 and $3,015 in 1995.  The combined net periodic pension cost was $290 in
+1996, $327 in 1995 and $258 in 1994.  Such expenses were $60 for the
+Predecessor Company in 1994.  As discussed in Note 8 and Note 15, the Company
+completed the exit of these operations in the first quarter of 1997.
+
+In addition to pension benefits, the Company provides limited life insurance
+and health care benefits to certain domestic retired employees and provides for
+certain medical and life insurance benefits for retirees of previously closed
+manufacturing locations.  The effect of adopting SFAS 106 was
+not material.
+
+Net post-retirement life and health care cost includes the following
+components:
+
+<TABLE>
+<CAPTION>
+                                                           REORGANIZED COMPANY                        | PREDECESSOR COMPANY
+                                                        --------------------------------------------- | -------------------
+                                                                                         Ten Months   |      Two Months
+                                                           Twelve Months Ended              Ended     |         Ended
+                                                        July 31, 1996   July 31, 1995   July 31, 1994 |     Sept. 29, 1993
+                                                        -------------   -------------   ------------- |     --------------  
+<S>                                                        <C>             <C>            <C>         |        <C>       
+ Service Cost - benefits earned during the period           $  5            $  5           $  5       |         $  1     
+ Interest cost on accumulated post-retirement                                                         |                  
+    benefit obligation                                       843             846            591       |          118     
+                                                                                                      |                  
+ Total life and health care costs                           ----            ----           ----       |         ----     
+                                                            $848            $851           $596       |         $119     
+                                                            ====            ====           ====       |         ====     
+ The plans' funded status at July 31, was as
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                           1996             1995
+                                                           ----             ---- 
+<S>                                                       <C>            <C>
+ Actuarial present value of benefit obligations-
+    Retirees                                              $9,617         $10,412
+    Fully eligible active participants                       294             269
+                                                          ------         -------
+ Accumulated postretirement benefit obligation             9,911          10,681
+ Cumulative unrecognized actuarial (gain)loss                253            (167)
+ Plan assets                                                   -               -
+ Accrued post-retirement life and health                 -------         -------
+    care costs                                           $10,164         $10,514
+                                                         =======         =======
+
+ Assumptions used for the Company's retiree life and health care plans as of July 31, were as following:
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                         1996             1995
+                                                      -----------     -----------
+ <S>                                                        <C>             <C>
+ Discount rate for determining obligations and              8.00%           8.00%
+    interest cost
+                                 
+</TABLE>
+
+
+                                      36
+<PAGE>   39
+
+NOTE 10 - RETIREMENT BENEFIT PLANS (CONTINUED)
+
+If the health care cost trend rates were increased 1% for all future years, the
+accumulated postretirement benefit obligation would have increased 0.1% at July
+31, 1996.  The effect of this change on the aggregate of service and interest
+cost would have been an increase of 4.9% for 1996.  A 13% increase in the
+health care cost trend rate was assumed for retirees under age 65 and an 11.0%
+increase for those over the age of 65.  These rates are assumed to decrease
+gradually to 5.5% in the year 2003.
+
+                                      37
+<PAGE>   40
+
+NOTE 11 - LEASE TRANSACTIONS
+
+The Company leases certain real and personal property and is responsible for
+most maintenance, insurance and tax expenses related to leased facilities.  At
+July 31, 1996, the future lease payments for continuing operating leases are as
+follows:
+<TABLE>
+                            <S>                                                      <C>
+                            1997                                                      $2,718
+                            1998                                                       1,593
+                            1999                                                       1,060
+                            2000                                                       1,005
+                            2001                                                         949
+                            2002 and thereafter                                        3,642
+                                                                                     -------
+                                 Total future operating lease payments               $10,967
+                                                                                     =======
+</TABLE>
+
+
+
+
+
+Rental expenses for all operating leases were $5,184, $2,437 and $2,457 for the
+Reorganized Company in 1996, 1995 and 1994, respectively, and $491 for the
+Predecessor Company in 1994
+
+During 1996, the Company entered into certain capital lease arrangements,
+primarily relating to computer hardware and software.  Obligations under these
+arrangements amount to approximately $3,683 as of July 31, 1996 and extend for
+periods of three to five years.
+
+                                      38
+<PAGE>   41
+NOTE 12 - GEOGRAPHIC SEGMENTS
+
+
+
+The Company's operations are conducted through AM Multigraphics, its sole
+continuing business segment.  AM Multigraphics is a leading distributor and to a
+lesser degree a manufacturer of equipment and service to the graphics arts
+industry.  Its principal operations are in North America.  The Company also
+distributes internationally through foreign dealers and a majority owned
+subsidiary in Japan.  In September 1996, the Company sold all of its interest in
+its AM Japan subsidiary.
+
+<TABLE>
+<CAPTION>
+                                  Reorganized Company                   |    Predecessor Company    
+                     -----------------------------------------------    |    -------------------    
+                                                         Ten Months     |        Two Months         
+                           Twelve Months Ended             Ended        |           Ended           
+                      July 31, 1996    July 31, 1995    July 31, 1994   |      Sept. 29, 1993       
+                      -------------    -------------    -------------   |      --------------       
+<S>                         <C>          <C>            <C>             |     <C>                   
+Revenues                                                                |                           
+   North America            $137,981     $157,440       $137,047        |         $22,820           
+   Japan                      30,071       34,045         26,769        |           3,712           
+                            --------     --------       --------        |         -------           
+          Total             $168,052     $191,485       $163,816        |         $26,532           
+                            ========     ========       ========        |         =======           
+                                                                        |                           
+Operating Profit (Loss)*                                                |                           
+   North America            ($15,221)      $1,278         $9,292        |          $1,221           
+   Japan                        (442)         911          1,847        |            (292)          
+                            --------       ------        -------        |          ------           
+          Total             ($15,663)      $2,189        $11,139        |            $929           
+                            ========       ======        =======        |          ======           
+Assets**                                                                |                           
+   North America             $45,675      $69,555        $71,314        |         $60,495           
+   Japan                       7,698       20,284         19,383        |          17,552           
+                             -------      -------        -------        |         -------           
+          Total              $53,373      $89,839        $90,697        |         $78,047           
+                             =======      =======        =======        |         =======           
+</TABLE>
+
+* Before Corporate expenses and unusual items
+
+** Excludes Corporate assets primarily consisting of cash and assets of
+discontinued operations.
+
+
+                                      39
+<PAGE>   42
+NOTE 13 - QUARTERLY FINANCIAL INFORMATION (Unaudited)
+
+
+A summary of quarterly financial information for fiscal 1996, 1995 and 1994 is
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                   QUARTER
+                                                            -------------------------------------------------------
+1996                                                          1ST         2ND        3RD        4TH      TOTAL YEAR
+- ---------------------------------------------               -------------------------------------------------------   
+<S>                                                         <C>         <C>       <C>          <C>       <C>
+Revenues                                                    $42,994     $40,886    $44,340     $39,832    $168,052
+Gross Profit                                                 10,889       9,400     11,321       6,021      37,631
+Net income (loss) from continuing operations                 (3,460)     (4,329)     2,493     (14,861)    (20,157)
+Net income (loss) from discontinued operations                 (310)     (4,401)    (1,163)    (19,468)    (25,342)
+                                                             -------     -------    -------     -------    -------- 
+Net income (loss)                                            (3,770)     (8,730)     1,330     (34,329)    (45,499)
+                                                             =======     =======    =======     =======    ========
+Per Common Share (2):                                       
+ Net income (loss) from continuing operations                ($0.49)     ($0.62)     $0.36      ($2.12)     ($2.88)
+ Net income (loss) from discontinued operations               (0.04)      (0.63)     (0.17)      (2.78)      (3.62)
+                                                             -------     -------    -------     -------    --------
+     TOTAL                                                   ($0.54)     ($1.25)     $0.19      ($4.90)     ($6.49)
+                                                             =======     =======    =======     =======    ========
+ Closing Market Price
+                         High                                $8.375      $7.500     $4.688      $3.063      $8.375
+                         Low                                 $7.250      $4.688     $1.875      $1.875      $1.875
+
+                                                                                   QUARTER
+                                                            ------------------------------------------------------- 
+1995                                                          1ST        2ND         3RD        4TH      TOTAL YEAR
+- ---------------------------------------------               -------------------------------------------------------   
+Revenues                                                    $43,532     $47,697    $47,095     $53,161    $191,485
+Gross Profit                                                 12,392      12,787     13,203      14,351      52,733
+Net income (loss) from continuing operations                 (1,442)     (1,400)      (557)       (752)     (4,151) 
+Net Income (loss) from discontinued operations                1,741       1,656        730       4,637       8,764
+                                                             -------     -------    -------     -------    --------
+Net Income (loss)                                               299         256        173       3,885       4,613
+                                                             =======     =======    =======     =======    ========
+Per Common Share (2):
+ Net income (loss) from continuing operations                ($0.20)     ($0.20)    ($0.08)     ($0.11)     ($0.59)
+ Net income (loss) from discontinued operations                0.24        0.24       0.10        0.66        1.25 
+                                                            --------     -------    -------     -------    --------  
+     Total                                                    $0.04       $0.04      $0.02       $0.55       $0.66
+                                                            ========     =======    =======     =======    ========
+ Closing Market Price
+                         High                               $12.250     $10.125     $9.250      $9.250     $12.250
+                         Low                                $10.000      $8.875     $8.625      $8.125      $8.125
+
+
+<CAPTION>
+                                            PREDECESSOR    |
+                                               COMPANY     |                       REORGANIZED COMPANY
+                                            ------------   |   --------------------------------------------------------
+                                            AUG. 1, 1993   |    SEPT. 30, 1993
+                                               THROUGH     |       THROUGH                  QUARTER
+                                                           |               --------------------------------------------
+1994                                      SEPT. 29, 1993   | OCT. 30, 1993   2ND        3RD        4TH     TOTAL PERIOD
+- -----------------------------------------------------------|-----------------------------------------------------------
+<S>                                            <C>         |   <C>         <C>        <C>        <C>         <C>
+Revenues                                       $26,532     |   $19,030      $44,375    $47,121     $53,290    $163,816
+Gross Profit                                     7,006     |     4,548       13,751     15,401      17,721      51,421
+Net income (loss) from continuing ops  (1)      21,795     |    (1,277)         191      1,196       1,972       2,082
+Net income (loss) from discontinued operations (27,810)    |     1,506        1,166      1,477         421       4,570 
+                                               --------    |    -------     -------    -------     -------    -------- 
+Net income (loss)                               (6,015)    |       229        1,357      2,673       2,393       6,652 
+                                               ========    |    =======     =======    =======     =======    ========
+Per Common Share (2):                                      |
+ Net income (loss) from continuing operations      N/A (3) |    ($0.18)       $0.03      $0.17       $0.28       $0.30
+ Net income (loss) from discontinued operations    N/A (3) |      0.21         0.16       0.21        0.06         .65
+                                              ---------    |   -------      -------    -------     -------    --------
+     Total                                         N/A (3) |     $0.03        $0.19      $0.38       $0.34       $0.95
+                                              =========    |   =======      =======    =======     =======    ========
+ Closing Market Price:                                     |
+                         High                      N/A (4) |       N/A (4)  $10.250    $10.875     $11.875     $11.875
+                         Low                       N/A (4) |       N/A (4)   $9.500     $9.125      $8.750      $8.750
+</TABLE>
+
+ (1) Net loss excludes $58,704 of Extraordinary Gain.
+ (2) Sum of quarters may not equal the total for the year due to changes in the
+     number of shares outstanding during the year.
+ (3) The net income (loss) per common share for the Predecessor Company has 
+     not been presented because it is not comparable.
+ (4) Trading of Predecessor Company Common Stock and Preferred Stock was 
+     suspended on May 21, 1993.  Periods prior to this date are not presented 
+     as they are not comparable.
+                                
+
+                                      40
+<PAGE>   43
+
+NOTE 14 - PLAN OF REORGANIZATION AND FRESH START REPORTING
+
+The United States Bankruptcy Court for the District of Delaware confirmed the
+Company's Plan of Reorganization (the Plan) on September 29, 1993 (the
+Confirmation Date), which allowed the Company to emerge from Chapter 11
+Bankruptcy effective October 13, 1993 (the Effective Date).  The Company
+operated under the protection of Chapter 11 following a voluntary petition for
+reorganization filed May 17, 1993.  The Plan provided for the issuance of
+approximately seven million new shares of common stock and distributions to
+major creditors and shareholders.  The holders of the Company's 12% senior
+subordinated debentures received nearly 97% of the new common stock with the
+balance of the new common stock distributed to preferred stock and common stock
+holders.  General unsecured creditors receive quarterly cash payments for five
+years with payments commencing December 31, 1993.  All distributions were made
+in accordance with the plan provisions.
+
+The distribution of shares of the new Common Stock and Warrants commenced on
+October 13, 1993.  The new Common Stock and new Warrants became listed on the
+American Stock Exchange on December 6, 1993.
+
+Fresh Start Reporting
+
+As of the Confirmation Date, the Company adopted Fresh Start Reporting in
+accordance with the American Institute of Certified Public Accountants
+Statement of Position 90-7 (SOP 90-7) -- "Financial Reporting by Entities in
+Reorganization under the Bankruptcy Code."  Fresh Start Reporting resulted in
+material changes to the consolidated balance sheet, including valuation of
+assets and liabilities at fair market value and valuation of equity based on
+the appraised reorganization value of the ongoing business.
+
+The Company recorded a reorganization value of $36,000 (the approximate fair
+value) which was based on the consideration of many factors and various
+valuation methods, including discounted cash flows and price/earnings and other
+applicable ratios and valuation techniques believed by management and its
+financial advisors to be representative of the Company's business and industry.
+The excess of the reorganization value over the fair value of net assets and
+liabilities is reported as excess reorganization value and is amortized over a
+twenty year period.
+
+The Reorganization and the adoption of Fresh Start Reporting resulted in the
+following adjustments to the Company's Consolidated Statement of Operations for
+the period ended September 29, 1993:
+
+
+Reorganization Items:
+
+<TABLE>
+<CAPTION>
+                                                                                           Income/(expense)      
+                                                                                      ---------------------------
+                                                                                      Continuing     Discontinued
+                                                                                      Operations     Operations  
+                                                                                      -----------    ----------- 
+<S>                                                                                   <C>            <C>         
+Fair Market Value Adjustments to tangible Assets and Liabilities, net                     $8,024        ($9,680) 
+Write-off existing Goodwill                                                                    -        (39,840) 
+Accrue Professional Fees to complete reorganization process                              (10,100)             -  
+Reorganization Value in excess of Fair Market Value tangible Assets and Liabilities       26,022         39,471  
+Certain foreign entites with Reorganization Value                                                                
+  Less than Fair Value of tangible Assets and Liabilities                                      -        (17,000) 
+                                                                                      -----------    ----------- 
+                             Total Reorganization Items                                  $23,946       ($27,049) 
+                                                                                      ===========    =========== 
+                                                                                                                 
+<CAPTION>                                                                                                        
+                                                                                            Income/(expense)     
+                                                                                      ---------------------------
+Extraordinary Gain:                                                                   Continuing     Discontinued
+                                                                                      Operations     Operations  
+                                                                                      -----------    ----------- 
+<S>                                                                                   <C>            <C>         
+Carrying Value of 12% Senior Subordinated Debentures plus accrued interest               $93,624          $ -    
+Fair Value of Equity exchanged for Debt per the Plan                                     (34,920)                
+                                                                                      -----------    ----------- 
+                              Total Extraordinary Gain                                   $58,704          $ -    
+                                                                                      ===========    ===========
+
+</TABLE>
+
+
+                                      41
+<PAGE>   44
+
+NOTE 15 - SUBSEQUENT EVENTS
+
+During the fourth quarter of 1996, the Company committed to sell all of its
+ownership interest in its majority owned Japanese subsidiary.  On September 20,
+1996 the Company completed the sale of its 2,148,000 shares of AM Japan Co.,
+Ltd, and the Company received proceeds of approximately $10,600, net of
+certain costs.   At July 31, 1996, the Company's investment in the subsidiary
+amounted to $7,698 and is reflected as "Net assets held for sale" in the
+Consolidated Balance Sheet.  This amount consists primarily of receivables,
+inventory, property and equipment, intangible assets, net of accounts payable
+and accrued liabilities.  A gain of approximately $2,600 will be recorded by
+the Company in the first quarter of fiscal 1997 as a result of the sale.
+
+On October 29, 1996 the Company entered into a definitive Merger Purchase
+Agreement with a corporation newly formed by affiliates of Pacholder
+Associates, Inc., a Cincinnati-based provider of investment management,
+financial advisory and investment banking services to institutional clients. 
+The agreement provides for the merger of a subsidiary of purchaser with and
+into the Company pursuant to which the current shareholders of the Company will
+receive $5.00 per common share and the Company will become a wholly-owned
+subsidiary of the purchaser.  The transaction is conditioned upon the purchaser
+finalizing a credit facility within 30 days.  The transaction is subject to a
+number of additional conditions, including approval by a majority of the
+shareholders of the Company at a meeting tentatively scheduled for
+January, 1997.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+         None.
+
+
+
+
+
+                                      42
+<PAGE>   45
+
+                   REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To the Shareholders and the
+Board of Directors of 
+AM International, Inc.
+
+We have audited the accompanying consolidated balance sheets of AM
+International, Inc. (Reorganized Company) and subsidiaries as of July 31, 1996
+and 1995 and the related consolidated statements of operations, shareholders'
+equity and cash flows for the years ended July 31, 1996 and 1995, and the
+period from September 30, 1993 through July 31, 1994.  We have also audited the
+related consolidated statements of operations, shareholders' equity and cash
+flows of AM International, Inc. (Predecessor Company) and subsidiaries for the
+period from August 1, 1993 through September 29, 1993.  These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audit.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of AM International, Inc.
+(Reorganized Company) and subsidiaries as of July 31, 1996 and 1995 and the
+results of their operations and cash flows for the years ended July 31, 1996
+and 1995, and for the period from September 30, 1993 through July 31, 1994 and
+the results of operations and cash flows of AM International, Inc. (Predecessor
+Company) for the period from August 1, 1993 through September 29, 1993, in
+conformity with generally accepted accounting principles.
+
+
+
+                                                ARTHUR ANDERSEN LLP
+
+
+October 29, 1996
+Chicago, Illinois
+
+
+
+
+                                       43
+<PAGE>   46
+
+
+
+                                    PART III
+
+
+ITEM 10.       DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+               See the information with respect to the Directors of the
+Registrant which will be set forth in the section entitled "Election of
+Directors" of the 1996 Proxy Statement.  Except for the paragraphs relating to
+the remuneration of directors, this section is incorporated herein by reference.
+
+               For information regarding Executive Officers of Registrant, see
+Item 4(A) of this Report which is incorporated herein by reference.
+
+
+ITEM 11.       EXECUTIVE COMPENSATION
+
+               See the information to be set forth in the sections entitled
+"Remuneration of Directors" and "Executive Compensation" in the 1996 Proxy
+Statement.  This information is incorporated herein by reference.
+
+
+ITEM 12.       SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+               MANAGEMENT
+
+               See the information to be set forth in the sections entitled
+"Principal Stockholders" and "Security Ownership of Directors and Executive
+Officers" in the 1996 Proxy Statement, which is incorporated herein 
+by reference.
+
+
+ITEM 13.       CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+               Such transactions, if any, will be disclosed in a section
+entitled "Certain Transactions" in the 1996 Proxy Statement, and will be
+incorporated herein by reference.
+
+
+                                      44
+<PAGE>   47
+
+                                    PART IV
+
+
+ITEM 14.        EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+                FORM 8-K
+
+(a)(1)          FINANCIAL STATEMENTS.
+
+                The "Consolidated Financial Statements" including the notes
+                thereto and the Report of Arthur Andersen LLP dated
+                October 29, 1996.
+
+(a)(2)          FINANCIAL STATEMENT SCHEDULE.
+
+                The Financial Statement Schedule listed below should be read 
+                in conjunction with Registrant's "Consolidated Financial 
+                Statements" included herein.  Schedules not listed here have 
+                been omitted because they are not applicable or they are 
+                immaterial or the required information is included in 
+                Registrant's "Consolidated Financial Statements" including the
+                notes thereto.
+
+                                                           SCHEDULE        PAGE
+                                                              NO.           NO.
+                                                              ---           ---
+                Valuation and
+                  Qualifying Accounts                         II            47
+
+
+(a)(3)          EXHIBITS.
+
+                Reference is made to the separate exhibit index commencing on
+                page 48 hereof.
+
+(b)             REPORTS ON FORM 8-K
+
+                A Current Report on Form 8-K dated July 11, 1996 was filed
+                relating to the agreement to sell Sheridan Systems.
+
+
+                                      45
+<PAGE>   48
+
+                                   SIGNATURES
+
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated:  October 29, 1996             AM INTERNATIONAL, INC.
+                                              (REGISTRANT)
+
+
+
+                                        By /S/Jerome D. Brady                
+                                           -----------------------------
+                                           Jerome D. Brady, Chairman,
+                                           President and Chief Executive Officer
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed on October 29, 1995 by the following persons on
+behalf of the Registrand and in the capacities indicated.
+
+<TABLE>
+<CAPTION>
+         SIGNATURE                                             TITLE
+         ---------                                             -----
+<S>                                            <C>
+/S/JEROME D. BRADY                             CHAIRMAN, CHIEF EXECUTIVE OFFICER
+- ----------------------------------                   AND PRESIDENT
+JEROME D. BRADY                                      
+
+
+/S/THOMAS D. ROONEY                            PRESIDENT, MULTIGRAPHICS, VICE PRESIDENT AND 
+- ----------------------------------             CHIEF FINANCIAL  OFFICER (PRINCIPAL ACCOUNTING &          
+THOMAS D. ROONEY                               FINANCIAL OFFICER)
+
+
+
+
+/S/ROBERT E. ANDERSON, III                     DIRECTOR
+- ----------------------------------
+ROBERT E. ANDERSON, III
+
+
+/S/JEFFREY D. BENJAMIN                         DIRECTOR
+- ----------------------------------
+JEFFREY D. BENJAMIN
+
+
+/S/ROBERT N. DANGREMOND                        DIRECTOR
+- ----------------------------------
+ROBERT N. DANGREMOND
+
+
+/S/WILLIAM E. HOGAN II                         DIRECTOR
+- ----------------------------------
+WILLIAM E. HOGAN II
+
+
+/S/JEFF M. MOORE                               DIRECTOR
+- ----------------------------------
+JEFF M. MOORE
+</TABLE>
+
+
+
+                                       46
+<PAGE>   49
+                                                         SCHEDULE II
+
+                             AM INTERNATIONAL, INC.
+                        VALUATION & QUALIFYING ACCOUNTS
+                    FOR THE THREE YEARS ENDED JULY 31, 1996
+                             (Dollars in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                            Reserves Deducted in the 
+                                                            Balance Sheet from Assets
+                                                         --------------------------------
+                                                           Accounts          
+                                                          Receivable          Inventories
+                                                          ----------          -----------
+<S>                                                      <C>                  <C>
+Predecessor Company:
+BALANCE JULY 31, 1993                                        $ 1,690             $ 6,082
+
+        Additions Charged to Cost & Expenses                     157                 295
+
+        Deductions from Reserves                                (334)               (727)
+                                                              ------              ------
+BALANCE SEPTEMBER 29, 1993                                     1,513               5,650
+- -----------------------------------------------------------------------------------------
+
+Reorganized Company:
+
+        Additions Charged to Cost & Expenses                     128               1,428
+
+        Deductions from Reserves                                (201)             (1,320)
+
+        Other (1)                                                  0              (1,177)
+                                                              ------              ------
+
+BALANCE JULY 31, 1994                                          1,440               4,581
+
+        Additions Charged to Cost & Expenses                     337               2,659
+
+        Deductions from Reserves                                (465)             (2,582)
+                                                              ------              ------
+BALANCE JULY 31, 1995                                          1,312               4,658
+
+        Additions Charged to Cost & Expenses                     193               7,156
+
+        Reclassification to Assets Held for Sale                (171)               (270)
+
+        Deductions from Reserves                                (512)             (2,890)
+                                                              ------              ------
+
+BALANCE JULY 31, 1996                                           $822              $8,654
+                                                              ======              ======
+</TABLE>
+
+(1) Represents Fresh Start adjustments in accordance with SOP 90 - 7 relating
+to used and finished machine inventory valuation.
+
+
+                                      47
+<PAGE>   50
+                                EXHIBIT INDEX
+
+NO.             DESCRIPTION
+- ---             -----------
+
+2(A)       Asset Purchase Agreement among Registrant, AM Graphics International
+           Limited and Heidelberg Druckmaschinen AG dated as of July 9, 1996 
+           (incorporated by reference to Appendix A to Registrant's Proxy 
+           Statement dated August 2, 1996, filed with the Commission on 
+           August 1, 1996).
+
+2(B)       Definitive Agreement dated August 21, 1996 among Registrant, 
+           JAC Co., Ltd. and Shigeru Watanabe (incorporated by reference to 
+           Registrant's Report on Form 8-K filed as Exhibit 2 with the 
+           Commission on October 2, 1996).
+
+3          Certificate of Incorporation and By-laws 
+           (A)  Second Restated Certificate of Incorporation of Registrant.*
+           (B)  By-laws of Registrant effective as of October 13, 1993.*
+
+4          Instruments Defining the Rights of Security Holders
+           (A)  Warrant Agreement dated as of October 13, 1993 between
+                Registrant and First Chicago Trust Company of New York.*
+
+10         Material Contracts
+           (A)  AM International, Inc. 401(k) Employees' Savings and 
+                Investment Plan, Amendment 1995-1.**
+           (B)  AM International, Inc. Executive Incentive Compensation Plan 
+                Fiscal Year 1996.**
+           (C)  AM International, Inc. Retirement Accumulation Plan.**
+           (D)  Settlement Agreements between Registrant and Richard J. 
+                Bonnie and David A. Roberts, dated January 19, 1996 and
+                September 13, 1996, respectively.
+           (E)  Letter Agreement dated December 8, 1994 between Registrant and 
+                Jerome D. Brady (Incorporated by Reference to Registrant's 
+                Report on Form 10-Q filed as Exhibit 10(A) with the Commission 
+                on March 13, 1995).**
+           (F)  Letter Agreement dated December 8, 1994 between Registrant and 
+                Steven R. Andrews (Incorporated by reference to Registrant's 
+                Report on Form 10-Q filed as Exhibit 10(B) with the Commission 
+                on March 13, 1995).**
+           (G)  Letter Agreement dated January 31, 1995 between Registrant and 
+                David A. Roberts.**
+                
+
+
+                                      48
+<PAGE>   51
+ 
+                (H)  Change-In-Control and Termination Benefits Agreements 
+                     dated July 7, 1995 between Registrant and Messrs. Brady,
+                     Andrews, Bonnie, Roberts and Rooney.**
+                (I)  AM International, Inc. 1994 Long-Term Incentive Plan 
+                     (incorporated by reference to Registrant's Annual Report
+                     for the year ended July 31, 1994, filed as Exhibit 10(A) 
+                     with the Commission on October 27, 1994).**
+                (J)  Engagement Letter dated January 27, 1994 between 
+                     Registrant and Jay Alix & Associates (incorporated by
+                     reference to Registrant's Annual Report for the year 
+                     ended July 31, 1994, filed as Exhibit 10(B) with the
+                     Commission on October 27, 1994).
+                (K)  Employment Agreement dated September 19, 1994 between 
+                     Jerome D. Brady and Registrant (incorporated by reference
+                     to Registrant's Annual Report for the year ended July 31,
+                     1994, filed as Exhibit 10(C) with the Commission on 
+                     October 27, 1994).**
+                (L)  AM International, Inc. 401(k) Employees' Savings and 
+                     Investment Plan (Restated December 17, 1993, effective
+                     January 1, 1989) (incorporated by reference to
+                     Registrant's Annual Report for the year ended July 31, 
+                     1994, filed as Exhibit 10(F) with the Commission on 
+                     October 27, 1994).**
+                (M)  First Amended Plan of Reorganization, as amended September
+                     29, 1993 (incorporated by reference to registrant's Annual
+                     Report for the year ended July 31, 1993, filed as Exhibit
+                     10(A) with the commission on october 29, 1993).
+                (N)  Registrant's Amended Plan of Reorganization, as amended
+                     July 16, 1984 (incorporated by reference to Registrant's
+                     Annual Report for the year ended July 31, 1984, filed as
+                     Exhibit 4(A) with the Commission on October 26, 1984).
+                (O)  Amendment 1991-1 to the AM International, Inc.
+                     Supplemental Executive Retirement Plan.  (incorporated by
+                     reference to Registrant's Annual Report for the year ended
+                     July 31, 1991, filed as Exhibit 10(M) with the Commission
+                     on October 29, 1991).** 
+                (P)  AM International, Inc. Supplemental Executive Retirement
+                     Plan (incorporated by reference to Registrant's Annual
+                     Report for the year ended July 31, 1987, filed as Exhibit 
+                     10(N) with the Commission on october 28, 1987).**
+                (Q)  Retirement Plan for Outside Directors of AM International,
+                     Inc. (incorporated by reference to Registrant's Annual
+                     Report for the year ended July 31, 1987, filed as Exhibit
+                     10(Q) with the Commission on October 28, 1987).**
+                (R)  Amendment to Retirement Plan for Outside Directors of AM 
+                     International, Inc. (incorporated by reference to
+                     Registrant's Annual Report for the year ended July 31,
+                     1988, filed as Exhibit 10(M) with the Commission on 
+                     October 25, 1988).**
+                (S)  Letter Agreement dated May 8, 1992 between Registrant and 
+                     Thomas Rooney (incorporated by reference to Registrant's
+                     Annual Report as Exhibit 10(d) for the year ended July 31,
+                     1992, as filed with the Commission on October 29, 1992).**
+
+23              Consent of Arthur Andersen LLP
+
+24              Powers of Attorney
+
+99              Additional exhibits
+                     Second Amended Disclosure Statement dated August 26, 1993 
+                     (incorporated by reference to Registrant's Annual Report 
+                     for the year ended July 31, 1993, filed as Exhibit 28 with
+                     the Commission on October 29, 1993).
+
+
+                                      49
+
+<PAGE>   52
+
+_______________________________________________
+
+*            Incorporated herein by reference to exhibit of the same number
+             filed with the Registrant's Annual Report for the year ended
+             July 31, 1993, as filed with the Commission on October 29,
+             1993.
+**           Management contract or compensatory plan, contract or arrangement.
+
+
+
+
+
+
+
+
+
+                                      50
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.(D)
+<SEQUENCE>2
+<DESCRIPTION>SETTLEMENT AGREEMENTS
+<TEXT>
+
+<PAGE>   1
+                                                                EXHIBIT 10(d)
+
+
+                           FORM OF WAIVER AND RELEASE
+
+
+
+In connection with the termination of my services effective September 13, 1996,
+I, David A. Roberts, for and in consideration of the payment by AM
+International, Inc. ("AM") of salary continuation through September 13, 1996
+and the payment to me on such date of the sum of ONE HUNDRED SEVENTY FIVE
+THOUSAND DOLLARS AND NO CENTS (US$ 175,000), less appropriate deductions, and
+continuation of each of my existing health, life, disability and other welfare
+benefits and insurance coverages through September 13, 1997 and until the
+earliest of (i) the date I commence full-time employment that provides each
+benefits or coverage without limitation on pre-existing condition, or (ii) one
+year, and other benefits not mentioned herein, do hereby agree as follows:
+
+I do hereby for myself, my heirs, executors and administrators, release and
+forever discharge AM, its successors, owners, partners, representatives,
+agents, directors, officers and employees of and from any and all claims,
+demands, rights, liabilities and causes of action whether known or unknown of
+whatsoever act or nature which I or my executors, administrators, successors
+and assigns have had, have or may hereafter have against AM, its successors,
+owners, partners, representatives, agents, directors, officers and employees
+with respect to any matter or thing occurring or in existence prior to or
+contemporaneously with the execution of this Waiver and Release, including,
+without limitation, any claims to any compensation or reimbursement that is or
+may be due from AM and any claims arising from or in any way relating to my
+employment by AM or termination thereof, which arose under any express or
+implied contract (including, without limitation, that certain letter agreement
+between me and the Company dated January 9, 1995, that certain agreement
+between me and the Company dated January 31, 1995 regarding supplemental
+retirement benefits, the Change in Control and Termination Benefits Agreement
+dated as of July 7, 1995 and the related Escrow Agreement dated as of July 7,
+1995, as amended, copies of which are attached hereto), law, rule or
+regulation, including any claims arising under the AGE DISCRIMINATION IN
+EMPLOYMENT ACT OF 1967, as amended, the CIVIL RIGHTS ACT OF 1964, as amended,
+the CIVIL RIGHTS ACT OF 1991, as amended, the CIVIL RIGHTS ACT OF 1866, as
+amended, the AMERICANS WITH DISABILITIES ACT, as amended, and/or the provisions
+of any laws of the State of Illinois or any other state or local law pertaining
+to discrimination.  I further agree to waive any rights to reinstatement or
+rehire by AM at any time.  This Waiver and Release does not apply to any claims
+or rights under the Age Discrimination in Employment Act that may arise after
+the date I entered into this Waiver and Release, or claims based on a breach of
+this Waiver and Release.
+
+YOU HAVE THE RIGHT TO CONSULT AN ATTORNEY BEFORE SIGNING THIS FORM.  YOU MAY
+TAKE THIS FORM WITH YOU TO CONSIDER ITS TERMS.  I acknowledge that I have been
+advised to consult with an attorney prior to executing this
+
+
+                                      51
+<PAGE>   2
+
+Waiver and Release and that I have twenty-one (21) days in which to consider
+entering into this Waiver and Release.                                    
+
+
+
+
+
+                   
+<PAGE>   3
+
+
+                           FORM OF WAIVER AND RELEASE
+                                    PAGE TWO
+
+
+
+AM agrees that I have until seven (7) days following my execution of this
+Waiver and Release to revoke this Waiver and Release, in which case its terms
+shall not become effective or enforceable.
+
+I have read this Waiver and Release and understand all of its terms.  I execute
+the Waiver and Release voluntarily and with full knowledge or its significance.
+
+
+
+By:    /s/  David A. Roberts
+       --------------------------
+       Employee Signature
+
+
+Date:  September 13, 1996
+       --------------------------
+
+
+
+
+
+In connection with the foregoing, AM International, Inc., for itself and its
+successors and assigns hereby releases and forever discharges David A. Roberts
+from any and all claims, demands, rights, liabilities and causes of action
+whether known or unknown of whatsoever act or nature which AM, its successors
+or assigns have had, have or may have or may hereafter have against David A.
+Roberts with respect to any matter or thing occurring or in existence prior to
+or contemporaneously with the execution of this Waiver and Release.  This
+Waiver and Release shall not affect any rights and benefits in the nature of
+indemnification or hold harmless that are afforded to David A. Roberts by the
+certificate of incorporation or by-laws of AM or its subsidiaries or
+affiliates.  Notwithstanding this Waiver and Release or any termination of his
+employment with AM, David A. Roberts shall be entitled to coverage under the
+directors' and officers' liability coverage maintained by AM (or its
+subsidiaries or affiliates) and its successors and assigns, as in effect from
+time to time, to the same extent as other current or former officers and
+directors of AM.
+
+
+AM INTERNATIONAL, INC.
+
+
+
+By:    /s/  Jerome D. Brady
+       ------------------------------
+
+
+Its:   Chairman, President and CEO
+       -------------------------------
+
+
+
+                                      52
+<PAGE>   4
+
+
+
+
+
+
+
+
+
+
+To:       Dick Bonnie
+
+Date:     January 19, 1996
+
+Subject:  TERMS OF SEPARATION
+
+
+This is to summarize the terms of our agreement concerning your separation of
+employment from AM International, Inc. and Sheridan systems:
+
+      -    You have elected to take early retirement effective January 19, 1996.
+
+      -    Commencing January 22, 1996 and continuing through October 11, 1996,
+      you will serve as a consultant to the Company, reporting directly to me,
+      and you will work on any transaction that surfaces or on such general
+      matters pertaining to the Sheridan Systems business as I may reasonably
+      request from time-to-time.  Your consulting fee will equal your current
+      salary and will be paid as salary on the same basis as it historically
+      has been paid.  This arrangement will terminate prior to October 11, 1996
+      in the event of your acceptance of full time employment with another
+      employer or for "cause."  "Cause," for purposes of this agreement, shall
+      mean a significant failure to cooperate with any reasonable requests to
+      assist in the process of any transaction concerning the Sheridan Systems
+      Division or AM International, Inc. or any material disparagement of the
+      Company.  You agree to make business trips as may reasonably be requested
+      and the Company will reimburse you upon the submission of expense reports
+      and in accordance with Company policies.
+
+      -    Commencing October 12, 1996, you will begin receiving your SRP
+      payments, in accordance with your letter agreement of February 4, 1994
+      (the "SRP"), on a monthly basis.  The Compensation and Nominating
+      Committee of the Board of Directors, or the Board of Directors or
+      appropriate committee of any successor or assignee to the Company's
+      interests thereafter would consider no more frequently than annually
+      whether the benefit payable to you under the SRP should be paid on a
+      lump-sum present value basis.  Your receipt of SRP benefits will not be
+      affected by your acceptance of any other employment.
+
+
+
+                                      53
+<PAGE>   5
+
+
+Terms Of Separation
+January 19, 1996
+Page Two
+
+
+
+      -    As provided in your letter agreement of November 13, 1992, the vested
+      portions of your RAP, SERP, and 401(k) plans will be paid to you in
+      accordance with the plan documents.  For a period of two years after
+      March 31, 1996 or your
+      commencement of full time employment with another employer, whichever
+      occurs first, you will be entitled to the same group medical, life
+      insurance, supplemental executive health plan and long term disability
+      benefits as are available to other officers of AM on the date hereof, as
+      well as tax planning and return preparation services through Cortland
+      Brovitz (Rochester, N.Y.) and financial planning services through Chase
+      Lincoln First National Bank.  Following the expiration of your group
+      health benefits as provided above, you will be entitled to participate in
+      Sheridan Systems' Retiree Health Plan.
+
+      -    You will receive a lump sum payment of $10,000 to be used for
+      outplacement services or as you deem appropriate.
+
+      -    Your rights under the Change in Control and Termination Benefits
+      Agreement dated July 7, 1995 are hereby terminated and such Agreement is
+      hereby canceled and terminated.
+
+      -    You will be entitled to keep the personal computer and fax machine
+      currently in use at your home.
+
+      -    We agreed that you will be provided secretarial services by Joanne
+      Trecaso or another Sheridan Systems employee on an as needed basis.  We
+      also agreed that you will have a phone number, secretarial answering
+      service and voice mail (if you should choose) service at the Corporate
+      offices in Rosemont, Illinois, through October 10, 1996.
+
+      -    You will be entitled to attend two trade association shows this 
+      winter or spring (and others as may reasonably be requested) and the
+      Company will pay your reasonable travel and expenses in relation to those
+      activities upon submission of expense reports as provided above.
+
+      -    You will be paid in a lump sum for any earned but unused vacation, in
+      accordance with Company policies.
+
+      -    We will make an organizational announcement jointly approved by you
+      and me.  Forms of the announcements are attached hereto, evidencing our
+      mutual agreement.
+
+
+
+                                      54
+<PAGE>   6
+
+Terms Of Separation
+January 19, 1996
+Page Three
+
+
+
+      -      As a condition to this agreement and the receipt of the additional
+      benefits set forth herein, you agree to execute a Mutual Release and
+      Waiver Form substantially in the form attached hereto and reasonably
+      acceptable to Counsel for the Company.
+
+      -      This agreement will inure to the benefit of and be binding on the
+      parties hereto and their successors and assigns.
+
+
+
+                               /s/  Jerome D. Brady                           
+                             ------------------------------------
+                             AM INTERNATIONAL, INC.
+                             Jerome D. Brady
+
+
+
+                             Agreed and Accepted this 19th day of January, 1996
+
+                               /s/  Richard J. Bonnie
+                             ------------------------------------
+                             Richard J. Bonnie
+
+
+
+
+Enclosure
+
+
+                                      55
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>REPORT & CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+<TEXT>
+
+<PAGE>   1
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                                  ON SCHEDULE
+
+
+To AM International, Inc.:
+
+We have audited, in accordance with generally accepted auditing standards, the
+consolidated financial statements included in AM International, Inc.'s Annual
+Report to Stockholders incorporated by reference in this Form 10-K, and have
+issued our report thereon dated October 29, 1996. Our audit was made for the
+purpose of forming an opinion on those statements taken as a whole.  The
+schedule listed in Part IV, Item 14(A)(2) is the responsibility of the Company's
+management and is presented for the purposes of complying with the Securities
+and Exchange Commission's rules and is not part of the basic financial
+statements.  This schedule has been subjected to the auditing procedures applied
+in the audit of the basic financial statements and, in our opinion, fairly
+states in all material respects the financial data required to be set forth
+therein in relation to the basic financial statements taken as a whole.
+
+
+
+                              ARTHUR ANDERSEN LLP
+
+Chicago, Illinois
+October 29, 1996
+            _______________________________________________________
+
+                                   EXHIBIT 23
+
+                 CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS WITH
+                              RESPECT TO FORM S-8
+
+
+
+As independent public accountants, we hereby consent to the incorporation of
+our reports included in this Form 10-K, into the Registrant's previously filed
+Registration Statement (Registration No. 33-87288) on Form S-8.
+
+Chicago, Illinois
+October 29, 1996
+
+
+                             ARTHUR ANDERSEN LLP
+
+
+
+                                      56
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>   1
+
+
+                                   EXHIBIT 24
+
+                               POWER OF ATTORNEY
+
+         Know all men by these presents that each individual whose signature
+appears below constitutes and appoints Jerome D. Brady, Steven R. Andrews and
+Thomas D. Rooney, and each of them, his true and lawful Attorney-in-Fact and
+Agent with full power of substitution, for him and in his name, place and stead
+in any and all capacities, to sign the report on Form 10-K and all amendments
+thereto, and to file the same, with all exhibits thereto, and all documents in
+connection therewith, with the Securities and Exchange Commission, granting unto
+said Attorneys-in-Fact and Agents, and each of them full power and authority to
+do and perform each and every act and thing requisite and necessary to be done
+to comply with the provisions of the Securities Exchange Act of 1934, as
+amended, and all requirements of the Securities and Exchange Commission, hereby
+ratifying and confirming all that said Attorneys-in-Fact and Agents or any of
+them, or their or his substitutes, may lawfully do or cause to be done by virtue
+thereof.
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed on October 29, 1996 by the following persons in the
+capacities indicated.
+
+<TABLE>
+<CAPTION>
+
+         SIGNATURE
+         ---------                                         TITLE
+                                                           -----
+<S>                                                     <C>
+/S/Jerome D. Brady                                       Chairman, Chief Executive Officer and
+- --------------------------------------------                 President                                 
+Jerome D. Brady                                          
+
+
+/S/Thomas D. Rooney                                      Vice President And Chief Financial Officer
+- ---------------------------------------------                (Principal Accounting & Financial Officer) 
+Thomas D. Rooney                                         
+
+
+/S/Robert E. Anderson, III                               Director
+- ---------------------------------------------                    
+Robert E. Anderson, III
+
+
+/S/Jeffrey D. Benjamin                                   Director
+- ---------------------------------------------                    
+Jeffrey D. Benjamin
+
+
+/S/Robert N. Dangremond                                  Director
+- ---------------------------------------             
+Robert N. Dangremond
+
+/S/William E. Hogan, II                                  Director
+- -----------------------------------------                        
+William E. Hogan II
+
+
+/S/ Jeff M. Moore                                        Director
+- ---------------------------------------------                    
+Jeff M. Moore
+
+</TABLE>
+
+
+
+                                      57
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+<CURRENCY> US DOLLARS
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-31-1996
+<PERIOD-START>                             AUG-01-1995
+<PERIOD-END>                               JUL-31-1996
+<EXCHANGE-RATE>                                      1
+<CASH>                                           2,560
+<SECURITIES>                                         0
+<RECEIVABLES>                                   20,596
+<ALLOWANCES>                                       822
+<INVENTORY>                                     11,602
+<CURRENT-ASSETS>                                85,643
+<PP&E>                                          10,867
+<DEPRECIATION>                                   6,830
+<TOTAL-ASSETS>                                  97,962
+<CURRENT-LIABILITIES>                           73,923
+<BONDS>                                              0
+<COMMON>                                            70
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                       2,226
+<TOTAL-LIABILITY-AND-EQUITY>                    97,962
+<SALES>                                        168,052
+<TOTAL-REVENUES>                               168,052
+<CGS>                                          130,421
+<TOTAL-COSTS>                                  184,501
+<OTHER-EXPENSES>                                 3,805
+<LOSS-PROVISION>                                   193
+<INTEREST-EXPENSE>                               3,762
+<INCOME-PRETAX>                               (20,254)
+<INCOME-TAX>                                      (97)
+<INCOME-CONTINUING>                           (20,157)
+<DISCONTINUED>                                (25,342)
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                  (45,499)
+<EPS-PRIMARY>                                   (6.49)
+<EPS-DILUTED>                                   (6.49)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

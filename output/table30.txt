@@ -1,0 +1,1066 @@
+Consolidated Statements of Cash Flows</B>
+</DIV>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="font-size: 10pt; margin-top: 12pt; ">
+
+<TR style="font-size: 1pt;">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="58%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+
+
+<TR style="font-size: 8pt;">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="10" align="center" nowrap><B>For the Years Ended October&nbsp;31,</B></TD><TD></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="10" align="center" nowrap style="border-top: 1pt solid #000000;">&nbsp;</TD><TD></TD>
+</TR>
+
+<TR style="font-size: 8pt;">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap><B>2005</B></TD><TD></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap><B>2004</B></TD><TD></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap><B>2003</B></TD><TD></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap style="border-top: 1pt solid #000000;">&nbsp;</TD><TD></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap style="border-top: 1pt solid #000000;">&nbsp;</TD><TD></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="center" nowrap style="border-top: 1pt solid #000000;">&nbsp;</TD><TD></TD>
+</TR>
+
+
+<TR style="font-size: 8pt;">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="10" align="center" nowrap><B>(In millions)</B></TD><TD></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Operating Activities:</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Net income (loss) from continuing operations</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>85.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>33.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>(39.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Adjustments to reconcile net income (loss) from continuing
+    operations to net cash provided by operating activities from
+    continuing operations&nbsp;&#151;</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Inventory and fixed asset write-offs</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>0.3</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>15.6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Depreciation and amortization</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>67.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>41.4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>53.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Change in bad debt reserves</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(3.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(2.7</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>4.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Change in inventory reserves</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>5.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(0.4</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Non-cash stock compensation</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>3.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>2.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>4.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Change in deferred income taxes</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>2.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    (Gain) loss on sale of investments</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(4.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(0.9</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    (Gain) loss on sale of property and equipment</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(4.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(0.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    (Gain) loss on sale of business</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(2.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Other, net</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(1.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(1.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Changes in operating assets and liabilities, net of acquisitions
+    and divestitures:</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Accounts receivable and unbilled revenues (increase)/decrease</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(31.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(10.7</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Inventories (increase)/decrease</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(40.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(5.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>9.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Prepaid and other assets (increase)/decrease</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(20.1</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>19.3</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>138.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Accounts payable increase/(decrease)</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>0.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(29.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Accrued liabilities increase/(decrease)</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(8.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>0.1</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(123.6</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Pension liabilities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Total cash provided by operating activities from continuing
+    operations</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>60.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>73.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>35.6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Total cash used by operating activities from discontinued
+    operations</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(1.4</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(68.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(3.6</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Total cash provided by operating activities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>58.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>5.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>32.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Investing Activities:</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Acquisitions, net of cash acquired</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(173.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(295.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Divestitures, net of cash disposed</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>32.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>67.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Property and equipment additions</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(30.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(10.3</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(69.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Proceeds from disposal of property and equipment</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>16.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>11.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Proceeds from sale/collection of note receivable</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>18.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    (Increase) decrease in restricted cash</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(1.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(6.3</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>161.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Purchase of available for sale securities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(957.4</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(2,073.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(652.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Sale of available for sale securities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>1,071.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>2,115.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>159.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Total cash (used for) provided by investing activities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(23.7</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(190.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(397.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Financing Activities:</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    (Repayments) Issuance of debt</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(10.7</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>371.7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Purchase of call spread option</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(34.5</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Common stock issued</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>13.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>3.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>8.2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    Total cash (used for) provided by financing activities</DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>13.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(7.0</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>345.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Effect of Exchange Rate Changes on Cash</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(4.6</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(0.2</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>0.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>(Decrease) Increase in Cash and Cash Equivalents</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>43.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(191.7</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>(18.8</TD>
+    <TD align="left" valign="bottom" nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#CCEEFF">
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Cash and Cash Equivalents, Beginning of Year</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>66.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>257.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD align="right" valign="bottom" nowrap>276.7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD colspan="3" align="left" valign="top">
+    <DIV style="margin-left: 10px; text-indent: -10px">
+    <B>Cash and Cash Equivalents, End of Year</B></DIV>
+    </TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>110.1</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>66.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">$</TD>
+    <TD align="right" valign="bottom" nowrap>257.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 1px">
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1pt solid #000000;">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+
+</TABLE>

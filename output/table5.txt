@@ -1,0 +1,60 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                              FOR THE YEAR ENDED MAY 31,
+                                                                             ----------------------------
+                                                                               1995      1994      1993
+                                                                             --------  --------  --------
+                                                                                   (000'S OMITTED)
+<S>                                                                          <C>       <C>       <C>
+Cash flows from operating activities:
+  Net income...............................................................  $ 10,463  $  9,494  $    283
+  Adjustments to reconcile net income to net cash provided from operating
+    activities:
+      Depreciation and amortization........................................    10,328     9,928    10,883
+      Restructuring expenses...............................................     --        --       11,000
+      Cumulative effect of changes in accounting principles:
+        Income tax benefit.................................................     --         (900)    --
+        Post retirement health care benefits expense........................     --          890     --
+      Leveraged lease repricing............................................     --       (2,017)    --
+      Change in certain assets and liabilities:
+        Accounts receivable................................................   (23,375)  (17,295)   20,910
+        Inventories........................................................    (3,253)   (6,841)   (9,171)
+        Equipment on or available for short-term lease.....................    10,380     4,223     2,273
+        Deferred tax assets, deposits and other............................     9,790   (10,968)     (435)
+        Accounts payable...................................................     1,208    17,081   (10,876)
+        Accrued liabilities and taxes on income............................     2,375     3,077    (7,061)
+        Deferred tax liabilities and other deferred credits................    (2,661)       25    (1,000)
+                                                                             --------  --------  --------
+    Net cash provided from operating activities............................    15,255     6,697    16,806
+                                                                             --------  --------  --------
+Cash flows from investing activities:
+  Property, plant and equipment expenditures, net..........................    (9,073)   (5,984)   (8,918)
+  Investment in leveraged leases...........................................       666      (391)      589
+  Proceeds from sale of marketable securities..............................     --        --        1,593
+  Notes receivable and other, net..........................................      (939)   (1,820)   (1,281)
+                                                                             --------  --------  --------
+    Net cash used in investing activities..................................    (9,346)   (8,195)   (8,017)
+                                                                             --------  --------  --------
+Cash flows from financing activities:
+  Gross proceeds from issuance of long-term notes payable..................     6,186    50,000     --
+  Repayment of bank loans with proceeds from issuance of long-term notes
+    payable................................................................     --      (28,200)    --
+  Change in other borrowings, net..........................................    (1,085)    3,174    (1,005)
+  Cash dividends...........................................................    (7,650)   (7,635)   (7,614)
+  Purchases of treasury stock..............................................      (177)      (66)   (1,164)
+  Proceeds from exercise of stock options, employee stock purchases and
+    other..................................................................       905       134       988
+                                                                             --------  --------  --------
+    Net cash provided from (used in) financing activities..................    (1,821)   17,407    (8,795)
+                                                                             --------  --------  --------
+Effect of exchange rate changes on cash....................................       325       (90)       11
+                                                                             --------  --------  --------
+Increase in cash and cash equivalents......................................     4,413    15,819         5
+Cash and cash equivalents, beginning of year...............................    18,074     2,255     2,250
+                                                                             --------  --------  --------
+Cash and cash equivalents, end of year.....................................  $ 22,487  $ 18,074  $  2,255
+                                                                             --------  --------  --------
+                                                                             --------  --------  --------
+</TABLE>

@@ -1,0 +1,47 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+                      -------------------------------------
+
+                FOR THE YEARS ENDED JUNE 30, 1999, 1998 AND 1997
+                ------------------------------------------------
+<TABLE>
+<CAPTION>
+                                                                       1999              1998             1997
+                                                                    -----------       -----------      -----------
+<S>                                                                 <C>               <C>              <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net (loss) income                                                $(2,206,942)      $(3,327,565)     $ 1,548,597
+   Adjustments to reconcile net (loss) income to net cash
+     provided by (used in) operating activities-
+       Non-cash effect of special charges                               750,000         2,991,983            -
+       Accretion of imputed interest on note payable                    154,927            82,451            -
+       (Gain) loss on sale of equipment                                 (60,037)            -                3,396
+       Depreciation and amortization                                    707,635           869,304          891,370
+       Provision for losses on accounts receivable                      260,506           215,797           93,463
+       Change in assets and liabilities:
+         (Increase) decrease in accounts receivable                     491,573           911,241          567,560
+         (Increase) decrease in inventories                             664,573          (330,018)       1,859,800
+         (Increase) decrease in prepaid expenses and other
+                                                                        204,031            52,543         (167,221)
+         (Increase) decrease in other assets                            183,157          (357,637)          (2,636)
+         Increase (decrease) in accounts payable                       (300,182)         (807,001)        (302,565)
+         Increase (decrease) in accrued expenses                       (718,866)         (906,152)         955,898
+         Increase (decrease) in accrued payroll expenses                192,178           (52,806)          24,966
+                                                                    -----------       -----------      -----------
+                Total adjustments                                     2,529,495         2,669,705        3,924,031
+                                                                    -----------       -----------      -----------
+                Net cash provided by (used in) operating
+                   activities                                           322,553          (657,860)       5,472,628
+                                                                    -----------       -----------      -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Investment in Regam Medical Systems
+          International AB                                                -                 -           (1,561,293)
+   Investment in ProDen Systems, Inc.                                     -            (1,030,100)           -
+   Issuance of notes receivable                                           -                 -             (310,000)
+   Proceeds from collection of notes receivable                           -               310,000            -
+   Capital expenditures                                                (169,357)         (479,971)        (217,525)
+                                                                    -----------       -----------      -----------
+                Net cash provided by (used in) investing
+                   activities                                          (169,357)       (1,200,071)      (2,088,818)
+                                                                    -----------       -----------      -----------
+</TABLE>

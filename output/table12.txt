@@ -1,0 +1,910 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS    <BR>    </B></FONT></P>
+ <DIV style="padding:0pt;position:relative;width:80%;margin-left:10%;">
+<P style="font-family:times;text-align:justify"><font size=1></FONT><FONT SIZE=2>
+
+
+<!-- COMMAND=ADD_TABLEWIDTH,"100%" -->
+
+
+ </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE width="100%"  BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR><!-- TABLE COLUMN WIDTHS SET -->
+<TD WIDTH="9pt" style="font-family:times;"></TD>
+<TD WIDTH="9pt" style="font-family:times;"></TD>
+<TD WIDTH="" style="font-family:times;"></TD>
+<TD WIDTH="12pt" style="font-family:times;"></TD>
+<TD WIDTH="6pt" ALIGN="RIGHT" style="font-family:times;"></TD>
+<TD WIDTH="49pt" style="font-family:times;"></TD>
+<TD WIDTH="12pt" style="font-family:times;"></TD>
+<TD WIDTH="6pt" ALIGN="RIGHT" style="font-family:times;"></TD>
+<TD WIDTH="44pt" style="font-family:times;"></TD>
+<TD WIDTH="12pt" style="font-family:times;"></TD>
+<TD WIDTH="6pt" ALIGN="RIGHT" style="font-family:times;"></TD>
+<TD WIDTH="49pt" style="font-family:times;"></TD>
+<TD WIDTH="12pt" style="font-family:times;"></TD>
+<!-- TABLE COLUMN WIDTHS END --></TR>
+
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=3 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=8 ALIGN="CENTER" style="font-family:times;border-bottom:solid #000000 1.0pt;"><FONT SIZE=1><B>For the Year Ended May&nbsp;31, </B></FONT></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+</TR>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=3 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT><BR></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;border-bottom:solid #000000 1.0pt;"><FONT SIZE=1><B>2010 </B></FONT></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;border-bottom:solid #000000 1.0pt;"><FONT SIZE=1><B>2009 </B></FONT></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER" style="font-family:times;border-bottom:solid #000000 1.0pt;"><FONT SIZE=1><B>2008 </B></FONT></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+</TR>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=3 ALIGN="LEFT" style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT><BR></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=8 ALIGN="CENTER" style="font-family:times;"><FONT SIZE=1><B>(In thousands)</B></FONT><BR></TH>
+<TH style="font-family:times;"><FONT SIZE=1>&nbsp;</FONT></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Cash flows provided from operating activities:</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Net income attributable to AAR and noncontrolling interest</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>43,202</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>56,772</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>68,158</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Adjustments to reconcile net income attributable to AAR and noncontrolling interest to net cash provded from operating activities:</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Depreciation and amortization</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>38,930</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>40,094</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>39,613</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Amortization of debt discount</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>11,589</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>13,502</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>9,252</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Deferred tax provision</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(3,863</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,228</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>9,481</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Tax benefits from exercise of stock options</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(817</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(171</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,657</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Impairment charges</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>31,133</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>(Gain) loss on extinguishment of debt</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(893</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(14,701</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>2,040</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>(Gain) loss on sale of investment</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,150</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,393</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(532</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Earnings from joint ventures</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(112</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(8,496</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,948</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Loss on disposal of business, net of tax</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,403</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Changes in certain assets and liabilities, net of acquisitions:</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Accounts and trade notes receivable</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>33,926</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26,388</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,428</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Inventories</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>19,015</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(45,414</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(42,339</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Equipment on or available for short-term lease</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>19,157</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,270</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(44,689</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Equipment on long-term lease</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>3,944</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,265</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,413</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Accounts payable</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,474</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>2,651</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26,078</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Accrued liabilities and taxes on income</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>684</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,461</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>19,131</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Other liabilities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,060</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,962</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(6,152</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Other, primarily deposits and program costs</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(10,222</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,863</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(17,195</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Net cash provided from operating activities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>153,156</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>64,451</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>16,926</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Cash flows provided used in investing activities:</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Property, plant and equipment expenditures</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(28,855</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(27,535</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(30,334</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from disposal of assets</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>109</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>67</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>10</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from sale of product line</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>767</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from disposal of business</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>650</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>100</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from sale of available for sale securities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,160</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>1,551</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>23,767</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Investment in available for sale securities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(26,179</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Companies acquired, net of cash</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(193,989</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(85,210</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from aircraft joint ventures</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>44</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,230</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>877</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Investment in aircraft joint ventures</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,239</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(828</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(23,609</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from leveraged leases</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>5,220</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(319</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>409</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Other</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(2,440</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(2,260</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,696</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Net cash used in investing activities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(222,340</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(24,227</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(141,965</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Cash flows provided from (used in) financing activities:</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Change in short-term borrowings, net</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(4,996</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>49,090</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>970</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from borrowings, net</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>63,545</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>196,500</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Reduction in borrowings</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(23,766</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(78,400</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(99,536</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from capital lease obligations</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>12,880</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Reduction in capital lease obligations</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,815</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,635</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(1,058</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from borrowings attributable to equity</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>69,528</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Reduction in equity due to convertible bond repurchase</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(374</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(5,992</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Proceeds from sale of warrants</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>40,114</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Purchase of convertible note hedges</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(69,676</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Purchase of treasury stock</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(9,527</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Stock option exercises</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>2,297</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>599</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>6,169</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Tax benefits from exercise of stock options</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>817</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>171</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>4,657</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD COLSPAN=2 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Contributions from noncontrolling interest</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>462</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>&#151;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=0>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Net cash provided from (used in) financing activities</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>36,170</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(36,167</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>151,021</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Effect of exchange rate changes on cash</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(121</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(943</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>92</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Increase (decrease) in cash and cash equivalents</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>(33,135</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>)</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>3,114</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>26,074</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Cash and cash equivalents, beginning of year</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>112,505</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>109,391</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>83,317</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:solid #000000 1.0pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=3 style="font-family:times;"><p style="font-family:times;margin-left:9pt;text-indent:-9pt;"><FONT SIZE=2> </FONT><FONT SIZE=2>Cash and cash equivalents, end of year</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>79,370</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>112,505</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD ALIGN="RIGHT"  style="font-family:times;"><FONT SIZE=2>$</FONT></TD>
+<TD ALIGN="RIGHT" style="font-family:times;"><FONT SIZE=2>109,391</FONT></TD>
+<TD style="font-family:times;"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR style="font-size:1.5pt;" VALIGN="TOP">
+<TD COLSPAN=3 VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:double #000000 2.25pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:double #000000 2.25pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+<TD COLSPAN=2 ALIGN="RIGHT" VALIGN="BOTTOM" style="font-family:times;border-bottom:double #000000 2.25pt;">&nbsp;</TD>
+<TD VALIGN="BOTTOM" style="font-family:times;">&nbsp;</TD>
+</TR>
+</TABLE>
